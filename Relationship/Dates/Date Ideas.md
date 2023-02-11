@@ -1,55 +1,65 @@
+# Date Ideas
+
+## Inside
 - Galleria and a movie in Dallas (Valley View 16)
 - Northpark Mall
-- Picnic
-- Six Flags
 - Dancing
 - Glow in the dark put put golf
-- Dallas Bridge Walk
-- Fort Worth Watergardens
-- Dallas Arboretum
 - Bowling
-- Park
-- Tennis
-- Walk along the beach
-- Mellow Mushroon
 - Rollar skating
 - Movie tavern
-- State fair
-- Zoo
 - Aquarium
 - Science place (Perot Museum)
 - JFK Assassination Museum
 - Bowling  or Main Event
 - Creole experience
-- Put put golf or Top Golf
-- Walk around the Mustangs at Las Calinas
-- Reunion ball
-- Dart ride
-- Walk around Thanksgiving Square
 - Pleasure drive / joy ride (lake)
-- Hike and watch sunset
 - Dave and Busters
 - Comedy Club
 - Concert
 - Theatrical production
-- Cook together (Chopped)
-- In-home theatre date (scary movie)
 - Thrift-store Challenge ($20 each to buy an outfit, vote on best, loser treats the other to pizza, you have to wear the outfits you bought, gentleman ends up paying)
 - Open mic night
-- Volunteer together
-- Ghost store
-- Fishing
-- Rock climbing gym
-- Tour your own town
 - Bounce place
 - Skating / Ice Skating
-- Botanical Gardens
-- Take turns sharing secrets (PD2)
-- Tandem bicycle
 - Surprise candle light place
-- Fondue
-- Camping
 - Movie then Frozen Yogurt
+- Oceanaire Westin Galleria Dallas
+- Anatole downtown Dallas
+
+### At Home
+- Cook together (Chopped)
+- In-home theatre date (scary movie)
+- Take turns sharing secrets (PD2)
+
+## Outside
+- Picnic
+- Six Flags
+- Dallas Bridge Walk
+- Fort Worth Water Gardens
+- Dallas Arboretum / Botanical Gardens
+- Park
+- Walk along the beach
+- State fair
+- Zoo
+- Walk around the Mustangs at Las Calinas
+- Reunion ball
+- Dart ride
+- Walk around Thanksgiving Square
+- Hike and watch sunset
+- Volunteer together
+- Tour your own town
+
+### Sports
+- Tennis
+- Put put golf or Top Golf
+- Fishing
+- Rock climbing gym
+- Tandem bicycle
+- Camping
+
+
+- Ghost store
 - Misquite Rodeo
 - Hillsboro (amish crafts)
 - Airport, fly to OK for a hamburger
@@ -90,12 +100,15 @@
 - Sunset dinner on the lake in Irving
 - Knotts berry farm
 - Go kart
+
+## Christmas
+- Gaylord Texas during Christmas
 - ICE at the Gaylord Texan
 
-Virtual Games:
+# Virtual Games:
 1. Choose between 2 options, and your partner guesses.
 
-Restaurants:
+# Restaurants:
 1. Taquerias
 2. Dave & Butters 🧈
 3. Hav-R Charburger
@@ -114,6 +127,8 @@ Restaurants:
 16. Chicken n pickle
 17. Milk and cream
 18. Sablon chocolate lounge
+19. Mellow Mushroom
+20. Fondue
 
 
 What trouble are you causing tonight
