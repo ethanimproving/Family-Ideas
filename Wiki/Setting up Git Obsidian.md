@@ -96,3 +96,9 @@ error: failed to push some refs to 'https://github.com/ethanimproving/PDF-Librar
 ```
 
 [Include Git LFS objects in archives](https://stackoverflow.com/questions/62905325/this-repository-is-over-its-data-quota-account-responsible-for-lfs-bandwidth-sh)
+
+# Plug-in Ideas
+
+- Share file as Git link.
+- Timeline
+- Hymns app Integration (maybe with Dataview)
