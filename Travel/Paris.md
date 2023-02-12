@@ -28,7 +28,7 @@ We will work Monday, see the sites on Tuesday, and take a train to Italy on Wedn
 
 ### Metro
 
- ![DA8BD9D7-F9EE-4B69-9FC5-79FF33032012](https://i.imgur.com/qPm7zGf.jpg)
+![[0A612AA2-7BB9-48B4-9F47-5372F30361FC.jpeg]]
 
 ### Uber
 
@@ -43,11 +43,9 @@ An Uber to the hotel will be about $35.
 | [The Originals Boutique, Hôtel Maison Montmartre, Paris](https://maps.app.goo.gl/Rawsjix69BLmEzx66?g_st=ic) | $141 |
 | [Off Paris Seine](https://maps.app.goo.gl/Y4wELhWr78m8sLHBA?g_st=ic) | $161 |
 | [Hôtel Mercure Paris Montmartre Sacré-Coeur](https://maps.app.goo.gl/tgDJTdL3twTpXJvS6?g_st=ic) | <mark class="hltr-yellow">$125</mark> |
-| [Novotel Paris Saint-Denis Stade Basilique](https://maps.app.goo.gl/83kHXihKtEVnJ4ba8?g_st=ic) | $138 |
+| [Novotel Paris Saint-Denis Stade Basilique](https://maps.app.goo.gl/83kHXihKtEVnJ4ba8?g_st=ic) | $138 
+|[Boutique Hôtel Mareuil Paris](https://maps.app.goo.gl/HQHXJdA9SrU2sCsH8?g_st=ic) | $165|
 
-
-Paris Hotels · Ethan
-https://maps.app.goo.gl/fLtkVqaewgcViB2Z8?g_st=ic
 
  ![Pasted image 20230205180045](https://i.imgur.com/wdoLug8.png)
 
@@ -82,6 +80,10 @@ The [Paris Metro](https://www.introducingparis.com/metro) has a [Paris Visite](h
 | 5 Days   | € 38.35 (US$ 42.20)                                  | € 65.80 (US$ 72.40) |
 
 Download the [Paris Metro Map and Routes app](https://apps.apple.com/us/app/paris-metro-map-and-routes/id527534137).
+
+## Where to purchase the Paris Visite?
+
+The Paris Visite travel card can be purchased at any [Metro](https://www.introducingparis.com/metro "Paris Metro") or [RER](https://www.introducingparis.com/rer-train "Paris RER train") **station**. It can also be acquired in the **airports** and **tourist information points** in the city.
 
 # Forecast
 

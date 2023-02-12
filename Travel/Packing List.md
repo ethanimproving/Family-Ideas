@@ -81,9 +81,9 @@
 
 # 2023 Jan MEX
 
-- [ ] Mazda Mats
-- [ ] Facial cream
-- [ ] Excel Mug
+- [x] Mazda Mats
+- [x] Facial cream
+- [x] Excel Mug
 
 # 2020 July 24 Cleburne
 [[Packing List#Default|Extend Default List]]
