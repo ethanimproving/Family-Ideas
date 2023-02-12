@@ -1,103 +1,35 @@
 {
   "main": {
-    "id": "c94e7e3ae785aacc",
+    "id": "a77d5bda7a6b07c6",
     "type": "split",
     "children": [
       {
-        "id": "d56201255fbf8ce3",
-        "type": "split",
+        "id": "add1d35569237202",
+        "type": "tabs",
         "children": [
           {
-            "id": "308468d9607db93c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "850d9abd6a90e464",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Goals/Ethan's Commitments.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e13a64b70b1a0bf7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Travel/Packing List.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "115a36c022072fb9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Parenting/Social/Common Social Questions.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a97f8cb58e130312",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Travel/Packing List.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                },
-                "group": "bb44317422db184e"
+            "id": "6c1ff3689b46e6d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parenting/Social/Confidence.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "1bf5d014f3e2f5a5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7a3c563e546349dc",
-                "type": "leaf",
-                "state": {
-                  "type": "media-view",
-                  "state": {
-                    "info": {
-                      "host": 0,
-                      "id": "cepvXg_ASN0",
-                      "iframe": "https://www.youtube.com/embed/cepvXg_ASN0",
-                      "src": "https://www.youtube.com/watch?v=cepvXg_ASN0",
-                      "hash": ""
-                    },
-                    "currentTime": 0
-                  }
-                },
-                "group": "bb44317422db184e"
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ee26c1623ba10b07",
+    "id": "33e9b33d863ded67",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4eb8f143bd0a9aaa",
+        "id": "df56352b623be534",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -107,7 +39,7 @@
         }
       },
       {
-        "id": "d023a5adf0fef02d",
+        "id": "4f8a4cd74787a509",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -122,7 +54,7 @@
         }
       },
       {
-        "id": "b8381cc2ca30fb2a",
+        "id": "847d810abe6154ae",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -133,7 +65,7 @@
         }
       },
       {
-        "id": "2d7937e5891735ac",
+        "id": "13c868313a24308a",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -144,78 +76,62 @@
     "currentTab": 0
   },
   "right": {
-    "id": "f394e7e12dd14fba",
+    "id": "e2683b551dc7ccfc",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2169913d942bc9de",
+        "id": "2eae3adf82214458",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Goals/Ethan's Commitments.md",
+            "file": "Parenting/Social/Confidence.md",
             "collapseAll": false,
-            "extraContext": true,
+            "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": true,
-            "searchQuery": "Git ",
-            "backlinkCollapsed": true,
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "53a896aa823df704",
+        "id": "87669ab0762a38cc",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Professional Journal/Software Stories.md",
+            "file": "Goals/Schedule.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "992f1735f5ef6f88",
+        "id": "d3cd3c26594e954f",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Goals/Ethan's Commitments.md"
+            "file": "Parenting/Social/Confidence.md"
           }
-        }
-      },
-      {
-        "id": "48c00140a725ce9f",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "c0a2052c1ea3643d",
-        "type": "leaf",
-        "state": {
-          "type": "todo",
-          "state": {}
         }
       }
     ],
     "currentTab": 2
   },
-  "active": "850d9abd6a90e464",
+  "active": "6c1ff3689b46e6d3",
   "lastOpenFiles": [
-    "Goals/Schedule.md",
-    "Travel/Paris.md",
-    "Parenting/Psychological/Masculinity.md",
-    "Parenting/Psychological/I Statements.md",
-    "Politics/Feminism.md",
-    "Politics/Ancient Technology/Ancient Technology.md",
-    "Parenting/Psychological/Workout Tips.md",
-    "Parenting/Psychological/500 Pushups.md",
-    "Parenting/Psychological/Mental Training.md",
-    "Money/Life Insurance.md"
+    "Law/Sneaky Auto-Subscription.md",
+    "Health/Sore Throat Treatment.md",
+    "Relationship/Dates/11 Feb 2023 DFW.md",
+    "Relationship/Dates/Date Ideas.md",
+    "Shopping/House Ideas/House Ideas.md",
+    "Shopping/2022 Black Friday List.md",
+    "Shopping/Laptops.md",
+    "Shopping/Headphones.md",
+    "Shopping/Guns.md",
+    "Health/Exercise/Caleb's Gym.md"
   ]
 }
