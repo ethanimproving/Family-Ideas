@@ -49,6 +49,12 @@ An Uber to the hotel will be about $35.
 
  ![Pasted image 20230205180045](https://i.imgur.com/wdoLug8.png)
 
+## Orphin
+[11 rue de la drouette](https://maps.app.goo.gl/LaAy4ZPLVRVj49G68?g_st=ic) 
+Orphin 78125
+
+The train station is very big. After you find the halls, there are numbered gates, so just find which gate number your train is (ours was 19).
+
 # Things to do
 
 1. Arc de Triomphe
@@ -62,6 +68,10 @@ An Uber to the hotel will be about $35.
 9. Sacre-Coeur
 10. Palace of Versailles
 11. Major Landmarks
+
+[Disneyland Paris](https://www.booktickets.disneylandparis.com/tnsa64/live/shop/9/MAINUSCD/pluto/index.php?vld=1&affid=SECUTIX&tduid=32454335543R)
+[Eiffel Tower tickets](https://www.toureiffel.paris/en/rates-opening-times)
+Boat
 
 # Things to get for Kritika
 
