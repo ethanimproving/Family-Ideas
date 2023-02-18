@@ -28,7 +28,7 @@ We will work Monday, see the sites on Tuesday, and take a train to Italy on Wedn
 
 ### Metro
 
-![[0A612AA2-7BB9-48B4-9F47-5372F30361FC.jpeg]]
+![](https://i.imgur.com/sayKRYk.jpg)
 
 ### Uber
 
