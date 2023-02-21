@@ -69,9 +69,10 @@ The train station is very big. After you find the halls, there are numbered gate
 10. Palace of Versailles
 11. Major Landmarks
 
-[Disneyland Paris](https://www.booktickets.disneylandparis.com/tnsa64/live/shop/9/MAINUSCD/pluto/index.php?vld=1&affid=SECUTIX&tduid=32454335543R)
-[Eiffel Tower tickets](https://www.toureiffel.paris/en/rates-opening-times)
-Boat
+## Things to book in advance
+- [Disneyland Paris](https://www.booktickets.disneylandparis.com/tnsa64/live/shop/9/MAINUSCD/pluto/index.php?vld=1&affid=SECUTIX&tduid=32454335543R)
+- [Eiffel Tower tickets](https://www.toureiffel.paris/en/rates-opening-times)
+- [Dinner Cruises](https://www.tripadvisor.com/Attraction_Products-g187147-t11965-zfg11865-a_contentId.126988921118+14327703744-Paris_Ile_de_France.html)
 
 # Things to get for Kritika
 
