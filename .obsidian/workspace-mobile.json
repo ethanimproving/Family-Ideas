@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel/Paris.md",
-                "mode": "preview",
+                "file": "Wiki/Setting up Git Obsidian.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Travel/Paris.md",
+            "file": "Wiki/Setting up Git Obsidian.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,24 +114,33 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Travel/Paris.md"
+            "file": "Wiki/Setting up Git Obsidian.md"
           }
         }
       }
     ],
     "currentTab": 2
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
   "active": "6c1ff3689b46e6d3",
   "lastOpenFiles": [
-    "Travel/2022 Dec 9 Vacation.md",
-    "Travel/Paris.md",
-    "Relationship/Change.md",
-    "Relationship/How many kids to have.md",
-    "Travel/Packing List.md",
-    "Parenting/Psychological/500 Pushups.md",
-    "Parenting/Psychological/Training Or Claiming.md",
-    "Parenting/Psychological/Speak Freely.md",
-    "Parenting/Psychological/Psychological Facts.md",
-    "Parenting/Social/Confidence.md"
+    "Goals/Schedule.md",
+    "Health/Exercise/Upper Lower Workout Routine.md",
+    "Health/Exercise/Excersize GIFs.md",
+    "Shopping/Custom PC Desktop.md",
+    "Health/Protein.md",
+    "Health/Sore Throat Treatment.md",
+    "Relationship/Dates/Date Ideas.md",
+    "Relationship/Dates/Adventure Challenge.md",
+    "Shopping/2022 Black Friday List.md",
+    "Travel/Paris.md"
   ]
 }

@@ -6,9 +6,7 @@
 > 
   [John 1:1-3 - KJV](https://bible-api.com/John+1:1-3?translation=kjv)
 
-![](https://www.youtube.com/watch?v=t7vkPqUj2tk)
 
-![](https://www.youtube.com/watch?v=jNQXAC9IVRw)
 ## [Installation and clone a repo](https://github.com/Vinzent03/obsidian-git-mobile#installation-)
 1. Create new vault
 2. Change config directory in Settings -> About
@@ -144,3 +142,5 @@ error: failed to push some refs to 'https://github.com/ethanimproving/PDF-Librar
 - Share file as Git link.
 - Timeline
 - Hymns app Integration (maybe with Dataview)
+- Better quote blocks (‘’’qoute-orange)
+- Custom fonts
