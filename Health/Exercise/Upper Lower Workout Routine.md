@@ -6,12 +6,12 @@
 
 | Exercise                     | Sets | Reps | RPE | Rest   | Notes                                                                                 |
 |------------------------------|------|------|-----|--------|---------------------------------------------------------------------------------------|
-| [BACK SQUAT](barbellsquat-1491916408.gif)                   | 3    | 6    | 7   | 3-4min | SIT BACK AND DOWN, 15° TOE FLARE, DRIVE YOUR KNEES OUT LATERALLY                      |
-| [ROMANIAN DEADLIFT](Romanian-deadlift.webp)            | 3    | 10   | 7   | 2-3min | MAINTAIN A NEUTRAL LOWER BACK, SET YOUR HIPS BACK, DON'T ALLOW YOUR SPINE TO ROUND    |
-| [BARBELL HIP THRUST](barbell-exercises-hip-thrust-1549030719.gif)           | 3    | 12   | 8   | 2-3min | TUCK YOUR CHIN AND RIB CAGE DOWN, ONLY MOVE YOUR HIPS. USE A PAD                      |
+| [[Excersize GIFs#Back Squat\|BACK SQUAT]]                   | 3    | 6    | 7   | 3-4min | SIT BACK AND DOWN, 15° TOE FLARE, DRIVE YOUR KNEES OUT LATERALLY                      |
+| [[Excersize GIFs#Romanian Deadlift\|ROMANIAN DEADLIFT]]            | 3    | 10   | 7   | 2-3min | MAINTAIN A NEUTRAL LOWER BACK, SET YOUR HIPS BACK, DON'T ALLOW YOUR SPINE TO ROUND    |
+| [[Excersize GIFs#Barbell Hip Thrust\|BARBELL HIP THRUST]]           | 3    | 12   | 8   | 2-3min | TUCK YOUR CHIN AND RIB CAGE DOWN, ONLY MOVE YOUR HIPS. USE A PAD                      |
 | LEG EXTENSION                | 3    | 12   | 9   | 1-2min | FOCUS ON SQUEEZING YOUR QUADS TO MAKE THE WEIGHT MOVE                                 |
 | LYING LEG CURL               | 3    | 12   | 9   | 1-2min | FOCUS ON SQUEEZING YOUR HAMSTRINGS TO MAKE THE WEIGHT MOVE                            |
-| [MACHINE SEATED HIP ABDUCTION](https://cdn.shopify.com/s/files/1/0250/0362/2496/files/613.gif?v=1644757089) | 3    | 6    | 7   | 1-2min | KEEP YOUR BUTT IN THE SEAT, FOCUS ON SQUEEZING YOUR GLUTES TO MAKE THE WEIGHT MOVE    |
+| [[Excersize GIFs#Machine Seated Hip Abduction\|MACHINE SEATED HIP ABDUCTION]] | 3    | 6    | 7   | 1-2min | KEEP YOUR BUTT IN THE SEAT, FOCUS ON SQUEEZING YOUR GLUTES TO MAKE THE WEIGHT MOVE    |
 | CRUNCH                       | 3    | 12   | 7   | 1-2min | FOCUS ON FLEXING YOUR SPINE (ROUNDING YOUR BACK), DON'T YANK YOUR HEAD WITH YOUR ARMS |
 
 
@@ -45,7 +45,7 @@
 
 | Exercise                  | Sets | Reps | RPE | Rest   | Notes                                                                                   |
 | ------------------------- | ---- | ---- | --- | ------ | --------------------------------------------------------------------------------------- |
-| DUMBBELL INCLINE PRESS    | 3    | 8    | 8   | 2-3min | USE ~45 DEGREE INCLINE. MIND MUSCLE CONNECTION WITH UPPER PECS                          |
+| [[Excersize GIFs#Dumbbell Incline Press\|DUMBBELL INCLINE PRESS]]    | 3    | 8    | 8   | 2-3min | USE ~45 DEGREE INCLINE. MIND MUSCLE CONNECTION WITH UPPER PECS                          |
 | REVERSE GRIP LAT PULLDOWN | 3    | 8    | 8   | 2-3min | PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES, USE SHOULDER WIDTH GRIP                       |
 | ASSISTED DIP              | 3    | 10   | 7   | 2-3min | TUCK ELBOWS AT A 45° ANGLE, LEAN YOUR TORSO FORWARD 15°                                 |
 | [BARBELL BENT OVER ROW](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/barbellrow-1457038583.gif)   | 3    | 12   | 7   | 2-3min | LEAN YOUR TORSO OVER AT A 45° ANGLE, KEEP YOUR LOWER BACK NEUTRAL, DOUBLE OVERHAND GRIP |
