@@ -112,6 +112,7 @@ It will output something like this:
 * Markdown Table Editor
 * Kanban
 * Vantage - Advanced Search Builder
+* [Using color to think better](https://www.youtube.com/watch?v=vZC7FAOSjkU): 
 
 # Version Control with Git LFS
 [Introducing and Setting up Git LFS (Large File Storage)](https://www.youtube.com/@CloudwithChris)
