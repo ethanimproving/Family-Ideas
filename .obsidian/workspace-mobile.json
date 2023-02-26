@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Setting up Git Obsidian.md",
+                "file": "Shopping/Monitors.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "ab8a8ee78551b2c6"
+          }
+        ]
+      },
+      {
+        "id": "178f64cacc876e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e641af62e31d1913",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Shopping/Monitors.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 8,
+                  "close": false
+                }
+              }
+            },
+            "group": "ab8a8ee78551b2c6"
           }
         ]
       }
@@ -85,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wiki/Setting up Git Obsidian.md",
+            "file": "Shopping/Monitors.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wiki/Setting up Git Obsidian.md"
+            "file": "Shopping/Monitors.md"
           }
         }
       }
@@ -132,15 +175,35 @@
   },
   "active": "6c1ff3689b46e6d3",
   "lastOpenFiles": [
-    "Goals/Schedule.md",
     "Health/Exercise/Upper Lower Workout Routine.md",
+    "Shopping/Monitors.md",
+    "/Shopping/Monitors.md",
+    "Goals/Schedule.md",
     "Health/Exercise/Excersize GIFs.md",
-    "Shopping/Custom PC Desktop.md",
-    "Health/Protein.md",
-    "Health/Sore Throat Treatment.md",
-    "Relationship/Dates/Date Ideas.md",
     "Relationship/Dates/Adventure Challenge.md",
+    "Wiki/Test Canvas.canvas",
+    "Relationship/Dates/Date Ideas.md",
+    "Relationship/Dates/11 Feb 2023 DFW.md",
     "Shopping/2022 Black Friday List.md",
-    "Travel/Paris.md"
+    "Health/Aromatherapy/Air Purification System.md",
+    "/Health/Aromatherapy/Air Purification System.md",
+    "Health/Applied Kinesiology (Muscle Testing)/The Bodytalk System.md",
+    "Health/Applied Kinesiology (Muscle Testing)/Applied Kinesiology.md",
+    "Health/Homeopathic/Oscillococcinum.md",
+    "Health/Maximized Living/ML Recipe Book.md",
+    "Health/Toxins",
+    "Papers/Leading Indicators.md",
+    "Papers/Focus and Mental Energy.md",
+    "Health/Toxins/Breathing.md",
+    "/Wiki/Test Canvas.canvas",
+    "/Wiki/Setting up Git Obsidian.md",
+    "/Papers/Leading Indicators.md",
+    "/Papers/Focus and Mental Energy.md",
+    "/Health/Toxins/Breathing.md",
+    "/Health/Toxins",
+    "Goals/Ethan's Commitments.md",
+    "Wiki/Setting up Git Obsidian.md",
+    "Shopping/Custom PC Desktop.md",
+    "Health/Protein.md"
   ]
 }

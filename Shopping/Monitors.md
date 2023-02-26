@@ -18,6 +18,10 @@
 # Dell S2721QS
 ![](https://m.media-amazon.com/images/I/51v+O3gLfeS._AC_SL1500_.jpg)
 
+Dell monitors are very popular among the masses. They come in four categories. 
+
+These include Professional (P), Ultrasharp (U), PremierColor Ultrasharp (UP), and low-end (S and E). Each of them specifies the kind of functionality that the monitor can facilitate.
+
 # Samsung S80A
 
 ![](https://m.media-amazon.com/images/I/71ebISS-qmS._AC_SL1500_.jpg)
