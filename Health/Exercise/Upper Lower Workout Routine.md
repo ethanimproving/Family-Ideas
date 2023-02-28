@@ -50,8 +50,8 @@
 | ASSISTED DIP              | 3    | 10   | 7   | 2-3min | TUCK ELBOWS AT A 45° ANGLE, LEAN YOUR TORSO FORWARD 15°                                 |
 | [[Excersize GIFs#Barbell Bent Over Row\|BARBELL BENT OVER ROW]]   | 3    | 12   | 7   | 2-3min | LEAN YOUR TORSO OVER AT A 45° ANGLE, KEEP YOUR LOWER BACK NEUTRAL, DOUBLE OVERHAND GRIP |
 | [[Excersize GIFs#Dumbbell Lateral Raise\|DUMBBELL LATERAL RAISE]] | 3    | 15   | 8   | 1-2min | RAISE THE DUMBBELL "OUT" NOT "UP", MIND MUSCLE CONNECTION WITH MIDDLE FIBERS            |
-| [SEATED FACE PULL](https://thumbs.gfycat.com/BronzeIcyIberianmole-size_restricted.gif)        | 3    | 15   | 8   | 1-2min | PULL YOUR ARMS BACK AND OUT                                                             |
-| [HAMMER CURL](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/hammercurl-1456956209.gif)             | 3    | 8    | 9   | 1-2min | NEUTRAL GRIP, PREVENT YOUR UPPER ARM FROM MOVING                                        |
+| [[Excersize GIFs#Seated Face Pull\|SEATED FACE PULL]]        | 3    | 15   | 8   | 1-2min | PULL YOUR ARMS BACK AND OUT                                                             |
+| [[Excersize GIFs#Hammer Curl\|HAMMER CURL]]             | 3    | 8    | 9   | 1-2min | NEUTRAL GRIP, PREVENT YOUR UPPER ARM FROM MOVING                                        |
 
 
 [Lever T-Bar](https://fitnessprogramer.com/wp-content/uploads/2021/02/Lever-T-bar-Row.gif)
