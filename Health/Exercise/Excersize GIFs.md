@@ -72,6 +72,12 @@ https://fitnessprogramer.com/exercise-primary-muscle/triceps/
 
 ## Dumbbell
 
+### Hammer Curl
+
+![](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/hammercurl-1456956209.gif)
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Hammer-Curl.gif)
+
 ### Dumbbell Supinated Curl
 
 ![](https://qph.cf2.quoracdn.net/main-qimg-fe0a853605de67a2b6bc33ce1e4ad8a8)
@@ -121,6 +127,14 @@ Barbell Overhead Press
 ![](https://www.inspireusafoundation.org/wp-content/uploads/2022/04/military-press.gif)
 
 ## Machine
+
+### Standing Face Pull
+
+![](https://thumbs.gfycat.com/BronzeIcyIberianmole-size_restricted.gif)
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Face-Pull.gif)
+
+![](https://www.inspireusafoundation.org/wp-content/uploads/2022/03/cable-face-pull.gif)
 
 ### Single-Arm Rope Triceps Extension
 
