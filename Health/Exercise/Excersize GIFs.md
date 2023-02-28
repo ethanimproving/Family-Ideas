@@ -128,6 +128,10 @@ Barbell Overhead Press
 
 ## Machine
 
+### Assisted Dip
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/06/Assisted-Chest-Dip.gif)
+
 ### Standing Face Pull
 
 ![](https://thumbs.gfycat.com/BronzeIcyIberianmole-size_restricted.gif)
