@@ -8,6 +8,11 @@
 | LG       | [27UP600-W](https://www.amazon.com/LG-27UP600-W-DisplayHDR-FreeSync-Stabilizer/dp/B09S1YR46Y/ref=sr_1_3?crid=1PBO1DDVAIXRW&keywords=4k+monitor+27up600&qid=1677366998&sprefix=4k+monitor+27up600%2Caps%2C117&sr=8-3)          |              | 209.99 | 219.99     | DisplayHDR 400 | DCI-P3 95%       |
 | SAMSUNG  | [34" SJ55W](https://www.amazon.com/Samsung-S34J55W-34-Inch-Ultrawide-LS34J550WQNXZA/dp/B07FBS36W2/ref=sr_1_3?crid=1ZOJ14ONSRENY&keywords=4k%2Bmonitor%2Bsj55w&qid=1677367029&sprefix=4k%2Bmonitor%2Bsj55w%2Caps%2C97&sr=8-3&th=1)          | 75 Hz        | 208.48 | 329.99     |                |                  |
 
+
+Check Reddit for monitor deals.
+
+[r/buildapcsales](https://www.reddit.com/r/buildapcsales/search/?q=Monitor&restrict_sr=1&sr_nsfw=&sort=new)
+
 # Samsung UR59
 
 ![](https://m.media-amazon.com/images/I/41m2Jnw8q+L._AC_.jpg)

@@ -19,13 +19,13 @@
 
 | Exercise                         | Sets | Reps | RPE | Rest   | Notes                                                                                                                            |
 | -------------------------------- | ---- | ---- | --- | ------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| [BARBELL BENCH PRESS](https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/wideB.gif)            | 3    | 5    | 7   | 3-4min | TUCK ELBOWS AT A 45° ANGLE, SQUEEZE YOUR SHOULDER BALDES AND STAY FIRM ON THE BENCH                                              |
-| [LAT PULLDOWN](https://www.inspireusafoundation.org/wp-content/uploads/2022/08/wide-grip-lat-pulldown.gif?resize=480:*)                   | 3    | 10   | 8   | 2-3min | PULL YOUR ELBOWS DOWN AND IN, USE A 1.5X SHOULDER WIDTH GRIP                                                                     |
-| [OVERHEAD PRESS](https://www.nerdfitness.com/wp-content/uploads/2014/05/military-press.gif)                 | 3    | 10   | 7   | 3-4min | SQUEEZE YOUR GLUTES TO KEEP YOUR TORSO UPRIGHT, CLEAR YOUR HEAD OUT OF THE WAY, PRESS UP AND SLIGHTLY BACK                       |
-| [CHEST-SUPPORTED T-BAR ROW](https://fitlifefanatics.com/wp-content/uploads/2020/11/Chest-Supported-Dumbbell-Row-Alternatives-to-the-T-Bar-Row.gif)      | 3    | 12   | 8   | 2-3min | FOCUS ON SQUEEZING YOUR SHOULDER BLADES TOGETHER AS YOU PULL THE WEIGHT TOWARDS YOU. KEEP YOUR SHOULDERS DOWN (AVOID SHRUGGING). |
-| [CABLE FLYE](https://thumbs.gfycat.com/EasygoingKeyDwarfmongoose-size_restricted.gif)                     | 3    | 12   | 8   | 1-2min | KEEP YOUR ELBOWS SLIGHTLY BENT AT A CONSTANT ANGLE WHILE SQUEEZING YOUR PECS TO MOVE THE WEIGHT                                  |
-| [DUMBBELL SUPINATED CURL](https://qph.cf2.quoracdn.net/main-qimg-fe0a853605de67a2b6bc33ce1e4ad8a8)        | 3    | 10   | 8   | 1-2min | DRIVE YOUR PINKY INTO THE HANDLE HARDER THAN YOUR POINTER FINGER                                                                 |
-| [SINGLE-ARM ROPE TRICEP EXTENSION](https://hips.hearstapps.com/hmg-prod/images/workouts/2017/04/diagonaltricepsextension-1491253054.gif?crop=1xw:0.75xh;center,top&resize=1200:*) | 3    | 12   | 8   | 1-2min | PULL YOUR ARM BEHIND YOUR TORSO, DON'T MOVE YOUR UPPER ARM                                                                       |
+| [[Excersize GIFs#Barbell Bench Press\|BARBELL BENCH PRESS]]              | 3    | 5    | 7   | 3-4min | TUCK ELBOWS AT A 45° ANGLE, SQUEEZE YOUR SHOULDER BALDES AND STAY FIRM ON THE BENCH                                              |
+| [[Excersize GIFs#Lat Pulldown\|LAT PULLDOWN]]                     | 3    | 10   | 8   | 2-3min | PULL YOUR ELBOWS DOWN AND IN, USE A 1.5X SHOULDER WIDTH GRIP                                                                     |
+| [[Excersize GIFs#Overhead Press\|OVERHEAD PRESS]]                 | 3    | 10   | 7   | 3-4min | SQUEEZE YOUR GLUTES TO KEEP YOUR TORSO UPRIGHT, CLEAR YOUR HEAD OUT OF THE WAY, PRESS UP AND SLIGHTLY BACK                       |
+| [[Excersize GIFs#Chest-Supported T-Bar Row\|CHEST-SUPPORTED T-BAR ROW]]        | 3    | 12   | 8   | 2-3min | FOCUS ON SQUEEZING YOUR SHOULDER BLADES TOGETHER AS YOU PULL THE WEIGHT TOWARDS YOU. KEEP YOUR SHOULDERS DOWN (AVOID SHRUGGING). |
+| [[Excersize GIFs#Cable Fly\|CABLE FLYE]]                       | 3    | 12   | 8   | 1-2min | KEEP YOUR ELBOWS SLIGHTLY BENT AT A CONSTANT ANGLE WHILE SQUEEZING YOUR PECS TO MOVE THE WEIGHT                                  |
+| [[Excersize GIFs#Dumbbell Supinated Curl\|DUMBBELL SUPINATED CURL]]          | 3    | 10   | 8   | 1-2min | DRIVE YOUR PINKY INTO THE HANDLE HARDER THAN YOUR POINTER FINGER                                                                 |
+| [[Excersize GIFs#Single-Arm Rope Triceps Extension\|SINGLE-ARM ROPE TRICEP EXTENSION]] | 3    | 12   | 8   | 1-2min | PULL YOUR ARM BEHIND YOUR TORSO, DON'T MOVE YOUR UPPER ARM                                                                       |
 
 
 ## Lower Body #2
@@ -48,8 +48,8 @@
 | [[Excersize GIFs#Dumbbell Incline Press\|DUMBBELL INCLINE PRESS]]    | 3    | 8    | 8   | 2-3min | USE ~45 DEGREE INCLINE. MIND MUSCLE CONNECTION WITH UPPER PECS                          |
 | REVERSE GRIP LAT PULLDOWN | 3    | 8    | 8   | 2-3min | PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES, USE SHOULDER WIDTH GRIP                       |
 | ASSISTED DIP              | 3    | 10   | 7   | 2-3min | TUCK ELBOWS AT A 45° ANGLE, LEAN YOUR TORSO FORWARD 15°                                 |
-| [BARBELL BENT OVER ROW](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/barbellrow-1457038583.gif)   | 3    | 12   | 7   | 2-3min | LEAN YOUR TORSO OVER AT A 45° ANGLE, KEEP YOUR LOWER BACK NEUTRAL, DOUBLE OVERHAND GRIP |
-| [DUMBBELL LATERAL RAISE](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/lateralraise-1456955524.gif)  | 3    | 15   | 8   | 1-2min | RAISE THE DUMBBELL "OUT" NOT "UP", MIND MUSCLE CONNECTION WITH MIDDLE FIBERS            |
+| [[Excersize GIFs#Barbell Bent Over Row\|BARBELL BENT OVER ROW]]   | 3    | 12   | 7   | 2-3min | LEAN YOUR TORSO OVER AT A 45° ANGLE, KEEP YOUR LOWER BACK NEUTRAL, DOUBLE OVERHAND GRIP |
+| [[Excersize GIFs#Dumbbell Lateral Raise\|DUMBBELL LATERAL RAISE]] | 3    | 15   | 8   | 1-2min | RAISE THE DUMBBELL "OUT" NOT "UP", MIND MUSCLE CONNECTION WITH MIDDLE FIBERS            |
 | [SEATED FACE PULL](https://thumbs.gfycat.com/BronzeIcyIberianmole-size_restricted.gif)        | 3    | 15   | 8   | 1-2min | PULL YOUR ARMS BACK AND OUT                                                             |
 | [HAMMER CURL](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/hammercurl-1456956209.gif)             | 3    | 8    | 9   | 1-2min | NEUTRAL GRIP, PREVENT YOUR UPPER ARM FROM MOVING                                        |
 

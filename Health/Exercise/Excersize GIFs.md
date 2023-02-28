@@ -1,3 +1,5 @@
+https://fitnessprogramer.com/exercise-primary-muscle/triceps/
+
 # Back Squat
 
 ![](https://149874912.v2.pressablecdn.com/wp-content/uploads/2021/11/squat.gif)
@@ -65,3 +67,107 @@
 ![](https://fitnessprogramer.com/wp-content/uploads/2021/04/Seated-Hammer-Curl.gif)
 
 ![](https://www.inspireusafoundation.org/wp-content/uploads/2022/04/rope-hammer-curl-machine.gif)
+
+# Upper Body
+
+## Dumbbell
+
+### Dumbbell Supinated Curl
+
+![](https://qph.cf2.quoracdn.net/main-qimg-fe0a853605de67a2b6bc33ce1e4ad8a8)
+
+![](https://www.inspireusafoundation.org/wp-content/uploads/2023/01/inner-bicep-curl.gif)
+
+### Overhead Press
+
+![](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/dumbbellshoulderpress-1457041578.gif)
+
+### Dumbbell Lateral Raise
+
+![](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/lateralraise-1456955524.gif)
+
+![](https://homeworkouts.org/wp-content/uploads/anim-dumbbell-lateral-raise.gif)
+
+![](https://www.inspireusafoundation.org/wp-content/uploads/2022/10/dumbbell-shoulder-press.gif)
+### Bent Over Dumbbell Row
+
+![](https://thumbs.gfycat.com/AcademicEnlightenedHadrosaurus-size_restricted.gif)
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Bent-Over-Dumbbell-Row.gif)
+
+### Chest-Supported T-Bar Row
+
+![](https://fitlifefanatics.com/wp-content/uploads/2020/11/Chest-Supported-Dumbbell-Row-Alternatives-to-the-T-Bar-Row.gif)
+
+![](https://www.bodybuildingmealplan.com/wp-content/uploads/Dumbbell-Lat-Exercises-Incline-Row.png)
+
+## Barbell
+
+### Barbell Bent Over Row
+
+![](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/barbellrow-1457038583.gif)
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Bent-Over-Row.gif)
+
+### Barbell Bench Press
+
+![](https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/wideB.gif)
+
+Barbell Overhead Press
+
+![](https://www.nerdfitness.com/wp-content/uploads/2014/05/military-press.gif)
+![](https://www.inspireusafoundation.org/wp-content/uploads/2022/04/barbell-bench-press.gif)
+
+![](https://www.inspireusafoundation.org/wp-content/uploads/2022/04/military-press.gif)
+
+## Machine
+
+### Single-Arm Rope Triceps Extension
+
+#triceps
+
+#### Cable Side Triceps Extension
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/09/Cable-Side-Triceps-Extension.gif)
+
+#### Cable Standing One-Arm Triceps Extension
+
+![](https://hips.hearstapps.com/hmg-prod/images/workouts/2017/04/diagonaltricepsextension-1491253054.gif?crop=1xw:0.75xh;center,top&resize=1200:*)
+
+![](https://cdn.shopify.com/s/files/1/0584/6328/9511/files/02311301-Cable-Standing-One-Arm-Triceps-Extension_Upper-Arms_360_1_480x480.gif?v=1669232243)
+
+#### Cable One-Arm Overhead Triceps Extension
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/06/Cable-One-Arm-Overhead-Triceps-Extension.gif)
+
+### Cable Fly
+
+#chest
+
+#### Standing Cable Fly
+
+![](https://thumbs.gfycat.com/EasygoingKeyDwarfmongoose-size_restricted.gif)
+
+![](https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/01881301-Cable-Middle-Fly_Chest_360-1.gif)
+
+#### Low Standing Cable Fly
+
+![](https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/01791301-Cable-Low-Fly_Chest_360.gif)
+
+#### High Cable Fly
+
+![](https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/12691301-Cable-Standing-Up-Straight-Crossovers_Chest_360.gif)
+
+https://www.nickhallbodytransformations.com/chest-exercises/
+
+### Lat Pulldown
+
+![](https://www.inspireusafoundation.org/wp-content/uploads/2022/08/wide-grip-lat-pulldown.gif)
+
+# Lower Body
+
+## Dumbbell
+
+## Barbell
+
+## Machine
