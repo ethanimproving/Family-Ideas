@@ -44,6 +44,8 @@ https://fitnessprogramer.com/exercise-primary-muscle/triceps/
 
 # Barbell Bent Over Row
 
+Alternative(s): [[#Bent Over Dumbbell Row]]
+
 ![](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/barbellrow-1457038583.gif)
 
 ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Bent-Over-Row.gif)
