@@ -46,8 +46,8 @@
 | Exercise                  | Sets | Reps | RPE | Rest   | Notes                                                                                   |
 | ------------------------- | ---- | ---- | --- | ------ | --------------------------------------------------------------------------------------- |
 | [[Excersize GIFs#Dumbbell Incline Press\|DUMBBELL INCLINE PRESS]]    | 3    | 8    | 8   | 2-3min | USE ~45 DEGREE INCLINE. MIND MUSCLE CONNECTION WITH UPPER PECS                          |
-| REVERSE GRIP LAT PULLDOWN | 3    | 8    | 8   | 2-3min | PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES, USE SHOULDER WIDTH GRIP                       |
-| ASSISTED DIP              | 3    | 10   | 7   | 2-3min | TUCK ELBOWS AT A 45° ANGLE, LEAN YOUR TORSO FORWARD 15°                                 |
+| [[Excersize GIFs#Reverse Grip Lat Pulldown\|REVERSE GRIP LAT PULLDOWN]] | 3    | 8    | 8   | 2-3min | PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES, USE SHOULDER WIDTH GRIP                       |
+| [[Excersize GIFs#Assisted Dip\|ASSISTED DIP]]              | 3    | 10   | 7   | 2-3min | TUCK ELBOWS AT A 45° ANGLE, LEAN YOUR TORSO FORWARD 15°                                 |
 | [[Excersize GIFs#Barbell Bent Over Row\|BARBELL BENT OVER ROW]]   | 3    | 12   | 7   | 2-3min | LEAN YOUR TORSO OVER AT A 45° ANGLE, KEEP YOUR LOWER BACK NEUTRAL, DOUBLE OVERHAND GRIP |
 | [[Excersize GIFs#Dumbbell Lateral Raise\|DUMBBELL LATERAL RAISE]] | 3    | 15   | 8   | 1-2min | RAISE THE DUMBBELL "OUT" NOT "UP", MIND MUSCLE CONNECTION WITH MIDDLE FIBERS            |
 | [[Excersize GIFs#Seated Face Pull\|SEATED FACE PULL]]        | 3    | 15   | 8   | 1-2min | PULL YOUR ARMS BACK AND OUT                                                             |
