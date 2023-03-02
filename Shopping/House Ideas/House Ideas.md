@@ -129,3 +129,47 @@ Community:
 * <mark class="hltr-yellow">Gorilla Grip Shoe Holder Rack</mark> - [$13](https://www.amazon.com/Gorilla-Grip-Organizer-Breathable-Accessories/dp/B088KV58F5/ref=sr_1_2_sspa)
 * AOODA 28 Large Mesh Pockets Over The Door Shoe Rack - [$16](https://www.amazon.com/AOODA-Pockets-Hanging-Organizer-Closet/dp/B08T67MSBJ/ref=sr_1_3_sspa)
 * Lifewit Over The Door Hanging Shoe Organizer - [$15](https://www.amazon.com/dp/B09GLLK579)
+
+![](https://m.media-amazon.com/images/I/41x8kyoWwqL._AC_SL1000_.jpg)
+
+## Will the weight damage my door?
+
+Filled with 12 pairs of shoes, the Shoe Rack is 18 pounds. A 24x80 Hollow core door weighs about [14 pounds](https://absupply.net/pdf/KV_Door-Weight-Table.pdf). 
+
+![](https://i.imgur.com/sbTmi4V.png)
+
+According to *The DIY Plan*, a set of 3 standard residential duty door hinges with steel pins can support 70 pounds with high frequency.
+
+| Door Hinge Type                         | Medium Frequency | High Frequency    |
+|-----------------------------------------|------------------|-------------------|
+| Residential duty interior hinge (2 set) | 90 pounds        | 45 pounds         |
+| Residential duty interior hinge (3 set) | 120 pounds       | <mark class="hltr-yellow">70</mark> pounds        |
+| Residential duty hinge                  | 400 pounds       | 200 pounds        |
+| Commercial Duty Hinge                   | 600 pounds       | 400 pounds        |
+| Heavy duty hinge                        | 1000 pounds      | 600 pounds        |
+| Cabinet Doors                           |  ~ 80 pounds     | ~ 80 pounds total |
+
+
+Thus even with 12 pounds of shoes added, standard hinges have a 174 pound clearance.
+
+$$70lb - 12lb - 14lb = 44lb$$
+
+
+According to *The Hinge Guys* there are [3 types of door hinges](https://www.select-hinges.com/blog/27-standard-or-heavy-duty-hinges) for exterior doors:
+
+1. **Standard Duty** - For low- or medium-frequency doors <mark class="hltr-yellow">up to 200 lb</mark>. without frame or door reinforcement.
+2. **Heavy Duty** - For high-frequency doors up to 200 lb. or medium-frequency doors up to 400 lb., both without frame or door reinforcement; or low-frequency doors up to 600 lb. with the use of Rivnuts in the frame and door.
+3. **Heavy Duty (LL)** - For low-frequency doors up to 1,000 lb., including most lead-lined doors. (SELECT uses HD hinges with additional fastener holes.) Rivnuts are recommended in the frame and door on extremely tall, extremely heavy or wide doors. (Pyatte)
+
+Thus even with 12 pounds of shoes added, standard hinges have a 174 pound clearance.
+
+$$200lb - 12lb - 14lb = 174lb$$
+
+---
+
+Pyatte, Stephen. “[Standard or Heavy Duty Hinges?](https://www.select-hinges.com/blog/27-standard-or-heavy-duty-hinges)” _Select Hinges_, The Hinge Guys.
+
+Viktor. “[How Much Weight Can I Hang on a Door?](https://thediyplan.com/how-much-weight-can-i-hang-on-a-door)” _TheDIYPlan_, 28 May 2021.
+
+Admin. "[Do Doors Need 2 Hinges or 3 Hinges?](https://monroeengineering.com/blog/do-doors-need-2-hinges-or-3-hinges)" *Monroe Engineering*, One Monroe, 15 Mar. 2022.
+
