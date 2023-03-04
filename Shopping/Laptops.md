@@ -7,6 +7,34 @@ Laptops should have the following capabilities:
 - [ ] 2 slots for memory (to upgrade to 32GB).
 
 
+# Dell Latitude 7430
+
+| System Information                                                      |                                                                                    |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| System Manufacturer                                                     | Dell Inc.                                                                          |
+| System Model                                                            | Latitude 7430                                                                      |
+| Processor                                                               | [12th Gen Intel(R) Core(TM) i7-1270P](https://www.intel.com/content/www/us/en/products/sku/226255/intel-core-i71270p-processor-18m-cache-up-to-4-80-ghz/specifications.html), 2200 Mhz, 12 Core(s), 16 Logical Processor(s) |
+| Installed Physical Memory (RAM)                                         | 32.0 GB                                                                            |
+| Total Physical Memory                                                   | 31.4 GB                                                                            |
+| Available Physical Memory                                               | 21.4 GB                                                                            |
+| Total Virtual Memory                                                    | 36.2 GB                                                                            |
+| Available Virtual Memory                                                | 26.3 GB                                                                            |
+| Page File Space                                                         | 4.75 GB                                                                            |
+| Adapter Type                                                            | Intel(R) Iris(R) Xe Graphics Family, Intel Corporation compatible                  |
+| Adapter Description                                                     | [Intel(R) Iris(R) Xe Graphics](https://www.intel.com/content/www/us/en/products/sku/226255/intel-core-i71270p-processor-18m-cache-up-to-4-80-ghz/specifications.html)                                                       |
+| Adapter RAM                                                             | 1.00 GB (1,073,741,824 bytes)                                                      |
+| # of Displays Supported                                                 | 4                                                                                  |
+| Max Resolution (HDMI)                                                   | 4096 x 2304 @ 60Hz                                                                 |
+| Max Resolution (DP)                                                     | 7680 x 4320 @ 60Hz                                                                 |
+| Max Resolution (eDP - Integrated Flat Panel)                            | 4096 x 2304 @ 120Hz                                                                |
+| 2x Thunderbolt™ 4 with Power Delivery and DisplayPort 1.4 (USB Type-C™) | [Port Specs](https://www.dell.com/support/kbdoc/en-my/000199966/dell-latitude-7430-laptop-system-guide). See [[Cable Standards]].                                                                |
+| 1x USB 3.2 Gen 1 with PowerShare                                        |                                                                                    |
+| 1x HDMI 2.0                                                             |                                                                                    |
+| 1x uSIM card slot (optional) (WWAN only)                                |                                                                                    |
+| 1x Universal Audio Jack                                                 |                                                                                    |
+| 1x Smart Card Reader (optional)                                         |                                                                                    |
+
+
 # HP EliteBook x360 1040 G6
 
 | System Information              |                                                                                       |
