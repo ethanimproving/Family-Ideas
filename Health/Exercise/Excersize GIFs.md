@@ -88,6 +88,8 @@ Alternative(s): [[#Bent Over Dumbbell Row]]
 
 ### Overhead Press
 
+Alternatives: Shoulder Press
+
 ![](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/dumbbellshoulderpress-1457041578.gif)
 
 ### Dumbbell Lateral Raise
