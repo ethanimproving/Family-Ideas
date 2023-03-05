@@ -186,10 +186,77 @@ https://www.nickhallbodytransformations.com/chest-exercises/
 
 ![](https://www.inspireusafoundation.org/wp-content/uploads/2022/08/wide-grip-lat-pulldown.gif)
 
+### Lever T-Bar
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Lever-T-bar-Row.gif)
+
 # Lower Body
 
 ## Dumbbell
 
+### Laying Leg Curl
+
+Alternatives: [[#Leg Curl]]
+
+![](https://fitnessprogramer.com/wp-content/uploads/2022/04/Lying-Dumbbell-Leg-Curl.gif)
+
+### Crunch
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/05/Weighted-Crunch.gif)
+
+### Dumbbell Standing Calf Raise
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Calf-Raise.gif)
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/06/Standing-Calf-Raise.gif)
+
+![](https://thumbs.gfycat.com/HarmlessSophisticatedFairyfly-size_restricted.gif)
+
+### Dumbbell Walking Lunge
+
+![](https://usercontent.one/wp/www.gymguider.com/wp-content/uploads/2017/10/lunge.gif?media=1674222935)
+
+![](https://www.inspireusafoundation.org/wp-content/uploads/2022/01/dumbbell-walking-lunges.gif)
+
+### Dumbbell Lunge Rotation
+
+![](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/dumbbelllungewithrotation-1457030743.gif)
+
 ## Barbell
 
+### Deadlift
+
+![](https://www.journalmenu.com/wp-content/uploads/2018/03/deadlift-gif-side.gif)
+
+![](https://www.inspireusafoundation.org/wp-content/uploads/2022/02/barbell-deadlift-movement.gif)
 ## Machine
+
+### Leg Extension
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/02/LEG-EXTENSION.gif)
+
+### Leg Curl
+
+Alternatives: [[#Laying Leg Curl]]
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/08/Seated-Leg-Curl.gif)
+
+### Single-leg leg extension
+
+![[#Leg Extension]]
+
+### Single-leg lying leg curl
+
+![[#Leg Curl]]
+
+### Plank
+
+![](https://www.inspireusafoundation.org/wp-content/uploads/2022/11/body-saw-plank.gif)
+
+![](https://cdn.shopify.com/s/files/1/0330/6521/files/3.gif?v=1597238217)
+
+### Standing Calf Raise
+
+Alternatives: [[#Dumbbell Standing Calf Raise]]
+
+![](https://d38ty1ecdjk742.cloudfront.net/wp-content/uploads/Lever-Standing-Calf-Raise-Calf.gif)

@@ -25,7 +25,7 @@ The Dell WD19TB is the gold standard. Main thing to keep in mind is the bandwidt
 
 HDR3 Compatible - Yes.
 
-# Dell HP Support Question
+## Dell HP Support Question
 
 I have a [[Laptops#Dell Latitude 7430|Dell Latitude 7430]] and a Dell Thunderbolt Dock WD22TB4, and according to the specs it can support up to 3x 4k @ 60 Hz + 1x 4k @ 30 Hz. But when I plug in my Super Ultrawide [[2022 Black Friday List#Super Ultrawide Monitor|Samsung 49" Odyssey G9]], I only get 2560x1440 @60 Hz (6.64 Gbps). I'm supposed to get 5120 x 1440 @ 60 Hz via HDMI 2.0 or 5120 x 1440 @ 240 Hz via DisplayPort 2. According to [[Cable Standards]] 1 x 5K (5120 x 1440) display @60 Hz requires 13.27 Gbps of bandwidth, which is significantly less than 3 x 4K (3840 x 2160) displays @60 Hz + 1 x 4K (3840 x 2160) display @30 Hz, which requires [43.7 Gbps](https://www.kramerav.com/bandwidth-calculator/). Can you help me get the full resolution through this docking station?
 

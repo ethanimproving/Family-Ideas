@@ -35,6 +35,8 @@ These include Professional (P), Ultrasharp (U), PremierColor Ultrasharp (UP), an
 
 # Samsung 49" Odyssey G9
 
+![](https://m.media-amazon.com/images/I/818jj0DF-dL._AC_SL1500_.jpg)
+
 [[2022 Black Friday List#Super Ultrawide Monitor|Samsung 49" Odyssey G9]]
 
 DSC Support: [Yes](https://www.reddit.com/r/ultrawidemasterrace/comments/gdljsk/the_samsung_odyssey_g9_does_indeed_support_dsc/)
