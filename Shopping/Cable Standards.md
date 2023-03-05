@@ -89,4 +89,53 @@ Display Stream Compression (DSC) is a visually lossless compression technique de
 
 People often ask this question: "does display stream compression affect image quality?."" The short answer is, **no!** VESA DSC is a visually lossless compression algorithm. This means that when used, no perceptible difference can be detected by the human eye.
 
-[How to enable [Display Stream Compression](<to enable Display Stream Compression?](https://www.dell.com/support/kbdoc/en-us/000197102/how-to-enable-display-stream-compression-on-latitude-precision-and-xps)>)?](https://www.dell.com/support/kbdoc/en-us/000197102/how-to-enable-display-stream-compression-on-latitude-precision-and-xps)
+### Enable DSC
+
+To enable Display Stream Compression (DSC) with your Dell Latitude 7430, you will need to check if your laptop supports DSC and if your monitor is compatible with DSC. Here are the steps to enable DSC on your Dell Latitude 7430:
+
+1. Check if your Dell Latitude 7430 supports DSC:
+	- Open the Intel Graphics Command Center by right-clicking on the desktop and selecting Graphics Properties.
+	- Click on Display and then select Features.
+	- Check if Display Stream Compression (DSC) is listed as a supported feature. If it is not listed, then your laptop may not support DSC.
+
+You can use the [Intel® Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html) to automatically detect and download the latest drivers for your system. The tool will scan your system and provide a list of all available drivers, including the latest graphics driver for your system. Just follow the on-screen instructions to download and install the driver.
+
+Please note that it is important to download the correct driver for your specific system, as using the wrong driver can cause issues and may even damage your hardware. If you are unsure about which driver to download, it may be best to contact Dell customer support for assistance.
+
+2. Check if your monitor supports DSC:
+	- Check the manual or specifications of your monitor to see if it supports DSC.
+	- You can also check if DSC is enabled on your monitor by accessing its menu system and looking for the DSC option.
+
+3. Enable DSC on your Dell Latitude 7430:
+	- Open the Intel Graphics Command Center by right-clicking on the desktop and selecting Graphics Properties.
+	- Click on Display and then select Features.
+	- Toggle the switch next to Display Stream Compression (DSC) to enable it.
+	- Save the changes and restart your laptop.
+
+4. Enable DSC on your monitor:
+	- Access the menu system of your monitor and look for the DSC option.
+	- Enable DSC on your monitor and save the changes.
+
+Once you have enabled DSC on both your laptop and monitor, you should be able to enjoy higher resolution and faster refresh rates with reduced bandwidth requirements.
+
+[How to enable Display Stream Compression](https://www.dell.com/support/kbdoc/en-us/000197102/how-to-enable-display-stream-compression-on-latitude-precision-and-xps)
+
+If you can't find the `DpMstDscDisable` value in the Registry Editor, it's possible that it's not present on your system or that it has been removed or renamed.
+
+In this case, you can try creating the `DpMstDscDisable` value yourself. Here are the steps to follow:
+
+1.  Open the Registry Editor by pressing the `Windows key + R` on your keyboard, typing `regedit` in the Run dialog box, and then pressing Enter.
+    
+2.  Navigate to the following key: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Configuration`
+    
+3.  Under the Configuration key, you should see one or more subkeys with long, cryptic names. Expand each subkey until you find the one that contains the entry for your monitor. The easiest way to do this is to look at the `PrimSurfSize.cx` and `PrimSurfSize.cy` values in each subkey, which should match the resolution of your monitor.
+    
+4.  Once you've found the correct subkey, right-click on an empty space in the right-hand pane and select `New > DWORD (32-bit) Value`.
+    
+5.  Name the new value "DpMstDscDisable" (without the quotes).
+    
+6.  Double-click on the new value and set its data to 0.
+    
+7.  Close the Registry Editor and restart your computer.
+
+After following these steps, DSC should be enabled on your system. However, keep in mind that modifying the registry can be risky and may cause issues with your system if done incorrectly. It's a good idea to back up the registry before making any changes, and if you're not comfortable working with the registry, you may want to seek assistance from a knowledgeable technician.
