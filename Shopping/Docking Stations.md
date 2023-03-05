@@ -4,6 +4,62 @@ The Dell WD19TB is the gold standard. Main thing to keep in mind is the bandwidt
 
  ![287553516_10220386526243325_385554012205618825_n](https://i.imgur.com/HhiSGSE.jpg)
 
+# Dell Thunderbolt Dock WD22TB4
+
+| System Specifications                                                  |                          |
+|------------------------------------------------------------------------|--------------------------|
+| Model                                                                  | [WD22TB4](https://www.dell.com/support/manuals/en-us/wd22tb4-dock/dell_wd22tb4_userguide/product-specifications?guid=guid-bb63fcdf-357e-408c-82f1-c7c56e8d5b4e&lang=en-us)                  |
+| Service Tag                                                            | 3SPVXS3                  |
+| External displays supported                                            | Up to 4                  |
+| 1 x USB 3.2 Gen2 Type-C with DisplayPort 1.4 Alt Mode                  | Video Ports              |
+| 2 x DisplayPort 1.4                                                    |                          |
+| 1 x HDMI 2.0                                                           |                          |
+| 2 x Type-C with Thunderbolt 4 port (connected to a Thunderbolt 4 host) |                          |
+| 2 x USB Type-A 3.2 Gen1                                                | USB Type-A ports         |
+| 1 x USB Type-A 3.2 Gen1 with PowerShare                                |                          |
+| 1 x USB 3.2 Gen2 Type-C                                                | USB Type-C ports         |
+| 2 x Type-C with Thunderbolt 4 port (connected to a Thunderbolt 4 host) |                          |
+| 1 x USB 3.2 Gen2 Type-C with DisplayPort 1.4 Alt Mode                  |                          |
+| AC adapter options                                                     | 180 W                    |
+| 3 x 4K (3840 x 2160) @60 Hz + 1 x 4K (3840 x 2160) @30 Hz              | [Display Resolution Table](https://www.dell.com/support/manuals/en-us/wd22tb4-dock/dell_wd22tb4_userguide/display-resolution-table?guid=guid-fafc77a4-c95f-44df-92ad-608231d11cd9&lang=en-us) |
+
+HDR3 Compatible - Yes.
+
+# Dell HP Support Question
+
+I have a [[Laptops#Dell Latitude 7430|Dell Latitude 7430]] and a Dell Thunderbolt Dock WD22TB4, and according to the specs it can support up to 3x 4k @ 60 Hz + 1x 4k @ 30 Hz. But when I plug in my Super Ultrawide [[2022 Black Friday List#Super Ultrawide Monitor|Samsung 49" Odyssey G9]], I only get 2560x1440 @60 Hz (6.64 Gbps). I'm supposed to get 5120 x 1440 @ 60 Hz via HDMI 2.0 or 5120 x 1440 @ 240 Hz via DisplayPort 2. According to [[Cable Standards]] 1 x 5K (5120 x 1440) display @60 Hz requires 13.27 Gbps of bandwidth, which is significantly less than 3 x 4K (3840 x 2160) displays @60 Hz + 1 x 4K (3840 x 2160) display @30 Hz, which requires [43.7 Gbps](https://www.kramerav.com/bandwidth-calculator/). Can you help me get the full resolution through this docking station?
+
+![](https://i.imgur.com/EfEGGoO.png)
+
+
+In the [Display Resolution Table](https://www.dell.com/support/manuals/en-us/wd22tb4-dock/dell_wd22tb4_userguide/display-resolution-table?guid=guid-fafc77a4-c95f-44df-92ad-608231d11cd9&lang=en-us) there are 3 rows:
+1. HBR2 (HBR2 x8 lanes - 34.5 Gbps)
+2. HBR3 (HBR3 x4 lanes + HBR3 x1 - 32.4 Gbps
+3. HBR3 with DSC (Display Stream Compression)
+
+And depending on which of these ports I fall under, it gives me different max resolutions. How do I know which row applies to me?
+
+Anything that supports DisplayPort 1.4 is [[Cable Standards#DisplayPort Bit Rate Class|HBR3]]. It is High Bit Rate 3 which allows increased resolutions, higher refresh rates, and greater color depth, such as 3840 × 2160 at 60 Hz 10 bpc RGB. You can check the [HBR3 supported system](https://www.dell.com/support/kbdoc/en-us/000183937/dell-systems-supporting-hbr3-specifications) or if your Laptop is not listed, you can find out yourself under the "Steps For Checking HBR2 or HBR3 Compatibility" section. HBR3 supports a DisplayPort Max Resolution of 7680 x 4320 @ 60Hz
+
+If the Internal display is enabled it would be considered as dual display. You can turn off the Internal display by using the LED switch in latitude BIOS where we can close the LID of the Latitude to utilize the full 4K.
+
+It says so on the WD monitor Configuration - NOTE If higher resolution monitors are used, the Graphics driver makes a judgment based on monitor specifications and display configurations. Some resolutions may not be supported and so will be removed from the Windows Display Control Panel.
+
+## Feedback
+
+He was very polite and helpful. Although he did give me some misinformation, that my Latitude 7430 only has HBR2 compatibility, when it is HBR3 compatible. Then when he wasn't able to solve my issue, he directed me to reach out to Samsung, which seems frequent with Dell customer service. I'm positive there is nothing they will do as my Laptop and Docking Station are both Dell.
+
+Again, he was polite, but I would recommend Dell take more ownership in their products and stop shifting the blame to the monitors.
+
+Sources for HDR3 compatibility:
+[Dell Systems Supporting HBR3 Specifications](https://www.dell.com/support/kbdoc/en-us/000183937/dell-systems-supporting-hbr3-specifications) states "HBR3 supports a DisplayPort Max Resolution of 7680 x 4320 @ 60Hz" under the "Steps For Checking HBR2 or HBR3 Compatibility" section.
+
+My Processor Graphics: [i7-1270P](https://www.intel.com/content/www/us/en/products/sku/226255/intel-core-i71270p-processor-18m-cache-up-to-4-80-ghz/specifications.html)
+
+Dell has the [U4919DW 49".](https://www.dell.com/en-us/shop/dell-ultrasharp-49-curved-monitor-u4919dw/apd/210-arnw)
+
+[How to enable Display Stream Compression?](https://www.dell.com/support/kbdoc/en-us/000197102/how-to-enable-display-stream-compression-on-latitude-precision-and-xps)
+
 # HP USB-C Dock G5
 
 Product #: [5TW10AA#ABA](https://www.hp.com/us-en/shop/pdp/hp-usb-c-dock-g5-p-5tw10aa-aba-1?#techSpecs)

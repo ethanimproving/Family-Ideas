@@ -14,6 +14,7 @@ Laptops should have the following capabilities:
 | System Manufacturer                                                     | Dell Inc.                                                                          |
 | System Model                                                            | Latitude 7430                                                                      |
 | Processor                                                               | [12th Gen Intel(R) Core(TM) i7-1270P](https://www.intel.com/content/www/us/en/products/sku/226255/intel-core-i71270p-processor-18m-cache-up-to-4-80-ghz/specifications.html), 2200 Mhz, 12 Core(s), 16 Logical Processor(s) |
+| Display Stream Compression (DSC) Support                                | [Yes](https://www.intel.com/content/www/us/en/support/articles/000092565/graphics.html)                               |
 | Installed Physical Memory (RAM)                                         | 32.0 GB                                                                            |
 | Total Physical Memory                                                   | 31.4 GB                                                                            |
 | Available Physical Memory                                               | 21.4 GB                                                                            |
