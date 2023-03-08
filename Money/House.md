@@ -51,6 +51,17 @@ Look at an amortization chart.
 
 Weight 1-5, tally Ethan and Mariana
 
+# Houses
+
+[7322 Oakmore Drive](https://www.redfin.com/TX/Dallas/7322-Oakmore-Dr-75249/home/31116051) | [Zillow](https://www.zillow.com/homes/7322-Oakmore-Dr-Dallas,-TX-75249_rb/26892483_zpid/) | [Google Photos](https://photos.app.goo.gl/jdnMXBsykBx8wXVN6)
+
+Redfin Estimate: $275,158
+Year Built: 1979
+House Size: 1,780 Sq. Ft.
+Lot Size: 6,573 Sq. Ft.
+Beds: 3
+Baths: 2
+
 # Interest Rate
 
 One reputable resource you can use to find the average interest rate in Texas with a [[Credit Score|credit score of 750]] is [Bankrate.com](https://www.bankrate.com/). Bankrate is a trusted source for financial information and offers various tools and resources, including a loan rate estimator. You can input your loan amount, term, credit score, and location to see average interest rates for different types of loans, such as auto loans, personal loans, and mortgages.
