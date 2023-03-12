@@ -26,26 +26,6 @@ var __copyProps = (to, from, except, desc) => {
 };
 var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__getProtoOf(mod)) : {}, __copyProps(isNodeMode || !mod || !mod.__esModule ? __defProp(target, "default", { value: mod, enumerable: true }) : target, mod));
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
-var __async = (__this, __arguments, generator) => {
-  return new Promise((resolve, reject) => {
-    var fulfilled = (value) => {
-      try {
-        step(generator.next(value));
-      } catch (e) {
-        reject(e);
-      }
-    };
-    var rejected = (value) => {
-      try {
-        step(generator.throw(value));
-      } catch (e) {
-        reject(e);
-      }
-    };
-    var step = (x) => x.done ? resolve(x.value) : Promise.resolve(x.value).then(fulfilled, rejected);
-    step((generator = generator.apply(__this, __arguments)).next());
-  });
-};
 
 // biblejs-name-converter/lib/books.js
 var require_books = __commonJS({
@@ -567,7 +547,7 @@ __export(main_exports, {
   default: () => BibleReferencePlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian3 = require("obsidian");
+var import_obsidian4 = require("obsidian");
 
 // src/data/BibleApiSourceCollection.ts
 var BibleAPISourceCollection = {
@@ -577,7 +557,7 @@ var BibleAPISourceCollection = {
   },
   bollsLife: {
     name: "Bolls Life",
-    apiUrl: "https://bible-api-bff.bai.uno/bolls-life"
+    apiUrl: "https://bolls.life/get-text"
   }
 };
 
@@ -683,6 +663,76 @@ var BibleVersionCollection = [
     versionName: "Chinese Union Version (Traditional)",
     language: "Chinese",
     apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "nr06",
+    versionName: "Nuova Riveduta, 2006",
+    language: "Latin / Italian",
+    apiSource: BibleAPISourceCollection.bollsLife
+  }
+];
+
+// src/data/BibleVerseReferenceLinkPosition.ts
+var BibleVerseReferenceLinkPositionCollection = [
+  {
+    name: "Header" /* Header */,
+    description: "Header (Bible Verse Header)"
+  },
+  {
+    name: "Bottom" /* Bottom */,
+    description: "Bottom (Bottom of Bible Verse Content)"
+  },
+  {
+    name: "Both" /* AllAbove */,
+    description: "Both (Both of Above)"
+  }
+];
+
+// src/data/BibleVerseFormat.ts
+var BibleVerseFormatCollection = [
+  {
+    name: "Single Line" /* SingleLine */,
+    description: "Single Line"
+  },
+  {
+    name: "Paragraph" /* Paragraph */,
+    description: "Paragraph"
+  }
+];
+
+// src/data/BibleVerseNumberFormat.ts
+var BibleVerseNumberFormatCollection = [
+  {
+    name: "1. " /* Period */,
+    description: "1. "
+  },
+  {
+    name: "1.) " /* PeriodParenthesis */,
+    description: "1.) "
+  },
+  {
+    name: "1) " /* Parenthesis */,
+    description: "1) "
+  },
+  {
+    name: "1 - " /* Dash */,
+    description: "1 - "
+  },
+  {
+    name: "1 " /* NumberOnly */,
+    description: "1 "
+  },
+  {
+    name: "^1" /* SuperScript */,
+    description: "^1 (superscript)"
+  },
+  {
+    name: "**^1**" /* SuperScriptBold */,
+    description: "**^1** (bolded superscript)"
+  },
+  {
+    name: "None" /* None */,
+    description: "None"
   }
 ];
 
@@ -694,7 +744,11 @@ var APP_NAMING = {
   defaultStatus: ""
 };
 var DEFAULT_SETTINGS = {
-  bibleVersion: BibleVersionCollection[0].key
+  bibleVersion: BibleVersionCollection[0].key,
+  referenceLinkPosition: "Header" /* Header */,
+  verseFormatting: "Single Line" /* SingleLine */,
+  verseNumberFormatting: "1. " /* Period */,
+  collapsibleVerses: false
 };
 
 // src/ui/BibleReferenceSettingTab.ts
@@ -716,41 +770,106 @@ var BibleReferenceSettingTab = class extends import_obsidian.PluginSettingTab {
       return BibleVersionCollection;
     };
     this.SetUpVersionSettingsAndVersionOptions = (containerEl) => {
-      new import_obsidian.Setting(containerEl).setName("Default Bible Version").setDesc("Choose the Bible Version You Prefer").addDropdown((dropdown) => {
+      new import_obsidian.Setting(containerEl).setName("Default Bible Version").setDesc("Choose the Bible version you prefer").addDropdown((dropdown) => {
         const allVersionOptions = this.getAllBibleVersionsWithLanguageNameAlphabetically();
         allVersionOptions.forEach((version) => {
           dropdown.addOption(version.key, `${version.language} - ${version.versionName} @${version.apiSource.name}`);
         });
-        dropdown.setValue(this.plugin.settings.bibleVersion).onChange((value) => __async(this, null, function* () {
+        dropdown.setValue(this.plugin.settings.bibleVersion).onChange(async (value) => {
           this.plugin.settings.bibleVersion = value;
           console.debug("Default Bible Version: " + value);
-          yield this.plugin.saveSettings();
+          await this.plugin.saveSettings();
           new import_obsidian.Notice("Bible Reference Settings Updated ");
-        }));
+        });
+      });
+    };
+    this.SetUpReferenceLinkPositionOptions = (containerEl) => {
+      new import_obsidian.Setting(containerEl).setName("Verse Reference Link Position").setDesc("Where to put the bible verse reference link of the bible").addDropdown((dropdown) => {
+        var _a;
+        BibleVerseReferenceLinkPositionCollection.forEach(({ name, description }) => {
+          dropdown.addOption(name, description);
+        });
+        dropdown.setValue((_a = this.plugin.settings.referenceLinkPosition) != null ? _a : "Bottom" /* Bottom */).onChange(async (value) => {
+          this.plugin.settings.referenceLinkPosition = value;
+          console.debug("Bible Verse Reference Link Position: " + value);
+          await this.plugin.saveSettings();
+          new import_obsidian.Notice("Bible Reference Settings Updated ");
+        });
+      });
+    };
+    this.SetUpVerseFormatOptions = (containerEl) => {
+      new import_obsidian.Setting(containerEl).setName("Verse Formatting Options").setDesc("Sets how to format the verses in Obsidian, either line by line or in 1 paragraph").addDropdown((dropdown) => {
+        var _a;
+        BibleVerseFormatCollection.forEach(({ name, description }) => {
+          dropdown.addOption(name, description);
+        });
+        dropdown.setValue((_a = this.plugin.settings.verseFormatting) != null ? _a : "Single Line" /* SingleLine */).onChange(async (value) => {
+          this.plugin.settings.verseFormatting = value;
+          console.debug("Bible Verse Format To: " + value);
+          await this.plugin.saveSettings();
+          new import_obsidian.Notice("Bible Verse Format Settings Updated");
+        });
+      });
+    };
+    this.SetUpVerseNumberFormatOptions = (containerEl) => {
+      new import_obsidian.Setting(containerEl).setName("Verse Number Formatting Options").setDesc("Sets how to format the verse numbers in Obsidian").addDropdown((dropdown) => {
+        var _a;
+        BibleVerseNumberFormatCollection.forEach(({ name, description }) => {
+          dropdown.addOption(name, description);
+        });
+        dropdown.setValue((_a = this.plugin.settings.verseNumberFormatting) != null ? _a : "1. " /* Period */).onChange(async (value) => {
+          this.plugin.settings.verseNumberFormatting = value;
+          console.debug("Bible Verse Number Format To: " + value);
+          await this.plugin.saveSettings();
+          new import_obsidian.Notice("Bible Verse Format Number Settings Updated");
+        });
+      });
+    };
+    this.SetUpTextOptions = (containerEl) => {
+      new import_obsidian.Setting(containerEl).setName("Make Verses Collapsible").setDesc("Make the inserted verses collapsible").addToggle((toggle) => {
+        var _a;
+        return toggle.setValue(!!((_a = this.plugin.settings) == null ? void 0 : _a.collapsibleVerses)).onChange((value) => {
+          this.plugin.settings.collapsibleVerses = value;
+          this.plugin.saveData(this.plugin.settings);
+        });
       });
     };
     this.plugin = plugin;
   }
   display() {
-    let { containerEl } = this;
+    const { containerEl } = this;
     containerEl.empty();
-    containerEl.createEl("h2", { text: "Settings for " + APP_NAMING.appName });
+    const headingSection = containerEl.createDiv();
+    headingSection.innerHTML = `
+        <iframe src="https://github.com/sponsors/tim-hub/button" title="Sponsor Obsidian Bible Reference" width="116" height="32px" style="margin-right: 2em"/>
+    `;
+    containerEl.createEl("h2", { text: "Settings" });
     this.SetUpVersionSettingsAndVersionOptions(containerEl);
-    containerEl.createEl("br");
-    containerEl.createEl("p", { text: "The back-end is powered by Bible-Api.com and Bolls.life/API, at current stage the performance from Bolls.life/API might be a bit slow." });
-    containerEl.createEl("br");
-    containerEl.createEl("p", { text: "For Chinese CUV Version, at current stage, it is required to use English book name for input." });
+    this.SetUpReferenceLinkPositionOptions(containerEl);
+    this.SetUpVerseFormatOptions(containerEl);
+    this.SetUpVerseNumberFormatOptions(containerEl);
+    this.SetUpTextOptions(containerEl);
+    containerEl.createEl("h2", { text: "About" });
+    containerEl.createSpan({}, (span) => {
+      span.innerHTML = `
+        <a href="https://github.com/tim-hub/obsidian-bible-reference">Github Repo</a>
+      `;
+    });
   }
 };
 
-// src/VerseEditorSuggestor.ts
+// src/suggesetor/VerseEditorSuggester.ts
 var import_obsidian2 = require("obsidian");
 
-// src/VerseTypoCheck.ts
-var shortReg = /\-{2}([123])*[A-z]{3,}\d{1,3}\:\d{1,3}(\-\d{1,3})*/;
-var VerseTypoCheck = (verse) => {
+// src/utils/regs.ts
+var SHORT_REG = /-{2}([123])*[A-z]{3,}\d{1,3}:\d{1,3}(-\d{1,3})*/;
+var MODAL_REG = /([123])*[A-z]{3,}\d{1,3}:\d{1,3}(-\d{1,3})*/;
+var BOOK_REG = /[123]*[A-z]{3,}/;
+
+// src/utils/VerseTypoCheck.ts
+var VerseTypoCheck = (verse, modal = false) => {
   var _a, _b;
-  return (_b = (_a = verse.match(shortReg)) == null ? void 0 : _a.first()) != null ? _b : "";
+  return (_b = (_a = verse.match(modal ? MODAL_REG : SHORT_REG)) == null ? void 0 : _a.first()) != null ? _b : "";
 };
 
 // src/provider/BibleProvider.ts
@@ -761,25 +880,26 @@ var BibleProvider = class {
   get QueryURL() {
     return this._queryUrl;
   }
+  get VerseLinkURL() {
+    return this._queryUrl;
+  }
   get BibleReferenceHead() {
     return this._bibleReferenceHead;
   }
-  query(bookName, chapter, verse, versionName) {
-    return __async(this, null, function* () {
-      if (!this._key && versionName) {
-        throw new Error("version (language) not set yet");
-      }
-      const url = this.buildRequestURL(bookName, chapter, verse, versionName || this._key);
-      console.debug(url, "url to query");
-      try {
-        const response = yield fetch(url);
-        const data = yield response.json();
-        return this.formatBibleVerses(data, bookName, chapter, verse, versionName || this._key);
-      } catch (e) {
-        console.error("error while querying", e);
-        return yield Promise.reject(e);
-      }
-    });
+  async query(bookName, chapter, verse, versionName) {
+    if (!this._key && versionName) {
+      throw new Error("version (language) not set yet");
+    }
+    const url = this.buildRequestURL(bookName, chapter, verse, versionName || this._key);
+    console.debug(url, "url to query");
+    try {
+      const response = await fetch(url);
+      const data = await response.json();
+      return this.formatBibleVerses(data, bookName, chapter, verse, versionName || this._key);
+    } catch (e) {
+      console.error("error while querying", e);
+      return await Promise.reject(e);
+    }
   }
 };
 
@@ -818,6 +938,9 @@ var BollyLifeProvider = class extends BibleProvider {
     this._key = key;
     this._apiUrl = bibleVersion.apiSource.apiUrl;
     this._chapterApiUrl = this._apiUrl;
+  }
+  get VerseLinkURL() {
+    return this._queryUrl.replace("/get-text", "");
   }
   buildRequestURL(bookName, chapter, verses, versionName) {
     const baseUrl = this._chapterApiUrl;
@@ -868,7 +991,8 @@ var BibleAPIFactory = class {
 
 // src/VerseSuggesting.ts
 var VerseSuggesting = class {
-  constructor(bookName, chapterNumber, verseNumber, verseNumberEnd, bibleVersion) {
+  constructor(settings, bookName, chapterNumber, verseNumber, verseNumberEnd) {
+    this.settings = settings;
     this.bookName = bookName;
     this.chapterNumber = chapterNumber;
     this.verseNumber = verseNumber;
@@ -877,47 +1001,117 @@ var VerseSuggesting = class {
     this.chapterNumber = chapterNumber;
     this.verseNumber = verseNumber;
     this.verseNumberEnd = verseNumberEnd;
-    this.bibleVersion = bibleVersion != null ? bibleVersion : BibleVersionCollection[0].key;
+    this.bibleVersion = settings.bibleVersion;
   }
   get ReplacementContent() {
-    return `> [!Bible] 
-> ${this.text.trim()} 
-> 
+    var _a;
+    let head = `> [!Bible]`;
+    let bottom = "";
+    if ((_a = this.settings) == null ? void 0 : _a.collapsibleVerses) {
+      head += "-";
+    }
+    if (this.settings.referenceLinkPosition === "Header" /* Header */ || this.settings.referenceLinkPosition === "Both" /* AllAbove */) {
+      head += this.getVerseReference();
+    }
+    if (this.settings.referenceLinkPosition === "Bottom" /* Bottom */ || this.settings.referenceLinkPosition === "Both" /* AllAbove */) {
+      bottom += `> 
  ${this.getVerseReference()}`;
+    }
+    return [head, this.text, bottom].join("\n");
   }
-  getVerses() {
-    return __async(this, null, function* () {
-      var _a;
-      console.debug(this.bibleVersion);
-      if (this.bibleVersion === DEFAULT_SETTINGS.bibleVersion) {
-        console.log("match to default language plus version");
-      }
-      const bibleVersion = (_a = BibleVersionCollection.find((bv) => bv.key === this.bibleVersion)) != null ? _a : BibleVersionCollection[0];
-      if (!this.bibleProvider || this.bibleProvider.BibleVersionKey !== (bibleVersion == null ? void 0 : bibleVersion.key)) {
-        this.bibleProvider = BibleAPIFactory.Instance.BuildBibleVersionAPIAdapterFromIBibleVersion(bibleVersion);
-      }
-      return this.bibleProvider.query(this.bookName, this.chapterNumber, (this == null ? void 0 : this.verseNumberEnd) ? [this.verseNumber, this.verseNumberEnd] : [this.verseNumber]);
-    });
+  async getVerses() {
+    var _a;
+    console.debug(this.bibleVersion);
+    if (this.bibleVersion === DEFAULT_SETTINGS.bibleVersion) {
+      console.debug("match to default language plus version");
+    }
+    const bibleVersion = (_a = BibleVersionCollection.find((bv) => bv.key === this.bibleVersion)) != null ? _a : BibleVersionCollection[0];
+    if (!this.bibleProvider || this.bibleProvider.BibleVersionKey !== (bibleVersion == null ? void 0 : bibleVersion.key)) {
+      this.bibleProvider = BibleAPIFactory.Instance.BuildBibleVersionAPIAdapterFromIBibleVersion(bibleVersion);
+    }
+    return this.bibleProvider.query(this.bookName, this.chapterNumber, (this == null ? void 0 : this.verseNumberEnd) ? [this.verseNumber, this.verseNumberEnd] : [this.verseNumber]);
   }
-  fetchAndSetVersesText() {
-    return __async(this, null, function* () {
-      const verses = yield this.getVerses();
-      let text = "";
-      verses.forEach((verse) => {
-        text += verse.text.replace("\n", "\n>");
-      });
-      this.text = text;
+  formatVerseNumber(verseNumber) {
+    let verseNumberFormatted = "";
+    switch (this.settings.verseNumberFormatting) {
+      case "1. " /* Period */:
+        verseNumberFormatted += verseNumber + ". ";
+        return verseNumberFormatted;
+      case "1.) " /* PeriodParenthesis */:
+        verseNumberFormatted += verseNumber + ".) ";
+        return verseNumberFormatted;
+      case "1) " /* Parenthesis */:
+        verseNumberFormatted += verseNumber + ") ";
+        return verseNumberFormatted;
+      case "1 - " /* Dash */:
+        verseNumberFormatted += verseNumber + " - ";
+        return verseNumberFormatted;
+      case "1 " /* NumberOnly */:
+        verseNumberFormatted += verseNumber + " ";
+        return verseNumberFormatted;
+      case "^1" /* SuperScript */:
+        verseNumberFormatted += "<sup> " + verseNumber + " </sup>";
+        return verseNumberFormatted;
+      case "**^1**" /* SuperScriptBold */:
+        verseNumberFormatted += "<sup> **" + verseNumber + "** </sup>";
+        return verseNumberFormatted;
+      case "None" /* None */:
+        verseNumberFormatted = " ";
+        return verseNumberFormatted;
+      default:
+        verseNumberFormatted += verseNumber + ". ";
+        return verseNumberFormatted;
+    }
+  }
+  async fetchAndSetVersesText() {
+    const verses = await this.getVerses();
+    let text = "";
+    if (this.settings.verseFormatting === "Paragraph" /* Paragraph */) {
+      text = "> ";
+    } else {
+      text = "";
+    }
+    verses.forEach((verse) => {
+      const verseNumberFormatted = this.formatVerseNumber(verse.verse);
+      if (this.settings.verseFormatting === "Paragraph" /* Paragraph */) {
+        text += " " + verseNumberFormatted + verse.text.trim().replaceAll("\n", " ");
+      } else {
+        text += "> " + verseNumberFormatted + verse.text.trim() + "\n";
+      }
     });
+    this.text = text.trim();
   }
   getVerseReference() {
-    return ` [${this.bibleProvider.BibleReferenceHead} - ${this.bibleVersion.toUpperCase()}](${this.bibleProvider.QueryURL})
-
-`;
+    return ` [${this.bibleProvider.BibleReferenceHead} - ${this.bibleVersion.toUpperCase()}](${this.bibleProvider.VerseLinkURL})`;
+  }
+  renderSuggestion(el) {
+    const outer = el.createDiv({ cls: "obr-suggester-container" });
+    outer.createDiv({ cls: "obr-shortcode" }).setText(this.text);
   }
 };
 
-// src/VerseEditorSuggestor.ts
-var VerseEditorSuggestor = class extends import_obsidian2.EditorSuggest {
+// src/suggesetor/getSuggestionsFromQuery.ts
+async function getSuggestionsFromQuery(query, settings) {
+  var _a;
+  console.debug("get suggestion for query ", query.toLowerCase());
+  const bookName = (_a = query.match(BOOK_REG)) == null ? void 0 : _a.first();
+  if (!bookName) {
+    console.error(`could not find through query`, query);
+    return [];
+  }
+  const numbersPartsOfQueryString = query.substring(2 + bookName.length);
+  const numbers = numbersPartsOfQueryString.split(/[-:]+/);
+  const chapterNumber = parseInt(numbers[0]);
+  const verseNumber = parseInt(numbers[1]);
+  const verseEndNumber = numbers.length === 3 ? parseInt(numbers[2]) : void 0;
+  const suggestingVerse = new VerseSuggesting(settings, bookName, chapterNumber, verseNumber, verseEndNumber);
+  console.debug(bookName, chapterNumber, verseNumber, verseEndNumber, suggestingVerse, settings);
+  await suggestingVerse.fetchAndSetVersesText();
+  return [suggestingVerse];
+}
+
+// src/suggesetor/VerseEditorSuggester.ts
+var VerseEditorSuggester = class extends import_obsidian2.EditorSuggest {
   constructor(plugin, settings) {
     super(plugin.app);
     this.plugin = plugin;
@@ -939,29 +1133,11 @@ var VerseEditorSuggestor = class extends import_obsidian2.EditorSuggest {
     }
     return null;
   }
-  getSuggestions(context) {
-    return __async(this, null, function* () {
-      var _a;
-      console.debug("get suggestion for query ", context.query.toLowerCase());
-      const bookName = (_a = context.query.match(/[123]*[A-z]{3,}/)) == null ? void 0 : _a.first();
-      if (!bookName) {
-        console.error(`could not find through query`, context.query);
-        return [];
-      }
-      const numbersPartsOfQueryString = context.query.substring(2 + bookName.length);
-      const numbers = numbersPartsOfQueryString.split(/[-:]+/);
-      const chapterNumber = parseInt(numbers[0]);
-      const verseNumber = parseInt(numbers[1]);
-      const verseEndNumber = numbers.length === 3 ? parseInt(numbers[2]) : void 0;
-      const suggestingVerse = new VerseSuggesting(bookName, chapterNumber, verseNumber, verseEndNumber, this.settings.bibleVersion);
-      console.debug(bookName, chapterNumber, verseNumber, verseEndNumber, suggestingVerse, this.settings.bibleVersion);
-      yield suggestingVerse.fetchAndSetVersesText();
-      return [suggestingVerse];
-    });
+  async getSuggestions(context) {
+    return getSuggestionsFromQuery(context.query, this.settings);
   }
   renderSuggestion(suggestion, el) {
-    const outer = el.createDiv({ cls: "obr-suggester-container" });
-    outer.createDiv({ cls: "obr-shortcode" }).setText(suggestion.text);
+    suggestion.renderSuggestion(el);
   }
   selectSuggestion(suggestion) {
     if (this.context) {
@@ -970,28 +1146,61 @@ var VerseEditorSuggestor = class extends import_obsidian2.EditorSuggest {
   }
 };
 
+// src/suggesetor/VerseModalSuggester.ts
+var import_obsidian3 = require("obsidian");
+var VerseModalSuggester = class extends import_obsidian3.SuggestModal {
+  constructor(app, settings) {
+    super(app);
+    this.settings = settings;
+    this.setInstructions([
+      { command: "", purpose: "Select verses to insert, ex: John1:1-3" }
+    ]);
+  }
+  async getSuggestions(query) {
+    const match = VerseTypoCheck(query, true);
+    if (match) {
+      console.debug("trigger on", query);
+      return getSuggestionsFromQuery(`--${query}`, this.settings);
+    }
+    return [];
+  }
+  renderSuggestion(suggestion, el) {
+    suggestion.renderSuggestion(el);
+  }
+  onChooseSuggestion(item, evt) {
+    var _a;
+    const editor = (_a = this.app.workspace.getActiveViewOfType(import_obsidian3.MarkdownView)) == null ? void 0 : _a.editor;
+    if (!editor) {
+      return;
+    }
+    editor.replaceRange(item.ReplacementContent, editor.getCursor());
+  }
+};
+
 // src/main.ts
-var BibleReferencePlugin = class extends import_obsidian3.Plugin {
-  onload() {
-    return __async(this, null, function* () {
-      console.log("loading plugin -", APP_NAMING.appName);
-      yield this.loadSettings();
-      this.addSettingTab(new BibleReferenceSettingTab(this.app, this));
-      this.registerEditorSuggest(new VerseEditorSuggestor(this, this.settings));
+var BibleReferencePlugin = class extends import_obsidian4.Plugin {
+  async onload() {
+    console.log("loading plugin -", APP_NAMING.appName);
+    await this.loadSettings();
+    this.suggestModal = new VerseModalSuggester(this.app, this.settings);
+    this.addSettingTab(new BibleReferenceSettingTab(this.app, this));
+    this.registerEditorSuggest(new VerseEditorSuggester(this, this.settings));
+    this.addCommand({
+      id: "obr-lookup",
+      name: "Verse Lookup",
+      callback: () => {
+        this.suggestModal.open();
+      }
     });
   }
   onunload() {
     console.log("unloading plugin", APP_NAMING.appName);
   }
-  loadSettings() {
-    return __async(this, null, function* () {
-      this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
-      console.debug(this.settings);
-    });
+  async loadSettings() {
+    this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+    console.debug(this.settings);
   }
-  saveSettings() {
-    return __async(this, null, function* () {
-      yield this.saveData(this.settings);
-    });
+  async saveSettings() {
+    await this.saveData(this.settings);
   }
 };

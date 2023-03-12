@@ -85,10 +85,6 @@ It's worth noting that interest rates can vary widely based on many factors, so 
 [Wise Investments - Pastor Shelley](https://stedfastbaptistkjv.org/wp-content/uploads/2021/05/Wise-Investments-Pastor-Jonathan-Shelley-Stedfast-Baptist-Church.mp3)
 [The Destruction of the Middle Class - Pastor Shelley](https://stedfastbaptistkjv.org/wp-content/uploads/2022/11/Destruction-of-the-Middle-Class-Pastor-Jonathan-Shelley-SBC.mp3)  (With Alex, Rich, and Phil)
 
-Don't be worries about the exorbitant interest the banks are charging. Even if the year of Jubilee doesn't happen, God will redistribute the the wealth to someone who cares about the poor. 
-> [!Bible] 
-> He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.
-> 
-> 
-  [Proverbs 28:8 - KJV](https://bible-api.com/Proverbs+28:8?translation=kjv)
-
+Don't be worries about the exorbitant interest the banks are charging. Even if the year of Jubilee doesn't happen, God will redistribute the the wealth to someone who cares about the poor.
+> [!Bible] [Proverbs 28:8 - KJV](https://bible-api.com/Proverbs+28:8?translation=kjv)
+> 8. He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.
