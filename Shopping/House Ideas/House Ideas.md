@@ -173,3 +173,7 @@ Viktor. “[How Much Weight Can I Hang on a Door?](https://thediyplan.com/how-mu
 
 Admin. "[Do Doors Need 2 Hinges or 3 Hinges?](https://monroeengineering.com/blog/do-doors-need-2-hinges-or-3-hinges)" *Monroe Engineering*, One Monroe, 15 Mar. 2022.
 
+# Foldimate
+
+[FOLDIMATE](https://www.youtube.com/watch?v=2kv9eeKqmNk)
+[Foldimate’s laundry-folding machine actually works now](https://www.theverge.com/2019/1/7/18171441/foldimate-laundry-folding-robot-ces-2019)

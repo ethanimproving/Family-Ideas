@@ -62,6 +62,10 @@ Lot Size: 6,573 Sq. Ft.
 Beds: 3
 Baths: 2
 
+## Revonation
+
+Will the cost of renovating the house increase the sale price by the same amount or a higher amount?
+
 # Interest Rate
 
 One reputable resource you can use to find the average interest rate in Texas with a [[Credit Score|credit score of 750]] is [Bankrate.com](https://www.bankrate.com/). Bankrate is a trusted source for financial information and offers various tools and resources, including a loan rate estimator. You can input your loan amount, term, credit score, and location to see average interest rates for different types of loans, such as auto loans, personal loans, and mortgages.

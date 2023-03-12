@@ -16,3 +16,7 @@ Permanent -
 [Visual Presentation with Daniel](https://www.youtube.com/watch?v=bhTfWN6Rm5o)
 
 Makes more sense to take out an annuity or self invest. The insurance company makes money because they are using your money and investing it to make a lot more than they're giving you. You are giving them those extra gains to hedge off the risk of market downturns.
+
+Or use [an HSA](https://smart-choice.wealthcareportal.com/Page/HsaInvestments?accountId=1149938) to invest yourself.
+
+![](https://i.imgur.com/HSYLoso.png)
