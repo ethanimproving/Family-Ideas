@@ -55,12 +55,12 @@ Weight 1-5, tally Ethan and Mariana
 
 [7322 Oakmore Drive](https://www.redfin.com/TX/Dallas/7322-Oakmore-Dr-75249/home/31116051) | [Zillow](https://www.zillow.com/homes/7322-Oakmore-Dr-Dallas,-TX-75249_rb/26892483_zpid/) | [Google Photos](https://photos.app.goo.gl/jdnMXBsykBx8wXVN6)
 
-Redfin Estimate: $275,158
-Year Built: 1979
-House Size: 1,780 Sq. Ft.
-Lot Size: 6,573 Sq. Ft.
-Beds: 3
-Baths: 2
+- Redfin Estimate: $275,158
+- Year Built: 1979
+- House Size: 1,780 Sq. Ft.
+- Lot Size: 6,573 Sq. Ft.
+- Beds: 3
+- Baths: 2
 
 ## Revonation
 
@@ -85,6 +85,6 @@ It's worth noting that interest rates can vary widely based on many factors, so 
 [Wise Investments - Pastor Shelley](https://stedfastbaptistkjv.org/wp-content/uploads/2021/05/Wise-Investments-Pastor-Jonathan-Shelley-Stedfast-Baptist-Church.mp3)
 [The Destruction of the Middle Class - Pastor Shelley](https://stedfastbaptistkjv.org/wp-content/uploads/2022/11/Destruction-of-the-Middle-Class-Pastor-Jonathan-Shelley-SBC.mp3)  (With Alex, Rich, and Phil)
 
-Don't be worries about the exorbitant interest the banks are charging. Even if the year of Jubilee doesn't happen, God will redistribute the the wealth to someone who cares about the poor.
+Don't be worried about the exorbitant interest the banks are charging. Even if the year of Jubilee doesn't happen, God will redistribute the the wealth to someone who cares about the poor.
 > [!Bible] [Proverbs 28:8 - KJV](https://bible-api.com/Proverbs+28:8?translation=kjv)
 > 8. He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.
