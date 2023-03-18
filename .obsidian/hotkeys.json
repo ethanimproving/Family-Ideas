@@ -113,5 +113,13 @@
       "key": "1"
     }
   ],
-  "omnisearch:show-modal": []
+  "omnisearch:show-modal": [],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Delete"
+    }
+  ]
 }

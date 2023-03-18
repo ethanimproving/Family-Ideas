@@ -1,4 +1,0 @@
-- [X] Set X axis limits on handle slider (7/13/2018 9:59 PM)
-- [X] Combine jump to click method with slider
-- [X] Create input element next to custom slider (7/14/2018 10:26 PM)
-- [X] Integrate superior slider to audio element (7/17/2018 11:48 AM)
