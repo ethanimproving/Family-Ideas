@@ -116,6 +116,8 @@ It will output something like this:
 * Vantage - Advanced Search Builder
 * [Using color to think better](https://www.youtube.com/watch?v=vZC7FAOSjkU)
 * [Heatmap Calendar](obsidian://show-plugin?id=heatmap-calendar)
+* [Search For Selected Text](https://github.com/scambier/obsidian-omnisearch/issues/212)
+* [Option to open in a new tab](https://github.com/scambier/obsidian-omnisearch/issues/213)
 
 # Version Control with Git LFS
 [Introducing and Setting up Git LFS (Large File Storage)](https://www.youtube.com/@CloudwithChris)
