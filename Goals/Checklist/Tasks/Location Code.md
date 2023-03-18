@@ -1,0 +1,1 @@
+Did you know… location code is GSC (Global Support Campus) for Skyview 7 & 8

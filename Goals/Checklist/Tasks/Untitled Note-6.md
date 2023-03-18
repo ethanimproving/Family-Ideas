@@ -1,0 +1,8 @@
+- [X] Add two weeks to learn how to pull custom metrics for autoscaling based on TPS.
+- [X] Email TNT Gold 4 about using Node IPs as the sources in FAR request.
+- [X] Follow up on Quotas allocated to etds project.
+- [X] Keep an eye on the AD Group permissions.
+- [X] Open TNT request to find out why I get 404 from Postman / ReadyAPI but not browser.
+- [X] Update User Story and get it accepted
+- [X] Update Variable Groups for multi-application deployments.
+- [ ] Find heavy hitting products in iTKTS

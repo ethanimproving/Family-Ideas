@@ -1,0 +1,9 @@
+- [X] TODO: Remove unneeded files from repository.
+- [X] TODO: Remove #full-video from URL unless media-menu__link is clicked.
+- [ ] TODO: Style Articles page.
+- [ ] TODO: Create a view for homepage.
+- [ ] TODO: Fade sidebar__item out on guideButton click.
+- [X] TODO: Fix hidden media-container on generic hashchange event @ main.js > hashApp > this.$hashContent.hide();.
+- [ ] TODO: Make a diagram (data design) of the website.
+- [ ] Fix unresponsive Audio hash button. (Occurs when playback doesn't start automatically.)
+- [ ] Add name of mongo database to readme.

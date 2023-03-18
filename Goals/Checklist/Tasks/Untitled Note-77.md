@@ -1,0 +1,15 @@
+- - [X] Update YNAB
+- - [X] Buy Bibles
+- - [X] Setup Digital Ocean
+- - [ ] Develop script to backup the cloud db
+- - [ ] Phone data in Mexico
+- - [ ] Gather activity and conversion ideas in one place for Mexico
+- - [ ] Front license plate
+- - [ ] Break roders
+- - [X] Send appointment and vacation dates for work
+- - [ ] Cheapest covid test
+- - [ ] Book flights to AZ / Mexico
+- - [X] Purchase Airbnb for AZ
+- - [ ] Look up transportation for AZ
+- - [ ] Buy ab workout strap
+- - [ ] But Tiege Hanleyq

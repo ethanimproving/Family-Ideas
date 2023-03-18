@@ -1,0 +1,4 @@
+- [ ] Organize and Filter Indeed emails
+- [ ] Deploy Python and Flask to Netlify
+- [ ] Deploy [ASP.NET](http://ASP.NET) to Azure
+- [ ] Rename and change descriptions to detail web apps like Elijah.

@@ -1,0 +1,18 @@
+- [X] Check when Spring Creek campus is open
+- Jan. 2
+- [ ] Check when signup deadlines are
+- Ask Deborah how to find out
+- [X] Check if I got an new Collin ID
+- [ ] Decide if I even want to go back to school or not
+- I can't take the advanced classes that I want to without prerequisites I already know (mandated by the state)
+- [ ] De-confirm eye appointment on the 2nd
+- [X] Finish "Elisha's Ferver"
+- [ ] Finish "Double or Nothing"
+- [X] Plug in Samsung wireless charger in the hallway
+- [ ] Find salsa tutorials
+
+- [ ] Paint walls with dad and the crew
+- [ ] Paint corner
+- [ ] Paint trim
+- [ ] Watch Christopher Robin
+- [X] Dad's Birthday List

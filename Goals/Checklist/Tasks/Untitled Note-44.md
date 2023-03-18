@@ -1,0 +1,1 @@
+- [ ] Make a separate YouTube channel for personal vlogs (riding on Amplify is just vain glory for more views and will in all likelihood harm your channel). Don't do it for the views. Do it for the content.

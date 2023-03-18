@@ -1,0 +1,13 @@
+"Lambda expressions can be very useful, though some people think they’re quite hard to understand (perhaps because the name sounds rather mathematical and complicated)." Why even tell me that? There's no information here here. Just tell me what it does. "However, a lambda expression is ==a means of creating a piece of functional behavior that we can use as a value in our pro==grams. That doesn’t sound complicated at all, does it?" Oh, functional behavior. That's so insightful.
+
+"A function takes something, does something with it, and then returns a result. ==You can think of a lambda expression as a tiny function that we can write on one line==. Figure 12-1 shows the anatomy of a lambda expression." I had to read all of that to get the one line that had anything to say.
+
+Another problem with reading a book to learn code is that while I may have two eyes, I can only look at one thing at a time. When I read, "This expression also defines a function called increment which returns the value of its parameter," I have to stop reading, look at the function,
+
+`increment = lambda x : x+1`
+
+find increment, and then find where I was in the paragraph and resume reading until it gives me the next reference, and I have to break all over again. " plus one. On the left side of the colon {break to find, look at code, find place in paragraph, resume reading} is the parameter supplied to the lambda expression {break to find, look at code, find place in paragraph, resume reading}; on the right is the expression (x+1) that provides the result. {break to find, look at code, find place in paragraph, resume reading}" There's no reason that people should be using such an inefficient way to learn code. A 4 minute video can talk to you with the code in front of you, highlight with a cursor what code he's talking about, output what it does, and explain what happened. Reading takes an unnecessary amount of time.
+
+"In this section, we’ll discover how to create our own iterators. We can make an iterator by using a Python statement that we haven’t seen before: yield. In English, the word “yield” can be used in more than one way. It can be used when two knights are fighting for the hand of the princess. At some point in the fight, one knight will say, “I yield” and let the victorious knight get the girl. Another way of using yield is to say that an apple tree might “yield” (produce) some fruit that you can take home and use in a pie. The latter meaning of yield best represents what yield does in Python programs."
+
+Why waste time on the princess? I have things I need to do. I'm not reading a textbook to hear low key attempts at humor. I'm trying to learn something. That's my objective.

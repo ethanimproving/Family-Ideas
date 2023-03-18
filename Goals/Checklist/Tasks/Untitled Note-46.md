@@ -1,0 +1,1 @@
+Never, ever let you experience or your expectations dictate your theology. The way you interpret the Bible should come from the Bible. And if you see, "Believers will lay their hands on the sick and the sick will recover," and you lay your hands on the sick, and the sick don't recover, keep believing what you see in the Bible until you have a text that nullifies it.

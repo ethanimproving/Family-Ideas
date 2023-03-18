@@ -1,0 +1,5 @@
+- [X] Lecture 7
+- [X] Outer Join Assignment
+- [X] Practice Test
+- [ ] Practice Test Discussions
+- [X] Python Homework

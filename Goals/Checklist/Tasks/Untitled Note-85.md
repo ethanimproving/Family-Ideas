@@ -1,0 +1,10 @@
+- [ ] Snapchat new believers
+- [X] Email Tom Bihn about laptop sleeve
+- [ ] Find soul-winning partner for Sunday
+- [ ] Sign up for health benefits
+- [X] Put off the old man, and put on the new man
+- [ ] Message Mariana
+- [ ] Research Camel Api
+- [X] Download Evernote, Onedrive, thinkorswim, and Excel
+- [ ] YNAB
+- [ ] Schedule Passport

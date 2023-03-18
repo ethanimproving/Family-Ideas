@@ -1,0 +1,4 @@
+- [X] Refactor resume.
+- [X] Refactor porfolio.
+- [X] Respond to projekt202 opportunity.
+- [ ] Apply to 5 job listings.

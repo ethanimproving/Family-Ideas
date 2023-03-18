@@ -1,0 +1,7 @@
+- [X] Walk through Angular's Getting Started tutorial
+- [X] Catalog missing Lego bricks and contact TexasMama
+- [ ] Submit 3 job applications
+- [ ] Play Legos for 1 hour
+- [X] Log hours into coding development spreadsheet
+- [ ] Relearn how to construct a Watchlist in TOS
+- [ ] Upload video to YouTube

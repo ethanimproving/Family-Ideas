@@ -1,0 +1,1 @@
+It was worth getting my mom's ugly looks to have a piece of her heart. I have somewhat her kindness, a quality more important to me that good skin.

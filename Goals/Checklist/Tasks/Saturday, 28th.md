@@ -1,0 +1,4 @@
+- [X]  Get ice at sonic for Anna
+- [X]  Build spreadsheet of every mention of the word some in the Bible
+- [X]  Reinstall boostnote
+- [X]  Research the HTML5 Audio API. Somebody else has created an RMS bar.

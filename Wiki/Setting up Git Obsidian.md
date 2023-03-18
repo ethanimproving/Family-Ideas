@@ -23,6 +23,8 @@
 | Push Changes          | Ctrl + Shift + K |
 | View history for file | Alt + H          |
 | Format                | Shift + Alt + F  |
+| Reveal current file in navigation | Alt + 1 |
+
 
 ## Multi-caret selection / line manipulation
 
@@ -112,7 +114,8 @@ It will output something like this:
 * Markdown Table Editor
 * Kanban
 * Vantage - Advanced Search Builder
-* [Using color to think better](https://www.youtube.com/watch?v=vZC7FAOSjkU): 
+* [Using color to think better](https://www.youtube.com/watch?v=vZC7FAOSjkU)
+* [Heatmap Calendar](obsidian://show-plugin?id=heatmap-calendar)
 
 # Version Control with Git LFS
 [Introducing and Setting up Git LFS (Large File Storage)](https://www.youtube.com/@CloudwithChris)

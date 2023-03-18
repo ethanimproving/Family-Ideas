@@ -1,0 +1,9 @@
+- **Tasks**
+- [X] Python Lab 5
+- [X] Python Extra Credit Lab 3
+- [X] Python Discussion Questions
+- [X] Tidy / dust desk, put away clothes, hang up shirts
+- [X] Vacuum bedroom floor
+- [ ] Upload Python Lab to Github
+- [X] Tidy hallway
+- [X] Dust hallway

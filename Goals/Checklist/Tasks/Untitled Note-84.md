@@ -1,0 +1,5 @@
+- [X] Buy Huel
+- [X] Buy socks
+- [X] Buy laptop sleeve
+- [ ] Find mug to bring to work (or Yeti)
+- [ ] Buy Hydroflask

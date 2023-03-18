@@ -1,0 +1,9 @@
+- - [X] Pack Debit Cards
+- - [X] Pack Passport
+- - [X] Do Laundry
+- - [X] Get international data
+- - [X] Charge headphones and devices
+- - [X] Call Texans
+- - [X] Call Carles Schwab with pin: 753468
+- - [X] Clear out phone
+- - [X] Put Spanish songs on hymn app

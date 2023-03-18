@@ -1,0 +1,10 @@
+- [ ] Prepare soul-winning anecdotes
+- [ ] Premeditated boldness for dating a coworker
+- [ ] Start a checking account and debit card
+- [ ] Fill out new hire paper work
+- [ ] Verify when orientation is
+- [ ] Prepare nutshell soul-winning inspiration speech
+- [ ] Prepare to teach soul-winning
+- [ ] Print out maps to cover / create a map-keeping system
+- [ ] Download ibullybear sessions.
+- [ ] Research how to add PayPal and Credit Card to purchase.

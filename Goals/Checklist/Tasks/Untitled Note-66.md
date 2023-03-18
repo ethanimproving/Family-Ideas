@@ -1,0 +1,21 @@
+- **Sundry Tasks**
+- [X] Find Hanklebert
+- In Faith's closet (under a clump of stuff on the floor)
+- [X] Unpack my Chick-Fil-'A bag
+- [X] Organize Clothes in Boxes and pack away in the attic
+- [X] C++ Chapter 6 Review Questions
+- [X] C++ Exercise
+- [X] C++ Assignment
+- [X] C++ Quiz
+- [ ] Python Homework
+- [ ] Python Extra Credit
+- [ ] 2 SQL Lectures
+
+- **Birthday!**
+- [X] Dinner
+- [X] Desert
+- [X] Presents
+
+- **Fun**
+- [X] Kirby
+- [ ] Dance

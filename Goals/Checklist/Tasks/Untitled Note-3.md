@@ -1,0 +1,1 @@
+A man with experience is never at the mercy of a man with an opinion.

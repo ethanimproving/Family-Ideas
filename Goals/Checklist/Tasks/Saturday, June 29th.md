@@ -1,0 +1,5 @@
+- [X] Apply for 7 jobs.
+- [ ] Add bibleAcademy TODO.txt to Azure Boards project.
+- [ ] Deploy bibleAcademy to Netlify.
+- [ ] Stitch left pant leg on black suit while listening to Alexander Scourby
+- [ ] Begin crafting cover letter

@@ -1,0 +1,33 @@
+- [X] ( ( e.clientX - input.offset().left ) / input.width() ) * duration
+- [X] fix time update offsetting slider thumb
+        - [X] current time * ( max value / duration ) // commented out
+- [X] create time bubble / float / tooltip
+        - [X] duration * (mousemoveValue / maxValue) = bubble content
+        - [X] create and style float element
+        - [X] display inline on mousemove and none on mouseleave
+        - [X] set position left to clientX - parent offset().left
+- [X] split up into mins and secs
+- [X] add playback speed icon (7/19/2018 9:10 PM)
+- facepalm for the base64 circumvention, "transform: scale3d(calc(18/38), calc(18/38), 1);"
+- created svg in illustrator
+- replaced line breaks (^p) with nothing in Word
+- content:  url('data:image/svg+xml;utf8,<svg ...> ... </svg>');g
+- expanded audio.player constrain by 23px to fit the new button (otherwise loud btn wraps down)
+- [X] add playback speed functionality
+- [X] fix pre-play seeking problem (it starts at beginning) (7/19/2018 3:44 PM)
+- Check seekslider.value = newTime under // Time update
+        - [X] current time needs to load before invoked (audioElement.js:98)
+        - [X] replace currentTime with mousemoveValue function
+- Didn't try this because currentTime is BEING set, not the value we're setting our seek time to. Duh.
+        - [X] Added "&& myAudio.duration > 0" to if condition.
+- [X] fix time current indicator (using the seekslider.value attribute) (7/19/2018 2:06 PM)
+        - [X] ( seekslider.value / seekslider.max ) * $('#total').width()
+- Somehow I had 6 lines of code dedicated to the time-current indicator on event timeupdate, which was silly because it should always be trailing the slider thumb regardless of timeupdate. I got rid of it.
+- Actually duh, of course I need it to move on timeupdate, because otherwise it just stays in the last place I moved the mouse.
+- [X] get time elapsed / remaining to update on input change (7/19/2018 3:13 PM)
+        - [X] e.clientX returning udefined (7/19/2018 3:09 PM)
+- It was because clientX uses the MouseEvent interface, so the on('input', ...) method I was using didn't provide a mouse value.
+- [X] Fix current audio level indicator on drag (7/19/2018 3:18 PM)
+- Oops, deleted chunk of code thinking it was *time* current indicator,
+- [ ] think about recoding the isPlaying test to toggle the Play/Pause button
+- [ ] center float content vertically

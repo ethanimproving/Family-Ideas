@@ -1,0 +1,2 @@
+- [ ] Look at Delay in Virtualization
+- [ ] Look at Memory Config

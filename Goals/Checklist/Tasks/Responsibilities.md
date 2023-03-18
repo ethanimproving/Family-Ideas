@@ -1,0 +1,6 @@
+- [X] aws
+- [X] Google API
+- [X] Jury duty
+- [X] Men's Warehouse
+- [ ] Cancel dentist appointment
+- [ ] Buy Carl's wedding gift

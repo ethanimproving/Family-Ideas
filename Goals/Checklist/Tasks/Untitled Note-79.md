@@ -1,0 +1,9 @@
+- - [ ] Import Nook library into kindle
+- - [ ] Determine if Logos is worth it
+- - [X] Email Brio
+- - [X] Clip nails
+- - [X] Discuss AOL002 DT Alerts for PTOL
+- - [ ] Config thread pool in banks
+- - [X] More load testing on aesws
+- - [X] Acura TLX Type S 2021
+- - [ ] Measure feet for sockwa campaign

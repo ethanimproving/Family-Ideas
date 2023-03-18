@@ -1,0 +1,2 @@
+- [ ] SSL certificate problems in git
+- [ ] maven import dependency problems

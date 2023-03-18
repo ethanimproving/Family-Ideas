@@ -1,0 +1,14 @@
+- [X] Vote
+- [X] Sign up for Benefits
+- [ ] Orthodontist
+- [ ] Renew Drivers License
+- [ ] Get passport
+- [ ] Prepare 5 minute sermon
+- [X] Troubleshoot Bose-Teams connection issue
+- [X] Call Bose Product Support at 1-800-379-2073
+- [X] Message Bose at 508-469-5278 with a reference number.
+- [ ] Print Shipping label
+- [ ] Pack Bose Headset for return
+- [ ] Drop off Bose package to UPS
+- [X] Wash / vacuum car
+- [X] Review Thunderbolt adapter on Amazon for $15

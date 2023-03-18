@@ -1,0 +1,20 @@
+- [ ] Review verses in ScriptureTyper
+- [ ] Practice my gospel presentation
+- [ ] Sign up for classes
+- [ ] Sort through audio recordings
+- [ ] Organize prayer requests
+- [ ] Paint den and get things ready for new carpet
+- [ ] Lobby for bare walls
+- Digitize all DVD's and store them away
+    - We haven't used them all year
+    - We would still have access to them on Plex
+    - It looks a lot cleaner
+    - *Possibly* think about losing entertainment center altogether
+    - I can get rid of my Rescue Heroes for storage space
+- Go through bookshelf contents, digitize some of it
+- Bare living room takes priority over bare den because it's more commonly occupied
+- Move couches closer to TV for better experience
+    - Less eye strain
+    - Less peripheral clutter
+    - Read words and character movements easier for Video Games
+- Keep entertainment center on fire place during summer for better viewing angles, more space dancing, more breathability

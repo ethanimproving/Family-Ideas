@@ -1,0 +1,5 @@
+- [X] Finish Maximillian's MEAN Stack Udemy course
+- [X] Do not lie down while the sun is up (push through the tiredness!)
+- [X] Apply to 3 jobs
+- [X] Respond to Improving call
+- [ ] Tally up total souls won to the Lord

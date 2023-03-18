@@ -1,0 +1,11 @@
+- - [ ] Book AirBnB for Puerto Rico
+- - [ ] Book flights to Puerto Rico
+- - [ ] Corroborate transportation for John to Matamoros
+- - [ ] Pack for Matamoros trip
+- - [ ] Highlight and tab Spanish Bible
+- - [ ] Compare car rentals vs Uber prices for Puerto
+- - [ ] Do Laundry
+- - [ ] Charge headphones and devices
+- - [ ] Call Texans @ 972.348.2000
+- - [X] Give travel notice in Carles Schwab app
+- - [ ] Clear out phone

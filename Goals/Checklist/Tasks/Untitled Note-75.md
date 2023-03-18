@@ -1,0 +1,8 @@
+- - [ ] <s>Auto tagging ondrive</s>
+- - [ ] Clear out phone
+- - [ ] Buy better phone
+- - [ ] Memorize sos
+- - [X] Send OOO Lasik Appointment to team
+- - [ ] Research the things Robbert talked about
+- - [ ] New Patient Paperwork
+- - [ ] Add Mariana to CS account

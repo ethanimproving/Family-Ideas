@@ -1,0 +1,1 @@
+It is so much easier to get up when you have to. I'm not worried about next week. I don't even feel bad about this week.
