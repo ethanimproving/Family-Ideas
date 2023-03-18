@@ -3,6 +3,7 @@
   "cssTheme": "",
   "accentColor": "",
   "enabledCssSnippets": [
-    "slack"
+    "slack",
+    "evernote"
   ]
 }

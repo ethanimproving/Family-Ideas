@@ -80,6 +80,12 @@ It's worth noting that interest rates can vary widely based on many factors, so 
 
 ![](https://cdn1.byjus.com/wp-content/uploads/2021/11/Compound-Interest-1.png)
 
+# Nuanced Analysis
+
+## How does debt negatively affect my quality of life?
+
+Paying $350,000 with a loan vs $200,000 with cash is just one way of thinking about the issue. You have to be more nuanced than that. If I don't have any money, and it's $5 for a sandwich, would I rather pay $5 for the sandwich tomorrow and just go without food today, or would I rather pay $10 for a sandwich 7 days from now, but I get to eat it today? The question about house loans becomes, "How does the debt negatively affect my quality of life, and how does the house positive effect my quality of life?" You weigh it in the balance. Maybe I have to save $5,000 a month for 5 years in order to pay cash for the house, and I have to wait 5 years to get married. Or what would monthly payment be across 30 years if there was zero interest? And how much more is it with interest? That number is how debt negatively impacts you. Maybe it's only a difference of $300. What can you do with $300? And if $300 extra a month improves your life to a far enough extent, it only takes a $3600 raise (after taxes) to offset the loan's negative effect on your life. So instead of stressing out about finding the perfect deal on a house, buy the one you want, get a loan, stop waiting for a bigger down payment, and focus on improving your specialized skillset to increase the value of your labor hour so that you eliminate the loan's negative effect on your quality of life.
+
 # Wise Investments
 
 [Wise Investments - Pastor Shelley](https://stedfastbaptistkjv.org/wp-content/uploads/2021/05/Wise-Investments-Pastor-Jonathan-Shelley-Stedfast-Baptist-Church.mp3)
