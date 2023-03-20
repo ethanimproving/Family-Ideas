@@ -2,6 +2,8 @@
   "pinned": [
     "obsidian-git:commit-specified-message",
     "obsidian-git:push2",
-    "obsidian-git:pull"
+    "obsidian-git:pull",
+    "omnisearch:show-modal",
+    "file-explorer:reveal-active-file"
   ]
 }
