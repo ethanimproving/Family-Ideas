@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "a77d5bda7a6b07c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "add1d35569237202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1ff3689b46e6d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Health/Aromatherapy/Air Purification System.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "ab8a8ee78551b2c6"
+          }
+        ]
+      },
+      {
+        "id": "178f64cacc876e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e641af62e31d1913",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Health/Aromatherapy/Air Purification System.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 8,
+                  "close": false
+                }
+              }
+            },
+            "group": "ab8a8ee78551b2c6"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33e9b33d863ded67",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "df56352b623be534",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4f8a4cd74787a509",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "847d810abe6154ae",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "13c868313a24308a",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e2683b551dc7ccfc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2eae3adf82214458",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Health/Aromatherapy/Air Purification System.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "87669ab0762a38cc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Goals/Schedule.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d3cd3c26594e954f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Health/Aromatherapy/Air Purification System.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "6c1ff3689b46e6d3",
+  "lastOpenFiles": [
+    "Health/Exercise/Upper Lower Workout Routine.md",
+    "Goals/Schedule.md",
+    "Health/Nutrition/Saladmaster Recipes.md",
+    "Health/Exercise/Excersize GIFs.md",
+    "Health/Nutrition",
+    "Goals/Checklist",
+    "Goals/Checklist/2023-03-02.md",
+    "/Health/Nutrition/Saladmaster Recipes.md",
+    "/Goals/Checklist/2023-03-02.md",
+    "/Health/Nutrition",
+    "/Goals/Checklist",
+    "Shopping/House Ideas/House Ideas.md",
+    "Goals/Ethan's Commitments.md",
+    "/Shopping/House Ideas/House Ideas.md",
+    "Shopping/Monitors.md",
+    "/Health/Exercise/Upper Lower Workout Routine.md",
+    "/Health/Exercise/Excersize GIFs.md",
+    "/Shopping/Monitors.md",
+    "Parenting/Spiritual/Life Plan.md",
+    "Parenting/Spiritual/Contrarian Theology Arguments.md",
+    "Parenting/Spiritual/Day By Day.md",
+    "Parenting/Spiritual/God Has Called Me Into Ministry.md",
+    "Parenting/Psychological/Workout Tips.md",
+    "Parenting/Psychological/Training Or Claiming.md",
+    "Parenting/Psychological/Mental Training.md",
+    "Parenting/Psychological/Perspectives On Argument.md",
+    "Parenting/Psychological/Speak Freely.md",
+    "Shopping/Unlimited Photo Storage.md",
+    "Shopping/Phone.md",
+    "Wiki/Test Canvas.canvas",
+    "Health/Toxins",
+    "/Wiki/Test Canvas.canvas",
+    "/Health/Toxins"
+  ]
+}
