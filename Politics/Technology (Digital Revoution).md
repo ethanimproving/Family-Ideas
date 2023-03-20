@@ -108,3 +108,7 @@ Along with the problem of, "How can I get paid?" There is another evil and sadis
 # Light
 
 My uncle who is a missionary in PNG told me that when he first started his mission up there, they didn't have artificial light. So when it got dark, everybody used to go to sleep. But the single thing that changed the culture more than anything else was when they introduced flash lights into the village, because now they had the ability to go from place to place during the night.
+
+# Delivery Drone
+
+[Amazing Invention - This Drone Will Change Everything](https://youtu.be/DOWDNBu9DkU)
