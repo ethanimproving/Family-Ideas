@@ -112,3 +112,8 @@ My uncle who is a missionary in PNG told me that when he first started his missi
 # Delivery Drone
 
 [Amazing Invention - This Drone Will Change Everything](https://youtu.be/DOWDNBu9DkU)
+
+# Chemically Engineered Viruses
+
+[The Origins of Covid 19](https://youtu.be/FEh5JyZC218)
+Evidence has come out that the Corona Virus was most likely engineered. Most viruses have very similar genomes, so they lined up the RNA sequence against 30 other viruses and found a spike gene that DOESN’T EXIST in other viruses. 🧬 In particular this furin cleavage site is responsible for using a human enzyme called furin to reconfigure the virus as it leaves the cell to make it prime at attacking another cell. It’s specific to humans, and every other virus has a natural adaptation where a gene is changed slightly from one to another, but this one appears to be inserted because it’s completely new genetic information targeting very specific human enzymes.
