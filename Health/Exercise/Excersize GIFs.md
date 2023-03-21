@@ -111,6 +111,26 @@ Alternatives: Shoulder Press
 
 ![](https://www.bodybuildingmealplan.com/wp-content/uploads/Dumbbell-Lat-Exercises-Incline-Row.png)
 
+### Dumbbell Press
+
+![](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/dumbbellbenchpress-1457043820.gif)
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Press.gif)
+
+### Dumbbell Fly
+
+![](http://newlife.com.cy/wp-content/uploads/2019/11/03021301-Dumbbell-Decline-Fly_Chest_360.gif)
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Incline-dumbbell-Fly.gif)
+
+![](https://usercontent.one/wp/www.gymguider.com/wp-content/uploads/2017/10/flat-bench-dumbbell-flyes.gif?media=1674222935)
+
+### Dumbbell Single Arm Tricep Extension
+
+![](https://fitnessprogramer.com/wp-content/uploads/2021/06/Seated-One-Arm-Dumbbell-Triceps-Extension.gif)
+
+![](https://thumbs.gfycat.com/SpryThriftyCondor-size_restricted.gif)
+
 ## Barbell
 
 ### Barbell Bent Over Row
@@ -120,6 +140,8 @@ Alternatives: Shoulder Press
 ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Bent-Over-Row.gif)
 
 ### Barbell Bench Press
+
+Alternatives: [[#Dumbbell Incline Press]] [[#Dumbbell Press]]
 
 ![](https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/wideB.gif)
 
@@ -148,6 +170,8 @@ Barbell Overhead Press
 
 #triceps
 
+Alternatives: [[#Dumbbell Single Arm Tricep Extension]]
+
 #### Cable Side Triceps Extension
 
 ![](https://fitnessprogramer.com/wp-content/uploads/2021/09/Cable-Side-Triceps-Extension.gif)
@@ -165,6 +189,8 @@ Barbell Overhead Press
 ### Cable Fly
 
 #chest
+
+Alternatives: [[#Dumbbell Fly]]
 
 #### Standing Cable Fly
 

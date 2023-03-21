@@ -76,7 +76,7 @@
 | [[Excersize GIFs#Lat pulldown\|LAT PULLDOWN]]                     | 3    | 10    | 8   | 2-3min | PULL YOUR ELBOWS DOWN AND IN, USE A 1.5X SHOULDER WIDTH GRIP                                                                     |
 | [[Excersize GIFs#Overhead press\|OVERHEAD PRESS]]                   | 3    | 10    | 7   | 3-4min | SQUEEZE YOUR GLUTES TO KEEP YOUR TORSO UPRIGHT, CLEAR YOUR HEAD OUT OF THE WAY, PRESS UP AND SLIGHTLY BACK                       |
 | [[Excersize GIFs#Chest-supported t-bar row\|CHEST-SUPPORTED T-BAR ROW]]        | 3    | 12    | 8   | 2-3min | FOCUS ON SQUEEZING YOUR SHOULDER BLADES TOGETHER AS YOU PULL THE WEIGHT TOWARDS YOU. KEEP YOUR SHOULDERS DOWN (AVOID SHRUGGING). |
-| [[Excersize GIFs#Cable Fly|CABLE FLYE]]                       | 3    | 12    | 8   | 1-2min | KEEP YOUR ELBOWS SLIGHTLY BENT AT A CONSTANT ANGLE WHILE SQUEEZING YOUR PECS TO MOVE THE WEIGHT                                  |
+| [[Excersize GIFs#Cable Fly\|CABLE FLYE]]                       | 3    | 12    | 8   | 1-2min | KEEP YOUR ELBOWS SLIGHTLY BENT AT A CONSTANT ANGLE WHILE SQUEEZING YOUR PECS TO MOVE THE WEIGHT                                  |
 | [[Excersize GIFs#Dumbbell supinated curl\|DUMBBELL SUPINATED CURL]]          | 3    | 10    | 8   | 1-2min | DRIVE YOUR PINKY INTO THE HANDLE HARDER THAN YOUR POINTER FINGER                                                                 |
 | [[Excersize GIFs#Single-Arm Rope Triceps Extension\|SINGLE-ARM ROPE TRICEP EXTENSION]] | 3    | 12    | 8   | 1-2min | PULL YOUR ARM BEHIND YOUR TORSO, DON'T MOVE YOUR UPPER ARM                                                                       |
 
