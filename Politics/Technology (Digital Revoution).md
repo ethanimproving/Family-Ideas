@@ -102,3 +102,44 @@ My uncle who is a missionary in PNG told me that when he first started his missi
 
 [Amazing Invention - This Drone Will Change Everything](https://youtu.be/DOWDNBu9DkU)
 
+# Radio Waves
+
+We use them to transmit information.
+
+# Records, tapes, CDs, MP3
+
+# VHS, DVDs, MP4
+
+# Cameras
+
+# Clocks
+
+![](https://i.redd.it/vk48w6yyzes31.jpg)
+
+# Telephone, Cell Phone, Smart Phone
+
+# Will AI Replace Doctors?
+
+Mostly what doctors do is listen to you explain your symptoms and compare that with a database of related disease. This is why Teladoc has become so popular. Anything that Teladoc can do, AI can do better through deep learning, and for free.
+
+[This AI Is Beating Doctors At Their Own Game](https://youtu.be/xDgkmXAsvL8)
+
+[Is Artificial Intelligence Starting to Replace Doctors?](https://youtu.be/mxNu4YNMOMQ)
+[Asking ChatGPT Tough Medical Questions](https://youtu.be/lGSGTrn5INA)
+
+# Is AI Replacing Lawyers?
+
+[How ChatGPT Will Replace Lawyers](https://youtu.be/KTzQaBxGDLs)
+[Real Lawyers Battle ChatGPT](https://youtu.be/zQyiZcpOyMw)
+
+
+# ChatGPT
+
+[Jordan Peterson’s Disturbing Warning About ChatGPT](https://youtu.be/mUkTz_1uzSs)
+[Silicon Valley People Will Lose Their Jobs](https://youtu.be/MUOVnIbTZeA)
+[Elon Musk on ChatGPT](https://youtu.be/ANHwnQL2zew)
+
+[AI Will Replace 40% Of Jobs](https://youtube.com/shorts/mSUddLBb_Cs?feature=share)
+[Will AI Replace Programmers?](https://youtube.com/shorts/CKy6CTEiY_U?feature=share)
+
+[Why Is OpenAI’s CharGPT So Terrifying?](https://youtu.be/1hHfoB4mSrQ)
