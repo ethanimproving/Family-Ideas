@@ -143,3 +143,22 @@ Mostly what doctors do is listen to you explain your symptoms and compare that w
 [Will AI Replace Programmers?](https://youtube.com/shorts/CKy6CTEiY_U?feature=share)
 
 [Why Is OpenAI’s CharGPT So Terrifying?](https://youtu.be/1hHfoB4mSrQ)
+# Airplanes
+
+[Mind-blowing how loud planes used to be](https://youtube.com/shorts/VIsUKWLcUjs?feature=share)
+
+# AI As A Tool For Content Creation
+
+[The best AI tools to help you make videos](https://www.facebook.com/reel/175308241934413?fs=e&s=TIeQ9V&mibextid=0NULKw)
+
+[Use otter.ai to dictate what the speaker is saying](https://www.facebook.com/reel/606642210930322?fs=e&s=TIeQ9V&mibextid=0NULKw)
+
+# AI As A Job Search Assistant
+
+[Autogenerate Custom Cover Letters](https://www.facebook.com/reel/598583212121384?fs=e&s=TIeQ9V&mibextid=0NULKw)
+
+[Use LinkedIn](https://www.facebook.com/reel/200436449275367?fs=e&s=TIeQ9V&mibextid=0NULKw)
+
+# Wi-Fi Heat Map
+
+[You can now see people through walls.](https://www.facebook.com/reel/5906453712777388?fs=e&s=TIeQ9V&mibextid=0NULKw)

@@ -20,3 +20,7 @@ Makes more sense to take out an annuity or self invest. The insurance company ma
 Or use [an HSA](https://smart-choice.wealthcareportal.com/Page/HsaInvestments?accountId=1149938) to invest yourself.
 
 ![](https://i.imgur.com/HSYLoso.png)
+
+[The proper way to buy a car](https://www.facebook.com/reel/971709177371760?mibextid=0NULKw&fs=e&s=TIeQ9V)
+
+[In this life you didn’t gain anything and you didn’t lose anything.](https://www.facebook.com/reel/5982725875154741?fs=e&s=TIeQ9V&mibextid=0NULKw)
