@@ -177,3 +177,7 @@ Admin. "[Do Doors Need 2 Hinges or 3 Hinges?](https://monroeengineering.com/blog
 
 [FOLDIMATE](https://www.youtube.com/watch?v=2kv9eeKqmNk)
 [Foldimate’s laundry-folding machine actually works now](https://www.theverge.com/2019/1/7/18171441/foldimate-laundry-folding-robot-ces-2019)
+
+# Life Hacks
+
+[Life hacks and tips](https://fb.watch/jtyPg8VL0i/?mibextid=YCRy0i).
