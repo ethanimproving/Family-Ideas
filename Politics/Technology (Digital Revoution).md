@@ -159,6 +159,8 @@ Mostly what doctors do is listen to you explain your symptoms and compare that w
 
 [Use LinkedIn](https://www.facebook.com/reel/200436449275367?fs=e&s=TIeQ9V&mibextid=0NULKw)
 
+[How to ask for a raise](https://youtube.com/shorts/eE44BbhLx6o?feature=share)
+
 # Wi-Fi Heat Map
 
 [You can now see people through walls.](https://www.facebook.com/reel/5906453712777388?fs=e&s=TIeQ9V&mibextid=0NULKw)
