@@ -88,6 +88,25 @@ Cedar Ridge Preserve | [15 min walk](https://www.google.com/maps/dir/7322+Oakmor
 
 Crawford Park | [7 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/Crawford+Park,+401+Straus+Rd,+Cedar+Hill,+TX+75104/@32.6143297,-96.9690416,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8dc860a7c1f1:0xa4b7accebad4565e!2m2!1d-96.953122!2d32.595908!3e0)
 
+## Ideal Living Location
+
+The most important fixed locations are:
+
+- Church: [332 Texas St, Cedar Hill, TX 75104](https://goo.gl/maps/Ug6coU7BvgvVCaa16)
+- Work: [1 Transformation Way, Fort Worth, TX 76155](https://goo.gl/maps/Tb7rHeapTNMUfbUH8)
+- Family: [1310 Leeward Ln, Wylie, TX 75098](https://goo.gl/maps/XpYGR9Fi9DQpLYuw6)
+- Caleb: [5221 Longshadow Dr, Princeton, TX 75407](https://goo.gl/maps/gfz6RqZaJhi3KncNA)
+- Six Flags
+- Movies
+
+I won't include gyms and grocery stores since I will find those wherever I live. There are two tools I like to use for triangulating the ideal living lovation:
+
+- [Ideal Job Locator](https://github.com/ethanmiller1/Find-Ideal-Job-Location)
+- [Travel Time Map Demo](https://app.traveltime.com/search/0-lng=-96.56225&0-color=%23f7941d&0-mode=driving&0-title=1310%2C%20Leeward%20Lane%2C%20Wylie%2C%20Collin%20County%2C%20Texas%2C%2075098%2C%20United%20States&0-lat=33.04133&1-lng=-97.06599&1-color=%23d60064&1-mode=driving&1-time=d1679493609246&1-title=American%20Airlines%20-%20Skyview%207%2C%201%2C%20Transformation%20Way%2C%20Fort%20Worth%2C%20Tarrant%20County%2C%20Texas%2C%2076155%2C%20United%20States&1-lat=32.82887&2-lng=-96.95384&2-mode=driving&2-time=d1679238001216&2-title=332%2C%20Texas%20Street%2C%20Cedar%20Hill%2C%20Dallas%20County%2C%20Texas%2C%2075104%2C%20United%20States&2-lat=32.58790&selected=2)
+
+![](https://i.imgur.com/dXThSsy.png)
+
+
 # Interest Rate
 
 One reputable resource you can use to find the average interest rate in Texas with a [[Credit Score|credit score of 750]] is [Bankrate.com](https://www.bankrate.com/). Bankrate is a trusted source for financial information and offers various tools and resources, including a loan rate estimator. You can input your loan amount, term, credit score, and location to see average interest rates for different types of loans, such as auto loans, personal loans, and mortgages.
@@ -120,7 +139,7 @@ Paying $350,000 with a loan vs $200,000 with cash is just one way of thinking ab
 | Loan Amount                 | 184000      | 184000      |
 | Term (years)                | 30          | 30          |
 | Interest Rate (APR)         | 7.5%        | 0%          |
-| Principal and Interest      | 1286.554696 | 504.7894319 |
+| Principal and Interest      | 1286        | 505         |
 | PMI (if less than 20% down) | 0           | 0           |
 | Property Taxes              | 552         | 552         |
 | Homeowner's Insurance       | 125         | 125         |
