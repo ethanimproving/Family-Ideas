@@ -1,3 +1,17 @@
+# Introduction to Obsidian
+
+Obsidian was built from the ground up to be a second-brain or <mark class="hltr-yellow">personal knowledge management system</mark>, so it included second-brain functionality from the start. It’s more than just a place to jot down and keep your notes; it’s an intuitive productivity app, more than a digital note-taking platform for capturing ideas. It’s a second brain. [^1]
+
+[Digital gardening](https://www.youtube.com/watch?v=Hn6_4ZzcpiY), also known as **personal knowledge management** or PKM, is a relatively new concept that has emerged in recent years as a response to the growing amount of information that people encounter and need to manage in their daily lives.
+
+The term "digital gardening" was first coined by American software developer and blogger Joel Hooks in 2019. However, the idea of using digital tools to organize and cultivate personal knowledge has been around for much longer, and can be traced back to early note-taking and personal information management systems like Evernote and OneNote.
+
+In recent years, there has been a growing interest in digital gardening and PKM as more people have come to recognize ==the value of curating their own personal knowledge bases and making them accessible== and useful for themselves and others. Today, there are a variety of digital tools and platforms available that cater specifically to the needs of digital gardeners, including Obsidian, Roam Research, and Notion, among others.
+
+---
+[^1]:  Gaynor, Gregory J. “[How to Migrate Your Notes: Evernote to Obsidian](https://facedragons.com/foss/migrate-evernote-to-obsidian/).” _Face Dragons_, 15 Jan. 2023.
+
+
 [Readme guide](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md)
 > [!Bible] 
 > In the beginning was the Word, and the Word was with God, and the Word was God.
