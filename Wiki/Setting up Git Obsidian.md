@@ -1,12 +1,32 @@
+---
+tags: wiki tutorial matadata
+---
+
 # Introduction to Obsidian
 
-Obsidian was built from the ground up to be a second-brain or <mark class="hltr-yellow">personal knowledge management system</mark>, so it included second-brain functionality from the start. It’s more than just a place to jot down and keep your notes; it’s an intuitive productivity app, more than a digital note-taking platform for capturing ideas. It’s a second brain. [^1]
+Obsidian was built from the ground up to be a second-brain or <mark class="hltr-yellow">personal knowledge management system</mark>, so it included second-brain functionality from the start. It’s more than just a place to jot down and keep your notes; it’s an intuitive productivity app, more than a digital note-taking platform for capturing ideas. It’s a second brain.[^1]
+
+## Bi-Directional Linking
+
+Your mind is a network of connections between different pieces of information, so any software that wants to mimic the mind needs to make the same connections. Enter bi-directional links.
+
+The idea of linking is simple. Imagine a student who needs to take notes about Caesar for a history class. He wants to link to a previous note about Rome within the text. Wikipedia uses these types of links within its articles.
+
+But Obsidian takes this idea one step further. When taking notes, you can link out but also see the links coming in, too. These are backlinks. Backlinks don’t link out to other notes. Instead, they are the record of the notes linking to you. So, for example, if we went to our Rome note and checked the backlinks, we’d see that our Caesar note was linking to us.[^1]
+
+## Digital Gardening
 
 [Digital gardening](https://www.youtube.com/watch?v=Hn6_4ZzcpiY), also known as **personal knowledge management** or PKM, is a relatively new concept that has emerged in recent years as a response to the growing amount of information that people encounter and need to manage in their daily lives.
 
 The term "digital gardening" was first coined by American software developer and blogger Joel Hooks in 2019. However, the idea of using digital tools to organize and cultivate personal knowledge has been around for much longer, and can be traced back to early note-taking and personal information management systems like Evernote and OneNote.
 
 In recent years, there has been a growing interest in digital gardening and PKM as more people have come to recognize ==the value of curating their own personal knowledge bases and making them accessible== and useful for themselves and others. Today, there are a variety of digital tools and platforms available that cater specifically to the needs of digital gardeners, including Obsidian, Roam Research, and Notion, among others.
+
+## Competitors
+
+- [Why I chose Obsidian over Roam (as a Roam investor)](https://www.youtube.com/watch?v=AWUk8-6yG2g).
+- [Why I left Notion for Obsidian](https://www.youtube.com/watch?v=4DXHVawhh4c).
+- [Notion vs Obsidian // Databases vs Dataview](https://www.youtube.com/watch?v=AhhFLXfldJQ).
 
 ---
 [^1]:  Gaynor, Gregory J. “[How to Migrate Your Notes: Evernote to Obsidian](https://facedragons.com/foss/migrate-evernote-to-obsidian/).” _Face Dragons_, 15 Jan. 2023.

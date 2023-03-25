@@ -4,6 +4,7 @@
     "obsidian-git:push2",
     "obsidian-git:pull",
     "omnisearch:show-modal",
-    "file-explorer:reveal-active-file"
+    "file-explorer:reveal-active-file",
+    "obsidian-git:view-file-on-github"
   ]
 }
