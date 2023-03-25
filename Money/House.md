@@ -106,6 +106,12 @@ I won't include gyms and grocery stores since I will find those wherever I live.
 
 ![](https://i.imgur.com/dXThSsy.png)
 
+I am trying to find a website that will allow me to input the location of an address, along with the [address of multiple other locations](https://www.google.com/maps/dir/7322+Oakmore+Dr,+Dallas,+TX+75249/Walmart+Supercenter,+621+Uptown+Blvd,+Cedar+Hill,+TX+75104/Planet+Fitness,+North+Highway+67,+Cedar+Hill,+TX/Chipotle+Mexican+Grill,+398+FM1382,+Cedar+Hill,+TX+75104/332+Texas+Street,+Cedar+Hill,+TX/Crawford+Park,+Straus+Road,+Cedar+Hill,+TX/7322+Oakmore+Drive,+Dallas,+TX/@32.6105816,-96.9609415,14.44z/data=!4m44!4m43!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8dc055fcbf29:0x52cf5b8bed9af4cc!2m2!1d-96.9469143!2d32.5973199!1m5!1m1!1s0x864e8dec8e6f12b3:0xec43abca5751d98f!2m2!1d-96.935972!2d32.5967715!1m5!1m1!1s0x864e8dd4f9a9790f:0x2b45be00399b0923!2m2!1d-96.9378607!2d32.5923757!1m5!1m1!1s0x864e8db0adeb7c59:0xd5684b1f65bbe7d!2m2!1d-96.9537518!2d32.5876675!1m5!1m1!1s0x864e8dc860a7c1f1:0xa4b7accebad4565e!2m2!1d-96.953122!2d32.595908!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!3e0) to show to show the distance between the central address and all the others. I'm doing this because I want to decide where is the optimal location for living based on its proximity to other desired locations.
+
+![](https://i.imgur.com/QY2BgA4.png)
+
+Next look for recreation. tennis, basketball, volleyball. Then entertainment. Cinema, Six Flags, malls.
+
 
 # Interest Rate
 
