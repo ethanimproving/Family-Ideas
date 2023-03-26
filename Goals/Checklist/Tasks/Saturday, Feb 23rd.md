@@ -1,8 +1,0 @@
-- [X] Python Homework 3
-- [X] COSC 1436 (C++) Assignment 4 - Making Decisions
-- [X] COSC 1436 (C++) Chapter 4 Exercise - Making Decisions
-- [X] COSC 1436 (C++) Chapter 4 Quiz - Making Decisions
-- [ ] Take SQL Practice Test
-- Time how long it took
-- Notice what wasn't covered
-- [ ] Respond to SQL Discussion Board

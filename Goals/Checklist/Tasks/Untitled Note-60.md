@@ -1,2 +1,0 @@
-- [X] Respond to offer by lunch
-- [ ] Find audio recording of misattributed virtues

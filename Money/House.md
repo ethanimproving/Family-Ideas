@@ -94,16 +94,14 @@ Homebot uses an automated valuation model (AVM) to provide an estimated home val
 
 
 
-### Renovation
-
-Will the cost of renovating the house increase the sale price by the same amount or a higher amount?
-
 ### Gyms Close By
 
-- Workout Anywhere Duncanville | [7 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/Workout+Anytime+Duncanville,+111+S+Cedar+Ridge+Dr+%23115,+Duncanville,+TX+75116/@32.6414556,-96.9463859,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8e25fcbadaf7:0x5c6c8def395912fc!2m2!1d-96.926839!2d32.6506906!3e0) | [$20/month](https://www.woat.org/workout-anytime-duncanville/)
-- LA Fitness | [9 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/LA+Fitness,+114+E+Hwy+67,+Duncanville,+TX+75137/@32.626257,-96.9450628,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e919385664767:0xf3f820edd0427e7!2m2!1d-96.9065754!2d32.6247701!3e0) | [$40/month](https://www.lafitness.com/Pages/clubhome.aspx?clubid=418&utm_source=google&utm_medium=googlemaps&utm_campaign=maps)
-- CLUB4 Fitness | [15 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/CLUB4+Fitness+Grand+Prairie,+514+S+Carrier+Pkwy,+Grand+Prairie,+TX+75051/@32.6862858,-97.0214293,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8759f2a1bb1d:0x436a3569713b4934!2m2!1d-97.0169096!2d32.7403713!3e0) | [$10/month](https://www.club4fitness.com/membership/)
-- Planet Fitness | [10 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/Planet+Fitness,+432+N+Hwy+67,+Cedar+Hill,+TX+75104/@32.6137323,-96.9628454,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8dec8e6f12b3:0xec43abca5751d98f!2m2!1d-96.935972!2d32.5967715!3e0) | [$10/month](https://www.planetfitness.com/gyms/cedar-hill-tx/offers?_ga=2.46598895.930213434.1679714212-1000743240.1679714212)
+| Name | Drive | Price |
+| ---- | ----- | ----- |
+| Workout Anywhere Duncanville | [7 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/Workout+Anytime+Duncanville,+111+S+Cedar+Ridge+Dr+%23115,+Duncanville,+TX+75116/@32.6414556,-96.9463859,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8e25fcbadaf7:0x5c6c8def395912fc!2m2!1d-96.926839!2d32.6506906!3e0) | [$20/month](https://www.woat.org/workout-anytime-duncanville/)|
+| LA Fitness | [9 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/LA+Fitness,+114+E+Hwy+67,+Duncanville,+TX+75137/@32.626257,-96.9450628,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e919385664767:0xf3f820edd0427e7!2m2!1d-96.9065754!2d32.6247701!3e0) | [$40/month](https://www.lafitness.com/Pages/clubhome.aspx?clubid=418&utm_source=google&utm_medium=googlemaps&utm_campaign=maps)|
+| CLUB4 Fitness | [15 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/CLUB4+Fitness+Grand+Prairie,+514+S+Carrier+Pkwy,+Grand+Prairie,+TX+75051/@32.6862858,-97.0214293,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8759f2a1bb1d:0x436a3569713b4934!2m2!1d-97.0169096!2d32.7403713!3e0) | [$10/month](https://www.club4fitness.com/membership/)|
+| Planet Fitness | [10 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/Planet+Fitness,+432+N+Hwy+67,+Cedar+Hill,+TX+75104/@32.6137323,-96.9628454,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8dec8e6f12b3:0xec43abca5751d98f!2m2!1d-96.935972!2d32.5967715!3e0) | [$10/month](https://www.planetfitness.com/gyms/cedar-hill-tx/offers?_ga=2.46598895.930213434.1679714212-1000743240.1679714212)|
 
 ### Grocery Stores Close By
 
@@ -117,6 +115,48 @@ Cedar Ridge Preserve | [15 min walk](https://www.google.com/maps/dir/7322+Oakmor
 ### Pool Close By
 
 Crawford Park | [7 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/Crawford+Park,+401+Straus+Rd,+Cedar+Hill,+TX+75104/@32.6143297,-96.9690416,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8dc860a7c1f1:0xa4b7accebad4565e!2m2!1d-96.953122!2d32.595908!3e0)
+
+### Renovation
+
+Will the cost of renovating the house increase the sale price by the same amount or a higher amount?
+
+- Paint brick | $350 - $1,000 |
+- Rebrick the house | $10,200 to $20,400 |
+- Raise [4" sunken floor](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipOr5e6WfhDam9bAfzzQAqnQFxGjXYU7Rj_8K3yQ?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB) | 
+- New white cabinets that auto-shut themselves and don't bang (like John Ball's home) to replace [old hanging cabinets](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipMLIoWX0nbgBYTOnxQkqcq6MaqNQpdwf_gPYIFj?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)  ([1](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipOdB7CAf2FyQcfoXD7TIM4d2VAxgjdVjvBhvkBP?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)) | 
+- Replace [old counters](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipOfXabOsDsRMo9BFFfWVjhF8D69af-51zISQ1Ck?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)
+- Retile with light synthetic wooden floor
+- Remove brick from living room
+- Demolish [brick fireplace](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipMe4deD2L3rHh9Imn1PBFX6UqcM_CIiArW1rhei?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB) ([1](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipOlZ7zznys8_FVz16A4CxiBKq62A8gojIX_pFkT?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB), [2](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipOWi5v0LRcVhQyhx_fmYA0-vJEyX9U9BsoQGc5f?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB) [3](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipM-7d4Rhf1GpTMCzhHCBDEzOEUOIS7pgXf6PBw1?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)), re-plaster with tile | $1,500 to $5,000
+- Open space between [dinning room and living room](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPTcX9zlvLEMeG_fvZQt1s91BAUM37bqaRsU_Jj?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB) ([1](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipMB21rHc_amEcxFzaVOpnZtF7zY0C_LvPqWYO8F?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)  [2](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipMtQ5Ae3tLHDso_eE_koW-MtH6z3T1bAx0trxsD?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB))
+- Remove wall between [dinning room and office](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipMmdViN_0jm8cjG3ahGgS0kJWv_90ydNE2sQvZ8?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)
+- Remove wall between [kitchen and other room](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPf2mB_tIDGxWlw0iV_hNhBw1wQtSmb3D4AujRa?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB) | 
+- Create a [tile fireplace](https://www.wayfair.com/LiteDeer-Homes--Electric-Fireplace-Insert-VL-L74-K~W008007237.html?refid=GX490221059900-W008007237_870763040&device=c&ptid=1644067871519&network=g&targetid=aud-1614881129180:pla-1644067871519&channel=GooglePLA&ireid=196768249&fdid=1817&PiID%5B%5D=870763040&gclid=Cj0KCQjw2v-gBhC1ARIsAOQdKY2hZWkQRrkyWYkpDTUQz6hKagMAl2O10A2pQJmEJrYAUe0ZrVyw6wwaAnQGEALw_wcB) | $2,599.99
+- Replace with [electric fireplace](https://www.wayfair.com/Orren-Ellis--Orren-Ellis-60W-Electric-Fireplace-X115237806-L74-K~W004126795.html?refid=GX490221059900-W004126795_1911828921&device=c&ptid=1431915977753&network=g&targetid=aud-1614881129180:pla-1431915977753&channel=GooglePLA&ireid=161776453&fdid=1817&PiID%5B%5D=1911828921&gclid=Cj0KCQjw2v-gBhC1ARIsAOQdKY1I1qx7Z-lGSV5QXRYVopzA6PaHFmnV4HhTiltYYpueQ4l6vL2RTtkaAnRwEALw_wcB) | $255
+- Paint [Entryway Doors](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPmgyEFBUlpIj3ktyrWus6nmQjc1dIAq9z4pVw0?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)
+- Replace [old wooden doors](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipNtxkjqj2gDzPnpwShLA6ENUDe_u7hqWrFwUXJ5?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)
+- Replace [3 parallel windows](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPhxxjHksiLuRNa-5CugP8M9ISjEMs2ztL0lOXc?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB) with one big window or two bigger windows
+- What is this [glass door](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPezaflNLA0Z_dQTDzIhIa7Mcbd68HCAIALf301?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)?
+
+#### Paint Brick
+
+1.  Paint: Depending on the type of paint you choose and the number of coats needed, you can expect to spend between $100 and $300 for paint.
+    
+2.  Equipment: You will need to rent or purchase a sprayer, which can cost anywhere from $50 to $200 per day. You will also need brushes, rollers, tarps, and other supplies, which can add up to around $100 to $200.
+    
+3.  Preparation: You will need to pressure wash the brick to remove dirt and grime, and possibly repair any cracks or damage. This will require equipment rental and materials, which can cost around $100 to $300.
+    
+4.  Total cost: Taking all of these factors into account, the total cost to paint the outside brick of a 1700 square foot house can range from $350 to $1000.
+
+However, it's important to note that painting brick can be tricky, and if it's not done properly, it can cause problems such as peeling, chipping, and water damage. It may be worth considering hiring a professional painter to ensure that the job is done correctly and the results are long-lasting.
+
+#### Rebrick the house
+
+The cost to rebrick a 1700 square foot house will depend on various factors such as the type of bricks used, labor costs, and any additional work that needs to be done.
+
+Assuming a cost of around $6 to $12 per square foot for brick materials and an average labor cost of around $30 to $60 per hour, the cost to rebrick a 1700 square foot house could range from $10,200 to $20,400 for materials and labor alone.
+
+However, it's important to note that this is just an estimate, and the actual cost could be higher or lower depending on the specifics of the project. Other factors that could impact the cost include the complexity of the project, the need for any additional work like demolition or structural repairs, and the availability and cost of materials and labor in your area. It's best to get a few quotes from professional bricklayers to get a more accurate estimate for your specific project.
 
 ## Ideal Living Location
 

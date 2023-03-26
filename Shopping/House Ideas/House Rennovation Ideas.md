@@ -235,9 +235,16 @@ I especially love the wavy ceiling with recess lights, and extra lights protrudi
 
 # Paint the Brick White
 
+[7 Reasons Why You Will Love And Hate Painting Your Brick Exterior](https://tribblepainting.com/pros-cons-painting-brick-exterior/)
+
+Maybe use stain over paint. Reminds me of the sand paint used in the singles room.
+
 title:: Paint the Brick White
+![](https://tribblepainting.com/wp-content/uploads/2019/10/Front-of-newly-painted-brick-exterior-in-Scio-Township.jpg)
+
 ![](https://photos.zillowstatic.com/fp/ea3c3f8b3c44449213b93cd372e18166-cc_ft_1536.webp)
 
+![](https://photos.zillowstatic.com/fp/ec5ba7b2f847555f0a5caf25e0370789-cc_ft_1344.webp)
 # Warm wooden floor for living room and hallways
 
 title:: Warm wooden floor for living room and hallways
@@ -247,6 +254,13 @@ title:: Warm wooden floor for living room and hallways
 
 ![](https://photos.zillowstatic.com/fp/23d212cd66709b29824d6bc2c8d58f49-uncropped_scaled_within_1536_1152.webp)
 
+# Zarascape
+
+![](https://cutterslandscape.com/wp-content/uploads/2021/09/0421-1.webp)
+
+![](https://nativeedgelandscape.com/wp-content/uploads/2020/11/Do_After-15-400x600.jpg)
+
+![](https://i.pinimg.com/736x/80/4f/25/804f251598a506cfa35500b56aa375b1.jpg)
 
 ```dataview
 table type
