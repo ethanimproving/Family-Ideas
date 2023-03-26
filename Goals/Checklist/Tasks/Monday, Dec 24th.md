@@ -1,6 +1,0 @@
-- [X] Remove paint blots on vinyl
-- [X] Clean hallway
-- [X] Dust hallway again
-- [X] Vacuum Hallway
-- [X] Make playlist of RBC 2018 sermons
-- [X] Locate "Double Or Nothing" sermon preached by Patrick Boyle

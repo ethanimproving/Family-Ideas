@@ -1,6 +1,0 @@
-- [X] Distribute Christian materials in 75040
-- [X] Go soul-winning
-- [X] Work out gym
-- [X] Play ping pong / around the world with 14 y/old
-- [X] Put keepsake clothes in keepsake box
-- [X] Put boutique clothes in cardboard box in ping pong table
