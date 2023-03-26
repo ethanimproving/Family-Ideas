@@ -53,16 +53,46 @@ Weight 1-5, tally Ethan and Mariana
 
 # Houses
 
+## House Searches
+
+- [Zillow House Listings](https://www.zillow.com/homes/for_sale/?searchQueryState=%7B%22mapBounds%22%3A%7B%22north%22%3A33.07575422481558%2C%22south%22%3A32.428982559326734%2C%22east%22%3A-96.60893936279295%2C%22west%22%3A-97.21250076416014%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22beds%22%3A%7B%22min%22%3A3%7D%2C%22baths%22%3A%7B%22min%22%3A2%7D%2C%22apa%22%3A%7B%22value%22%3Afalse%7D%2C%22mf%22%3A%7B%22value%22%3Afalse%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22tow%22%3A%7B%22value%22%3Afalse%7D%2C%22manu%22%3A%7B%22value%22%3Afalse%7D%2C%22land%22%3A%7B%22value%22%3Afalse%7D%2C%22con%22%3A%7B%22value%22%3Afalse%7D%2C%22apco%22%3A%7B%22value%22%3Afalse%7D%2C%22price%22%3A%7B%22max%22%3A300000%7D%2C%22mp%22%3A%7B%22max%22%3A1489%7D%7D%2C%22isListVisible%22%3Atrue%2C%22customRegionId%22%3A%22ffc44641f7X1-CR1nvfk4x69kkp1_1a8jdl%22%2C%22mapZoom%22%3A11%2C%22pagination%22%3A%7B%7D%7D) near Dallas based on [[#Ideal Living Location]] boundaries:
+![](https://i.imgur.com/R1cbu08.png)
+
+- 1026 Capetown Dr, Grand Prairie, TX 75050 - [$180,000](https://www.zillow.com/homedetails/1026-Capetown-Dr-Grand-Prairie-TX-75050/27068713_zpid/)
+- 4537 N O'Connor Rd APT 1223, Irving, TX 75062 - [$265,000](https://www.zillow.com/homedetails/4537-N-O'Connor-Rd-APT-1223-Irving-TX-75062/27108330_zpid/)
+- 4622 Covington Ct, Grand Prairie, TX 75052 - [$300,000](https://www.zillow.com/homedetails/4622-Covington-Ct-Grand-Prairie-TX-75052/29207135_zpid/)
+- 503 Katherine Ct, Duncanville, TX 75137 - [$210,000](https://www.zillow.com/homedetails/503-Katherine-Ct-Duncanville-TX-75137/26988880_zpid/)
+- 4236 Wilshire Blvd, Dallas, TX 75241 - [$245,000](https://www.zillow.com/homedetails/4236-Wilshire-Blvd-Dallas-TX-75241/26877814_zpid/)
+
 ## Grandpa's House
 
-[7322 Oakmore Drive](https://www.redfin.com/TX/Dallas/7322-Oakmore-Dr-75249/home/31116051) | [Zillow](https://www.zillow.com/homes/7322-Oakmore-Dr-Dallas,-TX-75249_rb/26892483_zpid/) | [Google Photos](https://photos.app.goo.gl/jdnMXBsykBx8wXVN6)
+7322 Oakmore Drive | [Zillow](https://www.zillow.com/homes/7322-Oakmore-Dr-Dallas,-TX-75249_rb/26892483_zpid/) | [Google Photos](https://photos.app.goo.gl/jdnMXBsykBx8wXVN6) | [Redfin](https://www.redfin.com/TX/Dallas/7322-Oakmore-Dr-75249/home/31116051)
 
-- Redfin Estimate: $275,158
-- Year Built: 1979
-- House Size: 1,780 Sq. Ft.
-- Lot Size: 6,573 Sq. Ft.
-- Beds: 3
-- Baths: 2
+| [Homebot](https://find.searchtexashomes.com/seller?gclid=EAIaIQobChMIxJq5jJ33_QIV1MmUCR1mzAsBEAAYASAAEgITBvD_BwE) Estimate | [$265,000](https://i.imgur.com/1HuB9ZE.png)<img src="https://i.imgur.com/1HuB9ZE.png"  width="400">      |
+|------------------|---------------|
+| Redfin Estimate  | $275,158      |
+| Year Built       | 1979          |
+| House Size       | 1,780 Sq. Ft. |
+| Lot Size         | 6,573 Sq. Ft. |
+| Beds             | 3             |
+| Baths            | 2             |
+
+### How is your home value estimate calculated?
+
+Homebot uses an automated valuation model (AVM) to provide an estimated home value. The main market data that helps calculate this value are your home details and similar home sale trends in your area.
+
+### Land Value
+
+- Texas A&M Real Estate Center
+- Texas Association of Realtors
+- [Zollow Housing Data](https://www.zillow.com/research/data/)
+- Trulia Heat Map - [4 Maps to Help Your Home Search](https://www.trulia.com/blog/4-maps-help-home-search/)
+- [Trulia's Property Pages](https://www.trulia.com/blog/tech/know-neighborhood-with-trulia/)
+
+[Some real world land/property value maps for you guys to figure out](https://www.reddit.com/r/SimCity/comments/18df67/some_real_world_landproperty_value_maps_for_you/)
+*Typical value map where land/property value is increased by the proximity of water, large transportation channels and distance to the commercial center.*
+
+
 
 ### Renovation
 
