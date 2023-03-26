@@ -1,6 +1,6 @@
 ---
-tags: messy
-type: image
+tags: messy interiordesign
+folder_type: images
 ---
 # Glossy wooden floors
 
