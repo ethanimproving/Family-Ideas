@@ -176,3 +176,9 @@ A colored SVG that can be used as a favicon for my Digital Garden. Maybe roots o
 # Wi-Fi Heat Map
 
 [You can now see people through walls.](https://www.facebook.com/reel/5906453712777388?fs=e&s=TIeQ9V&mibextid=0NULKw)
+
+# CO2 Scrapers
+
+[Heirloom and Carbon Cure by Bill Gates](https://youtube.com/shorts/zSLMT4b8b84?feature=share)
+
+The production of concrete accounts for three times the carbon emissions of the airline industry.
