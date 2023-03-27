@@ -20,3 +20,9 @@ Evidence has come out that the Corona Virus was most likely engineered. Most vir
 # Triangle Re-Molecularization of Water in Pipes
 
 ![[Technology (Digital Revoution)#Climate Change#Thomas Midgley]]
+
+# Genetic Modification
+
+#china
+
+[CRISPR to eliminate genes that cause disease](https://youtube.com/shorts/jXYH9xdrhGU?feature=share)

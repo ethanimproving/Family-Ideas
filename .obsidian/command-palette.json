@@ -5,6 +5,7 @@
     "obsidian-git:pull",
     "omnisearch:show-modal",
     "file-explorer:reveal-active-file",
-    "obsidian-git:view-file-on-github"
+    "obsidian-git:view-file-on-github",
+    "digitalgarden:publish-multiple-notes"
   ]
 }
