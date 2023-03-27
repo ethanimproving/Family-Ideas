@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 # Greed: Anti-progress
 
 Along with the problem of, "How can I get paid?" There is another evil and sadistic driving motivator of work, which is, "How can I make as much money as possible?"
