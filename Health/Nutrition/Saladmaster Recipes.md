@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 https://www.cookmate.online/recipes/
 
 # Chuck Eye Steak

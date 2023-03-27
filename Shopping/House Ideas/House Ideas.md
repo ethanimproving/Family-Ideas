@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Reversible Faucets
 
 [Boise International Discount Center - Video Demonstration](https://www.facebook.com/reel/678250943879227?fs=e&s=TIeQ9V&mibextid=0NULKw)

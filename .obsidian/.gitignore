@@ -3,7 +3,6 @@ workspace.json
 workspace-mobile.json
 plugins/obsidian-zotero-desktop-connector/pdfannots2json.exe
 plugins/obsidian-dictionary-plugin/cache.json
-plugins/digitalgarden/data.json
 plugins/obsidian-multi-cursor
 node_modules
 graph.json

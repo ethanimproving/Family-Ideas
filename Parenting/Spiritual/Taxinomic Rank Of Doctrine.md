@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 Ethan Miller
 12 Nov 2018
 Tags: #appideas #unboundpreaching

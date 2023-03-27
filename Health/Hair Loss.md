@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # iRestore
 
 Clinical-Grade Results From Home

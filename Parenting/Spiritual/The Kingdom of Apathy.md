@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 Ethan Miller
 Zealous
 The Kingdom of Apathy

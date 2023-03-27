@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 Ethan Miller
 Nightstand Notes
 Didactic Material

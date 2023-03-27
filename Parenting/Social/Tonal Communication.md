@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 Ethan Miller
 Favor With Man
 Tonal Communication

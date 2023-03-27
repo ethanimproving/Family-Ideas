@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # We will spank our children
 
 ## Biblical Reasons

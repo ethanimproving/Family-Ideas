@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 Ethan Miller
 Research Papers
 Speed Reading

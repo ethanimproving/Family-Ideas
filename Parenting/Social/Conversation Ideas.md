@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 Ethan Miller
 Conversation Ideas
 4 Nov 2016
