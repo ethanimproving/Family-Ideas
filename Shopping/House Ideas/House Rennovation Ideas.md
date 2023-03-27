@@ -1,6 +1,7 @@
 ---
 tags: clean interiordesign spiritualmotivation
 folder_type: images
+dg-publish: true
 ---
 
 > [!Bible] [1 Corinthians 2:9 - KJV](https://bible-api.com/1Corinthians+2:9?translation=kjv)
