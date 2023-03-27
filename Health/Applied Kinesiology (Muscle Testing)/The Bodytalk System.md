@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Ethan Miller
 Research Papers
 The Bodytalk System

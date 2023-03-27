@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Temporary - 
 * Price effective
 * Does not last forever

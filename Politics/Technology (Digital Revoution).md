@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #laborhours 
 
 With the advent of AI technology and machine learning, more and more tasks can by managed by machines, freeing up humans to climb to new heights up Maslow's Hierarchy and do more meaningful work, addressing higher needs above base needs.
@@ -162,17 +159,14 @@ Mostly what doctors do is listen to you explain your symptoms and compare that w
 
 [Use LinkedIn](https://www.facebook.com/reel/200436449275367?fs=e&s=TIeQ9V&mibextid=0NULKw)
 
-## AI to Generate Favicons
-
-You can not generate favicons using [text-to-image AI tools](https://madebynathan.com/2022/10/01/how-to-create-a-favicon-with-stable-diffusion-and-dalle-2/).
-- [Midjourney](https://www.midjourney.com/home/)
-- [DALL·E 2](https://openai.com/product/dall-e-2)
-- [PNG to SVG](https://www.pngtosvg.com/)
-
-A colored SVG that can be used as a favicon for my Digital Garden. Maybe roots or tree limbs can double as chip circuit patterns. It should be designed in a way that also resembles a brain.
-
 [How to ask for a raise](https://youtube.com/shorts/eE44BbhLx6o?feature=share)
 
 # Wi-Fi Heat Map
 
 [You can now see people through walls.](https://www.facebook.com/reel/5906453712777388?fs=e&s=TIeQ9V&mibextid=0NULKw)
+
+# CO2 Scrapers
+
+[Heirloom and Carbon Cure by Bill Gates](https://youtube.com/shorts/zSLMT4b8b84?feature=share)
+
+The production of concrete accounts for three times the carbon emissions of the airline industry.

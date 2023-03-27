@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Ethan Miller
 Theo & Jeanne Miller
 23 February 2014

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Ethan Miller
 Book of Retorts
 14 Oct 2016
