@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Ethan Miller
 Compositions
 Play Time

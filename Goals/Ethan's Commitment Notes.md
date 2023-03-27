@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # I am filled with the Holy Spirit
 
 ## Bible

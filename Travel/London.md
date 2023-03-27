@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Where to Stay
 
 | Hotel (4+ Google rated)                                                                   | Price / night | Distance from LHR | Buckingham  | Ratings |
