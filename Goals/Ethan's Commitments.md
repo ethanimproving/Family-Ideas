@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # I am filled with the Holy Spirit
 
 - [ ] [[Ethan's Commitment Notes#Bible|1]] Bible

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Ethan Miller
 Book Reviews
 13 March 2014

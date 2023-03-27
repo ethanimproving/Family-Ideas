@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Essay 1
 
 Thesis: Homeopathy is a safe and effective alternative medicine that should be considered a valid treatment option for a variety of health conditions.

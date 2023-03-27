@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [Tate's Elite Nutrition Hacks](https://www.youtube.com/shorts/UUB8ntjspkA)
 
 # Papers

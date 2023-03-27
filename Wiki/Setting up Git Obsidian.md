@@ -1,5 +1,7 @@
 ---
 tags: wiki tutorial matadata
+dg-home: true
+dg-publish: true
 ---
 
 # Introduction to Obsidian

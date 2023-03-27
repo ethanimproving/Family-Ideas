@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Greed: Anti-progress
 
 Along with the problem of, "How can I get paid?" There is another evil and sadistic driving motivator of work, which is, "How can I make as much money as possible?"
@@ -20,9 +23,3 @@ Evidence has come out that the Corona Virus was most likely engineered. Most vir
 # Triangle Re-Molecularization of Water in Pipes
 
 ![[Technology (Digital Revoution)#Climate Change#Thomas Midgley]]
-
-# Genetic Modification
-
-#china
-
-[CRISPR to eliminate genes that cause disease](https://youtube.com/shorts/jXYH9xdrhGU?feature=share)

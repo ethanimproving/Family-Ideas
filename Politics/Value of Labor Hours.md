@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Ethan Miller
 Value of Labor Hours
 30 March 2017
