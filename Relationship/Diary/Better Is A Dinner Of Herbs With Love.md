@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+dg-created:
+dg-updated:
 ---
 
 How did I end up with a girl like Mariana? First of all, Mariana is wonderful. She's sweet, she loves me, she's selfless, she's hard working, she's great. The reason I ended up with her, to be completely honest, is this: I was weak and she was loose. I slept with her after we had been dating a bit.
