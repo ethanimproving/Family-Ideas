@@ -12,6 +12,8 @@ Obsidian was built from the ground up to be a second-brain or <mark class="hltr-
 
 Your mind is a network of connections between different pieces of information, so any software that wants to mimic the mind needs to make the same connections. Enter bi-directional links.
 
+![[brain-circuit-tree.svg]]
+
 The idea of linking is simple. Imagine a student who needs to take notes about Caesar for a history class. He wants to link to a previous note about Rome within the text. Wikipedia uses these types of links within its articles.
 
 But Obsidian takes this idea one step further. When taking notes, you can link out but also see the links coming in, too. These are backlinks. Backlinks don’t link out to other notes. Instead, they are the record of the notes linking to you. So, for example, if we went to our Rome note and checked the backlinks, we’d see that our Caesar note was linking to us.[^1]

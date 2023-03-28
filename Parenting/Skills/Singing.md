@@ -16,7 +16,7 @@ Shared from [Beginners](https://headway.onelink.me/9USK?pid=app_referral&af_web_
 
 # Vocal Health
 
-The best Vocal Training app I've found on the market today is [Yousicion](https://yousician.com/lp/yousician-us). It is $140 for one year (much less than hiring a personal voice teacher, thanks to the [[Technology (Digital Revoution)|digital revolution]] making it possible to scale information limitlessly). Here are some vocal health exercises to keep you from straining your voice.
+The best Vocal Training app I've found on the market today is [Yousicion](https://yousician.com/lp/yousician-us). It is $140 for one year (much less than hiring a personal voice teacher, thanks to the [[Technology (Digital Revolution)|digital revolution]] making it possible to scale information limitlessly). Here are some vocal health exercises to keep you from straining your voice.
 
 ## Sirening
 
