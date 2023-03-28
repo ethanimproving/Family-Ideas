@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Dad
 
 [Flat plug extension cord](https://www.amazon.com/gp/product/B077NQB72S/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&th=1)

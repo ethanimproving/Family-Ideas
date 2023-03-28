@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Display Bandwidth
 
 | RESOLUTION                           | MINIMUM BANDWIDTH REQUIRED |

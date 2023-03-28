@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Date Ideas
 
 ## Inside

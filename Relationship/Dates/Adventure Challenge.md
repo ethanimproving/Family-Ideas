@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Couples Edition
 
 # Friends Edition

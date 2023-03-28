@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Ruger LCP II
 
 | Model:         | [13705](https://ruger.com/products/lcpII/specSheets/13705.html)    |

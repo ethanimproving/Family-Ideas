@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 [Custom PC Builder](https://www.newegg.com/tools/custom-pc-builder)
 
 # Motherboard

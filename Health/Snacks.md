@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Work Snacks
 
 Ethan's Snacks in order of priority:  

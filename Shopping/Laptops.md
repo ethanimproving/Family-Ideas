@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 Laptops should have the following capabilities:
 - [ ] Connect to 4 external monitors through a single docking station (requires Thunderbolt port).
 - [ ] Charging and docking occurs through single Thunderbolt port.

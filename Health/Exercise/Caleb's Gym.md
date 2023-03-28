@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Chest
 
 ## Dumbbells

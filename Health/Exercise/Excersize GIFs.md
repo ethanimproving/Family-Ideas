@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 https://fitnessprogramer.com/exercise-primary-muscle/triceps/
 
 # Back Squat

@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Video Capture Card | Dazzle by Pinnacle
 
 [Pinnacle Dazzle DVD Recorder HD](https://www.amazon.com/Dazzle-DVD-Recorder-VHS-Converter/dp/B00EAS14KI)

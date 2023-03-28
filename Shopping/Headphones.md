@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 Headphones should be:
 * Comfortable (ear cup design).
 * Good quality.

@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # iPhone 13 Pro
 
 ## Buy vs. Upgrade Program

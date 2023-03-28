@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 Ethan Miller
 Applied Kinesiology
 Dr. Montanaro

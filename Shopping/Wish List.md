@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Wish List
 
 | Item                                                                                                                                                                                                                                                                                               | List Price | Description                                                  |
