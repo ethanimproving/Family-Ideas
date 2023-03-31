@@ -1,3 +1,7 @@
 {
-  "bibleVersion": "kjv"
+  "bibleVersion": "kjv",
+  "referenceLinkPosition": "Header",
+  "verseFormatting": "Single Line",
+  "verseNumberFormatting": "1. ",
+  "collapsibleVerses": false
 }
