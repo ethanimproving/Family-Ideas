@@ -4,7 +4,7 @@ dg-created: Oct 6, 2022, 9:01 PM
 dg-updated: 
 ---
 
-I’m glad it was you and no other. There is no gem that compares with your eyes, no sunshine that compares with your smile, no rain that compares with the serenity or your countenance.
+I’m glad it was you and no other. There is no gem that compares with your eyes, no sunshine that compares with your smile, no rain that compares with the serenity of your countenance.
 
 I found you in the arms of another lover, and turned my face away, and my thoughts far removed. Circumstance brought me to you again, and in tragedy I turned my face towards you in comfort.
 

@@ -62,7 +62,7 @@ dg-publish: true
 - Tandem bicycle
 - Camping
 
-
+### Uncategorized
 - Ghost store
 - Misquite Rodeo
 - Hillsboro (amish crafts)

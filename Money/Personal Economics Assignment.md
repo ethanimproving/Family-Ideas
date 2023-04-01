@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 Ethan Miller
 Tom Hudgins
 Collin College/F14
