@@ -2,6 +2,7 @@
 dg-publish: true
 dg-created: Dec 14, 2022, 7:19 AM
 dg-updated: 
+tags: [diary, letters]
 ---
 
 Dear Mariana,
