@@ -1,3 +1,8 @@
+---
+dg-publish: true
+tags: [goals, headway, books]
+---
+
 # How do I want to be remembered?
 
 People who don’t know where they are headed on the journey of life always find themselves walking in circles without making any progress. Such people go from one pointless activity to the other.
