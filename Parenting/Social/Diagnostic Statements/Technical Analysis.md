@@ -1,4 +1,9 @@
-Created: Sunday, Dec 9, 2018, 8:30 PM
+---
+dg-publish: true
+dg-created: Dec 9, 2018, 8:30 PM
+dg-updated: 
+tags: [goals]
+---
 
 There are 3 core tenets of Technical Analysis:
 

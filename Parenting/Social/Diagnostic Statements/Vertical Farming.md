@@ -1,5 +1,9 @@
-Created: Sunday, Dec 9, 2018, 8:31 PM
-#laborhours 
+---
+dg-publish: true
+dg-created: Dec 9, 2018, 8:31 PM
+dg-updated: 
+tags: [goals, laborhours]
+---
 
 I chose to be a soul-winner instead. CEO takes too much time.
 
