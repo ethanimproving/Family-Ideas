@@ -12,6 +12,117 @@ from "Goals/Timelines"
 sort Start_Date desc
 ```
 
+# ChatGPT Project
+
+## Standalone Dataviewjs
+
+### Prompts
+
+I want you to act as a principle software engineer with  with decades of experience in high-end companies, such as Google, Amazon, and others. You also helped work on created the Dataview plugin for Obsidian, and you are the former creator of the Timeglider app that was bought out by Preceden. I will ask you to write a specific script using dataviewjs and you will implement my requirements. Do you understand?
+
+### Feature Requirements
+
+As a former creator of Timeglider, you are aware that the Timeglider app (available at https://github.com/tkuhn/timeglider/blob/master/js/timeglider.min.js) uses the following JSON data to render a timeline:
+
+```json
+{  
+  "id": "jshist-self",  
+  "title": "Self",  
+  "description": "Self, one of the inspirations for Javascript's simplicity, is created at Xerox PARC ",  
+  "startdate": "1986-01-01 12:00:00",  
+  "importance": "40",  
+  "date_display": "none",  
+  "link": "http://selflanguage.org/",  
+  "icon": "flag_green.png"  
+}
+```
+
+
+I want you to write a `dataviewjs` query that uses the notes in my Obsidian vault at the directory `Goals/Timelines/`. Instead of JSON data, it will take fields from the frontmatter of the note. Here is an example note:
+
+```markdown
+---
+dg-publish: true
+start-date: 1996-03-22
+end-date: 2009-03-08
+title: Age of innocence
+icon: circle_green.png
+date-limit: year
+importance: 50
+link: 
+---
+
+"For I was alive without the law once: but when the commandment came, sin revived, and I died." This was the period in which I thought my biggest problem was that I had no problems. I stole money from my brother to buy Legos, and I cheated in school from 4th grade onward, but I had no puncture in my conscience. I didn't know the commandments of God, and so I didn't understand sin.
+```
+
+Below are the requirements for the dataview:
+
+1.  Timeline Format: The timeline should be displayed as a horizontal bar, with time progressing from left to right. Each event should be represented by a box or icon on the timeline, with its position on the timeline determined by its date.
+    
+2.  Zooming and Scrolling: The timeline should allow users to zoom in and out to view events in more or less detail. Users should also be able to scroll left and right to navigate the timeline.
+    
+3.  Date Ranges: The timeline should be able to display events over various date ranges, such as years, months, weeks, days, or even hours. Users should be able to choose the date range that best fits their needs.
+    
+4.  Categories: The timeline should allow users to categorize events based on different criteria, such as project phases, event types, or people involved. Users should be able to color-code categories for easy identification.
+    
+5.  Event Details: Each event on the timeline should link to a note in `Goals/Timelines/` using Obsidian Wikilinks.
+    
+6.  Filtering: The timeline should allow users to filter events based on various criteria, such as category, date range, or keyword. Users should be able to apply multiple filters at once.
+    
+7.  Search: The timeline should allow users to search for events based on keywords or phrases. The search should return all events that match the query.
+
+Walk me through how to integrate TimelineJS with dataviewjs for visualizing the timeline based on the following table:
+
+```
+TABLE start-date, end-date, title, icon, date-limit, importance, link
+FROM "Goals/Timelines"
+SORT start_date ASC
+```
+
+## Obsidian Plugin
+
+```dataview
+TABLE start-date, end-date, title, icon, date-limit, importance, link
+FROM "Goals/Timelines"
+SORT start_date ASC
+```
+
+```dataviewjs
+const timelineData = dv.pages("#timelineofmylife").frontmatter.map((item) => {
+  const startDate = new Date(item['start-date']);
+  const endDate = new Date(item['end-date']);
+  const title = item.title;
+  const icon = item.icon;
+  const dateLimit = item['date-limit'];
+  const importance = item.importance;
+  const link = item.link;
+
+  return {
+    start_date: {
+      year: startDate.getFullYear(),
+      month: startDate.getMonth() + 1,
+      day: startDate.getDate(),
+    },
+    end_date: {
+      year: endDate.getFullYear(),
+      month: endDate.getMonth() + 1,
+      day: endDate.getDate(),
+    },
+    text: {
+      headline: title,
+      text: '',
+    },
+    icon: {
+      url: icon,
+    },
+    date_limit: dateLimit,
+    importance: importance,
+    link: {
+      href: link,
+    },
+  };
+});
+```
 ### The Great Falling Away
 
 2016-07-12
