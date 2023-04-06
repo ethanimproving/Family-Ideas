@@ -17,3 +17,6 @@
 | Medrol      | METHYLPREDNISOLONE 4 MG DOSEPK tablets          | $6.85          | Steroid for quickly kicking a cough away.     |
 
 Use [CVS Caremark](https://www.caremark.com/manage-prescriptions/coverage-costs.html) to check your prescription coverage.
+
+- Clairton - antihistamine
+- Allerest

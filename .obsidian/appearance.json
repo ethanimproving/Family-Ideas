@@ -1,9 +1,10 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "cssTheme": "",
   "accentColor": "",
   "enabledCssSnippets": [
     "slack",
-    "evernote"
+    "evernote",
+    "timeline"
   ]
 }
