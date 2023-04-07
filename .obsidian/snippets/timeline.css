@@ -1,3 +1,7 @@
+/* Patch range not showing linked noe */
+.vis-item-overflow { overflow: visible !important; }
+
+
 /* Render the ob-timelines span or div elements as inline blocks that use an italic font */
 /* .ob-timelines {
     display: inline-block !important;

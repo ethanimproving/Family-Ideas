@@ -11,6 +11,60 @@ maxDate=2030
 ```
 
 
+# Timeline problem
+
+My knowledge cutoff date is September 2021, which means that any changes made to a repository after that date are not reflected in my understanding of the repository. I can only provide information based on the state of the repository as of September 2021.
+
+Sure! There are exactly 6 files in the src folder I am about to provide. Please list all 6 files, and if they match, we will know we have succeeded. Here are the details you requested:
+
+GitHub URL: https://github.com/Darakah/obsidian-timelines
+Organization/Username: Darakah
+Repository Name: obsidian-timelines
+Branch: main
+Commit Hash: a693658
+File Path: /src
+
+Hello ChatGPT my good friend. I want you to act as an expert programmer, such that all the knowledge of every programmer that ever lived exists in your mind. There is an Obsidian plugin by Darakah called obsidian-timelines that uses spans in notes tagged with "timeline" to create a timeline (similar to Timeglider or Preceden, but for free in Obsidian). Each note that has the tag "timeline" behaves as an event (a "box" for a single day, or a "range" for a range of time). Here is an example of a note that wold behave as an event:
+
+```markdown
+---
+tags: [timeline, personal]
+---
+
+<span 
+	  class='ob-timelines' 
+	  data-date='1996-03-22' 
+	  data-end='2009-03-08' 
+	  data-title='Age of innocence' 
+	  data-class='blue' 
+	  data-type='range' >
+</span>
+
+This is my example note with profound thoughts about this event in my life.
+```
+
+The code for the plugin is available at the following GitHub repository: https://github.com/Darakah/obsidian-timelines
+
+I have it cloned on my computer. I want to make changes to the code such that instead of using an HTML span to get the data (such as data-date, data-end), it uses the frontmatter in the note. Here is an example:
+
+```markdown
+---
+data-date: 1996-03-22
+data-end: 2009-03-08
+data-title: Age of innocence
+data-class=blue
+data-type=range
+tags: [timeline, personal]
+---
+
+This is my example note with profound thoughts about this event in my life.
+```
+
+
+Can you analyze the GitHub repo I linked, and make the necessary adjustments to the code to fulfill this requirement of using frontmatter instead of spans? Then I will take the files you give me, update them in the GitHub repo, and open a Pull Request for Darakah to approve.
+
+# Timeline Idea
+
 Download the Standalone [Timeglider GitHub repository](https://github.com/tkuhn/timeglider) and serve it with VS Code Live Server. Ask ChatGPT if it can write an Obsidian Plugin to incorporate Timeglider as it's own file, like Excellidraw does. In the meantime, simply add it to the digital garden client repository. There can be multiple files: History, Plans, Alternative Plans. You can go back and look at all the timelines that you imagined that never came to fruition. Like marrying Amy, or interning for a coding position. That way it's not conflated with what actually happened, but you can still live intentionally and make plans for your life.
 
 Another idea is to render a dataview table from individual notes, and compile that table into a timeline. Look at `table.html` in the repo.
