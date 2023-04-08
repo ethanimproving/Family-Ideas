@@ -24,7 +24,11 @@ Branch: main
 Commit Hash: a693658
 File Path: /src
 
-Hello ChatGPT my good friend. I want you to act as an expert programmer, such that all the knowledge of every programmer that ever lived exists in your mind. There is an Obsidian plugin by Darakah called obsidian-timelines that uses spans in notes tagged with "timeline" to create a timeline (similar to Timeglider or Preceden, but for free in Obsidian). Each note that has the tag "timeline" behaves as an event (a "box" for a single day, or a "range" for a range of time). Here is an example of a note that wold behave as an event:
+Hello ChatGPT my good friend. I want you to act as an expert programmer, such that all the knowledge of every programmer that ever lived exists in your mind. There is an Obsidian plugin by Darakah called obsidian-timelines that
+
+
+
+These 6 files are an Obsidian plugin that uses HTML spans or divs in notes tagged with "timeline" to create a timeline (similar to Timeglider or Preceden, but for free in Obsidian). Each note that has the tag "timeline" behaves as an event (a "box" for a single day, or a "range" for a range of time). Here is an example of a note that would behave as an event:
 
 ```markdown
 ---
@@ -43,9 +47,7 @@ tags: [timeline, personal]
 This is my example note with profound thoughts about this event in my life.
 ```
 
-The code for the plugin is available at the following GitHub repository: https://github.com/Darakah/obsidian-timelines
-
-I have it cloned on my computer. I want to make changes to the code such that instead of using an HTML span to get the data (such as data-date, data-end), it uses the frontmatter in the note. Here is an example:
+I want to make changes to the code such that instead of using an HTML span or div to get the data (such as data-date, data-end), it uses the frontmatter in the note. Here is an example:
 
 ```markdown
 ---
@@ -60,6 +62,8 @@ tags: [timeline, personal]
 This is my example note with profound thoughts about this event in my life.
 ```
 
+
+Can make the necessary adjustments to the code to fulfill this requirement of using frontmatter instead of spans?
 
 Can you analyze the GitHub repo I linked, and make the necessary adjustments to the code to fulfill this requirement of using frontmatter instead of spans? Then I will take the files you give me, update them in the GitHub repo, and open a Pull Request for Darakah to approve.
 

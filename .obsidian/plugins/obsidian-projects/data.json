@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Attachments/Templates/new-video-template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Goals/Projects/Amplify Ministries",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "type",
+              "due",
+              "status",
+              "published"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "priority": {
+                "hide": true
+              },
+              "due": {
+                "hide": false
+              },
+              "image": {
+                "hide": true
+              },
+              "sponsor": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "topic": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#f26202",
+                "condition": {
+                  "field": "",
+                  "operator": "is-not-empty"
+                }
+              }
+            ]
+          },
+          "id": "1f40cc6e-a8bb-4d04-ba09-2d826619c6e4",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "15a7c87f-6f9f-4e34-8706-e301707a758e",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "b82e6ec2-7994-4c35-a528-be040eba2de5",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "224567a3-29c5-43e0-80ff-1a977815c569",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "f3b71673-030d-4f11-8add-7e79a248b5a6",
+      "name": "Amplify Ministries"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": []
+  }
+}
