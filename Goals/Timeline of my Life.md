@@ -13,7 +13,7 @@ maxDate=2030
 
 # Timeline problem
 
-My knowledge cutoff date is September 2021, which means that any changes made to a repository after that date are not reflected in my understanding of the repository. I can only provide information based on the state of the repository as of September 2021.
+My knowledge cutoff date is September 2021, which means that <mark class="hltr-yellow">any changes made to a repository after that date are not reflected in my understanding of the repository</mark>. I can only provide information based on the state of the repository as of September 2021.
 
 Sure! There are exactly 6 files in the src folder I am about to provide. Please list all 6 files, and if they match, we will know we have succeeded. Here are the details you requested:
 

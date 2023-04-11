@@ -4,6 +4,12 @@ dg-publish: true
 
 # Date Ideas
 
+```dataview
+table price, membership, location
+from "Relationship/Dates/Date Ideas"
+sort Date desc
+```
+
 ## Inside
 - Galleria and a movie in Dallas (Valley View 16)
 - Northpark Mall
