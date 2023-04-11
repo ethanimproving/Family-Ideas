@@ -6,5 +6,5 @@
 	"description": "An Obsidian plugin to paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Calc as Markdown tables in Obsidian editor.",
 	"author": "Ganessh Kumar R P <rpganesshkumar@gmail.com>",
 	"authorUrl": "https://ganesshkumar.com",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }
