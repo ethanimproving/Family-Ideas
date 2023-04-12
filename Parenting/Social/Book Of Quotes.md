@@ -1,0 +1,3 @@
+> In any situation of controversy, you have to speak as strongly as upholding the truth requires. Which may mean that you speak so strongly that you appear to give more weight to the issue than your own personal devotional ministry you actually do. ~ [J.I. Packer](<https://podcasts.google.com/?feed=aHR0cDovL2ZlZWQuZGVzaXJpbmdnb2Qub3JnL2Fzay1wYXN0b3Itam9obi5yc3M&ep=14&episode=ZGVzaXJpbmdnb2Qub3JnLXJlc291cmNlLTE1MjI2&pe=1&pep=3547615)>)
+
+> It wouldn't hurt if you were dead. Pain means you're alive. Pain means you have a heartbeat. ~ Ethan Miller

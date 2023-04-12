@@ -10,6 +10,7 @@ minDate=1990
 maxDate=2030
 ```
 
+View YouTube History in the [Google Activity page](https://myactivity.google.com/product/youtube?hl=en).
 
 # Timeline problem
 
