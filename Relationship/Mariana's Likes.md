@@ -21,6 +21,8 @@ Things she likes:
 - Going to Volleyball games for Texas Longhorns (her favorite team. She dreams of her kids playing for them)
 - Playing Tennis
 - Jonas Brothers
+- Charlie Puth
+- Coldplay
 
 She is a very genuine and sweet girl with a lot of energy and a great sense of humor. She is more quiet and reserved, but not too much. She likes to laugh, and when she's speaking in Spanish she speaks a lot more, very quickly, because that's her natural language. So she becomes very animated with her friends, but still in a feminine way with her body language. When I bring her to church, she smiles and laughs, and talk to people who talk to her, but she's a lot more reserved than when she's speaking Spanish with her friends.
 

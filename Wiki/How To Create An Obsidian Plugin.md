@@ -6,10 +6,16 @@ dg-publish: true
 - [Unofficial Blogpost](https://phibr0.medium.com/how-to-create-your-own-obsidian-plugin-53f2d5d44046)
 - [Obsidian API Docs](https://github.com/obsidianmd/obsidian-api/)
 - [For Plugin Developers](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Plugin+Developers)
+- Toggle the [Developer Tools](https://marcus.se.net/obsidian-plugin-docs/getting-started/plugin-anatomy#:~:text=To%20view%20the%20console%3A,in%20the%20Developer%20Tools%20window.) by pressing Ctrl+Shift+I
+- [5 Ways To Add Breakpoints](https://dev.to/bytefish/5-ways-to-add-breakpoints-on-chrome-devtools-f28)
 
 1. Clone the [official Sample Plugin](https://github.com/obsidianmd/obsidian-sample-plugin) from GitHub
 
-  
+![](https://i.imgur.com/7cF2sFH.png)
+
+![](https://i.imgur.com/VJmRW4D.png)
+
+
 ```bash  
 # Clone repo  
 $ git clone https://github.com/obsidianmd/obsidian-sample-plugin.git  
