@@ -1,0 +1,3 @@
+[Michel Thomas](https://music.youtube.com/channel/FEmusic_library_privately_owned_artist_detaila_po_COuhrvuQyYWsFxINbWljaGVsIHRob21hcw)
+[Spanish - Living Language](https://music.youtube.com/channel/FEmusic_library_privately_owned_artist_detaila_po_COuhrvuQyYWsFxIXc3BhbmlzaCBsaXZpbmcgbGFuZ3VhZ2U)
+[Rose Lee Hayden](https://music.youtube.com/channel/FEmusic_library_privately_owned_artist_detaila_po_COuhrvuQyYWsFxIPcm9zZSBsZWUgaGF5ZGVu)
