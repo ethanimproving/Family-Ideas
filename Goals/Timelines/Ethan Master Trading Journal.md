@@ -1,10 +1,11 @@
 ---
 dg-publish: true
-start-date: 2013-08-26
-end-date: 2016-12-13
+start-date: 2017-03-22
+end-date: 2018-02-17
 type: range
+color: blue
 date-limit: year
-importance: 30
+importance: 50
 tags: [timeline, personal]
 ---
 

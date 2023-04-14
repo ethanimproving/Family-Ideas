@@ -12,6 +12,8 @@ sponsor:
 
 # Related Notes
 
+[Video Catalog.xlsx](https://cougarmailcollin-my.sharepoint.com/:x:/g/personal/emiller25_cougarmail_collin_edu/EdONAgvpSEFFrojbDAl8kUABWRMbsG_Sa8LX0TIaFOWiqg?e=kpoHva)
+
 # Title Ideas
 
 # Thumbnail

@@ -2,9 +2,11 @@
 dg-publish: true
 start-date: 2010-05-17
 end-date: 2015-10-25
+type: range
 title: Left to my own devices (uTorrent)
 date-limit: year
 importance: 30
+tags: [timeline, personal]
 ---
 
 uTorrent: All the weights of the bag are his concern.  

@@ -2,8 +2,16 @@
 status: backlog
 published: false
 priority: 4
-type:
+video-title:
+preacher:
+scripture-used:
+topics:
+sermon-title:
+sermon-link:
+series:
+description:
 tags: 
+type:
 image:
 due:
 topic:

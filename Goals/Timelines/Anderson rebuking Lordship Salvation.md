@@ -1,19 +1,10 @@
 ---
 dg-publish: true
 start-date: 2016-04-29
-title: My first time rebuking Pastor Anderson
 date-limit: month
 importance: 30
-tags: [timeline, personal]
+tags: [timeline, salvation]
 ---
-
-<span 
-	  class='ob-timelines' 
-	  data-date='2016-04-29' 
-	  data-title='My first time rebuking Pastor Anderson' 
-	  data-class='orange' 
-	  data-type='box' > 
-</span>
 
 YouTube
 Watched Paul Washer is an Unsaved False Prophet
