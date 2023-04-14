@@ -3,7 +3,7 @@ dg-publish: true
 start-date: 2009-11-08
 end-date: 2017-08-23
 type: range
-title: Spiritual deadness
+color: gray
 date-limit: year
 importance: 30
 tags: [timeline, personal]

@@ -3,7 +3,7 @@ dg-publish: true
 start-date: 2012-08-02
 end-date: 2013-05-03
 type: range
-title: FL Studio
+color: yellow
 date-limit: year
 importance: 30
 tags: [timeline, personal]

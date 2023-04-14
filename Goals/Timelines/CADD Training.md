@@ -3,7 +3,7 @@ dg-publish: true
 start-date: 2018-01-18
 end-date: 2018-03-02
 type: range
-color: blue
+color: yellow
 date-limit: year
 importance: 50
 tags: [timeline, personal, laborhours]

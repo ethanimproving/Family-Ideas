@@ -3,7 +3,7 @@ dg-publish: true
 start-date: 2018-08-10
 end-date: 2020-02-25
 type: range
-color: blue
+color: pink
 date-limit: year
 importance: 50
 tags: [timeline, crush]

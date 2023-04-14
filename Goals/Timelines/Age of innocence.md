@@ -3,8 +3,7 @@ dg-publish: true
 start-date: 1996-03-22
 end-date: 2009-03-08
 type: range
-title: Age of innocence
-icon: circle_green.png
+color: gray
 date-limit: year
 importance: 50
 tags: [timeline, personal]

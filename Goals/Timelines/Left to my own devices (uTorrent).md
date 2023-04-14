@@ -3,6 +3,7 @@ dg-publish: true
 start-date: 2010-05-17
 end-date: 2015-10-25
 type: range
+color: green
 title: Left to my own devices (uTorrent)
 date-limit: year
 importance: 30

@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 start-date: 2020-01-22
-color: blue
+color: pink
 date-limit: year
 importance: 50
 tags: [timeline, crush]

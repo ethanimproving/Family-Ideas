@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 start-date: 1999-10-18
-title: Ethan asks Jesus to come into his heart
+color: green
 date-limit: year
 importance: 30
 tags: [timeline, personal]

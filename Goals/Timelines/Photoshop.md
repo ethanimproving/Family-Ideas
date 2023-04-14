@@ -3,7 +3,7 @@ dg-publish: true
 start-date: 2011-09-30
 end-date: 2015-08-02
 type: range
-title: Photoshop
+color: blue
 date-limit: week
 importance: 30
 tags: [timeline, personal]

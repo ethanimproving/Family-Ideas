@@ -36,6 +36,16 @@ minDate=1996
 maxDate=2030
 ```
 
+# Plans
+
+```timeline-vis
+tags=plans
+startDate=2019
+endDate=2021,10
+minDate=1996
+maxDate=2030
+```
+
 ```dataview
 table start-date as Start_Date, end-date as End_Date
 from "Goals/Timelines"
