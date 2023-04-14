@@ -3,7 +3,7 @@ dg-publish: true
 start-date: 2017-02-20
 end-date: 2017-11-08
 type: range
-date-limit: orange
+color: pink
 importance: 50
 tags: [timeline, personal]
 ---
