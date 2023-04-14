@@ -2,11 +2,11 @@
 .vis-item-overflow { overflow: visible !important; }
 
 
-.vis-item:hover,
+/* .vis-item:hover,
 .vis-item.vis-selected {
   box-sizing: border-box;
   border-width: 0 8px;
-}
+} */
 
 .vis-item:hover div.vis-item-content > a,
 .vis-item:hover div.vis-item-overflow > div > a,
