@@ -9,5 +9,7 @@ plugins/digitalgarden/data.json
 # Remove completely
 # git rm --cached -r .obsidian/plugins/digitalgarden/data.json
 plugins/obsidian-multi-cursor
+plugins/templater-obsidian/main.js
+plugins/obsidian-textgenerator-plugin/main.js
 node_modules
 graph.json

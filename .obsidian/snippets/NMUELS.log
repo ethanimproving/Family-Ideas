@@ -1,0 +1,458 @@
+2023-04-14T16:56:22.5360000Z  (PTOL)  ()  ()  callFOLClient request payload: {
+  "header" : {
+    "clientId" : "SSM",
+    "transactionId" : "dbda7c2d-d363-40e7-b299-3d5de22a0b87",
+    "host" : "CERT",
+    "pointOfSale" : "DFW",
+    "recordLocator" : "NMUELS",
+    "enablePrinterId" : false,
+    "shoppingCartId" : "b81b025a-c9cc-41fc-999e-5659afa50b12"
+  },
+  "orderGroups" : [ {
+    "groupType" : "ANCILLARY",
+    "groupId" : 1,
+    "orderItems" : [ ],
+    "shoppingCartOrderItems" : [ {
+      "itemType" : "AIRPORT_BAGS_MSR",
+      "itemId" : "30fa2e6d-1af6-4bdc-aff1-a024e3d76371"
+    } ]
+  } ]
+}
+2023-04-14T16:56:22.8308825Z  (fol)  (shoppingCart-ms)  (283)  BackendCall
+2023-04-14T16:56:22.8388281Z  (fol)  ()  ()  Decrypt credit card
+2023-04-14T16:56:22.8540000Z  (shopping-cart-cache-ms)  (redis-create)  (6)  backendCall
+2023-04-14T16:56:22.8561471Z  (fol)  (shopping-cart-cache-ms)  (17)  BackendCall
+2023-04-14T16:56:22.8670000Z  (sessionmanager-ms)  ()  ()  xml-request
+2023-04-14T16:56:22.9730000Z  (sessionmanager-ms)  ()  ()  xml-request
+2023-04-14T16:56:22.9730000Z  (sessionmanager-ms)  (SessionCreateRQ)  (107)  Call to create session
+2023-04-14T16:56:22.9750000Z  (sessionmanager-ms)  ()  ()  xml-request
+2023-04-14T16:56:23.1350000Z  (sessionmanager-ms)  ()  ()  xml-request
+2023-04-14T16:56:23.1360000Z  (sessionmanager-ms)  (ContextChangeLLSRQ)  (163)  Call to change psuedo city
+2023-04-14T16:56:23.1380000Z  (sessionmanager-ms)  ()  ()  xml-request
+2023-04-14T16:56:24.2900000Z  (sessionmanager-ms)  ()  ()  xml-request
+2023-04-14T16:56:24.2910000Z  (sessionmanager-ms)  (ContextChangeLLSRQ)  (1154)  Call to change duty code
+2023-04-14T16:56:24.2930000Z  (sessionmanager-ms)  ()  ()  xml-request
+2023-04-14T16:56:24.5000000Z  (sessionmanager-ms)  ()  ()  xml-request
+2023-04-14T16:56:24.5010000Z  (sessionmanager-ms)  (DesignatePrinterLLSRQ)  (209)  Call to designate printer
+2023-04-14T16:56:24.5026326Z  (fol)  (sessionmanager-ms)  (1645)  BackendCall
+2023-04-14T16:56:25.2690000Z  (AOL)  ()  ()  Entering AOL with transaction id dbda7c2d-d363-40e7-b299-3d5de22a0b87
+2023-04-14T16:56:25.3350000Z  (AOL)  ()  ()  OrderCheckoutService Call initiated with url:https://api.stage.aa.com/payment/order/b81b025a-c9cc-41fc-999e-5659afa50b12/AIRPORT_BAGS_MSR/
+2023-04-14T16:56:27.5980000Z  (AOL)  (shoppingcart.orderCheckOutService)  (2201)  string [1 called_service_name="shoppingcart.orderCheckOutService" response_status="SUCCESS" response_time="2201"] {
+  "productDetails" : [ {
+    "productType" : "AIRPORT_BAGS_MSR",
+    "itemID" : "30fa2e6d-1af6-4bdc-aff1-a024e3d76371",
+    "itemType" : "AIRPORT_BAGS_MSR",
+    "fulfillmentAttributes" : "{\"itemType\":\"AIRPORT_BAGS_MSR\",\"itemId\":\"30fa2e6d-1af6-4bdc-aff1-a024e3d76371\",\"paymentIds\":null,\"passengerIds\":[\"01.01\"],\"totalItemBaseAmount\":{\"value\":30.0,\"currencyCode\":\"USD\"},\"taxes\":null,\"itineraryReference\":{\"referenceType\":\"SLICEREFERENCE\",\"id\":\"1\"},\"productCatalogParams\":{\"commercialName\":\"UPTO50LB 23KG AND62LI 158LCM\",\"rfic\":\"C\",\"rfisc\":\"0GO\",\"groupCode\":\"BG\",\"emdType\":\"OTHER_THAN_EMD\",\"vendorID\":\"EMAA\"},\"regularBagCheckInInfo\":[{\"waiverCode\":null,\"waiverDescription\":null,\"bagReference\":\"1\",\"commercialName\":\"UPTO50LB 23KG AND62LI 158LCM\",\"mostSignificantCarrierCode\":\"AA\",\"amount\":\"30.00\",\"isHeavy\":false,\"isPrepaidBag\":false}],\"waivedBagCheckInInfo\":[],\"ticketNumber\":\"0012369994786\"}",
+    "paymentIds" : [ "1" ]
+  } ]
+}
+2023-04-14T16:56:27.9370000Z  (AOL)  ()  ()  OrderFulfillmentRequest with items received from shopping cart:
+{
+  "header": {
+    "clientId": "SSM",
+    "transactionId": "dbda7c2d-d363-40e7-b299-3d5de22a0b87",
+    "host": "CERT",
+    "swstoken": "Shared/IDL:IceSess\\/SessMgr:1\\.0.IDL/Common/!ICESMS\\/ACPCRTD!ICESMSLB\\/CRT.LB!xxxx...xxxx2916!878!261",
+    "pointOfSale": "DFW",
+    "recordLocator": "NMUELS",
+    "enablePrinterId": false,
+    "shoppingCartId": "b81b025a-c9cc-41fc-999e-5659afa50b12",
+    "shoppingCartAuthToken": "Nel9Su36RD2CO20tj4ATLSkKr64m"
+  },
+  "orderGroups": [
+    {
+      "groupType": "ANCILLARY",
+      "groupId": 1,
+      "orderItems": [
+        {
+          "itemType": "AIRPORT_BAGS_MSR",
+          "itemId": "30fa2e6d-1af6-4bdc-aff1-a024e3d76371",
+          "paymentIds": [
+            "1"
+          ],
+          "passengerIds": [
+            "01.01"
+          ],
+          "totalItemBaseAmount": {
+            "value": 30.00,
+            "currencyCode": "USD"
+          },
+          "productCatalogParams": {
+            "commercialName": "UPTO50LB 23KG AND62LI 158LCM",
+            "rfic": "C",
+            "rfisc": "0GO",
+            "groupCode": "BG",
+            "emdType": "OTHER_THAN_EMD",
+            "vendorID": "EMAA"
+          },
+          "itineraryReference": {
+            "referenceType": "SLICEREFERENCE",
+            "id": "1"
+          },
+          "ticketNumber": "0012369994786",
+          "regularBagCheckInInfo": [
+            {
+              "bagReference": "1",
+              "amount": "30.00",
+              "commercialName": "UPTO50LB 23KG AND62LI 158LCM",
+              "isHeavy": false,
+              "isPrepaidBag": false
+            }
+          ],
+          "waivedBagCheckInInfo": []
+        }
+      ],
+      "shoppingCartOrderItems": [
+        {
+          "itemType": "AIRPORT_BAGS_MSR",
+          "itemId": "30fa2e6d-1af6-4bdc-aff1-a024e3d76371"
+        }
+      ]
+    }
+  ],
+  "airline": {
+    "computerizedReservationSystem": "1S",
+    "airlineCode": "001",
+    "flightDate": "2023-04-14T14:50:00.000-05:00",
+    "designatorCode": "AA",
+    "slices": [
+      {
+        "segments": [
+          {
+            "originAirportCode": "DFW",
+            "flightNumber": "2627",
+            "carrierCode": "AA",
+            "fareBaseCode": "B0APZNN1",
+            "classOfTravel": "Y",
+            "segmentStatusCode": "CONFIRMED",
+            "destinationAirportCode": "OKC",
+            "dateOfTravel": "2023-04-14 14:50",
+            "dateOfArrival": "2023-04-14 15:49",
+            "departureTimeZoneId": "America/Chicago",
+            "arrivalTimeZoneId": "America/Chicago",
+            "id": "1",
+            "operatingCarrier": "AA",
+            "seatPropertiesMap": {
+              "01.01": {
+                "seatNumber": "26D"
+              }
+            }
+          }
+        ],
+        "id": "1"
+      }
+    ],
+    "passengers": [
+      {
+        "personalDetails": {
+          "firstName": "SURAJ",
+          "lastName": "GAUTAM"
+        },
+        "id": "01.01",
+        "passengerType": "ADULT",
+        "isRevenuePassenger": true,
+        "dateOfBirth": "1990-01-16"
+      }
+    ]
+  },
+  "paymentDetails": {
+    "shopperInfo": {
+      "ip": "127.0.0.1",
+      "interaction": "Ecommerce",
+      "countryCode": "US",
+      "languageCode": "EN",
+      "browserInfo": {
+        "acceptHeader": "application/json, text/plain, */*",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+      }
+    },
+    "formOfPayments": [
+      {
+        "formOfPaymentType": "ENCRYPTED_SCHEME",
+        "paymentId": "1",
+        "paymentType": "ENCRYPTED_SCHEME",
+        "amountToBeCharged": {
+          "value": 30.0,
+          "currencyCode": "USD"
+        },
+        "encryptedCardNumber": "CNLi20+4hFDRfo/j6pQccpXuoXcC1a/Goomi1LriAJ/TZ2tOeGJvhpMJ/fnAy/f13eQhY3BRnD5m4x3aBQPBAoTfanfHtiEQr0cdQVO6EZFY/GsY2rhWYCn0Oo3aXP1yigL7hmaM/1sPafDzVHXdLD4ag4vNGnuUiUimN4s1n+2L5v76fo0p9BucGe8uxszG5IQ+jVoscioOQJec54WEJRjj2ONX/sn8rJqVoL4X2kb8ju0IEXrH8i9ri0Mtkd6wNFqc2LWxZ2CgAbBATUFFauzLjEMpFomz2OzFiWascu29dgVxDa9Irj1qt8Wojbpx1hkX/7CkM7/2lDNSnLHCyg\u003d\u003d",
+        "cardType": "VI",
+        "expiryMonth": "03",
+        "expiryYear": "2030",
+        "decryptedCardNumber": "xxxx...xxxx1111",
+        "holder": {
+          "firstName": "E",
+          "lastName": "INFLIGHT"
+        },
+        "authorizationDetails": {
+          "approvalCode": "GATEW1",
+          "pspReferenceNumber": "H3Q2MHQHRGNG5S82"
+        }
+      }
+    ]
+  },
+  "additionalKeyValueMap": {
+    "pnr_in_session": "false",
+    "has-shopping-cart-item": "true"
+  }
+}
+2023-04-14T16:56:28.0730000Z  (AOL)  ()  ()  Post fulfillment Cache call initiated with url:http://shopping-cart-cache-ms/api/shoppingCartCache/update
+2023-04-14T16:56:28.1130000Z  (AOL)  ()  ()  PFMCacheRequest {
+  "groupId" : 1,
+  "shoppingCartId" : "b81b025a-c9cc-41fc-999e-5659afa50b12",
+  "transactionId" : "dbda7c2d-d363-40e7-b299-3d5de22a0b87",
+  "orderItems" : [ {
+    "itemType" : "AIRPORT_BAGS_MSR",
+    "itemId" : "30fa2e6d-1af6-4bdc-aff1-a024e3d76371",
+    "paymentIds" : [ "1" ],
+    "passengerIds" : [ "01.01" ],
+    "totalItemBaseAmount" : {
+      "value" : 30.00,
+      "currencyCode" : "USD"
+    },
+    "totalItemTaxAmount" : null,
+    "taxes" : null,
+    "additionalKeyValueMap" : null,
+    "discountAssetDetails" : null,
+    "dependsOnItemID" : null,
+    "productCatalogParams" : {
+      "commercialName" : "UPTO50LB 23KG AND62LI 158LCM",
+      "rfic" : "C",
+      "rfisc" : "0GO",
+      "groupCode" : "BG",
+      "owningCarrier" : null,
+      "emdType" : "OTHER_THAN_EMD",
+      "sjcIndicator" : null,
+      "feeAppInd" : null,
+      "vendorID" : "EMAA",
+      "equipmentType" : null,
+      "couponNumber" : null,
+      "bookingMethod" : null,
+      "ssrCode" : null,
+      "noOfItems" : null,
+      "statusCode" : null,
+      "optionalStatusCode" : null,
+      "fqtvCarrierFiledTierLevel" : null,
+      "formOfRefundIndicator" : null,
+      "guaranteedFeeIndicator" : null,
+      "refundIndicator" : null,
+      "brandedFareId" : null,
+      "tourCode" : null,
+      "purchaseBy" : null,
+      "reasonForFeeWaiver" : null,
+      "fulfillmentType" : null,
+      "ssimCode" : null,
+      "emdNumber" : null,
+      "emdCouponNumber" : null,
+      "commissionIndicator" : null,
+      "interlineIndicator" : null,
+      "consumedIndicator" : null,
+      "feeApplicationIndicator" : null,
+      "taxExemptIndicator" : null,
+      "segmentEMDCoupon" : null,
+      "eticketNumber" : null,
+      "iataappIndicator" : null
+    },
+    "itineraryReference" : {
+      "referenceType" : "SLICEREFERENCE",
+      "id" : "1"
+    },
+    "vcrToAssociate" : null,
+    "ticketNumber" : "0012369994786",
+    "regularBagCheckInInfo" : [ {
+      "waiverCode" : null,
+      "bagReference" : "1",
+      "amount" : "30.00",
+      "commercialName" : "UPTO50LB 23KG AND62LI 158LCM",
+      "isHeavy" : false,
+      "isPrepaidBag" : false
+    } ],
+    "waivedBagCheckInInfo" : [ ],
+    "mostSignificantCarrierCode" : null,
+    "currencyCode" : null,
+    "bagTagPrinterId" : null
+  } ]
+}
+2023-04-14T16:56:28.1650000Z  (AOL)  ()  ()  PaymentIds in use: [1]
+2023-04-14T16:56:28.2560000Z  (shopping-cart-cache-ms)  (redis-read)  (7)  backendCall
+2023-04-14T16:56:28.2630000Z  (shopping-cart-cache-ms)  (redis-update)  (14)  backendCall
+2023-04-14T16:56:28.2630000Z  (shopping-cart-cache-ms)  (redis-create)  (6)  backendCall
+2023-04-14T16:56:28.2680000Z  (AOL)  (shoppingcart.pfmscache)  (217)  string [1 called_service_name="shoppingcart.pfmscache" response_status="SUCCESS" response_time="217"] null
+2023-04-14T16:56:28.7340000Z  (AOL)  ()  ()  =========================AOL Error Handler initiated=======================
+2023-04-14T16:56:28.7450000Z  (AOL)  ()  ()  For PNR: NMUELS
+2023-04-14T16:56:28.7460000Z  (AOL)  ()  ()  nulljava.lang.NullPointerException
+	at com.aa.etds.aol.helper.BagCheckinRequestHelper.mapSegments(BagCheckinRequestHelper.java:93)
+	at com.aa.etds.aol.helper.BagCheckinRequestHelper.populateBagCheckinRequest(BagCheckinRequestHelper.java:55)
+	at com.aa.etds.aol.processor.BagCheckinProcessor.process(BagCheckinProcessor.java:49)
+	at com.aa.etds.aol.processor.BagCheckinProcessor$$FastClassBySpringCGLIB$$ad83ac92.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:793)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at com.aa.etds.error.handler.profiler.PerformanceProfiler.profile(PerformanceProfiler.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:634)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:624)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:72)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:708)
+	at com.aa.etds.aol.processor.BagCheckinProcessor$$EnhancerBySpringCGLIB$$23dcff47.process(<generated>)
+	at org.apache.camel.support.processor.DelegateSyncProcessor.process(DelegateSyncProcessor.java:64)
+	at org.apache.camel.processor.errorhandler.RedeliveryErrorHandler$RedeliveryTask.doRun(RedeliveryErrorHandler.java:702)
+	at org.apache.camel.processor.errorhandler.RedeliveryErrorHandler$RedeliveryTask.run(RedeliveryErrorHandler.java:616)
+	at org.apache.camel.impl.engine.DefaultReactiveExecutor$Worker.schedule(DefaultReactiveExecutor.java:148)
+	at org.apache.camel.impl.engine.DefaultReactiveExecutor.scheduleMain(DefaultReactiveExecutor.java:60)
+	at org.apache.camel.processor.Pipeline.process(Pipeline.java:147)
+	at org.apache.camel.processor.CamelInternalProcessor.process(CamelInternalProcessor.java:286)
+	at org.apache.camel.impl.engine.DefaultAsyncProcessorAwaitManager.process(DefaultAsyncProcessorAwaitManager.java:83)
+	at org.apache.camel.support.AsyncProcessorSupport.process(AsyncProcessorSupport.java:40)
+	at org.apache.camel.http.common.CamelServlet.doService(CamelServlet.java:214)
+	at org.apache.camel.http.common.CamelServlet.service(CamelServlet.java:80)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:769)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023-04-14T16:56:28.8660000Z  (AOL)  ()  ()  Consolidated Response for Transaction ID dbda7c2d-d363-40e7-b299-3d5de22a0b87: FAILED
+2023-04-14T16:56:28.9089371Z  (fol)  (AOL)  (4405)  BackendCall
+2023-04-14T16:56:28.9160000Z  (sessionmanager-ms)  ()  ()  xml-request
+2023-04-14T16:56:28.9960000Z  (sessionmanager-ms)  ()  ()  xml-request
+2023-04-14T16:56:28.9970000Z  (sessionmanager-ms)  (SessionCloseRQ)  (82)  Call to close session
+2023-04-14T16:56:29.0026821Z  (fol)  (sessionmanager-ms)  (92)  BackendCall
+2023-04-14T16:56:29.0041164Z  (fol)  ()  ()  FolSummary
+2023-04-14T16:56:29.0080000Z  (PTOL)  (fol)  (6471)  [ called_service_name="fol" response_status="FAILED" response_time="6471"] {
+  "transactionId" : "dbda7c2d-d363-40e7-b299-3d5de22a0b87",
+  "status" : "FAILED",
+  "responseCode" : "FOL002",
+  "authCode" : "GATEW1",
+  "responseMessage" : "FAILED FULFILLMENT",
+  "recordLocator" : "NMUELS",
+  "orderGroupResponses" : [ {
+    "status" : "FAILED",
+    "responseCode" : "AOL002",
+    "responseMessage" : "Unable to Fulfill",
+    "groupId" : 1,
+    "orderItemResponses" : [ {
+      "status" : "FAILED",
+      "responseCode" : "AOL003",
+      "individualDocBaseAmount" : {
+        "value" : 30.00,
+        "currencyCode" : "USD"
+      },
+      "itemId" : "30fa2e6d-1af6-4bdc-aff1-a024e3d76371"
+    } ]
+  } ],
+  "additionalKeyValueMap" : {
+    "pspReference" : "H3Q2MHQHRGNG5S82"
+  }
+}
+2023-04-14T16:56:29.0100000Z  (PTOL)  ()  ()  {"request":{"header":{"clientId":"SSM","channel":null,"transactionId":"dbda7c2d-d363-40e7-b299-3d5de22a0b87","host":"CERT","stationId":null,"nofepSessionToken":null,"swstoken":null,"pointOfSale":"DFW","recordLocator":"NMUELS","enablePrinterId":false,"shoppingCartId":"b81b025a-c9cc-41fc-999e-5659afa50b12","shoppingCartAuthToken":null},"orderGroups":[{"groupType":"ANCILLARY","groupId":1,"dependsOnGroupId":null,"groupSubType":null,"passengerDocumentMap":null,"additionalKeyValueMap":null,"orderItems":[],"shoppingCartOrderItems":[{"itemType":"AIRPORT_BAGS_MSR","itemId":"30fa2e6d-1af6-4bdc-aff1-a024e3d76371","dependsOnItemId":null}]}],"airline":null,"paymentDetails":null,"discountAssetDetails":null,"additionalKeyValueMap":null},"response":{"transactionId":"dbda7c2d-d363-40e7-b299-3d5de22a0b87","status":"FAILED","responseCode":"FOL002","authCode":"GATEW1","responseMessage":"FAILED FULFILLMENT","recordLocator":"NMUELS","formOfPaymentAuthResponseDetails":null,"orderGroupResponses":[{"status":"FAILED","responseCode":"AOL002","responseMessage":"Unable to Fulfill","groupId":1,"orderItemResponses":[{"status":"FAILED","responseCode":"AOL003","responseMessage":null,"nativeHostMessage":null,"individualDocBaseAmount":{"value":30.00,"currencyCode":"USD"},"individualDocTaxAmount":null,"itemId":"30fa2e6d-1af6-4bdc-aff1-a024e3d76371","passengerDocumentMap":null,"refundCardMap":null,"additionalKeyValueMap":null,"purchaseDocument":null}],"additionalKeyValueMap":null}],"additionalKeyValueMap":{"pspReference":"H3Q2MHQHRGNG5S82"}},"authResponse":null}
+2023-04-14T16:56:29.0110000Z  (PTOL)  ()  ()  execution(FOLService.process(..)): 6475 ms
+2023-04-14T16:56:29.0110000Z  (PTOL)  ()  ()  Publishing request to PFMS {
+  "request" : {
+    "header" : {
+      "clientId" : "SSM",
+      "transactionId" : "dbda7c2d-d363-40e7-b299-3d5de22a0b87",
+      "host" : "CERT",
+      "pointOfSale" : "DFW",
+      "recordLocator" : "NMUELS",
+      "enablePrinterId" : false,
+      "shoppingCartId" : "b81b025a-c9cc-41fc-999e-5659afa50b12"
+    },
+    "orderGroups" : [ {
+      "groupType" : "ANCILLARY",
+      "groupId" : 1,
+      "orderItems" : [ ],
+      "shoppingCartOrderItems" : [ {
+        "itemType" : "AIRPORT_BAGS_MSR",
+        "itemId" : "30fa2e6d-1af6-4bdc-aff1-a024e3d76371"
+      } ]
+    } ]
+  },
+  "response" : {
+    "transactionId" : "dbda7c2d-d363-40e7-b299-3d5de22a0b87",
+    "status" : "FAILED",
+    "responseCode" : "FOL002",
+    "authCode" : "GATEW1",
+    "responseMessage" : "FAILED FULFILLMENT",
+    "recordLocator" : "NMUELS",
+    "orderGroupResponses" : [ {
+      "status" : "FAILED",
+      "responseCode" : "AOL002",
+      "responseMessage" : "Unable to Fulfill",
+      "groupId" : 1,
+      "orderItemResponses" : [ {
+        "status" : "FAILED",
+        "responseCode" : "AOL003",
+        "individualDocBaseAmount" : {
+          "value" : 30.00,
+          "currencyCode" : "USD"
+        },
+        "itemId" : "30fa2e6d-1af6-4bdc-aff1-a024e3d76371"
+      } ]
+    } ],
+    "additionalKeyValueMap" : {
+      "pspReference" : "H3Q2MHQHRGNG5S82"
+    }
+  }
+}
+2023-04-14T16:56:29.0280000Z  (shopping-cart-cache-ms)  (redis-read)  (8)  backendCall
+2023-04-14T16:56:29.0920000Z  (postfulfillment)  (postfulfillment)  ()  backendCall
+2023-04-14T16:56:29.0970000Z  (postfulfillment)  ()  ()  backendCall
+2023-04-14T16:56:29.0970000Z  (postfulfillment)  ()  ()  backendCall
+2023-04-14T16:56:29.0990000Z  (postfulfillment)  ()  ()  backendCall
+2023-04-14T16:56:29.0990000Z  (postfulfillment)  ()  ()  backendCall
+2023-04-14T16:56:29.0990000Z  (postfulfillment)  ()  ()  backendCall
+2023-04-14T16:56:29.0990000Z  (ptoldataingestionms)  ()  ()  Retrieved record locator.
+2023-04-14T16:56:29.0990000Z  (ptoldataingestionms)  ()  ()  Retrieved transaction ID.
+2023-04-14T16:56:29.1000000Z  (ptoldataingestionms)  ()  ()  Couldn't find passenger document map to transform.
+2023-04-14T16:56:29.1000000Z  (ptoldataingestionms)  ()  ()  Ignoring passenger document value null at response.orderGroupResponses.0.orderItemResponses.0.passengerDocumentMap
+2023-04-14T16:56:29.1000000Z  (ptoldataingestionms)  ()  ()  Masked fields: request.airline.passengers.0.personalDetails.middleName, request.paymentDetails.formOfPayments.0.holder.lastName, request.airline.passengers.0.personalDetails.lastName, request.paymentDetails.formOfPayments.0.holder.firstName, request.paymentDetails.formOfPayments.0.expiryYear, request.paymentDetails.shopperInfo.ip, request.paymentDetails.shopperInfo.interaction, request.airline.passengers.0.personalDetails.firstName, request.paymentDetails.shopperInfo.countryCode, request.airline.passengers.0.dateOfBirth, request.paymentDetails.shopperInfo.languageCode, request.paymentDetails.shopperInfo.browserInfo.acceptHeader, request.paymentDetails.formOfPayments.0.encryptedCardNumber, request.paymentDetails.formOfPayments.0.expiryMonth, request.paymentDetails.shopperInfo.deviceFingerprint, request.paymentDetails.formOfPayments.0.decryptedCardNumber, request.paymentDetails.shopperInfo.browserInfo.userAgent, request.paymentDetails.shopperInfo.email
+2023-04-14T16:56:29.1010000Z  (ptoldataingestionms)  ()  ()  Sending final transformed message to event hubs.
+2023-04-14T16:56:29.1130000Z  (RetrieveReservationMS)  ()  ()  Successfully removed cache for transaction: dbda7c2d-d363-40e7-b299-3d5de22a0b87
+2023-04-14T16:56:29.1150000Z  (RetrieveReservationMS)  ()  ()  Request [/api/v1/removeReservation] processing time [9 msecs]
+2023-04-14T16:56:29.1160000Z  (postfulfillment)  (retrieveRes_delete)  (17)  backendCall
+2023-04-14T16:56:29.1170000Z  (postfulfillment)  (ReceiptsSubmitter)  ()  backendCall

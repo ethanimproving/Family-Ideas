@@ -16,8 +16,11 @@
   "dataview",
   "page-gallery",
   "digitalgarden",
+  "obsidian-timelines",
   "cmdr",
   "templater-obsidian",
   "obsidian-projects",
-  "obsidian-reading-time"
+  "obsidian-reading-time",
+  "obsidian-textgenerator-plugin",
+  "obsidian-day-planner"
 ]
