@@ -6,6 +6,6 @@
 	"description": "Text generation using OpenAI",
     "author": "Noureddine Haouari",
 	"authorUrl": "https://obsidian.md",
-	"isDesktopOnly": false,
+	"isDesktopOnly": true,
     "fundingUrl":"https://www.buymeacoffee.com/haouarine"
 }
