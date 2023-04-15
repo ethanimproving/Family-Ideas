@@ -1,4 +1,18 @@
 {
   "timelineTag": "timeline",
-  "sortDirection": true
+  "sortDirection": true,
+  "notePreviewOnHover": true,
+  "frontmatterKeys": {
+    "startDateKey": [
+      "start-date",
+      "fc-date",
+      "dg-created"
+    ],
+    "endDateKey": [
+      "end-date"
+    ],
+    "titleKey": [
+      "title"
+    ]
+  }
 }

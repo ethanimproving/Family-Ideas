@@ -3,7 +3,7 @@
   "name": "Day Planner",
   "version": "0.5.8",
   "description": "A plugin to help you plan your day and setup pomodoro timers",
-  "isDesktopOnly": false,
+  "isDesktopOnly": true,
   "js": "main.js",
   "css": "style.css"
 }
