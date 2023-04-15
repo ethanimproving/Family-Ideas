@@ -21,14 +21,16 @@ luxon.DateTime.fromFormat(page.dg-created, 'MMM d, yyyy, h:mm a').toFormat(times
 The effort is not complete yet, below is the result so far.
 
 ```dataviewjs  
-dv.header(2, 'Diary Files');
+dv.header(2, 'Diary Entries');
 
 const pages = dv.pages("#diary").where(page => {
 	console.log(page);
-	return true;
+	return page['dg-created'];
 })
  dv.table(["Title", "Date"], pages.map(page => {
-	return [page.file.link, page['dg-created']];
+	return [page.file.link, dv.luxon.DateTime
+	.fromFormat(page['dg-created'].toString(), 'MMM d, yyyy, h:mm a')
+	.toFormat('cccc, MMM dd, yyyy h:mm a')];
 }));
 
 ```
