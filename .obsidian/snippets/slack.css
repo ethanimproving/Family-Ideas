@@ -4,3 +4,13 @@
     padding: 0 3px 0 3px;
     border-radius: 3px
 }
+
+span.cm-formatting.cm-formatting-code.cm-inline-code {
+    border: none;
+    padding: 0;
+}
+
+.cm-inline-code + .cm-widgetBuffer {
+    display: none !important;
+}
+  
