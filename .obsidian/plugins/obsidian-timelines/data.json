@@ -4,9 +4,7 @@
   "notePreviewOnHover": true,
   "frontmatterKeys": {
     "startDateKey": [
-      "start-date",
-      "fc-date",
-      "dg-created"
+      "start-date"
     ],
     "endDateKey": [
       "end-date"

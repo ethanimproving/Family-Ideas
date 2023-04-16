@@ -1,3 +1,13 @@
+---
+dg-publish: true
+start-date: 2022-12-9
+end-date: 2022-12-17
+title: Switzerland
+type: range
+color: gray
+tags: [timeline, crush]
+---
+
 There are 3 destinations we are thinking about traveling to:
 
 1. Switzerland

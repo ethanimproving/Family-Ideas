@@ -16,12 +16,12 @@ maxDate=2030
 
 View YouTube History in the [Google Activity page](https://myactivity.google.com/product/youtube?hl=en).
 
-# Crushes
+# Relationship
 
 ```timeline-vis
 tags=crush
-startDate=2002
-endDate=2020,10,10
+startDate=2021,9,1
+endDate=2023,10,10
 minDate=1996
 maxDate=2030
 ```
