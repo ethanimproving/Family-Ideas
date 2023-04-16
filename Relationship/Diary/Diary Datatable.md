@@ -24,6 +24,6 @@ dv.table(
     .sort((page1, page2) => {
       return page2[1] - page1[1]; // reverse order
     })
-    .map((page) => [page[0], page[1].toFormat("cccc, MMM dd, yyyy h:mm a")])
+    .map((page) => [page[0], page[1].toFormat("MMM dd, yyyy h:mm a")])
 );
 ```
