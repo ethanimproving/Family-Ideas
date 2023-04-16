@@ -3,12 +3,16 @@ dg-publish: true
 tags: [diary]
 ---
 
+```dataview
+table dg-created as Date
+from "Relationship/Diary"
+sort dg-created
+order desc
+```
+
+
 ```dataviewjs  
-dv.header(2, "Diary Entries");
-
-
 const pages = dv.pages().where((page) => {
-	console.log(page)
   return page.file.folder == dv.current().file.folder && page["dg-created"];
 });
 dv.table(
