@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-created: Apr 17, 2023 8:14 AM
-tags: [diary, poems, mariana]
+tags: [diary, poetry, mariana]
 ---
 
 Oh, woe betide, when I awake alone,
