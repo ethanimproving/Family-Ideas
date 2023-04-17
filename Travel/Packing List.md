@@ -1,3 +1,8 @@
+---
+dg-publish: true
+tags: [travel]
+---
+
 # Default
 
 ## Toiletries
