@@ -46,6 +46,16 @@ minDate=1996
 maxDate=2030
 ```
 
+# Mission Trips
+
+```timeline-vis
+tags=missions
+startDate=2023
+endDate=2024
+minDate=1996
+maxDate=2030
+```
+
 ```dataview
 table start-date as Start_Date, end-date as End_Date
 from "Goals/Timeline Events"
