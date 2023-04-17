@@ -1,3 +1,11 @@
+---
+dg-publish: true
+dg-created: Jan 13, 2023 10:50 PM
+type: range
+color: blue
+tags: [timeline, missions]
+---
+
 # Where to Stay
 
 | Hotel (4+ Google rated)                                                                   | Price / night | Distance from LHR | Buckingham  | Ratings |
