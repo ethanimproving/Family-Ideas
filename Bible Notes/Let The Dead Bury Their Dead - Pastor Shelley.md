@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-dg-created Apr 16, 2023, 10:40 AM
+dg-created: Apr 16, 2023, 10:40 AM
 note-id: 1
 verse-reference: Mat 8:22
 date-created: 4/16/2023
@@ -9,6 +9,8 @@ icon: pulpit
 tags: [discipleship, sacrifice, dontwasteyourlife, gobigorgohome]
 category: The After
 ---
+
+[Whatever, Whenever - Pastor Jonathan Shelley](https://www.youtube.com/live/1QSIGvYxy9o?&t=1033)
 
 We're supposed to do **whatever** he wants, and **whenever** he wants.
 
@@ -46,14 +48,14 @@ John 5:30
 It only matters what God thinks. He is our boss. Why would you call Jesus your boss and not treat him like your boss?
 Luke 6:46
 
-1. Read the Bible
+# 1. Read the Bible
 
 Delight in doing whatever God wants whenever God wants. Have pleasure in it. Have the right attitude. We may not always know what God wants us to do, so we ask him.
 Psalm 40:7, 143:10
 
-2. 
+# 2. Don't Count The Cose
 
-It shows how much that God loves us that we would be willing to sacrifice his son. How many people would rise up early to do it? He didn’t take his time. Whatever, whenever. 
+It shows how much that God loves us that he would be willing to sacrifice his son. How many people would rise up early to do it? He didn’t take his time. Whatever, whenever. 
 Genesis 22:1-4
 
 How many people are missing out on the blessing of God because of disobedience? How many great spiritual journeys has God laid out for you that you missed out on because of disobedience?
@@ -64,6 +66,8 @@ There is a cost sometimes. What will your attitude be like? It’s not like it�
 Judges 11:31, 35-36
 
 Your life stinks when you don’t serve God. It’s a shipwreck. It’s a blunder. Jonah. He picked plan B because he was afraid, and it was way worse. It’s always way worse.
+
+# 3. Whatever, Whenever, and I'm delighted to do it
 
 You should apply this attitude to your boss at work. Your attitude should be to your boss, “Whatever, whenever, and I’m delighted to do it.”
 Titus 2:9-10
@@ -85,7 +89,9 @@ Ephesians 6:1
 Wives are supposed to do everything that their husbands say. The Bible says “As unto the Lord.” The same way you would submit to your boss, or to God, you should submit to your husband. Unless your husband says to do something sinful, submit to God over him. He isn’t submitting to his authority (God) in that instance.
 Ephesians 5:22-24
 
-Real freedom is to do whatever God wants when God wants it. A gosh is only free when it’s in the after. It was a rule. Freedom isn’t the absence of rules, but the right rule.
+# Freedom Is The Right Rules
+
+Real freedom is to do whatever God wants when God wants it. A fish is only free when it’s in the after. It was a rule. Freedom isn’t the absence of rules, but the right rule.
 John 2:5
 
 Labor by Paris Paloma:
