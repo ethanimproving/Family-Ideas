@@ -181,3 +181,5 @@ Admin. "[Do Doors Need 2 Hinges or 3 Hinges?](https://monroeengineering.com/blog
 # Life Hacks
 
 [Life hacks and tips](https://fb.watch/jtyPg8VL0i/?mibextid=YCRy0i).
+
+[Ultra-Thin Outlet](https://www.facebook.com/reel/1304457837169646?fs=e&s=TIeQ9V&mibextid=0NULKw)
