@@ -10,7 +10,7 @@ For [Extended Campus Parking](https://newjetnet.aa.com/docs/DOC-35379) , infor
 ![](https://i.imgur.com/FTbffW3.png)
 You can reach Aries Dispatch 24/7 at **972-499-7787**.
 
-Alternatively, you can use TheParkingSpot app, make an account, and use the AA corporate code (Amer0137). This will allow you to park there for roughly $4 a night. Preferably choose the parking in the North Parking Lot as it is closer to the AA terminals. They also allow you to change/cancel your parking reservation up to an hour before for free.
+Alternatively, you can use TheParkingSpot app, make an account, and use the AA corporate code. This will allow you to park there for roughly $4 a night. Preferably choose the parking in the North Parking Lot as it is closer to the AA terminals. They also allow you to change/cancel your parking reservation up to an hour before for free.
 
 # Travel Guide
 
