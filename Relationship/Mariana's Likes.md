@@ -1,5 +1,6 @@
 ---
-dg-publish
+dg-publish: true
+dg-created: Apr 6, 2023, 1:27 PM
 ---
 
 Great! Her name is Mariana. Her [[Adventure Challenge#Mariana|love languages]] are:

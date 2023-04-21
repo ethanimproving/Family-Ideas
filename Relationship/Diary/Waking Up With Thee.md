@@ -22,6 +22,8 @@ Thou art forever in this heart of mine.
 So come, my love, and let us never part,
 For waking up with thee is music to my heart.
 A blissful state, a wondrous delight,
-That fills me with joy, and pure light.
+That fills me with joy, and love's pure light.
+
+. . .
 
 Also it would be nice to fuck you in lingerie.
