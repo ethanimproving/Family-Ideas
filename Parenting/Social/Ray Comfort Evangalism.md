@@ -48,3 +48,39 @@ Could that first entity not have been the universe? (It could have been if it wa
 I do my best thinking when I’m alone. I cantalk about things I've already thought about in a group, but as far as thinking things through, can't do that.
 
 “I don't believe in God.” Well it’s okay; He believes in you. The Bible says to as many as receive him, they are given the right to become children of God. That's a right I strongly recommend you exercise. All you've got to do is receive Him. That's what the Bible says. Listen, we're getting real now. All that stuff we were talking about earlier was just silliness, but this thing is serious. Do you know what foolishness is? It’s caring a lot about things that matter little, and caring little for things that matter a lot. Eternity matters a lot. You either spend it is heaven or hell. You say, “Why does God send people to hell?” I want you to understand something. God has done everything He could to save you from hell. \[Because God is good He must punish our sins, or else He isn't just. Jesus came down and bore our sins on the cross, descended into hell for 3 days and 3 nights, and on that 3rd morning He rose out from hell, eternally triumphant over all His enemies so that there is now no condemnation for all who believe.\] All that is left now is for you to say, “Yes God, I receive your gift of salvation.” Listen, if you don’t know Jesus, I need you up here right now.
+
+# Credibility Of Biblical Documents
+
+[Atheist Student Gets Humbled In 5 Minutes](https://www.facebook.com/watch/?ref=saved&v=2392856230878597)
+
+What's your first question about the credibility of the document? The guys who wrote it had no upside perk. The guys who wrote it were persecuted, they were martyred for their belief in Jesus. They died for it. They dies for the one they were convinced was reliable and true.
+
+## Nazis Died Too
+
+Nazis died for Hitler. They had fanaticism, but that fanaticism might not be the right fanaticism. It might not be true. The difference is that the Nazis died for a philosophy. Matthew, John, Peter, Thomas, died for what they claimed to have seen: the dead Christ risen from the dead.
+
+## People Don't Die For A Lie
+
+Which means they either (1) died for what they knew to be a lie-- and if you study psychology you will find out people do not die for what they know to be a lie. People will die for a lie convinced it's a truth. But if these guys make up and fabricate this resurrection of Christ, they know very well Christ didn't rise from the dead. They fabricated it. People don't do that.
+
+## Watergate Scandal
+
+Just look at [Watergate](https://en.wikipedia.org/wiki/Watergate_scandal). Dean, Erlekman, and Holderman, 3 brilliant American lawyers lied about the Watergate sandal. Finally when the pressure was on, and the evidence was the Watergate Scandal really did occur, they all cracked. They were not willing to go through a few years of prison to cover up what they knew to be a lie. How much more unlikely for a group of first century guys to create and fabricate this lie that JEsus had risen from the dead and they'd seen him, and they'd be willing to die from it?
+
+## What If They Were Hallucinating?
+
+Listen to this resurrection account also in Luke:
+
+> [!Bible] [Luke 24:36-37 - KJV](https://bible-api.com/luke+24:36-37?translation=kjv)
+> 36. And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you.
+> 37. But they were terrified and affrighted, ==and supposed that they had seen a spirit==.
+
+They didn't conclude, "Oh welcome back from the dead Jesus." No, they thought they were hallucinating, just like you said. They thought this was a ghost, some type of apparition. 
+
+> [!Bible] [Luke 24:38-39 - KJV](https://bible-api.com/luke+24:38-39?translation=kjv)
+> 38. And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?
+> 39. Behold my hands and my feet, that it is I myself: handle me, and see; ==for a spirit hath not flesh and bones, as ye see me have==.
+
+Your question is very reasonable. It's exactly the question the disciples had when they had seen Jesus risen. "Oh no. What was in our drink? Oh no. What's happening to us phytologically?"
+
+And he deals with this and says, "Come on guys, give me something to eat and drink. Grab hold of me and see. A Spirit does not have flesh and bone the way you see I have."
