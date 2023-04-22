@@ -84,3 +84,7 @@ They didn't conclude, "Oh welcome back from the dead Jesus." No, they thought th
 Your question is very reasonable. It's exactly the question the disciples had when they had seen Jesus risen. "Oh no. What was in our drink? Oh no. What's happening to us phytologically?"
 
 And he deals with this and says, "Come on guys, give me something to eat and drink. Grab hold of me and see. A Spirit does not have flesh and bone the way you see I have."
+
+## Why Not Apologetics?
+
+Apologetics are really interesting. What else is there to give your life to? The problem is that we get so entangled with arguing for the witness of Christ that we forget to know him deeply. If we lose out on saturating ourselves in the scripturas to know Christ because we are saturating ourselves in arguments to defend Christ, we will be disappointed with the outcome of our life. Being aware of his existence isn't the primary objective of our life. Glorifying him and being satisfied in him is. Let apologetics serve that goal, not overlord it. If a person isn't persuaded by the Romans Road, 99 out of 100 times they won't be persuaded by the additional effort you make to argue about their objections. Yes have an answer ready, but don't make that important. That's 1% of your interactions. The other 99% is just a simple clear gospel presentation.
