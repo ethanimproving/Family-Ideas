@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Reversible Faucets
 
 [Boise International Discount Center - Video Demonstration](https://www.facebook.com/reel/678250943879227?fs=e&s=TIeQ9V&mibextid=0NULKw)
@@ -91,6 +95,28 @@ Fiber Pad ........... 30%
 Spring
 ```
 
+# Bedding
+
+## Modern Southern Truly Soft Everyday Pleated Comforter Set
+
+- Price: [$143](https://www.belk.com/p/truly-soft-everyday-everyday-pleated-comforter-set/92002001184486.html)
+
+Full/Queen Comforter Set Includes:
+- 1 Comforter: 90 in x 90 in
+- 2 Standard Shams: 20 in x 26 in
+
+Material & Care
+- Polyester
+- Machine washable
+
+![](https://belk.scene7.com/is/image/Belk?layer=0&src=9200200_CS1969WTKG1500_A_100_T10L00&layer=comp&DWP_PRODUCT_ZOOM&hei=964)
+
+### Extra Pillow Cases
+
+White Pin Tuck Standard Sham (2-Pack): [$13](https://byourbed.com/White_Pin_Tuck_Standard_Sham_2_Pack_p/pin-ssham-wht.htm?gclid=Cj0KCQjwi46iBhDyARIsAE3nVrZCy2GN8GJ333nmabBksZSooXucWq-4Uv_5D6TlEQMZKAZNZfUyGhsaAoEMEALw_wcB)
+Amazon: [$24](https://www.amazon.com/Pinch-Plated-Pintuck-White-Pillow/dp/B07VLT5LXL/ref=asc_df_B07HMFF2R4/?tag=hyprod-20&linkCode=df0&hvadid=309748863793&hvpos=&hvnetw=g&hvrand=4063160806268501260&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1026899&hvtargid=pla-581114837668&th=1)
+
+![](https://cdn11.bigcommerce.com/s-2rfgyth3m1/images/stencil/original/products/27411/135419/texture_pin_tuck_sham_white-ver1-Elite_Studio_2__49818.1672954096.jpg)
 
 # Smart Plug
 

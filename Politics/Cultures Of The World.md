@@ -61,3 +61,4 @@ It's worth noting that intelligence is not determined by language, but rather by
 
 # Racism
 
+[[Not Putting Up With Racism]]
