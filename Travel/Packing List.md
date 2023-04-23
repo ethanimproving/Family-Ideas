@@ -37,6 +37,7 @@ tags: [travel]
 - [ ] Water bottle
 - [x] Shaver / trimmer
 - [ ] Royston Pillow
+- [ ] Minted New York Necklaces
 
 ## Electronics
 - [x] Skyroam
@@ -47,7 +48,7 @@ tags: [travel]
 - [ ] Bose Headphones
 
 ## Stuff
-- [x] Stubble buddy
+- [<] Stubble buddy
 - [x] Sunglasses
 - [x] Comb
 - [x] Pencil and pen
