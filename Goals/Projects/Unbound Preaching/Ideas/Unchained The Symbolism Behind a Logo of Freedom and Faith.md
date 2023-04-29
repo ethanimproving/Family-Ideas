@@ -1,7 +1,7 @@
 ---
 dg-publish: true
-dg-created: Jul 08, 2020, 23:07 PM
-dg-updated: Jul 09, 2020, 0:07 AM
+dg-created: Jul 08, 2020, 11:07 PM
+dg-updated: Jul 09, 2020, 12:07 AM
 dg-title: Unchained: The Symbolism Behind a Logo of Freedom and Faith
 tags: [website]
 ---
