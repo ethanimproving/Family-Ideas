@@ -15,6 +15,15 @@ Every project that takes a vast amount of my time requires that I give careful a
 	- https://unboundpreaching.netlify.app/
 	- https://unboundpreaching.herokuapp.com/
 
+# App Features
+
+```dataview
+table dg-created as Date
+from #website
+sort dg-created
+order desc
+```
+
 # App Inspiration
 - [App Features](https://photos.app.goo.gl/GX75xuhsEw1nDeZu6)
 - [Ideas / Inspiration](https://photos.google.com/album/AF1QipPyBqqzHsHpCDelh8bas45RWb4bcblqNNOExu35)
@@ -288,3 +297,11 @@ The TVDB allows the community to maintain its database. Art gets voted on, and t
 
 ![](https://lh3.googleusercontent.com/pw/AJFCJaXK7F_X0HKnNeS8I9ibXUiatZQgRj0TWWsypeCJyhuMaffjM1MXYb-B5UUrEoa3GQuEmBcQ24punC3q56q16-PODSw6lJtx8y9EmVfJD3lobyjAumngAw5YUR81rf7E9LRLMUjX9pi0zWtDH32ngMKKKQ=w594-h1255-s-no?authuser=0)
 
+
+> [!failure]- Failure 
+>   Error: Incorrect API key provided: sk-SYe1w***********************************  ****7pbD. You can find your API key at https://platform.openai.com/account/api  -keys.
+>  
+
+> [!failure]- Failure 
+>   Error: This model's maximum context length is 4097 tokens. However, your messa  ges resulted in 15935 tokens. Please reduce the length of the messages.
+>  
