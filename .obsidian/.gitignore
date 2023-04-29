@@ -3,6 +3,7 @@ workspace.json
 workspace-mobile.json
 plugins/obsidian-zotero-desktop-connector/pdfannots2json.exe
 plugins/obsidian-dictionary-plugin/cache.json
+plugins/obsidian/plugins/obsidian-textgenerator-plugin/data.json
 plugins/digitalgarden/data.json
 # Ignore future revisions to existing file
 # git update-index --skip-worktree .obsidian/plugins/digitalgarden/data.json
