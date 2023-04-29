@@ -146,5 +146,13 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-textgenerator-plugin:get-title": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }
