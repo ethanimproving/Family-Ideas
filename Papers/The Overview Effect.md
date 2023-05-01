@@ -11,8 +11,8 @@ So, is it a good thing that you see it from far away, that you don't notice it, 
 
 > When you see how big the world is, all your problems become smaller ~ Ben Cartwright
 
+# How To Get People To Join Your Cult?
+
 [Neil deGrasse Tyson Is Not Afraid of Artificial Intelligence](https://youtu.be/ukhmq5on-IA?t=778)
 
-
-
-Add punctuation and grammar to the following YouTube transcript and remove the line breaks and timestamps: history it's been there consistently and persistently just ask any priest ask any 12:59 cult leader coltly how do they get you to join the cult the end of the world is coming you have to join my cult because I know how 13:05 to get you I know how to get around that okay what do you think the people in Jonestown were saying how many people 13:11 died I forgot the number a cult in in was it British Guyana where uh the end 13:16 of the world is coming was it all commits suicide so we will go to where we need the heavens Gate cult all of 13:22 this okay maybe the difference that you're citing is it is scientists telling you the world 13:28 is going to happen and not only that not only that but also the difference that I see here is that for for these kinds of
+Just ask any priest-- ask any cult leader. How do they get you to join the cult? 'The end of the world is coming, ==you have to join my cult because I know how to get around that==.' Okay, what do you think the people in Jonestown were saying? How many people died? I forgot the number. A cult in, was it British Guyana where the end of the world is coming? "Let's all commit suicide so we will go to where we need." The Heaven's Gate cult, all of this.

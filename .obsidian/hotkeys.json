@@ -154,5 +154,13 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-textgenerator-plugin:generate-text": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }
