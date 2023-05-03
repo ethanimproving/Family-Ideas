@@ -109,6 +109,9 @@ My uncle who is a missionary in PNG told me that when he first started his missi
 # Delivery Drone
 
 [Amazing Invention - This Drone Will Change Everything](https://youtu.be/DOWDNBu9DkU)
+# Water Laser
+
+[Water is the sharpest object in the world](https://www.youtube.com/shorts/3NrnwgCYxhs)
 
 # Radio Waves
 

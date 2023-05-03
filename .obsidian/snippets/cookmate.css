@@ -1,0 +1,70 @@
+/*! CSS Used from: Embedded ; media=screen */
+@media screen {
+  .editbox {
+    padding: 1px 23px 1px 1px;
+  }
+
+  #directions {
+    counter-reset: step;
+    padding-left: 3px;
+    position: relative;
+    margin: 8px 0 22px 0;
+  }
+  #directions li,
+  input[data-task*="2"]:checked,
+  input[data-task*="3"]:checked,
+  input[data-task*="4"]:checked,
+  input[data-task*="5"]:checked,
+  input[data-task*="1"]:checked,
+  input[data-task*="6"]:checked,
+  input[data-task*="7"]:checked,
+  input[data-task*="8"]:checked,
+  input[data-task*="9"]:checked {
+    list-style-type: none;
+    counter-increment: step;
+    padding-left: 45px;
+    margin-bottom: 25px;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  #directions li:before,
+  input[data-task*="2"]:checked:before,
+  input[data-task*="3"]:checked:before,
+  input[data-task*="4"]:checked:before,
+  input[data-task*="5"]:checked:before,
+  input[data-task*="1"]:checked:before,
+  input[data-task*="6"]:checked:before,
+  input[data-task*="7"]:checked:before,
+  input[data-task*="8"]:checked:before,
+  input[data-task*="9"]:checked:before {
+    content: counter(step);
+    vertical-align: top;
+    background: #74d1b6;
+    -moz-border-radius: 22px;
+    border-radius: 22px;
+    font-weight: 400;
+    font-size: 12px;
+    position: relative;
+    z-index: 2;
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+    line-height: 25px;
+    margin: 0 20px 0 -45px;
+    float: left;
+    background-image: initial;
+    background-color: rgb(75, 137, 120);
+    color: rgb(240, 235, 226);
+  }
+  #directions .vr {
+    background-color: rgb(75, 137, 120);
+    position: absolute;
+    left: 14px;
+    top: 10px;
+    bottom: 0;
+    z-index: 1;
+    width: 1px;
+  }
+}
