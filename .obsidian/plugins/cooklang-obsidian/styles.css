@@ -9,6 +9,7 @@
 }
 .workspace-leaf-content[data-type=cook] .main-image {
   width: 100vw;
+  max-height: 300px;
   aspect-ratio: 1.618;
   object-fit: cover;
 }
