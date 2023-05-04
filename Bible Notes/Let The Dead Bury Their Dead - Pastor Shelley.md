@@ -60,7 +60,7 @@ Genesis 22:1-4
 
 How many people are missing out on the blessing of God because of disobedience? How many great spiritual journeys has God laid out for you that you missed out on because of disobedience?
 
-I want to write a song about throwing off the shackles of unbelief in the Christian walk. Lack of Faith in God. There’s so much freedom when  you [don’t count the cost](https://youtu.be/TYo1bWqdXTQ). Your life is free from **stress, and God takes care of you always. And he has better things in store than you could achieve by yourself. It’s a win-win-win situation when we do whatever whenever.
+I want to write a song about throwing off the shackles of unbelief in the Christian walk. Lack of Faith in God. There’s so much freedom when  you [don’t count the cost](https://youtu.be/TYo1bWqdXTQ). Your life is free from stress, and God takes care of you always. And he has better things in store than you could achieve by yourself. It’s a win-win-win situation when we do whatever whenever.
 
 There is a cost sometimes. What will your attitude be like? It’s not like it’s not going to hurt. It is going to hurt.
 Judges 11:31, 35-36

@@ -8,6 +8,14 @@ https://www.cookmate.online/recipes/
 - Keep the lid slightly open for 5 minutes.
 - Then turn steak to other side and throw marinated peppers.
 
+```dataview
+table category, meal, calories, link
+from "Health/Nutrition/Recipes"
+sort dg-created
+order desc
+```
+
+
 [Saladmaster Steak using the EOC! | Naomi's Corner](https://www.youtube.com/watch?v=AcOat740luc)
 
 [How to Cook Steak in Saladmaster](https://www.youtube.com/watch?v=EzwhWF9aOLk)
