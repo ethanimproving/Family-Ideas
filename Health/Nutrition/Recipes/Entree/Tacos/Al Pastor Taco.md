@@ -18,14 +18,14 @@ tags: [cookmate]
 
 # Ingredients
 
--   1 pound pork shoulder, thinly sliced
+-   1 pound [[Pork Ribs|pork shoulder]], thinly sliced
 -   Juice of 2 limes
--   2 tablespoons chili powder
--   1 tablespoon paprika
--   1 tablespoon cumin
--   1 teaspoon dried oregano
+-   2 tablespoons [[Chili Powder|chili powder]]
+-   1 tablespoon [[Paprika|paprika]]
+-   1 tablespoon [[Ground Cumin|cumin]]
+-   1 teaspoon [[Oregano Leaves|dried oregano]]
 -   Salt and pepper, to taste
--   1/2 cup pineapple juice
+-   1/2 cup [[Pineapple Juice|pineapple juice]]
 -   Corn tortillas
 -   Chopped onions, cilantro, and pineapple, for serving
 
