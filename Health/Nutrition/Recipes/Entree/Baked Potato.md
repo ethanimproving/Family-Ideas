@@ -11,11 +11,10 @@ yield:
 category: ML Core Plan
 meal: entree
 rating: 5
-calories: 418
 tags: [cookmate]
 ---
 
-link:: [[Baked Potato.cook|Directions]]
+calories:: [[Baked Potato.cook|418]]
 
 # Ingredients
 

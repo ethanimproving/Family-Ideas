@@ -11,11 +11,10 @@ yield:
 category: Gains
 meal: entree
 rating: 5
-calories: 912
 tags: [cookmate]
 ---
 
-link:: [[Chuck Eye Steak.cook|Directions]]
+calories:: [[Chuck Eye Steak.cook|912]]
 
 # Ingredients
 

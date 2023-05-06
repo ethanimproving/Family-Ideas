@@ -28,14 +28,14 @@ tags: [cookmate]
 
 # Ingredients
 
--   1 pound flank steak
--   Juice of 2 limes
--   2 cloves garlic, minced
--   1 teaspoon chili powder
--   1/2 teaspoon ground cumin
--   Salt and pepper, to taste
+-   **1** pound flank steak
+-   Juice of **2** limes
+-   **2** cloves garlic, minced
+-   **1** teaspoon chili powder
+-   **1/2** teaspoon ground cumin
+-   Salt and pepper, **to taste**
 -   Corn tortillas
--   Chopped onions and cilantro, for serving
+-   **Chopped** onions and cilantro, for serving
 
 # Directions
 
