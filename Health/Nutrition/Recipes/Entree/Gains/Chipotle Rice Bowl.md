@@ -20,22 +20,22 @@ tags: [cookmate]
 
 1/4 medium red onion (coarsely chopped)
 2 cloves garlic
-1 tablespoon adobo sauce ((see note 1))
-1 tablespoon ancho chile powder
+1 tablespoon [[Adobo Sauce|adobo sauce]] ((see note 1))
+1 tablespoon [[Ancho Chile Powder|ancho chile powder]]
 1 tablespoon olive oil (plus 1 tablespoon for oiling the pan)
-1 teaspoon ground cumin
-1 teaspoon dried oregano ((see note 2))
+1 teaspoon [[Ground Cumin|ground cumin]]
+1 teaspoon [[Oregano Leaves|dried oregano]] ((see note 2))
 Salt and freshly ground black pepper
-2 pounds boneless, skinless chicken thighs
+2 pounds boneless, skinless [[Chicken Thighs|chicken thighs]]
 1 cup basmati rice
-1 bay leaf
+1 [[Bay Leaves|bay leaf]]
 salt
 1 tablespoon fresh cilantro (minced )
 1 tablespoon fresh lemon juice (from 1 lemon)
-tablespoon fresh lime juice (from 1 lime)
+1 tablespoon fresh lime juice (from 1 lime)
 12 ounces frozen corn
 1/4 cup red onion (finely chopped )
-1 medium roasted poblano pepper (diced)
+1 medium roasted [[Poblano Peppers|poblano pepper]] (diced)
 1 jalapeño pepper (stemmed, seeded, and finely chopped)
 2 tablespoons fresh cilantro (minced )
 1 1/2 teaspoons fresh lemon juice (from 1 lemon)
