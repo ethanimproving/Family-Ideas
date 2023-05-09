@@ -190,7 +190,7 @@ columns:
     key: Duolingo
     id: Duolingo
     label: Duolingo
-    position: 11
+    position: 12
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -209,7 +209,7 @@ columns:
     key: Pushups
     id: Pushups
     label: Pushups
-    position: 13
+    position: 14
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -247,7 +247,26 @@ columns:
     key: Yousicion
     id: Yousicion
     label: Yousicion
-    position: 12
+    position: 13
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Headway:
+    input: checkbox
+    accessorKey: Headway
+    key: Headway
+    id: Headway
+    label: Headway
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
