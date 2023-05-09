@@ -6,6 +6,7 @@ dg-publish: true
 
 - [[Schedule]]
 - [[Habit Database|Habits]]
+- [[Habit Tracker]]
 - [[Ethan's Commitments|Commitments]]
 - [[2023|Tasks]]
 - [[Goals/Timeline of my Life|Timeline]]

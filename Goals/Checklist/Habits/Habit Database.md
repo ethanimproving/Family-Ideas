@@ -18,9 +18,11 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: true
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -36,7 +38,7 @@ columns:
     key: Bible
     id: Bible
     label: Bible
-    position: 100
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -55,7 +57,7 @@ columns:
     key: Pray
     id: Pray
     label: Pray
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -74,7 +76,7 @@ columns:
     key: Sing_Hymns
     id: Sing_Hymns
     label: Sing Hymns
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -93,7 +95,7 @@ columns:
     key: Scripture_Typer
     id: Scripture_Typer
     label: Scripture Typer
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -112,7 +114,7 @@ columns:
     key: iRestore_Treatment
     id: iRestore_Treatment
     label: iRestore Treatment
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -131,7 +133,7 @@ columns:
     key: Make_Bed
     id: Make_Bed
     label: Make Bed
-    position: 100
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -150,7 +152,7 @@ columns:
     key: NoFap
     id: NoFap
     label: NoFap
-    position: 100
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -169,7 +171,7 @@ columns:
     key: Tiege_Hanley
     id: Tiege_Hanley
     label: Tiege Hanley
-    position: 100
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -188,7 +190,7 @@ columns:
     key: Duolingo
     id: Duolingo
     label: Duolingo
-    position: 100
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -207,7 +209,26 @@ columns:
     key: Pushups
     id: Pushups
     label: Pushups
-    position: 100
+    position: 12
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Clean_Room:
+    input: checkbox
+    accessorKey: Clean_Room
+    key: Clean_Room
+    id: Clean_Room
+    label: Clean Room
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
