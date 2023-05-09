@@ -59,6 +59,15 @@ There is no scientific consensus on the definition of intelligence, how it shoul
 
 It's worth noting that intelligence is not determined by language, but rather by ==a combination of genetic and environmental factors, including access to education, nutrition, and social support==. Additionally, intelligence is a highly individual trait that can vary widely within any given linguistic or cultural group.
 
+# Violence By Race
+[Elon Musk Tweet about Media Misrepresentation](https://www.facebook.com/reel/1180030436022550?fs=e&s=TIeQ9V&mibextid=0NULKw).
+![](https://i.imgur.com/eoVcf5n.jpg)[^1]
+
 # Racism
 
+Mariana doesn't imagine her husband having a physical labor kind of job.
+
 [[Not Putting Up With Racism]]
+
+---
+[^1]: Morgan, Rachel  E., and Barbara A. Oudekerk,. “[Criminal Victimization, 2018](bjs.ojp.gov/library/publications/criminal-victimization-2018.).” _Bureau of Justice Statistics_, Sept. 2019, [Table 14](https://bjs.ojp.gov/content/pub/pdf/cv18.pdf#page=13).
