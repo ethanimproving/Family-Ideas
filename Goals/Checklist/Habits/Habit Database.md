@@ -184,25 +184,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Duolingo:
-    input: checkbox
-    accessorKey: Duolingo
-    key: Duolingo
-    id: Duolingo
-    label: Duolingo
-    position: 15
-    skipPersist: false
-    isHidden: true
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Pushups:
     input: number
     accessorKey: Pushups
@@ -324,6 +305,25 @@ columns:
     id: Flexbelt
     label: Flexbelt
     position: 14
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Spanish:
+    input: number
+    accessorKey: Spanish
+    key: Spanish
+    id: Spanish
+    label: Spanish
+    position: 15
     skipPersist: false
     isHidden: false
     sortIndex: -1

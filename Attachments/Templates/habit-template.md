@@ -10,11 +10,10 @@ Gym: 0
 Run: 0
 Clean_Room: 0
 Headway: 0
-Duolingo: 0
+Spanish: 0
 Yousicion: 0
 NoFap: 0
 Tiege_Hanley: 0
 Pushups: 0
 ---
 
-![[Ethan's Commitments]]
