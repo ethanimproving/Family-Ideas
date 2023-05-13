@@ -190,9 +190,9 @@ columns:
     key: Duolingo
     id: Duolingo
     label: Duolingo
-    position: 12
+    position: 15
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
@@ -209,7 +209,7 @@ columns:
     key: Pushups
     id: Pushups
     label: Pushups
-    position: 14
+    position: 17
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -247,7 +247,7 @@ columns:
     key: Yousicion
     id: Yousicion
     label: Yousicion
-    position: 13
+    position: 16
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -266,7 +266,64 @@ columns:
     key: Headway
     id: Headway
     label: Headway
+    position: 12
+    skipPersist: false
+    isHidden: true
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Gym:
+    input: checkbox
+    accessorKey: Gym
+    key: Gym
+    id: Gym
+    label: Gym
     position: 11
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Run:
+    input: checkbox
+    accessorKey: Run
+    key: Run
+    id: Run
+    label: Run
+    position: 13
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Flexbelt:
+    input: checkbox
+    accessorKey: Flexbelt
+    key: Flexbelt
+    id: Flexbelt
+    label: Flexbelt
+    position: 14
     skipPersist: false
     isHidden: false
     sortIndex: -1
