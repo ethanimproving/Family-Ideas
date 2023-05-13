@@ -6,8 +6,7 @@ tags: [diary]
 ```dataview
 table dg-created as Date
 from "Relationship/Diary"
-sort dg-created
-order desc
+sort dg-created desc
 ```
 
 

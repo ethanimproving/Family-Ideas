@@ -13,6 +13,14 @@ dg-publish: true
 - [[Saladmaster Recipes]]
 - [[Inventory|Ingredient Inventory]]
 
+# Journal
+
+[[Diary Datatable]]
+
+# Worship
+
+[[Soul Stirring Songs and Hymns]]
+
 # Schedule
 
 ![[Schedule]]

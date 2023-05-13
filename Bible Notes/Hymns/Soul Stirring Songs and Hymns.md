@@ -1,3 +1,8 @@
+---
+dg-publish: true
+dg-created: May 13, 2023, 6:03 PM
+---
+
 ```dataview
 table index, known
 from "Bible Notes/Hymns/Soul Stirring Songs and Hymns"
