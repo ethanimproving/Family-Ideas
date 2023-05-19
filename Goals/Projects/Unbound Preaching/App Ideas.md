@@ -22,7 +22,7 @@ The ultimate goal of Unbound Preaching is to equip the brethren with knowledge u
 [[Life's Goals|The mission]] of Unbound Preaching is to help Christians enjoy fellowship with God through obedience in growing in the knowledge of his grace, fighting personal sin, fighting general sin, winning souls to Christ, preserving unity with and love for the brethren, providing evidence to support the marking of false prophets, and strengthening the love of the saints.  
   
 Core strategy:  
-The strategy of Unbound Preaching is to provide uncensored access to the preaching of God's word, both true and false, sound doctrine and heresy, for the furthering of the understanding of the truth and maximal clarity of the arguments to support and defend it.evernote
+The strategy of Unbound Preaching is to provide uncensored access to the preaching of God's word, both true and false, sound doctrine and heresy, for the furthering of the understanding of the truth and maximal clarity of the arguments to support and defend it.
 
 # App Features
 
