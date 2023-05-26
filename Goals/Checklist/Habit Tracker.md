@@ -43,3 +43,19 @@ line:
 	title: Pushups
 	fillGap: true
 ```
+
+```tracker
+searchType: frontmatter
+searchTarget: Barbell_Bench_Press, Lat_Pulldown, Overhead_Press, Cable_Fly
+folder: Goals/Checklist/Habits
+datasetName: Barbell Bench Press, Lat Pulldown, Overhead Press, Cable Fly
+endDate: 0d
+
+line:
+	title: Habits
+	lineColor: green, blue, red, yellow
+	showLegend: true
+	yAxisLabel: lb
+	legendOrientation: vertical
+	fillGap: true
+```

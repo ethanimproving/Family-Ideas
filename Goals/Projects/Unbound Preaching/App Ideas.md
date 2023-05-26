@@ -271,7 +271,7 @@ See also: [[#Faithful Word App (Subsplash)#Notes|Subsplash Notes]],
 
 I like the idea of displaying 5 churches on the landing page. The church will take you to seasons for that church (years, courses, topics). Each season should have some awesome artwork that's community submitted, like the TVDB. There are users, verified church members, verified admins, etc to keep bad actors out of the picture. There's a hierarchy of privileges assigned to each user role.
 
-![](https://lh3.googleusercontent.com/vtPHLQT0811uQlO0Iv96taBSQ0BxzfwolncCPz05_gSYEgLVRmxhJ79OYX4hW9CvjuBJM154OAjgfSxVAlIfIBT0sB9M76LyQJ3AFKoGANE-pV4rhB8NqDOxyVnDVcIjMcyl1q91BGf5lqMCF4zjhXOPdbf63E3FnH2QZbJvL2ZQJS6p-kAt_L4dRf31FMoVgV7ZtOZErk6hScosGS-XMsF1TyNdGINCLyX2cRcgAYeKZKio0puMFDncUflDsbQtGaZAkR7Ut3l_4QS501PLn4HT-FPzRGVrRaJ-pqfhEF_goRpHX4Yh4bdqDBfpIMPxdqHUKtHO8ujy_4ydOtkkg5RNqlziEBSvH9nQtnIIsTa4EyKskDVUTA2JlxVnJoj5YkaS6SmniL8yWMGgZxGMxDQU_mJypTmm_BfQDoRENZPzkefS7yA0Bmslottf2hLjGb-f-ecFqZFo6wx2eeg8lUvakyJZvtSYoG2MI4xzxNV43WV7a-S1VUtR_DgM8nFB3i2u_HZ1YtXCF1E3gxzBrnPiP_TIELjNTLSpFm7EUaaEwR_JKwBd7QlqCjqS0ajcopk3YBgqbE2u165jzw2H8cZmLl7bE8YUHcReT20wm9nSRzMyag-0nFe7In7fh_X1FG4LdCbf8gCcgzpv65cB-btutPsR7tgP7dudc5Mdi3lAdvz9zkQ7m6M59xLc_yC_69I0uWRqLRF6bzlZ_b-kzagRJBrKX4-t3LtOxaZSIQi4P5J6OjV0RabrDHgqrTFOs5tpeD8k4CSq1PqVvzz5Ny8prPdMjhP32fYRXTmjZz4qGHYpHYhnyaKCLZSTaABl4t7PRtxTiDTqX8ZRwAxuYH0a3cR3oZoYnhRaB5Bi6mcYbwHFLdmkoUG91bmcbMRtOGux3GVlyHxzemJ9AOjKgOL8rweY27EQGErfGBqbCl9x=w567-h1198-s-no?authuser=0)
+home:::![](https://lh3.googleusercontent.com/vtPHLQT0811uQlO0Iv96taBSQ0BxzfwolncCPz05_gSYEgLVRmxhJ79OYX4hW9CvjuBJM154OAjgfSxVAlIfIBT0sB9M76LyQJ3AFKoGANE-pV4rhB8NqDOxyVnDVcIjMcyl1q91BGf5lqMCF4zjhXOPdbf63E3FnH2QZbJvL2ZQJS6p-kAt_L4dRf31FMoVgV7ZtOZErk6hScosGS-XMsF1TyNdGINCLyX2cRcgAYeKZKio0puMFDncUflDsbQtGaZAkR7Ut3l_4QS501PLn4HT-FPzRGVrRaJ-pqfhEF_goRpHX4Yh4bdqDBfpIMPxdqHUKtHO8ujy_4ydOtkkg5RNqlziEBSvH9nQtnIIsTa4EyKskDVUTA2JlxVnJoj5YkaS6SmniL8yWMGgZxGMxDQU_mJypTmm_BfQDoRENZPzkefS7yA0Bmslottf2hLjGb-f-ecFqZFo6wx2eeg8lUvakyJZvtSYoG2MI4xzxNV43WV7a-S1VUtR_DgM8nFB3i2u_HZ1YtXCF1E3gxzBrnPiP_TIELjNTLSpFm7EUaaEwR_JKwBd7QlqCjqS0ajcopk3YBgqbE2u165jzw2H8cZmLl7bE8YUHcReT20wm9nSRzMyag-0nFe7In7fh_X1FG4LdCbf8gCcgzpv65cB-btutPsR7tgP7dudc5Mdi3lAdvz9zkQ7m6M59xLc_yC_69I0uWRqLRF6bzlZ_b-kzagRJBrKX4-t3LtOxaZSIQi4P5J6OjV0RabrDHgqrTFOs5tpeD8k4CSq1PqVvzz5Ny8prPdMjhP32fYRXTmjZz4qGHYpHYhnyaKCLZSTaABl4t7PRtxTiDTqX8ZRwAxuYH0a3cR3oZoYnhRaB5Bi6mcYbwHFLdmkoUG91bmcbMRtOGux3GVlyHxzemJ9AOjKgOL8rweY27EQGErfGBqbCl9x=w567-h1198-s-no?authuser=0)
 
 ## Amazon Prime Video
 
@@ -285,7 +285,7 @@ I like the idea of displaying 5 churches on the landing page. The church will ta
 
 ### Landing Page (Home)
 
-![](https://lh3.googleusercontent.com/pw/AJFCJaXhV9a44o_oAxyJyL3vLjbxmDz9TFW8kra_nCKg0XLTZjMZnfpl6yEFywWikmu2-JeCs4QcWVSS0pEdp-_dDlbTQbZdS0BG4Pb5zL6z-Hjv04YOpQVz3vYtsySXnKIxvylLSPyY5jpkEwCdjn158LI92Q=w594-h1255-s-no?authuser=0)
+home:::![](https://lh3.googleusercontent.com/pw/AJFCJaXhV9a44o_oAxyJyL3vLjbxmDz9TFW8kra_nCKg0XLTZjMZnfpl6yEFywWikmu2-JeCs4QcWVSS0pEdp-_dDlbTQbZdS0BG4Pb5zL6z-Hjv04YOpQVz3vYtsySXnKIxvylLSPyY5jpkEwCdjn158LI92Q=w594-h1255-s-no?authuser=0)
 
 ## Netflix
 
@@ -347,7 +347,7 @@ The TVDB allows the community to maintain its database. Art gets voted on, and t
 
 ### Home
 
-![](https://lh3.googleusercontent.com/pw/AJFCJaXZTd1l4vIPr28EgQ3EqOYB7f4EBiRQE4cg7p3YoSqX3BSmnJ0mWPoYxSzmljBabv0qFdQL2zLYbVEXRnaU2bZ_ukd7UuJe8fFnNStlStr-eAIR-3yLeKLrPalUk1oPXXnXxdVrlsms2rZjs5Gpuo_3hw=w594-h1255-s-no?authuser=0)
+home:::![](https://lh3.googleusercontent.com/pw/AJFCJaXZTd1l4vIPr28EgQ3EqOYB7f4EBiRQE4cg7p3YoSqX3BSmnJ0mWPoYxSzmljBabv0qFdQL2zLYbVEXRnaU2bZ_ukd7UuJe8fFnNStlStr-eAIR-3yLeKLrPalUk1oPXXnXxdVrlsms2rZjs5Gpuo_3hw=w594-h1255-s-no?authuser=0)
 
 ## All Trails
 
