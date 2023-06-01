@@ -9,6 +9,7 @@ Every project that takes a vast amount of my time requires that I give careful a
 
 # GitHub Projects
 - [Bible Academy](https://github.com/ethanmiller1/Node.js-and-Express-App)
+- [SermonTube](https://github.com/ethanmiller1/SermonTube.git)
 - [Electronic Preaching Service (ePS)](https://dev.azure.com/UPAIT/ePS/_backlogs/backlog/ePS%20Team/Stories?showParents=true)
 - [Unbound Preaching (UPCom)](https://dev.azure.com/UPAIT/UPCom/_backlogs/backlog/UPCom%20Team/Stories?showParents=true)
 - Unbound Preaching
@@ -26,6 +27,7 @@ The strategy of Unbound Preaching is to provide uncensored access to the preachi
 
 # App Features
 
+[ReactPlayer](https://github.com/cookpete/react-player)
 ```dataview
 table dg-created as Date
 from #website
