@@ -39,6 +39,36 @@ Homebot uses an automated valuation model (AVM) to provide an estimated home val
 | Trail | Cedar Ridge Preserve | [15 min walk](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/1817+Taylor+St,+Cedar+Hill,+TX+75104/@32.6320572,-96.9586345,15.57z/data=!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8e643c88047b:0x86ae01be08b8365d!2m2!1d-96.9568771!2d32.6319014!3e2) |
 | Pool | Crawford Park | [7 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/Crawford+Park,+401+Straus+Rd,+Cedar+Hill,+TX+75104/@32.6143297,-96.9690416,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8dc860a7c1f1:0xa4b7accebad4565e!2m2!1d-96.953122!2d32.595908!3e0) |
 
+| Place                  | Drive   | Location                                         |
+|------------------------|---------|--------------------------------------------------|
+| Home                   | 57 mins | 1310 Leeward Ln, Wylie, TX 75098                 |
+| Church                 | 9 mins  | 332 Texas St, Cedar Hill, TX 75104               |
+| Work                   | 26 mins | 1 Transformation Way, Fort Worth, TX 76155       |
+| Airport                | 29 mins | 2400 Aviation Dr, Dallas, TX 75261               |
+| Six Flags              | 26 mins | 2201 E Road to Six Flags St, Arlington, TX 76011 |
+| Kroger                 | 9 mins  | 235 E Farm to Market Rd 1382, Cedar Hill         |
+| Walmart                | 5 mins  | 7075 W Wheatland Rd, Dallas                      |
+| Sprouts                | 9 mins  | 362 E Farm to Market Rd 1382, Cedar Hill         |
+| Costco                 | 10 mins | 250 W Hwy 67, Duncanville                        |
+| ALDI                   | 7 mins  | 333 S Cedar Ridge Dr, Duncanville                |
+| Chick-fil-A            | 9 mins  | 280 Hwy 67, Duncanville                          |
+| Chipotle Mexican Grill | 4 mins  | 300 S Clark Rd, Duncanville                      |
+| Taco Bueno             | 8 mins  | 445 N Clark Rd, Cedar Hill                       |
+| Texas Road House       | 14 mins | 2490 I-20 Frontage Rd, Grand Prairie             |
+| Starbucks              | 7 mins  | 633 W Wheatland Rd, Duncanville                  |
+| Trail                  | 4 mins  | 7171 Mountain Creek Pkwy, Dallas                 |
+| Pool                   | 5 mins  | 1319 Mission St, Duncanville                     |
+| Planet Fitness         | 11 mins | 432 N Hwy 67, Cedar Hill                         |
+| Park                   | 1 mins  | 7569 Mountain Creek Pkwy, Dallas                 |
+| Ross                   | 11 mins | 330 N Hwy 67, Cedar Hill                         |
+| TJ Max                 | 24 mins | 1685 E Broad St, Mansfield                       |
+| Volleyball Court       | 17 mins | 211 E Pleasant Run Rd, DeSoto                    |
+| Basketball Court       | 3 mins  | 1605 High Pointe Ln, Cedar Hill                  |
+| Tennis Court           | 3 mins  | 1605 High Pointe Ln, Cedar Hill                  |
+| CVS                    | 6 mins  | 603 S Cedar Ridge Dr, Duncanville                |
+| Home Depot             | 11 mins | 373 E, FM1382, Cedar Hill                        |
+| Lowes                  | 15 mins | 8520 S Hampton Rd, Dallas                        |
+
 
 ### Renovation
 
