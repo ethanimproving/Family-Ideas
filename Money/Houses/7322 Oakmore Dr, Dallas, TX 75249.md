@@ -17,11 +17,17 @@ dg-publish: true
 | Baths                                                                                                                      | 2                                           |
 | price/sqft                                                                                                                 | $146                                            |
 
-### How is your home value estimate calculated?
+# How is your home value estimate calculated?
 
 Homebot uses an automated valuation model (AVM) to provide an estimated home value. The main market data that helps calculate this value are your home details and similar home sale trends in your area.
 
-### Gyms Close By
+# Floor Plan
+
+![](https://lh3.googleusercontent.com/pw/AJFCJaUoFTc9bDRGPamBk8qvHPfYLU_0EgxIgkaWorQh3r_A_-dGbFfSo5LQ1gW8WbTCFJXBNyea6SStqQ_vXDBmLdZ_hJyqRubTL2gn2jQvz78pTwrPVFuuuoIRYF78-5cpmXyxDd1dp9jdRJ1C6sJxM8xyMw=w647-h863-s-no?authuser=0)
+
+![](https://i.imgur.com/yEKIlWp.png)
+
+# Gyms Close By
 
 | Name | Drive | Price |
 | ---- | ----- | ----- |
@@ -30,7 +36,7 @@ Homebot uses an automated valuation model (AVM) to provide an estimated home val
 | CLUB4 Fitness | [15 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/CLUB4+Fitness+Grand+Prairie,+514+S+Carrier+Pkwy,+Grand+Prairie,+TX+75051/@32.6862858,-97.0214293,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8759f2a1bb1d:0x436a3569713b4934!2m2!1d-97.0169096!2d32.7403713!3e0) | [$10/month](https://www.club4fitness.com/membership/)|
 | Planet Fitness | [10 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/Planet+Fitness,+432+N+Hwy+67,+Cedar+Hill,+TX+75104/@32.6137323,-96.9628454,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8dec8e6f12b3:0xec43abca5751d98f!2m2!1d-96.935972!2d32.5967715!3e0) | [$10/month](https://www.planetfitness.com/gyms/cedar-hill-tx/offers?_ga=2.46598895.930213434.1679714212-1000743240.1679714212)|
 
-### Places Close By
+# Places Close By
 
 | Place | Location | Drive                                                                                                                                                                                                                                                                                                                                                     |
 | ----- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,6 +44,8 @@ Homebot uses an automated valuation model (AVM) to provide an estimated home val
 | Store      | Walmart  | [8 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/Walmart+Supercenter,+621+Uptown+Blvd,+Cedar+Hill,+TX+75104/@32.6149472,-96.9690416,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8dc055fcbf29:0x52cf5b8bed9af4cc!2m2!1d-96.9469143!2d32.5973199!3e0) |
 | Trail | Cedar Ridge Preserve | [15 min walk](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/1817+Taylor+St,+Cedar+Hill,+TX+75104/@32.6320572,-96.9586345,15.57z/data=!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8e643c88047b:0x86ae01be08b8365d!2m2!1d-96.9568771!2d32.6319014!3e2) |
 | Pool | Crawford Park | [7 mins](https://www.google.com/maps/dir/7322+Oakmore+Drive,+Dallas,+TX/Crawford+Park,+401+Straus+Rd,+Cedar+Hill,+TX+75104/@32.6143297,-96.9690416,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x864e8e6ee4c1b28d:0x53127c858743e162!2m2!1d-96.9499764!2d32.6312072!1m5!1m1!1s0x864e8dc860a7c1f1:0xa4b7accebad4565e!2m2!1d-96.953122!2d32.595908!3e0) |
+
+Refer to [[House#Requirements|House Requirements]]. This table is generated from an Excel Spreadsheet called [Distance Calculator.xlsm](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/ER_MeYY2NpRKu4d_8jpX7F0BHR8-jNvp-Ub4d0WsozKI7A?e=Gt8F7W)
 
 | Place                  | Drive   | Location                                         |
 |------------------------|---------|--------------------------------------------------|
