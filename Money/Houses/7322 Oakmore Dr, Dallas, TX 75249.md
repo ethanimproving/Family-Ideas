@@ -4,6 +4,8 @@ dg-publish: true
 
 ![](https://i.imgur.com/8wB3w0S.png)
 
+See videos of the house at the end of [this album](https://photos.google.com/u/1/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB).
+
 7322 Oakmore Dr, Dallas, TX 75249 | [Zillow](https://www.zillow.com/homes/7322-Oakmore-Dr-Dallas,-TX-75249_rb/26892483_zpid/) | [Google Photos](https://photos.app.goo.gl/jdnMXBsykBx8wXVN6) | [Redfin](https://www.redfin.com/TX/Dallas/7322-Oakmore-Dr-75249/home/31116051)
 
 | [Homebot](https://find.searchtexashomes.com/seller?gclid=EAIaIQobChMIxJq5jJ33_QIV1MmUCR1mzAsBEAAYASAAEgITBvD_BwE) Estimate | [$265,000](https://i.imgur.com/1HuB9ZE.png) |
@@ -20,12 +22,20 @@ dg-publish: true
 # How is your home value estimate calculated?
 
 Homebot uses an automated valuation model (AVM) to provide an estimated home value. The main market data that helps calculate this value are your home details and similar home sale trends in your area.
-
+31'-6 3/4
 # Floor Plan
 
 ![](https://lh3.googleusercontent.com/pw/AJFCJaUoFTc9bDRGPamBk8qvHPfYLU_0EgxIgkaWorQh3r_A_-dGbFfSo5LQ1gW8WbTCFJXBNyea6SStqQ_vXDBmLdZ_hJyqRubTL2gn2jQvz78pTwrPVFuuuoIRYF78-5cpmXyxDd1dp9jdRJ1C6sJxM8xyMw=w647-h863-s-no?authuser=0)
 
-![](https://i.imgur.com/yEKIlWp.png)
+## Original
+
+![](https://i.imgur.com/0mTHXcX.png)
+
+## Plan 1
+
+![](https://i.imgur.com/bzoM7kA.png)
+
+
 
 # Gyms Close By
 
@@ -78,7 +88,31 @@ Refer to [[House#Requirements|House Requirements]]. This table is generated from
 | Lowes                  | 15 mins | 8520 S Hampton Rd, Dallas                        |
 
 
-### Renovation
+# Renovation
+
+## Post Visit Ideas
+
+| LvL Beam                                | 800   | 2000          |
+|-----------------------------------------|-------|---------------|
+| Kitchen                                 | ==10000== |               |
+| Bathrooms x2                            | 15000 |               |
+| Raising the floor                       | ==2500==  | $7 / cu ft    |
+| Outside siding / fasha boards           | ==15000== |               |
+| Windows                                 | 6400  | $800 / window |
+| Fence                                   | ==7000==  |               |
+| Retexture                               | 250   |               |
+| Doors                                   | 200   | $100 / door   |
+| Front doors with new sills              | 300   |               |
+| Patch rotting beam in the outside front | ==200==   |               |
+| New AC                                  | 5000  |               |
+| New carpet/tile                         | 4000  |               |
+| Painting doors                          | 80    |               |
+| Drywall in front fireplace              | 100   |               |
+| Raise fireplace with fireplace          |       |               |
+| Total                                   | 66830 |
+
+
+## Initial Ideas
 
 Will the cost of renovating the house increase the sale price by the same amount or a higher amount?
 

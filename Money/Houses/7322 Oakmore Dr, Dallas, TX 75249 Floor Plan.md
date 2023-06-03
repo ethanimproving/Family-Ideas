@@ -191,8 +191,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 946,
-			"versionNonce": 454658095,
+			"version": 951,
+			"versionNonce": 116184265,
 			"isDeleted": false,
 			"id": "9yKW8wxxfeezNmaidrOM6",
 			"fillStyle": "hachure",
@@ -201,19 +201,19 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 1.5707963267948957,
-			"x": -1516.467712526838,
-			"y": 303.6521177442042,
+			"x": -1514.1592885646323,
+			"y": 301.3436937819985,
 			"strokeColor": "#495057",
 			"backgroundColor": "#868e96",
 			"width": 1402.8576335145724,
-			"height": 3.956739351657237,
+			"height": 8.573587276068572,
 			"seed": 503833953,
 			"groupIds": [
 				"jgshAGOK-hb7fjOvaP_Gy"
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685678864181,
+			"updated": 1685724675664,
 			"link": null,
 			"locked": false
 		},
@@ -303,8 +303,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 309,
-			"versionNonce": 27953263,
+			"version": 310,
+			"versionNonce": 1002146183,
 			"isDeleted": false,
 			"id": "mLeNtPja",
 			"fillStyle": "hachure",
@@ -325,7 +325,7 @@ tags: [excalidraw]
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685678864181,
+			"updated": 1685719215575,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.76359049479161,
@@ -337,7 +337,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "16.4",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "rectangle",
@@ -589,8 +589,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 393,
-			"versionNonce": 1146785185,
+			"version": 394,
+			"versionNonce": 381744745,
 			"isDeleted": false,
 			"id": "22OTXVzv",
 			"fillStyle": "hachure",
@@ -611,7 +611,7 @@ tags: [excalidraw]
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685678864181,
+			"updated": 1685719215576,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.76359049479161,
@@ -623,12 +623,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "6",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 372,
-			"versionNonce": 781670639,
+			"version": 373,
+			"versionNonce": 1790886055,
 			"isDeleted": false,
 			"id": "rw1JW9Vp",
 			"fillStyle": "hachure",
@@ -649,7 +649,7 @@ tags: [excalidraw]
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685678864182,
+			"updated": 1685719215577,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.76359049479161,
@@ -661,7 +661,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "5.5",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "freedraw",
@@ -1347,8 +1347,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 451,
-			"versionNonce": 476455137,
+			"version": 452,
+			"versionNonce": 906510665,
 			"isDeleted": false,
 			"id": "mTZYYzrj",
 			"fillStyle": "hachure",
@@ -1374,7 +1374,7 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1685678864182,
+			"updated": 1685719215577,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.76359049479161,
@@ -1386,12 +1386,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "6",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 380,
-			"versionNonce": 1563531695,
+			"version": 381,
+			"versionNonce": 1049498567,
 			"isDeleted": false,
 			"id": "tIGav2ww",
 			"fillStyle": "hachure",
@@ -1412,7 +1412,7 @@ tags: [excalidraw]
 			],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685678864182,
+			"updated": 1685719215578,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.76359049479161,
@@ -1424,7 +1424,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "(33.4)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "rectangle",
@@ -1498,10 +1498,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1094.3111710808928,
-		"scrollY": 796.831113873465,
+		"scrollX": 828.3538611288875,
+		"scrollY": 713.5560462587595,
 		"zoom": {
-			"value": 0.45
+			"value": 0.9490902649735021
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
