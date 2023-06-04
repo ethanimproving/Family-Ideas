@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 dg-created: Jun 03, 2023, 10:59 AM
+priority: 3
+cost: $0
 tags: [oakmore]
 ---
 

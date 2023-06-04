@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 dg-created: Jun 03, 2023, 5:03 PM
+priority: 2
 cost: $80
 cost-breakdown: $50 / gallon paint, $30 per gallon primer
 tags: [oakmore]

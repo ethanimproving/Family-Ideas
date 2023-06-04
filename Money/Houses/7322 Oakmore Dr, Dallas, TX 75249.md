@@ -87,6 +87,40 @@ Refer to [[House#Requirements|House Requirements]]. This table is generated from
 | Home Depot             | 11 mins | 373 E, FM1382, Cedar Hill                        |
 | Lowes                  | 15 mins | 8520 S Hampton Rd, Dallas                        |
 
+## Pros
+
+Reference [[House#Requirements|House Requirements]].
+
+- 25 minutes from work.
+- 9 minutes from church.
+- 25 minutes from downtown Dallas.
+- Right next to a national park / DORBA trail.
+- Neighborhood of black people, usually receptive to the gospel.
+- 5 minutes from Walmart.
+- 2 minutes from highway.
+- Giant living room.
+- Stable foundation.
+- No buckled sidewalks.
+- Can rent for $2,000/mo.
+
+## Cons
+
+- No volleyball close by.
+- Mostly older poor black people. Not a hip young neighborhood.
+- Short ceiling at the end of slant.
+- Next to a water treatment plant.
+- Barking dogs in neighborhood.
+- Small bathrooms.
+- Possible termite infestation.
+- General uncertainty of potential problems.
+- Lots of cars parked on the street.
+- Kitchen doesn't face outside.
+- Tight hallway to master bedroom.
+- Small backyard.
+- Awkward porch.
+- Doors enter from the side.
+- An hour from North Dallas.
+- Dirtier than North Dallas.
 
 # Renovation
 
