@@ -92,11 +92,11 @@ Refer to [[House#Requirements|House Requirements]]. This table is generated from
 
 ## Budget
 
-I only have 46,000 for a down payment. I don't want to take a high-interest rate construction loan out for renovations. However, I do have money budgeted for certain uses that are not urgent. I can loan myself the money and pay it back into those budgeted allocations at zero percent interest.
+I only have 48,000 for a down payment. I don't want to take a high interest-rate construction loan out for renovations. However, I do have money budgeted for certain uses that are not urgent. I can loan myself the money and pay it back into those budgeted allocations at zero percent interest.
 
 | Offer            | 200,000 |
 |------------------|---------|
-| Down Payment     | ==40,000==  |
+| Down Payment     | 40,000  |
 | Loan             | 160,000 |
 | Ring             | 11,100  |
 | Car Replacement  | 2,489   |
@@ -105,8 +105,8 @@ I only have 46,000 for a down payment. I don't want to take a high-interest rate
 | Medical          | 533     |
 | Grooming         | 157     |
 | Christmas        | 321     |
-| House Fund       | 5,823   |
-| Renovation Total | ==29010==   |
+| House Fund       | 8,555   |
+| Renovation Total | ==31,742==   |
 
 
 ## Post Visit Ideas
