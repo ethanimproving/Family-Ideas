@@ -6,6 +6,12 @@ cost: $1,400
 tags: [oakmore]
 ---
 
+I am wanting to knock down this wall and insert a longer LVL beam. You can see the existing one in [this video](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPBeFsr2ersU9UwQgN79lJvNOFb2_2vdKuZgvYL?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB).
+
+![](https://i.imgur.com/TV2nHVv.png)
+
+![](https://www.decorilla.com/online-decorating/wp-content/uploads/2020/03/Modern-industrial-interior-design-by-Decorilla-designer-Shasta-P.jpeg)
+
 # What Is An LVL Beam?
 
 An LVL beam, also known as a **laminated veneer lumber beam**, is a type of engineered wood product commonly used in construction. LVL beams are made by *bonding thin layers of wood veneers together with adhesives*. The veneers are typically oriented with the grain direction parallel to the length of the beam.
