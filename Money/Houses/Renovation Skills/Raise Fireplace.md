@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-cost: ?
+cost: 0
 priority: 3
 tags: [oakmore]
 ---
