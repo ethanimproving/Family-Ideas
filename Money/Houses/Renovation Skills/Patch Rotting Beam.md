@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-created: Jun 03, 2023, 5:03 PM
-priority: 2
+priority: 0
 cost: $150
 tags: [oakmore]
 ---

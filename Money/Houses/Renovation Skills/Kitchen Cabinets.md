@@ -6,6 +6,9 @@ cost: $8,000
 tags: [oakmore]
 ---
 
+1. Remove Kitchen Window
+2. Hang New cabinets
+
 # Vision
 
 ![[House Renovation Ideas#Kitchen]]

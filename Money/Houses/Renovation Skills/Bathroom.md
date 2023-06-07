@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-created: Jun 03, 2023, 4:56 PM
-cost: $15,000
+cost: $2,800
 priority: 1
 tags: [oakmore]
 ---
@@ -10,6 +10,10 @@ Contractors:
 - Manny
 - Stu's guy from Guatemala
 - Alex's contractor
+
+# Vision
+
+![](https://lh3.googleusercontent.com/pw/AJFCJaWKqEBs11bS3pv95cKHwbQQL1_uH1rNNOxyYoL9MRuuSoPROJvGEQAx3RExcQso7TvGVQ92JxevKrOoMWzWlscIjAzpKmFzAStQMORQT1ZK2PhMJ_k1KLWYTTvdRQ6ZxHS1CJ05osLE_Bblfly7ipYLOQ=w941-h1255-s-no?authuser=1)
 
 # Cost
 

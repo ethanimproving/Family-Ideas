@@ -3,6 +3,7 @@
 dg-publish: true
 dg-date: Jun 05, 2023, 10:28 AM
 priority: 2
+cost: $50
 tags: [oakmore]
 ---
 

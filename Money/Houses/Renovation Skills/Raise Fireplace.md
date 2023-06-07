@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 cost: $0
-priority: 3
+priority: 0
 tags: [oakmore]
 ---
 
