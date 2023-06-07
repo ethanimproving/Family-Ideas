@@ -48,13 +48,6 @@ I only have 48,000 for a down payment. I don't want to take a high interest-rate
 | House Fund       | 8,555   |
 | Renovation Total | ==28,132== |
 
-| Priority | Total    | Running Total | Down Payment | Offer  |
-|----------|----------|---------------|--------------|--------|
-| 5        | $9,300   | $9,300        | 46,000       | 230000 |
-| 4        | $3,500   | $12,800       | 42,000       | 210000 |
-| 3        | $16,900  | $29,700       | 40,000       | 200000 |
-
-
 Will the cost of renovating the house increase the sale price by the same amount or a higher amount?
 ```dataview
 table cost as Cost, priority as Priority
