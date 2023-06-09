@@ -19,12 +19,18 @@ tags: [cookmate]
 
 # Ingredients
 
-1/4 cup Rice
-1/2 cup Water
-1/4 tbsp. Butter
-1/4 tsp. Salt
+1 cup Rice
+1.5 cup Water
+1/2 tbsp. Butter
+1 tsp. Salt
 Garlic Powder
 
 # Directions
 
-1) 
+1. Rinse rice
+2. Pour rice in pan
+3. Pour water in pan
+4. Wait until lid dings
+5. Turn heat off and wait another 15 minutes
+
+![](https://www.youtube.com/watch?v=v2DdZyvWtJc)
