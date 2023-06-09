@@ -1,3 +1,5 @@
+
+# Hospital Bills
 1. Always ask for an itemized bill.
 2. Use [fairhealthconsumer.org](https://www.fairhealthconsumer.org/) to negotiate down your bill.
 3. What kind of discounts are offered if I pay in full today? [^Sam Jarman]

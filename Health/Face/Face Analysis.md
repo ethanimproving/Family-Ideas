@@ -1,8 +1,6 @@
 ---
 dg-publish: true
 dg-created: May 28, 2023, 8:28 AM
-dg-updated: 
-tags: [breakup]
 ---
 
 [Face Analysis & Ratings - Wheat Waffles](https://youtube.com/playlist?list=PL1fAbCnE4fPaHBWXzaYcm70HRlVTyfT7W)
