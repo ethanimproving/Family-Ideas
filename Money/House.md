@@ -73,6 +73,14 @@ Weight 1-5, tally Ethan and Mariana
 - 503 Katherine Ct, Duncanville, TX 75137 - [$210,000](https://www.zillow.com/homedetails/503-Katherine-Ct-Duncanville-TX-75137/26988880_zpid/)
 - 4236 Wilshire Blvd, Dallas, TX 75241 - [$245,000](https://www.zillow.com/homedetails/4236-Wilshire-Blvd-Dallas-TX-75241/26877814_zpid/)
 
+## New Build / Communities
+
+- [New Home Source](https://www.newhomesource.com/community/tx/euless/harston-woods-by-harston-woods/125500?refer=gppc402&gclid=CjwKCAjwvpCkBhB4EiwAujULMjsgk6LqL_SSzt1NdX_IgBimJbY-mptJTtvKZjnltbise0v9wOHQIBoCOsYQAvD_BwE)
+- [Harston Woods](https://harstonwoods.com/) - [10920 Harston Woods Dr. Euless, TX 76040](https://goo.gl/maps/pQxXyjrM1sYk66527)
+- [Lennar Trinity West, Dallas](https://www.lennar.com/new-homes/texas/dallas-ft-worth/dallas/trinity-west) - [3210 Normandy Brook Road](https://goo.gl/maps/E9xtzgW8hmjzkXeZA)
+
+Dallas, TX 75212
+
 ### Land Value
 
 - Texas A&M Real Estate Center
