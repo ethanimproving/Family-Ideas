@@ -78,6 +78,9 @@ Weight 1-5, tally Ethan and Mariana
 - [New Home Source](https://www.newhomesource.com/community/tx/euless/harston-woods-by-harston-woods/125500?refer=gppc402&gclid=CjwKCAjwvpCkBhB4EiwAujULMjsgk6LqL_SSzt1NdX_IgBimJbY-mptJTtvKZjnltbise0v9wOHQIBoCOsYQAvD_BwE)
 - [Harston Woods](https://harstonwoods.com/) - [10920 Harston Woods Dr. Euless, TX 76040](https://goo.gl/maps/pQxXyjrM1sYk66527)
 - [Lennar Trinity West, Dallas](https://www.lennar.com/new-homes/texas/dallas-ft-worth/dallas/trinity-west) - [3210 Normandy Brook Road](https://goo.gl/maps/E9xtzgW8hmjzkXeZA)
+- [Mobberly Farms](https://www.centex.com/homes/texas/dallas/pilot-point/mobberly-farms-210856) - [6509 Adderly Rd, Pilot Point, TX 76258](https://goo.gl/maps/YxNNij1rCLrHRavH7)
+- [Enchanted Bay](https://legendhomeshouston.com/communities/enchanted-bay) - [5600 Shore Point Trail
+Fort Worth, 76119](https://goo.gl/maps/SBtgWb2QddRXCfzMA)
 
 Dallas, TX 75212
 
