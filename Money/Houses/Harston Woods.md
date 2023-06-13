@@ -1,3 +1,11 @@
+# Info
+
+[Harston Woods](https://harstonwoods.com/) - [10920 Harston Woods Dr. Euless, TX 76040](https://goo.gl/maps/pQxXyjrM1sYk66527)
+
+# Summary
+
+As soon as we drove into the neighborhood I knew I didn't want to live there. It wasn't like Caleb's neighborhood, but it had Caleb's prices. It was like the neighborhood I took Faith soul-winning in for the first time. Small, ==pre-fabricated, boxed together, almost like a trailer park but with walls instead of trailers==. It was a neighborhood designed for poor people, of which I do not wish to surround myself. If I am in surrounded by poor people, I will adopt their mentality, and if I adopt their mentality, I will adopt their poor quality of life. Their mentality is a limiter of their potential. I don't say, "I can't afford it." I say, "How can I afford it? How can I gain more skills to make more money to afford it?"
+
 # Places Close By
 
 | Place                  | Drive   | Location                                         |

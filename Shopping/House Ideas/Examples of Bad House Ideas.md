@@ -7,7 +7,7 @@ dg-publish: true
 
 ![](https://photos.zillowstatic.com/fp/2b00f71ba92b8eb71b07084783ca4ea0-uncropped_scaled_within_1536_1152.webp)
 
-# Patterned or Dark Carpets
+# Wood Colored Walls
 
 image:: ![](https://photos.zillowstatic.com/fp/4f983ba0ca2118fc589432c2bdcd1789-uncropped_scaled_within_1536_1152.webp)
 

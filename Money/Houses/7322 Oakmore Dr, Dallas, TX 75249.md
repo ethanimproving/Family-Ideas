@@ -1,5 +1,8 @@
 ---
 dg-publish: true
+cost: 260,000
+sq-ft: 1,780
+tags: [homes2023]
 ---
 
 ![](https://i.imgur.com/8wB3w0S.png)

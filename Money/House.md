@@ -76,13 +76,13 @@ Weight 1-5, tally Ethan and Mariana
 ## New Build / Communities
 
 - [New Home Source](https://www.newhomesource.com/community/tx/euless/harston-woods-by-harston-woods/125500?refer=gppc402&gclid=CjwKCAjwvpCkBhB4EiwAujULMjsgk6LqL_SSzt1NdX_IgBimJbY-mptJTtvKZjnltbise0v9wOHQIBoCOsYQAvD_BwE)
-- [Harston Woods](https://harstonwoods.com/) - [10920 Harston Woods Dr. Euless, TX 76040](https://goo.gl/maps/pQxXyjrM1sYk66527)
-- [Lennar Trinity West, Dallas](https://www.lennar.com/new-homes/texas/dallas-ft-worth/dallas/trinity-west) - [3210 Normandy Brook Road](https://goo.gl/maps/E9xtzgW8hmjzkXeZA)
-- [Mobberly Farms](https://www.centex.com/homes/texas/dallas/pilot-point/mobberly-farms-210856) - [6509 Adderly Rd, Pilot Point, TX 76258](https://goo.gl/maps/YxNNij1rCLrHRavH7)
-- [Enchanted Bay](https://legendhomeshouston.com/communities/enchanted-bay) - [5600 Shore Point Trail
-Fort Worth, 76119](https://goo.gl/maps/SBtgWb2QddRXCfzMA)
 
-Dallas, TX 75212
+My two best options are probably [[7322 Oakmore Dr, Dallas, TX 75249|Oakmore]] and [[2719 Hector St Dallas, TX 75210|Hector]]. Possibly [[Lennar Trinity West, Dallas|Lennar]] depending on amenities, but it would raise my monthly payment to $2,700.
+```dataview
+table cost as Cost, sq-ft as "Sq Ft"
+from #homes2023 
+sort cost asc
+```
 
 ### Land Value
 
@@ -185,6 +185,26 @@ If I continue to live with my parents rent free, I can set aside the money I wou
 
 
 It would take only ==7 and a half years== instead of 30 years to save for the house if I eliminated interest. However, my life would be on pause for those 7 and a half years, to save only $1290 each month for the remaining 22.5 years. ==I can think of it as buying 7 years of additional life for $1300 a month==. That is most certainly worth it. Time is limited. Money is not limited. Rather than waiting to buy, I will use a certain number of hours to gain social skills, negotiation skills, and algorithms to increase my pay by that amount, which will offset the $1,300. I am using a small number of hours to purchase 7 years. That also eliminates the uncertainty of increased markets. Markets always tend towards an upward trend. It might be feasible that the market will not increase in the next year, but in 2 years it will likely begin trending upwards again. Certainly by 7 years.
+
+## How Does High Loan Impact Monthly Payments?
+
+| ==200,000== | 210,000 | 220,000 | ==230,000== | 240,000 | 250,000 | 260,000 | ==270,000== | 280,000 | ==290,000== | 300,000 | 310,000 | 320,000 | 330,000 | 340,000 | 350,000 |
+|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| ==40,000==  | 42,000  | 44,000  | ==46,000==  | 48,000  | 50,000  | 52,000  | ==54,000==  | 56,000  | ==58,000==  | 60,000  | 62,000  | 64,000  | 66,000  | 68,000  | 70,000  |
+| 160,000 | 168,000 | 176,000 | 184,000 | 192,000 | 200,000 | 208,000 | 216,000 | 224,000 | 232,000 | 240,000 | 248,000 | 256,000 | 264,000 | 272,000 | 280,000 |
+| 30      | 30      | 30      | 30      | 30      | 30      | 30      | 30      | 30      | 30      | 30      | 30      | 30      | 30      | 30      | 30      |
+| 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    | 7.5%    |
+| 1119    | 1175    | 1231    | 1287    | 1342    | 1398    | 1454    | 1510    | 1566    | 1622    | 1678    | 1734    | 1790    | 1846    | 1902    | 1958    |
+| 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       | 0       |
+| 480     | 504     | 528     | 552     | 576     | 600     | 624     | 648     | 672     | 696     | 720     | 744     | 768     | 792     | 816     | 840     |
+| 125     | 125     | 125     | 125     | 125     | 125     | 125     | 125     | 125     | 125     | 125     | 125     | 125     | 125     | 125     | 125     |
+| 42      | 42      | 42      | 42      | 42      | 42      | 42      | 42      | 42      | 42      | 42      | 42      | 42      | 42      | 42      | 42      |
+| ==1765==    | 1845    | 1925    | ==2005==    | 2085    | 2165    | 2245    | ==2325==    | 2405    | ==2485==    | 2565    | 2645    | 2725    | 2805    | 2885    | 2964    |
+| 21%     | 21%     | 22%     | 23%     | 24%     | 25%     | 26%     | 27%     | 28%     | 29%     | 30%     | 31%     | 32%     | 33%     | 34%     | 34%     |
+| 26%     | 27%     | 28%     | 29%     | 31%     | 32%     | 33%     | 34%     | 35%     | 36%     | 38%     | 39%     | 40%     | 41%     | 42%     | 43%     |
+| 240,246 | 252,258 | 264,271 | 276,283 | 288,295 | 300,308 | 312,320 | 324,332 | 336,344 | 348,357 | 360,369 | 372,381 | 384,394 | 396,406 | 408,418 | 420,431 |
+| 400,246 | 420,258 | 440,271 | 460,283 | 480,295 | 500,308 | 520,320 | 540,332 | 560,344 | 580,357 | 600,369 | 620,381 | 640,394 | 660,406 | 680,418 | 700,431 |
+
 
 # Wise Investments
 
