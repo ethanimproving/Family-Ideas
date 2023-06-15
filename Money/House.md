@@ -4,6 +4,8 @@ dg-publish: true
 
 # Balloon Payment
 
+AKA: Owner Financing
+
 Carol's mom is the bank, getting the interest. She got $975 a month on the interest. For 5 years. They might give you a point or 2 below the going interest rate. They stand to make a lot more money on the house.
 
 A $200,000, for 5 years I'm paying it down at the rate we agree on, so that at the end of 5 years, I will take out a smaller loan to pay them. If they give me a great deal on the house or a great interest rate they stand to make more money on the house. Ask them what they're looking at.
