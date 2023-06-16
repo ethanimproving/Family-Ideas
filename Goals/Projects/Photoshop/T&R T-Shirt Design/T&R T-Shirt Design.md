@@ -52,3 +52,9 @@ Design a modern and sleek T-Shirt for our Ticketing and Receipts team at America
 
 
 The design should be simple and not too crowded. Consider incorporating elements related to our tech stack, which includes Spring Boot, IBM Cloud, Cucumber, and others. We're open to trendy colors such as gray, black, or navy, but feel free to explore other options. We're looking for a design that is cool and makes sense for our team's responsibilities. Pay attention to kerning and avoid basic typography. There are no specific restrictions regarding logo usage or brand identity. Get creative and surprise us with your design!
+
+# Uday's Design
+
+Faith said it sucks and Ethan is definitely going to win. (I'm paraphrasing.) She said that it's too fuzzy and mine would go with more outfits. Uday's [terrible] design is made with patriotic colors, so people might only wear it on the 4th of July. She also was **thinking** that Mariana is way more beautiful than Uday's wife. She didn't say it out loud, but I could tell she was thinking it.
+
+![](https://i.imgur.com/4eHwkF4.png)
