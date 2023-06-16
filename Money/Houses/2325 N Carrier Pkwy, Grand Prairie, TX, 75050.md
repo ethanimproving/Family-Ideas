@@ -4,7 +4,7 @@ cost: 289,000
 sq-ft: 1,835
 year: 1965
 dg-created: Jun 15, 2023, 1:53 PM
-tags: [homes2023]
+tags: [homes2023, nixed]
 ---
 
 [2325 N Carrier Pkwy, Grand Prairie, TX, 75050](https://www.realtor.com/realestateandhomes-detail/2325-N-Carrier-Pkwy_Grand-Prairie_TX_75050_M89677-41369?cid=eml_saf_property_photo)
@@ -16,6 +16,10 @@ The place has a lot of trees. It will be a chore to rake the leaves. It is also 
 ![](https://ap.rdcpix.com/50685e4a5c14984b7cad4bc18f83d099l-m2012096360od-w640_h480_x2.webp?w=640&q=75)
 
 ![](https://ap.rdcpix.com/50685e4a5c14984b7cad4bc18f83d099l-m4067529340od-w640_h480_x2.webp?w=640&q=75)
+
+# Negations
+
+It's too old and would require too many renovations.
 
 # Map View
 

@@ -1,7 +1,8 @@
 ---
 dg-publish: true
 dg-created: Jun 15, 2023, 12:16 AM
-cost: 355,000
+cost: 329,990
+sq-ft: 1,567
 tags: [homes2023]
 ---
 
