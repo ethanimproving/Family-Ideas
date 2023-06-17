@@ -9,19 +9,23 @@ dg-created: Jun 16, 2023, 9:20 PM
 
 # Design
 
+Votes: Dad, Caleb
 ![](https://i.imgur.com/N1B2kqQ.png)
 
 ![](https://i.imgur.com/QkIYaHw.png)
 
 ## Split On
+Votes: Ethan, Anna
+Dad and Brian both said this one looks like a printing error.
 ![](https://i.imgur.com/PRLKe4B.png)
 
-
 ## Glaser Stencil
+Votes: Mariana
 ![](https://i.imgur.com/8SjbwiF.png)
 
 
 ## Tech Orig
+Votes: Brian, Mom, Faith
 ![](https://i.imgur.com/8XefXcd.png)
 
 

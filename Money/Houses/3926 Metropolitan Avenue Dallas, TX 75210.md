@@ -3,7 +3,7 @@ dg-publish: true
 cost: 249,900
 sq-ft: 2,075
 dg-created: Jun 12, 2023, 8:33 PM
-tags: [homes2023]
+tags: [homes2023, pending]
 ---
 
 [3926 Metropolitan Avenue, Dallas, TX 75210](https://www.ebby.com/ListingDetails/3926-Metropolitan-Avenue-Dallas-TX-75210/14734120)
@@ -12,4 +12,4 @@ tags: [homes2023]
 
 # Negations
 
-It is pending. That means a buyer is already in the process of purchasing the home, which means it's unavailable for me to purchase. Because homes are like women. If someone else owns it, you shouldn't get involved.
+**It is pending**. That means a buyer is already in the process of purchasing the home, which means it's unavailable for me to purchase. Because homes are like women. If someone else owns it, you shouldn't get involved.

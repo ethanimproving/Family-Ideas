@@ -3,7 +3,7 @@ dg-publish: true
 cost: 246,000
 sq-ft: 1,694
 dg-created: Jun 15, 2023, 12:57 PM
-tags: [homes2023]
+tags: [homes2023, pending]
 ---
 
 [1523 Garza Ave, Dallas, TX 75216](https://www.realtor.com/realestateandhomes-detail/1523-Garza-Ave_Dallas_TX_75216_M70708-47515?cid=eml_saf_property_photo)
@@ -11,6 +11,8 @@ tags: [homes2023]
 ![](https://ap.rdcpix.com/74a545c11613586aff2777fae35cef03l-m1668634648od-w480_h360_x2.webp?w=640&q=75)
 
 # Negations
+
+**This house is already pending**.
 
 That one has restricted income requirements. Don't know what they are but something with affordable housing unit so guessing Ethan may not qualify, and must live there for 5 years.
 

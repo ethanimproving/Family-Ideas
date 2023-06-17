@@ -3,7 +3,7 @@ dg-publish: true
 dg-created: Jun 12, 2023, 8:11 PM
 cost: 239,900
 sq-ft: 1,933
-tags: [homes2023]
+tags: [homes2023, nixed]
 ---
 
 [3707 Spence St, Dallas, TX 75215](https://www.homes.com/property/3707-spence-st-dallas-tx/y9t3qfcsjmt96/)
