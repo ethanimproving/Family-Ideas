@@ -1,3 +1,8 @@
+---
+dg-publish: true
+dg-created: Jun 16, 2023, 9:20 PM
+---
+
 # Logo SVG
 
 ![[t&r-logo.svg]]
@@ -7,6 +12,17 @@
 ![](https://i.imgur.com/N1B2kqQ.png)
 
 ![](https://i.imgur.com/QkIYaHw.png)
+
+## Split On
+![](https://i.imgur.com/PRLKe4B.png)
+
+
+## Glaser Stencil
+![](https://i.imgur.com/8SjbwiF.png)
+
+
+## Tech Orig
+![](https://i.imgur.com/8XefXcd.png)
 
 
 # Preview
@@ -55,6 +71,6 @@ The design should be simple and not too crowded. Consider incorporating elements
 
 # Uday's Design
 
-Faith said it sucks and Ethan is definitely going to win. (I'm paraphrasing.) She said that it's too fuzzy and mine would go with more outfits. Uday's [terrible] design is made with patriotic colors, so people might only wear it on the 4th of July. She also was **thinking** that Mariana is way more beautiful than Uday's wife. She didn't say it out loud, but I could tell she was thinking it.
+Faith said it's between Uday and Ethan. She thinks I am going to win. She said that Uday's is too fuzzy and mine would go with more outfits. Uday's design is made with patriotic colors, so people might only wear it on the 4th of July. She also was **thinking** that Mariana is extraordinarily beautiful. She didn't say it out loud, but I could tell she was thinking it.
 
 ![](https://i.imgur.com/4eHwkF4.png)
