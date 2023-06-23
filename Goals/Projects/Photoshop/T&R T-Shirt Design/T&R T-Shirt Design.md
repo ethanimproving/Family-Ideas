@@ -12,6 +12,7 @@ dg-created: Jun 16, 2023, 9:20 PM
 Votes: Dad, Caleb
 ![](https://i.imgur.com/N1B2kqQ.png)
 
+Kritika and Brian don't like this. Change it to Awards. Carol says an outhouse with a guy taking a dump. That will symbolize receipts. A runway with a flight taking off. Airplane is made out of words. ARC. Trizon. qTKTS. iTKTS. Carol. PTOL AOL TOL ROL Receipts Engine Mariana Terminators Edge Java Cucumber Kubernetes
 ![](https://i.imgur.com/QkIYaHw.png)
 
 ## Split On
@@ -20,7 +21,7 @@ Dad and Brian both said this one looks like a printing error.
 ![](https://i.imgur.com/PRLKe4B.png)
 
 ## Glaser Stencil
-Votes: Mariana
+Votes: Mariana, Daggi, Kritika, Carol
 ![](https://i.imgur.com/8SjbwiF.png)
 
 

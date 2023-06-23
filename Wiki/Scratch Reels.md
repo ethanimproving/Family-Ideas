@@ -78,7 +78,7 @@ https://www.facebook.com/reel/215453334686723?fs=e&s=TIeQ9V&mibextid=9imq16
 Market slowdown on houses
 https://cheddar.com/media/housing-slowdown-leads-to-first-annual-drop-in-us-homeowner-equity-since-2012?utm_source=n2k&utm_medium=email
 
-Absence diminishes, my loves and increases big ones
+Absence diminishes small loves and increases big ones
 https://www.facebook.com/reel/1442305743239328?fs=e&s=TIeQ9V&mibextid=9imq16
 
 When are you going to come home to Jesus the one who loves you and stop this nonsense about Islam?
