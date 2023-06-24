@@ -674,3 +674,72 @@ Women at the club are not good women
 https://www.facebook.com/reel/6287916347907083?fs=e&s=TIeQ9V&mibextid=0NULKw
 
 Physical emergence
+
+Vocal and visual image
+https://www.facebook.com/reel/1311571443126448?fs=e&s=TIeQ9V&mibextid=9imq1
+
+Guy friends
+https://www.facebook.com/reel/204036309265995?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Guy friends
+https://youtube.com/shorts/IvNfHIjk-HU?feature=share
+Submission
+https://www.facebook.com/reel/586510220023114?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Lost civilizations
+https://www.facebook.com/reel/892005498910088?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Ungodly soul ties
+https://www.facebook.com/reel/1206400370758274?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Is there anything you could teach people from the past?
+https://www.facebook.com/reel/1526625051079433?fs=e&s=TIeQ9V&mibextid=9imq16
+
+The lottery scan for poor people
+https://www.facebook.com/reel/575222077899546?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Professional iPhone, photo
+https://www.facebook.com/reel/9523186734418539?fs=e&s=TIeQ9V&mibextid=9imq16
+
+I always get a prenup
+https://www.facebook.com/reel/637314404907476?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Gesture to the rhythm of your words
+https://www.facebook.com/reel/5985696234801837?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Be a doer of knowledge
+https://www.facebook.com/reel/1284666625481862?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Men just want virgins
+https://www.facebook.com/reel/525032623040041?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Conversational threads
+https://www.facebook.com/reel/779129330411719?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Firing, for reporting harassment is retaliation and is it legal
+https://www.facebook.com/reel/766454427898027?fs=e&s=TIeQ9V&mibextid=9imq16
+
+There’s a mushroom that reduces brain fog like the limitless pill
+https://www.facebook.com/reel/694666422428543?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Trucker vs doctor: the importance of investing
+https://www.facebook.com/reel/2454111361428972?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Remove watermark from any photo
+https://www.facebook.com/reel/579739394245728?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Make daddy a sandwich
+https://www.facebook.com/reel/523854386479733?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Remove the junk from your life
+https://www.facebook.com/reel/939912707230734?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Buying a house is only a good investment if you don’t live there
+https://www.facebook.com/reel/591781849474525?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Professional selfie
+https://www.facebook.com/reel/6045370362206028?fs=e&s=TIeQ9V&mibextid=9imq16
+
+The most dangerous thought you could have is that nobody would know
+https://www.facebook.com/reel/255316890381502?fs=e&s=TIeQ9V&mibextid=9imq16
+
