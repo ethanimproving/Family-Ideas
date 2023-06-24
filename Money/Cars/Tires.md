@@ -45,6 +45,8 @@ The cost of the warranty can vary depending on the type of tire you buy and wher
 
 # Recycle-Old-Tire Fee
 
+$3
+
 # Should I replace the wheel too?
 
 1. Wheel Condition: Inspect your wheels for any signs of damage, such as **cracks, bends, or corrosion**. If your wheels are in good condition and meet the specifications for your vehicle, there may be no need to replace them.
