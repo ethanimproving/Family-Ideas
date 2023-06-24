@@ -45,7 +45,7 @@ The cost of the warranty can vary depending on the type of tire you buy and wher
 
 # Recycle-Old-Tire Fee
 
-$3
+
 
 # Should I replace the wheel too?
 
