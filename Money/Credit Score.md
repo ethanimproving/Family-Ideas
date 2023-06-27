@@ -1,12 +1,3 @@
-
-# TransUnion
-
-Check credit score on [CapitalOne](https://myaccounts.capitalone.com/accountSummary).
-
-Current Score: 711
-
-# Experian
-
 Check credit score on [Experian](https://usa.experian.com/member/dashboard).
 
  ![Pasted image 20221221203211](https://i.imgur.com/6bkEqsi.png)
