@@ -7,7 +7,7 @@ tags: [homes2023]
 
 ![](https://i.imgur.com/8wB3w0S.png)
 
-See videos of the house at the end of [this album](https://photos.google.com/u/1/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB).
+See videos of the house at the end of [this album](https://photos.google.com/u/1/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB). Another house in the neighborhood was renovated very nicely at [[7015 Cloverglen Dr, Dallas, TX 75249]].
 
 7322 Oakmore Dr, Dallas, TX 75249
 - [Zillow](https://www.zillow.com/homes/7322-Oakmore-Dr-Dallas,-TX-75249_rb/26892483_zpid/) 
