@@ -1,0 +1,1 @@
+Use the [[House Ideas#Deep Cleaner|Bissel SpotClean Pro]] to [deep clean the car seats](https://photos.google.com/u/1/album/AF1QipN6nu6cECtKXXeFn9b4hi5gku86cqMhCzVR-yKL) as often as needed.
