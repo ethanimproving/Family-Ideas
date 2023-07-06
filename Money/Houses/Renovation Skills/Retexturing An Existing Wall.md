@@ -116,3 +116,11 @@ Skim coating can be a time-consuming process that requires some skill to achieve
 ![](https://youtu.be/iOd-HwfhwHI)
 
 ![](https://www.youtube.com/watch?v=t-7tJDi8YFM)
+
+# Drywall
+
+[Beginner Drywall tip you NEED to know!!!!](https://www.youtube.com/shorts/XUikCql3_Yg)
+
+1. Load
+2. Feather
+3. Finish

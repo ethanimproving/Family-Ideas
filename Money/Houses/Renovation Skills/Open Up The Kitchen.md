@@ -16,8 +16,54 @@ tags: [oakmore]
 
 ![](https://i.imgur.com/DfsQdrK.png)
 
+![](https://photos.zillowstatic.com/fp/a2c9e9c170298064b892f72118095376-uncropped_scaled_within_1536_1152.webp)
+
+![](https://photos.zillowstatic.com/fp/e8e6d4e318a75aff33e8190e22caab43-uncropped_scaled_within_1536_1152.webp)
+
+![](https://photos.zillowstatic.com/fp/f7d9be3ec9763fb089defe881979bd4f-uncropped_scaled_within_1536_1152.webp)
+
+![](https://photos.zillowstatic.com/fp/035c2f524d3b6521c38d7dc7c65cac27-uncropped_scaled_within_1536_1152.webp)
+
+![](https://photos.zillowstatic.com/fp/c429f7d145fe4c1fc39a9771d521354f-uncropped_scaled_within_1536_1152.webp)
+
+![](https://photos.zillowstatic.com/fp/62ecb411bd79f15c51cc49b5d5080d3d-uncropped_scaled_within_1536_1152.webp)
+
+![](https://photos.zillowstatic.com/fp/36fb0fd116bc07993eddbdbc47576713-uncropped_scaled_within_1536_1152.webp)
+
+# Tearing Down A Wall
 
 ![[Tearing A Wall Down]]
+
+# Supplies
+
+## Vanity Light
+
+## Mounted Range Hood
+
+- [36 in. W Convertible Glass Island Mount Range Hood - $400](https://www.homedepot.com/p/Vissani-36-in-W-Convertible-Glass-Island-Mount-Range-Hood-with-Dual-Sided-Touch-Panels-and-Charcoal-Filters-in-Stainless-Steel-668I-CS53/308006092)
+- [30 Inch Wide Wall Mounted Range Hood - $200](https://www.build.com/product/summary/1771860)
+
+
+![](https://images.thdstatic.com/productImages/3927148a-b5ff-4dce-85e9-4b741e68ce20/svn/stainless-steel-vissani-island-range-hoods-668i-cs53-64_1000.jpg)
+
+![](https://futurofuturo.com/wp-content/uploads/Glass-White-Kitchen-Hood-48-inch-Luxor-Island-Range-Hoods-Futuro-Futuro-Range-Hoods-sku-IS48LUXOR-image-06.jpg)
+
+![](https://futurofuturo.com/wp-content/uploads/Glass-White-Kitchen-Hood-48-inch-Luxor-Island-Range-Hoods-Futuro-Futuro-Range-Hoods-sku-IS48LUXOR-image-15.jpg)
+
+![](https://futurofuturo.com/wp-content/uploads/Designer-Stainless-Steel-Range-Hood-72-inch-Europe-Island-model-Futuro-Futuro-brand-08.jpg)
+
+## Downdraft
+
+[Downdraft vent system by BEST Range Hoods](https://youtu.be/3rF-gkfEvK0)
+## Backsplash
+
+![](https://i.imgur.com/4q6v2Kl.png)
+
+## Hanging Light
+
+- https://www.amazon.com/Capital-Lighting-317541MB-Homeplace-Pendant/dp/B01M04HQQD
+- https://www.homedepot.com/p/Quoizel-Fusion-4-Light-Brushed-Nickel-Pendant-FSN5204BN/313960941
+- https://www.homedepot.com/p/Generation-Lighting-Calhoun-3-Light-Weathered-Gray-Rustic-Farmhouse-Hanging-Globe-Candlestick-Chandelier-with-Distressed-Oak-Finish-Accents-5151003-846/301916633
 
 # Oakmore Family Photos
 
@@ -30,4 +76,9 @@ tags: [oakmore]
 ![](https://lh3.googleusercontent.com/pw/AMWts8C-dU9ia8bjvCXpuJVpxMKdgZEgQV9TlMW3xJu6L8F47MCq9YXF2UTzMRSFnn6DFTqg6xtbyGPJS02OXKjwg_JX42vUeDRXdMjMjd8TxqaLk8UzGBzwa8I_ti43lq6hZCKG4gVcjOiD_Dv6z-vBiUuONQ=w1254-h941-s-no?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AJFCJaUUipltm54GvWiNzkjvWHj9Qwfi9wt5zXlIzWU0o_9xSp4B38Vxj_QSfrdUcl5SlxrCrMKXSr_5GQRVOSpGZEH9UfwkHMgiNMAUSV0uMPbkHqfnKE25_R7QdWdr5SiceiTqeQwx0dAvqUMhehS31PoXtQ=w2644-h1983-s-no?authuser=0)
+
+
+# Tutorials
+
+[DIY How to Renovate Your Kitchen with a Minimalist Style A to Z](https://www.youtube.com/watch?v=kBeJvqAZf4s)
 
