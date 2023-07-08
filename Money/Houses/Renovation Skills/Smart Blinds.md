@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-created: Jul 06, 2023, 11:24 PM
-priority: 5
+priority: 1
 cost: $650 / Window
 tags: [oakmore]
 ---
