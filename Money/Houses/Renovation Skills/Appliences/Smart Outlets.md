@@ -1,0 +1,14 @@
+There are smart outlets available that are built directly into the wall outlet itself, allowing you to control the power to the outlet wirelessly. These smart outlets are designed to replace your existing wall outlets and offer smart functionality. Here are a few examples:
+
+1. **[Legrand Radiant Smart Outlet](https://www.homedepot.com/p/Legrand-radiant-Smart-15-Amp-125-Volt-Tamper-Resistant-Wi-Fi-Decorator-Duplex-Smart-Outlet-Light-Almond-WWRR15LACCV2/318635227)**: Legrand offers a smart outlet that replaces a standard outlet and provides Wi-Fi connectivity. It can be controlled using a mobile app or voice commands through compatible voice assistants like **Amazon Alexa or Google Assistant**. ![](https://images.thdstatic.com/productImages/22f753f0-e515-4b23-a3f8-fc7fafe441c8/svn/light-almond-legrand-electrical-outlets-receptacles-wwrr15laccv2-c3_1000.jpg)
+    
+2. **[Leviton Decora Smart Outlet](https://www.homedepot.com/p/Leviton-Decora-Smart-Wi-Fi-Tamper-Resistant-15A-Duplex-Outlet-2nd-Gen-Works-with-Alexa-Google-HomeKit-and-Anywhere-Companions-R02-D215R-1RW/320528167)**: Leviton provides a Decora Smart Outlet that allows you to control the connected device wirelessly. It offers compatibility with popular smart home platforms like **Apple HomeKit, Amazon Alexa, and Google Assistant**. ![](https://images.thdstatic.com/productImages/ea40779c-72d9-4353-b180-1a65aa4de72b/svn/white-leviton-electrical-outlets-receptacles-r02-d215r-1rw-64_1000.jpg)
+    
+3. **[ConnectSense Smart Outlet](https://www.amazon.com/ConnectSense-CS-SO-2-Smart-Outlet%C2%B2-White/dp/B07G1SDXG6)**: ConnectSense offers a smart outlet that integrates Wi-Fi connectivity. It can be controlled using their mobile app or via voice commands with **Siri, Amazon Alexa, or Google Assistant**. ![](https://m.media-amazon.com/images/I/616bS6R1tjL._AC_SL1500_.jpg)
+    
+4. **[iDevices Wall Outlet: iDevices](https://www.amazon.com/iDevices-Wall-Outlet-Monitoring-Independent/dp/B06Y46XDS2)** provides a smart outlet that replaces your existing wall outlet and adds smart functionality. It can be controlled using their app or through voice commands with Siri, Amazon Alexa, or Google Assistant. ![](https://m.media-amazon.com/images/I/51cWGQo8rtL._AC_SL1500_.jpg)
+    
+
+These smart outlets built into the wall offer convenience and control by allowing you to turn devices on or off remotely using your smartphone or voice commands. Before purchasing, ensure compatibility with your home's electrical system and check if it supports the desired smart home platform or voice assistant you prefer.
+
+Make sure your app allows you to toggle each plug separately. If you have a lamp and your phone plugged into the same outlet, you don't want the phone to turn off with your lamp.
