@@ -8,7 +8,7 @@ tags: [oakmore]
 
 [How to Replace an Electrical Outlet](https://www.youtube.com/watch?v=B16l7RurJuQ)
 
-1. Take off the face plate.
+1. Take off the **face plate**.
 2. Turn off the circuit breaker.
 3. Test it with as [circuit tester](https://www.amazon.com/Klein-Tools-69136-General-Twin-Lead/dp/B00093DZZU) to make sure electricity is off.
 4. Unscrew the two screws connecting the outlet to the wall box.

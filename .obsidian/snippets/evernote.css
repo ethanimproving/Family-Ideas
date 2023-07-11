@@ -9,3 +9,11 @@
     text-decoration-thickness: 1px;
     text-decoration-color: rgba(143,143,143, 0.7);
 }
+
+.theme-dark .workspace-ribbon.mod-left {
+    border-right: none;
+}
+
+.nav-folder.mod-root > .nav-folder-children {
+    padding-left: 5px;
+}
