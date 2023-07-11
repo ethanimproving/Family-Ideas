@@ -25,3 +25,24 @@ tags: [oakmore]
 # How to Add Fan Control to Light
 
 Uncle Stu mentioned there are different wires. White, Black, Red, Green.
+
+# Styles
+
+- [Decora 15 Amp Tamper-Resistant Duplex Outlet, White](https://www.homedepot.com/p/Leviton-Decora-15-Amp-Tamper-Resistant-Duplex-Outlet-White-10-Pack-M22-T5325-WMP/100684055)
+- [Screwless Snap-On Decora Wall Plate - White](https://www.homedepot.com/p/Leviton-Plus-1-Gang-Screwless-Snap-On-Decora-Wall-Plate-White-R72-80301-00W/100199643)
+- [Antimicrobial Treated Decorator/Rocker Wallplate, White](https://www.homedepot.com/p/Leviton-Decora-1-Gang-Antimicrobial-Treated-Decorator-Rocker-Wallplate-White-RA2-80401-2AW/315110887)
+- [Screwless 10 Pack](https://www.homedepot.com/p/Leviton-White-1-Gang-Decorator-Rocker-Wall-Plate-15-Pack-VB1-80301-THD/206980648)
+
+## Decora vs. Regular
+
+[Baby proofing decora is harder](https://www.reddit.com/r/homeowners/comments/86ka1v/replacing_outlets_this_morning_electrician_asked/)
+
+Also, make sure you get tamper-resistant outlets. They're code in many areas and also make childproofing simple since you don't have to use those plastic plugs.
+
+[Decora vs Standard Outlets](https://www.funktionalhome.com/decora-vs-standard-outlets/)
+
+## Screwless vs Screwed
+
+Screwless Light Switch Wall Plate Installation
+
+![How To Install A Screwless Outlet Cover Plate](https://www.youtube.com/watch?v=uF6JaFrtLoE)
