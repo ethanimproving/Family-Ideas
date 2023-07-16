@@ -11,7 +11,7 @@ dg-publish: true
 - [[2023|Tasks]]
 - [[Goals/Timeline of my Life|Timeline]]
 - [[Saladmaster Recipes]]
-- [[Inventory|Ingredient Inventory]]
+- [[Health/Nutrition/Grocery List/Inventory|Ingredient Inventory]]
 
 # Journal
 
