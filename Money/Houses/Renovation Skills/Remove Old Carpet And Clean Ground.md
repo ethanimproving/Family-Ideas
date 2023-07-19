@@ -39,3 +39,7 @@ Also see [[Retexturing An Existing Wall#Scraping]]
 ![](https://www.youtube.com/watch?v=vAvl7wGa0FA)
 
 What day is trash day?
+
+# Uplift tack strips
+
+[How To Uplift Gripper](https://youtube.com/shorts/CGLzyXcW_qs?feature=share)
