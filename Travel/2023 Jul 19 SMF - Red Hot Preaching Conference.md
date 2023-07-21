@@ -8,6 +8,8 @@ type: range
 color: green
 door-lock: 6493
 corperate-code: Amer0137
+wifi: Sutley Home
+pwd: Sactown280
 tags: [timeline, missions]
 ---
 
