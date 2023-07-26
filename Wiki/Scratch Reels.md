@@ -1093,6 +1093,51 @@ https://www.facebook.com/reel/1279851579599815?fs=e&s=TIeQ9V&mibextid=9imq16
 Kitchen remodel
 https://www.facebook.com/reel/1046857110023048?fs=e&s=TIeQ9V&mibextid=9imq16
 
+There’s someone who is much worse than you doing what you wanna do and getting paid a lot of money because they believe in themselves more
+https://www.facebook.com/reel/816061243000709?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Teriyaki salmon
+https://www.facebook.com/reel/266473982640887?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Avoid capital gains, taxes, and probate on a house being passed on
+https://www.facebook.com/reel/158992780490988?fs=e&s=TIeQ9V&mibextid=9imq16
+
+How the Simpsons accurately predict the future
+https://www.facebook.com/reel/931941687895298?fs=e&s=TIeQ9V&mibextid=9imq16
+
+The dark reality is that people like TV do you thinking for them?
+https://www.facebook.com/reel/235699025661585?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Hey mama and baby deer, think the man that helps the baby
+https://www.facebook.com/reel/215760214702457?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Being a lawyer, isn’t for everybody, but it is definitely for type a people
+https://www.facebook.com/reel/191874673517160?fs=e&s=TIeQ9V&mibextid=9imq16
+
+AI Home, Design
+https://youtube.com/shorts/s1hoL8DTTJw?feature=share
+https://youtube.com/shorts/nw1mNL0_ORc?feature=share
+https://youtube.com/shorts/LtCUp--906M?feature=share
+https://youtube.com/shorts/NxiG79aBSWo?feature=sharePizza from scratch
+https://www.facebook.com/reel/1006159650373701?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Real estate hacks for tax deductions
+https://www.facebook.com/reel/1987112454960004?fs=e&s=TIeQ9V&mibextid=9imq16
+
+If an item is claim to be in stock online at Walmart and it is not in stock that you’re entitled to a 50% off discount
+https://www.facebook.com/reel/1167471964142605?fs=e&s=TIeQ9V&mibextid=9imq16
+
+How to pack your cooler
+https://www.facebook.com/reel/954898728860644?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Nasty water under a microscope versus after boiled
+https://www.facebook.com/reel/1217078438972443?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Book your hotel in the morning for the cheapest rates
+https://www.facebook.com/reel/1217078438972443?fs=e&s=TIeQ9V&mibextid=9imq16
+
+three dollar burrito at chipotle
+https://www.facebook.com/reel/1285698909015085?fs=e&s=TIeQ9V&mibextid=9imq16
 
 
 
