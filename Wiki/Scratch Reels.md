@@ -743,3 +743,624 @@ https://www.facebook.com/reel/6045370362206028?fs=e&s=TIeQ9V&mibextid=9imq16
 The most dangerous thought you could have is that nobody would know
 https://www.facebook.com/reel/255316890381502?fs=e&s=TIeQ9V&mibextid=9imq16
 
+Watch why women do
+https://www.facebook.com/reel/281778627685927?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Queers are coming for your children
+https://www.facebook.com/reel/610850460829980?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Teleological argument for the existence of God
+https://www.facebook.com/reel/625711582950393?fs=e&s=TIeQ9V&mibextid=9imq16
+
+kill wasps with gas
+https://www.facebook.com/reel/647193497364713?fs=e&s=TIeQ9V&mibextid=9imq16
+
+You can return clothes that have been out grown in one year to target
+https://www.facebook.com/reel/1101567867468240?fs=e&s=TIeQ9V&mibextid=9imq16
+
+How things actually work and macro scale
+https://www.facebook.com/reel/653612559600175?fs=e&s=TIeQ9V&mibextid=9imq16
+
+FH a loan
+https://www.facebook.com/reel/3350813061847109?fs=e&s=TIeQ9V&mibextid=9imq16
+
+The importance of jobs that you work with your hand
+https://www.facebook.com/reel/1000945231320661?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Debunking creatine myths
+https://www.facebook.com/reel/1000945231320661?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Repairing shoes
+https://www.facebook.com/reel/131903096556422?fs=e&s=TIeQ9V&mibextid=9imq16
+
+How to hang sweaters
+https://www.facebook.com/reel/198421956508474?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Personality course
+https://courses.jordanbpeterson.com/personality?utm_source=facebook-paid&utm_medium=paid&utm_campaign=TOF+-+INDEPENDENCE+-+JUNE+-+USA&utm_content=LLA+-+STACK+3%25+-+Copy&utm_term=IMG_JBP_INDEP_STYLE_2_LM&utm_placement=Others&fbclid=IwAR1UEn9lOBPqwtW_krvjwLEbTs0SR0AstA0y6F-zNtqrbOIWFydFVK2arKk_aem_ASxn8m_GpnNwV3ZERE_8QCzghqQ4wIIS-3e55dzLdqwhUZRT_bvmmuVJIpwpnOcwkxiN_nNcOTzZ0PTTp2LC_Ns2
+
+How easy it is to start a business
+https://www.facebook.com/reel/1948959718798446?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Hair loss
+https://www.facebook.com/reel/788537569595177?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Rejection therapy
+https://www.facebook.com/reel/3097981727165157?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Painting
+https://www.facebook.com/reel/890382668860200?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Stop trying to be interested and start being interested
+https://www.facebook.com/reel/813284720509775?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Use AI to add dead parents to a photo
+https://www.facebook.com/reel/724389849174255?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Stop looking for a man for what he will give to you and start looking for what he will sacrifice for you
+https://www.facebook.com/reel/919925039085908?fs=e&s=TIeQ9V&mibextid=9imq16
+
+
+Seek God first, and he will bless you
+https://www.facebook.com/reel/1074693820167248?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Replace doom scrolling with micro learning
+https://www.facebook.com/reel/270410055567853?fs=e&s=TIeQ9V&mibextid=9imq16
+
+We are blind to 99% of the world, and deaf to 99% of sounds
+https://www.facebook.com/reel/794606739113530?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Meet an animal organs are the key to diet
+https://www.facebook.com/reel/215695168091274?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Slavery wasn’t the softball the white people
+https://www.facebook.com/reel/2532239156933319?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Tree roots, grow laterally, not down, and can communicate through the fungal net work of other trees
+https://www.facebook.com/reel/637266658340582?fs=e&s=TIeQ9V&mibextid=9imq16
+
+John, gas hair loss research
+https://www.facebook.com/reel/912677663278462?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Do a double inhale to reduce stress
+https://www.facebook.com/reel/6009057582537490?fs=e&s=TIeQ9V&mibextid=9imq16
+
+How to use chopsticks
+https://www.facebook.com/reel/576202884686933?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Everybody needs a young man to mentor him
+https://www.facebook.com/reel/704047141446074?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Use AI control net to create awesome logo videos
+https://www.facebook.com/reel/288533927075232?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Create awesome videos on your plane rides
+https://www.facebook.com/reel/225358397051043?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Third person attribution will make people like you
+https://www.facebook.com/reel/1447621825642692?fs=e&s=TIeQ9V&mibextid=9imq16
+
+What women want versus what men want
+https://www.facebook.com/reel/630559748888335?fs=e&s=TIeQ9V&mibextid=9imq16
+
+The price value bias
+https://www.facebook.com/reel/801097658192512?fs=e&s=TIeQ9V&mibextid=9imq16
+
+A comparative market analysis
+https://www.facebook.com/reel/1010831063408893?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Your muscles will begin to metabolize if you’re too low in calories
+https://youtube.com/shorts/tpM59cqSqao?feature=shareIgnorance is the cause of fear
+https://youtube.com/shorts/Ug4N2KJ2eiY?feature=share
+No guy best friends
+https://youtube.com/shorts/e4-H7hJ9qyE?feature=share
+
+[You do with other people tell you to do when I want to tell yourself to do](https://www.facebook.com/reel/951453249261941?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[When your girl wants to have guy friends](https://www.facebook.com/reel/203704359249647?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[How to juggle](https://www.facebook.com/reel/309403314845202?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[Third man syndrome](https://www.facebook.com/reel/249786354470136?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[Speeding is dangerous](https://youtube.com/shorts/fZ-fx47TRjU?feature=share)
+
+[Sometimes I want a girlfriend comedy](https://www.facebook.com/reel/2031731180492836?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[Respect people’s time](https://www.facebook.com/reel/211955945161195?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[Great iPhone photos](https://www.facebook.com/reel/277702934824927?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[If we don’t worship the divine, we will worship the profane](https://www.facebook.com/reel/795722852188189?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[Synchronize your breath with the person you’re talking to](https://www.facebook.com/reel/795722852188189?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[https://www.facebook.com/reel/999185121038268?fs=e&s=TIeQ9V&mibextid=nLCFi2](https://www.facebook.com/reel/999185121038268?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[Men go by probabilities, not possibilities](https://www.facebook.com/reel/254297410696356?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Famous pizza with sausage all around it](https://www.facebook.com/reel/746058893829251?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Shower stuff](https://www.facebook.com/reel/817675312691433?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[When she asks if you’re angry, say no, just less interested](https://www.facebook.com/reel/135000739627473?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[And your product with a nine](https://www.facebook.com/reel/1631758737303056?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[It’s ridiculous. The people in the US have an argument and get divorced.](https://www.facebook.com/reel/628979745830735?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[You can be cloned](https://www.facebook.com/reel/624070363081666?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[A lot of people think they’re describing the president when they are prescribing the future](https://www.facebook.com/reel/829283325485182?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Jealousy exist because of ego](https://www.facebook.com/reel/230351246024483?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Track body measurements](https://www.facebook.com/reel/824616355529699?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[You should share your location in marriage](https://www.facebook.com/reel/227816039640434?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[50 adventures in each state](https://www.facebook.com/reel/1384687195596828?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Here’s to love here’s to honor if you can’t come in her come on her](https://www.facebook.com/reel/1454939072024906?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Create a company and contract yourself out](https://www.facebook.com/reel/162000956880066?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+Leaf filter gutter guards
+
+[https://www.facebook.com/reel/3156477081318973?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/3156477081318973?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Get an emergency fire blanket](https://www.facebook.com/reel/715893490121284?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Make 10 K a month with this hack](https://www.facebook.com/reel/663222572322150?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Risky behaviors required from a liter](https://www.facebook.com/reel/985679759112673?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Cool things from Amazon](https://www.facebook.com/reel/1407373126505985?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Airbnb arbitrage](https://www.facebook.com/reel/970079284237616?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[For $1 million would you let your girlfriend sleep with someone else?](https://www.facebook.com/reel/309639721483142?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Girls and guys cannot be friends](https://www.facebook.com/reel/1125167255070044?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Would you use a guilt free pass to sleep with anyone else?](https://www.facebook.com/reel/1422648351853807?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Mariana will not like other men’s pictures on social media](https://www.facebook.com/reel/272474032125061?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[The gym is the pathway to change](https://www.facebook.com/reel/192472033447884?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Famous pizza with sausage all around it](https://www.facebook.com/reel/746058893829251?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Shower stuff](https://www.facebook.com/reel/817675312691433?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[When she asks if you’re angry, say no, just less interested](https://www.facebook.com/reel/135000739627473?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[And your product with a nine](https://www.facebook.com/reel/1631758737303056?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[It’s ridiculous. The people in the US have an argument and get divorced.](https://www.facebook.com/reel/628979745830735?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[You can be cloned](https://www.facebook.com/reel/624070363081666?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[A lot of people think they’re describing the president when they are prescribing the future](https://www.facebook.com/reel/829283325485182?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Jealousy exist because of ego](https://www.facebook.com/reel/230351246024483?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Track body measurements](https://www.facebook.com/reel/824616355529699?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[You should share your location in marriage](https://www.facebook.com/reel/227816039640434?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[50 adventures in each state](https://www.facebook.com/reel/1384687195596828?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Here’s to love here’s to honor if you can’t come in her come on her](https://www.facebook.com/reel/1454939072024906?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Create a company and contract yourself out](https://www.facebook.com/reel/162000956880066?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+
+[Praying before you make love](https://www.facebook.com/reel/653751433005105?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Is it about the program or the price? Let them talk themselves into it.](https://www.facebook.com/reel/608099604786948?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Modern shower](https://www.facebook.com/reel/3408679989349966?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Bad lazy English](https://www.facebook.com/reel/1406372253532874?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[How to cuddle](https://www.facebook.com/reel/6238818522870455?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[For 10 years, you are your child’s favorite person in the world](https://www.facebook.com/reel/1851275558607027?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Fasting app](https://www.facebook.com/reel/920033215964943?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Sometimes you have to move on without certain people](https://www.facebook.com/reel/1438053197028976?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Jeffrey Epstein is an Andrew Jackson look alike](https://youtube.com/shorts/hZCosADdWvU?feature=share)
+
+[Young men need an example, not just a mother.](https://youtube.com/shorts/bflReT0SDLY?feature=share)
+
+[Why you should breathe through your nose and your mouth](https://youtube.com/shorts/QxqjpmcoJk0?feature=share)
+
+[Using artificial intelligence to replace 30 workers on a farm](https://www.facebook.com/reel/2749806345214356?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Get a scalp massager  to prevent hair loss](https://www.facebook.com/reel/2716573881809872?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Cash flow and appreciation on houses](https://www.facebook.com/reel/169234262801703?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[When you give something for free](https://www.facebook.com/reel/825934059143699?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[The real reason Texans don’t care about documentation](https://www.facebook.com/reel/1329723734616936?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Don’t start a sales call asking how the other person is doing](https://www.facebook.com/reel/1329723734616936?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Rules is the lowest form of relationship](https://www.facebook.com/reel/822504915761666?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+This is the bottom of the supply chain of your iPhone
+
+[https://youtube.com/shorts/nMafI9SdGyo?feature=share](https://youtube.com/shorts/nMafI9SdGyo?feature=share)
+
+WSTA Portable Ozone Generator,Multipurpose Ozone Machine with Timer for Home,Room,Office,Hunting https://a.co/d/eJM1Yw3
+
+[Your subconscious will take. I am statements as a command.](https://www.facebook.com/reel/174839795590409?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+Dermatologist use for skin from babies to keep celebrity skin healthy
+https://youtube.com/shorts/Ru5CgiyjMN0?feature=share
+
+Education
+
+[https://www.facebook.com/reel/756137629602004?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/756137629602004?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+Farts shouldn’t smell bad
+
+[https://www.facebook.com/reel/723121482836725?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/723121482836725?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+That is not bad   Consumer debt is bad.
+https://www.facebook.com/reel/895257348798757?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Question based discovery
+https://www.facebook.com/reel/6344713495641766?fs=e&s=TIeQ9V&mibextid=9imq16
+
+You don’t trust that someone’s not gonna betray you. You trust you’ll be able to handle it if they do.
+https://www.facebook.com/reel/1479009376211791?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Dig a hole with a pressure washer
+https://youtube.com/shorts/W-qL75dGV6k?feature=share
+I need to think about it sales tactic
+https://youtube.com/shorts/5597x9OU1MI?feature=share
+More evidence that black people are animals
+https://youtube.com/shorts/hS6MmbF0FvI?feature=share
+How to dominate customer service sales tactic
+https://youtube.com/shorts/Nc6Qws4HLk0?feature=shareMore black violence
+https://youtube.com/shorts/HW_JgtPQgyY?feature=shareMore niggers robbing a mail man
+https://youtube.com/shorts/-USOWsPzgZ8?feature=shareI don’t hate black lawyers, or black business men, or black software engineers. I hate black culture that turns men into thugs and impatient criminals that have no control over their animalistic emotions. Why is every video with crime got a black man in it? Black men are selfish, prideful, and harmful and that has nothing to do with being black and everything to do with black culture.
+
+Somehow this felt right. Black men are better men when they’re forced to be in their place.
+https://www.facebook.com/reel/638882334936464?fs=e&s=TIeQ9V&mibextid=9imq16
+
+LGBT is not suitable for mankind
+https://www.facebook.com/reel/1224315338278492?fs=e&s=TIeQ9V&mibextid=9imq16
+
+How to kiss a girl in a date
+https://www.facebook.com/reel/597599329170698?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Men just want peace
+https://www.facebook.com/reel/1024065128498507?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Bashing on women
+https://www.facebook.com/reel/1626448301174301?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Look after the things that God gave you
+https://www.facebook.com/reel/778285440657319?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Calming voice
+https://www.facebook.com/reel/140935499019955?fs=e&s=TIeQ9V&mibextid=9imq16
+
+https://www.facebook.com/reel/107718455703228?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Happy Valentine’s Day
+https://www.facebook.com/reel/727421338982672?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Headsets cause a dent in your head
+https://www.facebook.com/reel/1628169590929972?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Side hustles
+https://www.facebook.com/reel/557810826541300?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Avatar satanic
+https://www.facebook.com/reel/145703418522705?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Most delicious cookies ever food
+https://www.facebook.com/reel/2009577249392857?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Relationship 
+https://www.facebook.com/reel/652765896901294?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Don’t allow children to make excuses ever
+https://www.facebook.com/reel/1385242148713023?fs=e&s=TIeQ9V&mibextid=9imq16
+
+How to make a man die inside
+https://www.facebook.com/reel/1707766209681641?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Screen Time increases suicide ideation
+https://www.facebook.com/reel/662626039237208?fs=e&s=TIeQ9V&mibextid=9imq16
+
+King strength comes from his queen
+https://www.facebook.com/reel/958084748549352?fs=e&s=TIeQ9V&mibextid=9imq16
+
+A lot of Jesus to be with him
+https://www.facebook.com/reel/1700252110445781?fs=e&s=TIeQ9V&mibextid=9imq16
+
+The stupidity of gun free zones
+https://www.facebook.com/reel/1279851579599815?fs=e&s=TIeQ9V&mibextid=9imq16
+
+Kitchen remodel
+https://www.facebook.com/reel/1046857110023048?fs=e&s=TIeQ9V&mibextid=9imq16
+
+
+
+
+# Sander
+
+[Sanding walls](https://youtu.be/JgJRdn-jXrc)
+
+[vacuum sander](https://youtube.com/shorts/Op0rlKfTbig?feature=share)
+
+[use a sander before skim coating](https://youtu.be/Vi6Gd71ldEA)
+
+[Soak ceilings before sanding](https://youtu.be/K5qjqyJ4cHM)
+
+[Which sanders to use](https://youtu.be/eYHwg0HsmEU)
+
+[When not to sand](https://youtu.be/vZxyjVgQbAU)
+
+[Which mud to use](https://youtube.com/shorts/r6IPh9ZRpeU?feature=share)
+[Cleaning a pan](https://youtube.com/shorts/avOwom0SY7I?feature=share)
+
+
+Quick patch job
+https://youtube.com/shorts/MlqbWysoabY?feature=share
+
+# Cleaning Supplies
+
+[The clean water act](https://youtube.com/shorts/6NZuWudutnw?feature=share)
+
+[Get married, young](https://www.facebook.com/reel/573862554956789?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[Scalp pigmentation to remove hair loss](https://www.facebook.com/reel/229647220032674?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[Alcohol doesn’t make people stupid comment makes people stop caring](https://youtube.com/shorts/HtrG9FCgMAc?feature=share)
+
+New Strong Outdoor Lighter Kitchen Barbecue Metal Turbine Windproof [Lightert](https://youtube.com/shorts/aex9n65XBOU?feature=share) (Brown) [https://a.co/d/aJmFMqy](https://a.co/d/aJmFMqy)
+
+[How to install your new toilet](https://youtube.com/shorts/85v_57-N-fA?feature=share)
+
+[Thickest foam you will ever use](https://youtube.com/shorts/Vq89CBIdR-I?feature=share)
+
+[https://www.mjjc.com/products/foam-cannon-pro-1-4_quick_connector/](https://www.mjjc.com/products/foam-cannon-pro-1-4_quick_connector/)
+
+[Yum Foam](https://pressurecity.com/products/yum-foam)
+
+everfarel Dry Blow Gun Compressed Air Gun Cleaning Gun Blow Gun [https://amzn.eu/d/7qu5KoW](https://amzn.eu/d/7qu5KoW)
+
+[Pursue God for yourself](https://www.facebook.com/reel/587409833586426?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+
+
+# Install bathroom vanity
+
+[Install bathroom vanity](https://youtube.com/shorts/H4lkCAv8AAc?feature=share)
+
+# Vacuum
+
+[https://youtu.be/ah1RtZCI_g8](https://youtu.be/ah1RtZCI_g8)
+
+[https://youtu.be/Hxx-fb8FsP4](https://youtu.be/Hxx-fb8FsP4)
+
+# Pressure Washer
+
+Ryobi RY31SC01 15 in. 3300 PSI Surface Cleaner for Gas Pressure Washer [https://a.co/d/6thlRrS](https://a.co/d/6thlRrS)
+
+Sun Joe SPX2688-MAX Outdoor Multi-Function Cleaning Kit (SPX2688-MAX Electric Pressure Washer + SPX-AW3Q Detergent Foam Trio + SPX-FC34-MXT Foam Cannon) [https://a.co/d/3bPJjC5](https://a.co/d/3bPJjC5)
+
+# Crooked Outlets
+
+29 outlets
+
+Crooked outlets
+
+[https://youtu.be/G3ZEm39bPjk](https://youtu.be/G3ZEm39bPjk)
+
+[https://youtu.be/7Lsz-Us67aA](https://youtu.be/7Lsz-Us67aA)
+
+# Scum coating vs sanding
+
+[https://youtube.com/shorts/tGBVehm-QlQ?feature=share](https://youtube.com/shorts/tGBVehm-QlQ?feature=share)
+
+[https://youtube.com/shorts/mv55nnJHXc4?feature=share](https://youtube.com/shorts/mv55nnJHXc4?feature=share)
+
+[https://youtube.com/shorts/iOd-HwfhwHI?feature=share](https://youtube.com/shorts/iOd-HwfhwHI?feature=share)
+
+[https://youtube.com/shorts/TaU_TwCIXiM?feature=share](https://youtube.com/shorts/TaU_TwCIXiM?feature=share)
+
+Which mid to use
+
+[https://youtube.com/shorts/7l_mNTmfp3k?feature=share](https://youtube.com/shorts/7l_mNTmfp3k?feature=share)
+
+How to sand walls
+
+[https://youtube.com/shorts/Op0rlKfTbig?feature=share](https://youtube.com/shorts/Op0rlKfTbig?feature=share)
+
+# Gimbal
+
+Gobble tripod selfie stick
+
+[https://youtube.com/shorts/Y-6AbqyvUC4?feature=share](https://youtube.com/shorts/Y-6AbqyvUC4?feature=share)
+
+[https://www.bestbuy.com/site/insta360-flow-standard-3-axis-gimbal-stabilizer-for-smartphones-with-built-in-tripod-gray/6541695.p?skuId=6541695&extStoreId=1780&ref=212&loc=1&gbraid=0AAAAAD-ORIgGWbTrhPxlbOXyno3JGW4Lo&gclid=EAIaIQobChMImZzk0qCJgAMVSy3UAR3kEgKZEAQYASABEgL9vfD_BwE&gclsrc=aw.ds](https://www.bestbuy.com/site/insta360-flow-standard-3-axis-gimbal-stabilizer-for-smartphones-with-built-in-tripod-gray/6541695.p?skuId=6541695&extStoreId=1780&ref=212&loc=1&gbraid=0AAAAAD-ORIgGWbTrhPxlbOXyno3JGW4Lo&gclid=EAIaIQobChMImZzk0qCJgAMVSy3UAR3kEgKZEAQYASABEgL9vfD_BwE&gclsrc=aw.ds)
+
+dji4ms
+
+Preselection
+
+[https://www.facebook.com/reel/244737695078920?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/244737695078920?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+How to connect PVC pipe to a metal pipe
+
+[https://youtube.com/shorts/gM-QJGmQSjs?feature=share](https://youtube.com/shorts/gM-QJGmQSjs?feature=share)
+
+Apparently pineapple improves the taste of your semen
+
+[https://youtube.com/shorts/V24ibvjcjIE?feature=share](https://youtube.com/shorts/V24ibvjcjIE?feature=share)
+
+[Holders](https://www.facebook.com/reel/1741542149608946?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Cute family hands idea](https://www.facebook.com/reel/177875941711775?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Don’t listen to women who say it’s a responsible for men to settle down when they’ve just reached their prime in their mid 30s](https://www.facebook.com/reel/1751511055309018?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[Most diseases are deficiency diseases](https://www.facebook.com/reel/938955494054841?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+[It’s OK to have a bad day in Christianity](https://www.facebook.com/reel/6108279019294048?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+# Gloves
+
+Why are car loan is not a good idea
+
+[https://www.facebook.com/reel/238382569001455?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/238382569001455?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+Work gloves
+
+[https://youtube.com/shorts/elxVvmdJT-Q?feature=share](https://youtube.com/shorts/elxVvmdJT-Q?feature=share)
+
+Motivational for godliness
+
+[https://youtube.com/shorts/V0OfT8iD5ss?feature=share](https://youtube.com/shorts/V0OfT8iD5ss?feature=share)
+
+How to handle loose screw holes
+
+[https://youtube.com/shorts/96q_PL13X3c?feature=share](https://youtube.com/shorts/96q_PL13X3c?feature=share)
+
+When you’re happy, you enjoy the music, but when you’re sad, you understand the lyrics
+
+[https://www.facebook.com/reel/194155570293627?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/194155570293627?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+# Are Robot Mowers Worth It?
+
+The average person in Texas will mow 10-15 times per year. By hour is worth $50. If I spend an hour to mow my lawn, that means in one year I will spend $500-$750 worth of my time mowing.
+
+The eco flow robot mower will pay for itself in just about 5 years. It’s price point is about $3,000
+
+EF ECOFLOW Blade Robotic Lawn Mower, Wire-Free Boundaries, Auto-Route Planning with GPS, RTK Smart Obstacle Avoidance, Water-Resistant Anti-Theft Auto Lock Robot Mower for Yards up to 0.7 Acres
+
+[https://www.ecoflow.com/us/blade-robotic-lawn-mower?utm_source=youtube&utm_medium=kol&utm_campaign=blade_launch&utm_content=JerryRigEveything](https://www.ecoflow.com/us/blade-robotic-lawn-mower?utm_source=youtube&utm_medium=kol&utm_campaign=blade_launch&utm_content=JerryRigEveything)
+
+# Stuff From Rasik
+
+[https://www.simplehuman.com/products/rechargeable-liquid-sensor-pump-14-fl-oz-with-caddy](https://www.simplehuman.com/products/rechargeable-liquid-sensor-pump-14-fl-oz-with-caddy)
+
+Echo Show 5 (1st Gen, 2019 release) -- Smart display with Alexa – stay connected with video calling - Charcoal [https://a.co/d/9Qtj6Ue](https://a.co/d/9Qtj6Ue)
+
+[https://www.dyson.com/air-treatment/air-purifier-heaters/purifier-hot-cool-hp07/white-silver](https://www.dyson.com/air-treatment/air-purifier-heaters/purifier-hot-cool-hp07/white-silver)
+
+[https://www.simplehuman.com/products/paper-towel-pump?variant=43107808870531&nbt=nb%3Aadwords%3Ax%3A16965520791%3A%3A&nb_adtype=pla&nb_kwd=&nb_ti=&nb_mi=6308140&nb_pc=online&nb_pi=KT1196&nb_ppi=&nb_placement=&nb_li_ms=&nb_lp_ms=&nb_fii=&nb_ap=&nb_mt=&gclid=EAIaIQobChMI2oKpq9T9_wIVt0d_AB3B5AFvEAQYAyABEgLkkPD_BwE](https://www.simplehuman.com/products/paper-towel-pump?variant=43107808870531&nbt=nb%3Aadwords%3Ax%3A16965520791%3A%3A&nb_adtype=pla&nb_kwd=&nb_ti=&nb_mi=6308140&nb_pc=online&nb_pi=KT1196&nb_ppi=&nb_placement=&nb_li_ms=&nb_lp_ms=&nb_fii=&nb_ap=&nb_mt=&gclid=EAIaIQobChMI2oKpq9T9_wIVt0d_AB3B5AFvEAQYAyABEgLkkPD_BwE)
+
+Deal of the day for Prime Members: Echo Dot (5th Gen, 2022 release) with clock | Smart speaker with clock and Alexa | Cloud Blue [https://a.co/d/6I2tEcF](https://a.co/d/6I2tEcF)
+
+[https://www.brooklinen.com/products/down-comforter?variant=32865296875610&g_acctid=557-212-9822&g_adgroupid=&g_adid=&g_adtype=none&g_campaign=PMax_NB_High+Priority&g_campaignid=19925230925&g_keyword=&g_keywordid=&g_network=x&utm_campaign=PMax_NB_High+Priority&utm_medium=PMax_NB_High+Priority&gclid=EAIaIQobChMIi63q79j9_wIVwjLUAR2bDgDJEAQYASABEgLWhvD_BwE&gclsrc=aw.ds](https://www.brooklinen.com/products/down-comforter?variant=32865296875610&g_acctid=557-212-9822&g_adgroupid=&g_adid=&g_adtype=none&g_campaign=PMax_NB_High+Priority&g_campaignid=19925230925&g_keyword=&g_keywordid=&g_network=x&utm_campaign=PMax_NB_High+Priority&utm_medium=PMax_NB_High+Priority&gclid=EAIaIQobChMIi63q79j9_wIVwjLUAR2bDgDJEAQYASABEgLWhvD_BwE&gclsrc=aw.ds)
+
+TANGIST Floor Lamp, Modern LED Floor Lamp Compatible with Living Rooms Modern Standing Pole Light Compatible with Study Bedrooms Offices Bright Dimmable Floor Light [https://a.co/d/8uPjkMb](https://a.co/d/8uPjkMb)
+
+Tile leveling systems
+
+[https://youtube.com/shorts/IUCCkR1q6m4?feature=share](https://youtube.com/shorts/IUCCkR1q6m4?feature=share)
+
+Loading mud on drywall
+
+[https://youtube.com/shorts/TkewsZ3gM14?feature=share](https://youtube.com/shorts/TkewsZ3gM14?feature=share)
+
+Pressure washing
+
+[https://youtube.com/shorts/KTmEs83_Wuc?feature=share](https://youtube.com/shorts/KTmEs83_Wuc?feature=share)
+
+Drywall repair, quick and easy
+
+[https://youtube.com/shorts/aONPS65pJlU?feature=share](https://youtube.com/shorts/aONPS65pJlU?feature=share)
+
+Replace drywall, the simple, mud and tape
+
+[https://youtube.com/shorts/2ls8WSR2quE?feature=share](https://youtube.com/shorts/2ls8WSR2quE?feature=share)
+
+Clean your bricks
+
+[https://youtube.com/shorts/rCnRPdWjlZM?feature=share](https://youtube.com/shorts/rCnRPdWjlZM?feature=share)
+
+Pressure washing job can cost $1600. I might be a good business.
+
+[https://youtube.com/shorts/nBTh0XJgqRI?feature=share](https://youtube.com/shorts/nBTh0XJgqRI?feature=share)
+
+Circular, sanding, hack
+
+[https://youtube.com/shorts/yd6nOtLrxwU?feature=share](https://youtube.com/shorts/yd6nOtLrxwU?feature=share)
+
+Shine light across the wall to see where my needs to be feathered
+
+[https://youtube.com/shorts/hfMJTcvzW3Y?feature=share](https://youtube.com/shorts/hfMJTcvzW3Y?feature=share)
+
+Pink chemicals
+
+[https://youtube.com/shorts/-6KpNCtpZcc?feature=share](https://youtube.com/shorts/-6KpNCtpZcc?feature=share)
+
+Hair loss
+
+[https://www.facebook.com/reel/1430502121082922?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/1430502121082922?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+Finasteride and minoxidil
+
+[https://www.facebook.com/reel/593227982841619?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/593227982841619?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+No guy friends
+
+[https://youtube.com/shorts/NDBzI5tCRiI?feature=share](https://youtube.com/shorts/NDBzI5tCRiI?feature=share)
+
+Bumpy arms
+
+[https://www.facebook.com/reel/1438498370220412?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/1438498370220412?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+Knowledge is only useful if you use it
+
+[https://www.facebook.com/reel/269125322333539?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/269125322333539?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+Flip properties from city violations
+
+[https://www.facebook.com/reel/160998680308445?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/160998680308445?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+Charge your kids $250 for rent
+
+[https://www.facebook.com/reel/903734997556215?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/903734997556215?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+# Painting
+
+how to paint walls fast
+
+[https://youtube.com/shorts/56h2NlvFhfg?feature=share](https://youtube.com/shorts/56h2NlvFhfg?feature=share)
+
+A woman can’t trust a people pleaser for advice
+
+[https://www.facebook.com/reel/6797170056983200?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/6797170056983200?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+
+# Hair loss starts with a hard scalp
+
+Hair loss starts with a hard scalp
+
+[https://www.facebook.com/reel/788537569595177?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/788537569595177?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+FB25
+
+[https://fortero.com/products/hair-care-products-for-men-meta01](https://fortero.com/products/hair-care-products-for-men-meta01)
+
+IRestore
+
+[https://www.facebook.com/reel/291031870165332?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/291031870165332?fs=e&s=TIeQ9V&mibextid=9imq16)
+
+Eventing sales tactic
+
+[https://www.facebook.com/reel/655723979349252?fs=e&s=TIeQ9V&mibextid=9imq16](https://www.facebook.com/reel/655723979349252?fs=e&s=TIeQ9V&mibextid=9imq16)
+

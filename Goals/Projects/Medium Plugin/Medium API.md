@@ -1,0 +1,2 @@
+- [Medium Developers](https://developers.medium.com/)
+- https://mediumapi.com/
