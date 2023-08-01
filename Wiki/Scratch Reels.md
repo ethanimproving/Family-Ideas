@@ -1214,7 +1214,7 @@ Crooked outlets
 
 [https://youtu.be/7Lsz-Us67aA](https://youtu.be/7Lsz-Us67aA)
 
-# Scum coating vs sanding
+# Scim coating vs sanding
 
 [https://youtube.com/shorts/tGBVehm-QlQ?feature=share](https://youtube.com/shorts/tGBVehm-QlQ?feature=share)
 
