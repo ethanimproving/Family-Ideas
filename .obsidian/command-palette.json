@@ -6,6 +6,7 @@
     "omnisearch:show-modal",
     "file-explorer:reveal-active-file",
     "obsidian-git:view-file-on-github",
-    "digitalgarden:publish-multiple-notes"
+    "digitalgarden:publish-multiple-notes",
+    "obsidian-paste-as-html:paste-as-html"
   ]
 }
