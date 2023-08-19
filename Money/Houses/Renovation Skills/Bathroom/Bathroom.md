@@ -7,7 +7,7 @@ tags: [oakmore]
 ---
 
 Contractors:
-- Manny
+- [Manny](https://www.facebook.com/nconstruction2019/reels/)
 - Stu's guy from Guatemala
 - Alex's contractor
 

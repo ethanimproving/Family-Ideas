@@ -1,4 +1,3 @@
-
 ---
 dg-publish: true
 dg-created: Aug 08, 2023, 7:18 PM
@@ -35,6 +34,7 @@ I apologize for the incomplete summary. Here is a more detailed summary of the i
 9. Use pair of pliers or adjustable wrench to remove nuts and washers on bolts that secure bowl to floor.
 10. Gently rock toilet bowl back and forth until you work it free and can lift it.
 
+[How to Remove a Toilet](https://www.youtube.com/watch?v=qenJuae_CBQ)
 ## Place Toilet on Flange
 
 1. Rest new toilet on its side on top of towel or blanket on floor so it doesn’t get scratched or damaged during installation.
