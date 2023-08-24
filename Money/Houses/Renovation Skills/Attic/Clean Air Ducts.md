@@ -174,3 +174,11 @@ Stale odors in air ducts can be caused by various factors, including:
     
 
 It's important to address the root cause of the stale smell in the air ducts to improve indoor air quality and create a more pleasant living environment. This might involve professional air duct cleaning, mold remediation (if necessary), maintaining a clean home, and proper ventilation practices. If you're experiencing persistent stale odors from your air ducts, it's advisable to consult with an HVAC professional to identify and resolve the underlying issues.
+
+# Styles of HVAC
+
+1. **Fiberglass Duct Insulation (Round, Shiny):** Fiberglass insulation is a common type of duct insulation. It often comes as rolls or blankets of material that are wrapped around the ductwork. The outer facing of fiberglass insulation may have a reflective, shiny surface that helps with thermal resistance and reducing heat transfer.
+    
+2. **Foam Duct Insulation (Foam Ones):** Foam insulation is another type used for HVAC ducts. It comes in rigid foam panels or flexible foam sheets that are applied to the ductwork. Foam insulation has good insulating properties and provides a seamless barrier against heat transfer.
+
+I am in the process of buying my Grandmother's house who died last November. The air ducts have never been cleaned since it was built in 1979, and I believe it is the cause of an unpleasent odor throughout the house. The air ducts are the old Foam Duct Insulation as it is an older home. Do you offer cleaning services that can help with that?

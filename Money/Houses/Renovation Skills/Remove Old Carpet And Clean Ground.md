@@ -3,6 +3,7 @@ dg-publish: true
 dg-created: Jul 09, 2023, 11:01 PM
 priority: 3
 cost: $0
+status: 1
 tags: [oakmore]
 ---
 
