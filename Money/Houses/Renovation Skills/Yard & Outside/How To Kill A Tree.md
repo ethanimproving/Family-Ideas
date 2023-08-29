@@ -1,3 +1,12 @@
+---
+dg-publish: true
+dg-created: Aug 28, 2023, 9:59 PM
+cost: $0
+priority: 5
+tags: [oakmore]
+---
+
+
 To get rid of a small tree growing in the cracks of your patio, you can try these steps:
 
 1. **Pulling and Digging:** Use a pair of gloves and try to manually pull out the tree, including its roots. If the roots are deeply entrenched, you might need to dig around the base of the tree to expose and remove them.

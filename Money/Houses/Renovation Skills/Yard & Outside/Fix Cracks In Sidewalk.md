@@ -1,3 +1,11 @@
+---
+dg-publish: true
+dg-created: Aug 28, 2023, 9:58 PM
+cost: $50
+priority: 5
+tags: [oakmore]
+---
+
 # Kill weeds in expansion joints
 
 [Weed-Free Driveways and Sidewalks: The Ultimate Solution!](https://youtu.be/NNHXOIVCX1M?si=FywmijIkSXW3IHzB)](https://youtu.be/NNHXOIVCX1M?si=FywmijIkSXW3IHzB)
