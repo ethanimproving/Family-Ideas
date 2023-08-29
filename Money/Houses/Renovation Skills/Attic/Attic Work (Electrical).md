@@ -37,3 +37,15 @@ tags: [oakmore]
 |     |                                                                                                                                                                      | Dining room outlets (3)<br/>Dining room nook outlets (2)<br/>Living room floor outlet (1)<br/>    [on floor edge, round cap] | 24b |
 
 Find out the [[2023-07-21|wiring]].
+
+# Service mast
+
+This is a service mast. It connects an electrical service to a building.
+
+![](https://www.familyhandyman.com/wp-content/uploads/2019/03/mast.jpg)
+
+
+
+My house doesn't have a service mast because it's serviced underground. Instead of feeding wire through a service mast, I will use the gap between the roof and the ceiling. It's safer to have underground service.
+
+![](https://firstresponder.domsafety.com/wp-content/uploads/2018/02/weatherhead_labels.png)
