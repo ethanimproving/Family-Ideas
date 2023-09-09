@@ -11,6 +11,8 @@ The term "Montezuma's Revenge" is often associated with Mexico, as it is named a
 - [Imodium](https://www.cvs.com/shop/imodium-multi-symptom-relief-caplets-12-ct-prodid-1011923)
 	- Side affacts
 - **Probiotics** like yogurt with live cultures.
+- Omeprazole on an empty stomach half an hour before eating for 2 weeks
+- Butylhyoscine every 8 hours for 3 days
 
 This image is from when I traveled to Cancun with Mariana, Ana Karen and Jorge. I drank way too many Pina Coladas at the [[2023-09-04 CUN#Where To Stay|Riu Palace Peninsula]] hotel. We had free unlimited food which was horrible for me. The next day on our way to **Isla Mujeres** Ana Karen went to the Pharmacy to pickup some medicine for my stomach, headache, and [this Electrolit drink](https://www.walgreens.com/store/c/electrolit-hydration-beverage-drink-with-electrolytes-strawberry-kiwi/ID=300420212-product) for me and Jorge. I told Mariana that I felt like I needed to throw up, and she said if I need to than I should. But I was embarrassed to throw up in a public bathroom with people in the stalls nearby. She told me if it needs to go out then it's better for me to go. So I went into the stall and threw up the watermelon I had eaten for breakfast. When I came back Jorge was gone, and the girls told me he followed me into the bathroom and also threw up. He was hungover from the Coco Bongo the previous night. The pills relieved me temporarily, but that night I felt like I had a fever. After a night of sleep I felt better the next day. I still had gastrointestinal discomfort, but the headache was gone. Later the girls joked that Jorge and I were connected for throwing up at the same time.
 
