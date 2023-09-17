@@ -6,6 +6,33 @@ priority: 5
 tags: [oakmore]
 ---
 
+# Electricity
+
+## Watts
+
+The wattage is the amount of electricity being used. You can think of it as the number of electrons required to perform a task.
+
+Watts represent the rate at which electrical energy is consumed or produced in a circuit. It is the product of voltage (in volts) and current (in amperes) and is used to measure the power of an electrical device. In simple terms, watts tell you how much energy a device uses or produces per unit of time.
+
+$$P(Watts)=V(Volts)×I(Amperes)$$
+## Amps
+
+Amperes, often referred to as "amps," measure the **rate of flow of electric current** in a circuit. It quantifies **how many electrons pass through a given point in a conductor per unit of time**. Amperes are analogous to the flow rate of water in a pipe. 
+
+Amps is the force of the electricity. Typical boxes have 15 amps and 20 amps.
+
+Divide 60 + 60 + 60 + 60 watts (240 watts) by 120 volts, and you end up with 2 amps. However if you look closer each bulb only uses 8.5 watts. So 8.5 x 4 = 34 watts / 120 volts = 0.28 amps. Only 1.8% of the capacity of that breaker. 
+
+## Volts
+
+Volts represent the electrical potential difference or voltage between two points in an electrical circuit. In simpler terms, it's the **force that pushes electrons through a conductor** (like a wire). Voltage is analogous to the pressure in a water pipe. Common household electrical outlets provide voltage at 120 and 240 volts.
+
+Volts are Amps x Watts. You can think of it as the number of electrons in a particular space. Like water pressure. You could have 20,000 volts but if your amps are low enough you won't get electricuted.
+
+## Transformer
+
+City Transformers take huge amounts of volts and convert them to amps to make it usable to households.
+
 # What To Wear
 
 [What's a man to wear? Attic insulation removal question.](https://www.reddit.com/r/DIY/comments/1s6epv/whats_a_man_to_wear_attic_insulation_removal/)
