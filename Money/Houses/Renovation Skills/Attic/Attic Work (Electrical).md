@@ -33,6 +33,20 @@ Volts are Amps x Watts. You can think of it as the number of electrons in a part
 
 City Transformers take huge amounts of volts and convert them to amps to make it usable to households.
 
+## Vocabulary
+
+- Joist
+- Knockout
+- Butterfly
+- R-Staples
+- 14/3 Southwire
+	- 14 is smaller than 12.
+	- 3 - black for hot, white for neutral, red for fan control, and copper for ground.
+- Wire nut
+- Wire strippers
+- Klein side cutting plyers
+- [Rapi-drive screwdriver](https://www.homedepot.com/p/Klein-Tools-3-16-in-Cabinet-Tip-Rapi-Drive-Flat-Head-Screwdriver-with-4-in-Shank-670-3/203310620)
+
 # What To Wear
 
 [What's a man to wear? Attic insulation removal question.](https://www.reddit.com/r/DIY/comments/1s6epv/whats_a_man_to_wear_attic_insulation_removal/)
