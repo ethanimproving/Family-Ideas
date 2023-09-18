@@ -46,6 +46,12 @@ City Transformers take huge amounts of volts and convert them to amps to make it
 - Wire strippers
 - Klein side cutting plyers
 - [Rapi-drive screwdriver](https://www.homedepot.com/p/Klein-Tools-3-16-in-Cabinet-Tip-Rapi-Drive-Flat-Head-Screwdriver-with-4-in-Shank-670-3/203310620)
+- Leg
+- Circuit
+- Breaker
+- Electrical Box
+- Phase 1, 2, and 3
+- AC and DC
 
 # What To Wear
 
