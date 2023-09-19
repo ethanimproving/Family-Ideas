@@ -160,3 +160,10 @@ Use a [Dewalt Staple Gun](https://www.homedepot.com/p/DEWALT-4-in-Heavy-Duty-Com
 
 [Avoid These 5 DIY Electrical Mistakes](https://www.youtube.com/watch?v=U4UMuQ7t0Vw)
 
+# Attic Wire Management
+
+[first time running cables in attic advice needed](https://arstechnica.com/civis/threads/first-time-running-cables-in-attic-advice-needed.1249741/)
+
+[if y'all are still running your cabling directly on the attic floor, maybe invest in these](https://www.reddit.com/r/homelab/comments/tda4y0/if_yall_are_still_running_your_cabling_directly/)
+
+[E3802.2 Cables in Accessible Attics](https://up.codes/s/cables-in-accessible-attics)
