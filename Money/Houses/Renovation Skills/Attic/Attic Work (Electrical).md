@@ -8,6 +8,9 @@ tags: [oakmore]
 
 # Electricity
 
+[Volts, Amps, & Watts Explained!](https://www.youtube.com/watch?app=desktop&v=PyLjnVJVM1s)
+
+![](https://www.packetpower.com/hs-fs/hubfs/Blog/PipeAnalogy.jpg?width=552&height=200&name=PipeAnalogy.jpg)
 ## Watts
 
 The wattage is the amount of electricity being used. You can think of it as the number of electrons required to perform a task.
@@ -52,6 +55,7 @@ City Transformers take huge amounts of volts and convert them to amps to make it
 - Electrical Box
 - Phase 1, 2, and 3
 - AC and DC
+- [Lever Nuts](https://www.homedepot.com/p/IDEAL-33-Orange-In-Sure-3-Port-Connector-10-Pack-30-1333S/202911030)
 
 # What To Wear
 
@@ -126,8 +130,33 @@ Here's how a distribution transformer works:
 
 Transformers play a critical role in electrical power systems, ensuring that the electricity supplied to homes and businesses is at the appropriate voltage levels for safe and efficient use.
 
+
 ## Service pipe
 ## Meter - belongs to Oncor
 ## Electrical panel 
 ## Solid receptacle. 
 ## Doodle switch
+
+# Tips
+
+## Cutting Romex
+
+[Best Way to STRIP ROMEX FAST](https://www.youtube.com/shorts/sLCxyD7xMFE?feature=share)
+## Wire Staples
+
+For anyone curious, you would use an S1 staple for a 14/2 or 14/3 cable, and an S2 staple for two 14/2 cables.
+
+[How often should you staple wires?](https://www.youtube.com/shorts/RUBf0gX5xxs?feature=share)
+
+[Staple within 12 inches of every junction box](https://www.youtube.com/shorts/RyKN4EvzsbM)
+
+### Staple Gun
+
+Use a [Dewalt Staple Gun](https://www.homedepot.com/p/DEWALT-4-in-Heavy-Duty-Compact-Staple-Gun-DWHT74841D/206210812#overlay).
+![](https://m.media-amazon.com/images/I/81ZXuiBRQ1L._SL1500_.jpg)
+
+[Milwaukee Cable stapler](https://www.youtube.com/shorts/s1im2BUHe7k)
+# Mistakes
+
+[Avoid These 5 DIY Electrical Mistakes](https://www.youtube.com/watch?v=U4UMuQ7t0Vw)
+
