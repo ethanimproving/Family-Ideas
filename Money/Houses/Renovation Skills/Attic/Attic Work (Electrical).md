@@ -167,3 +167,18 @@ Use a [Dewalt Staple Gun](https://www.homedepot.com/p/DEWALT-4-in-Heavy-Duty-Com
 [if y'all are still running your cabling directly on the attic floor, maybe invest in these](https://www.reddit.com/r/homelab/comments/tda4y0/if_yall_are_still_running_your_cabling_directly/)
 
 [E3802.2 Cables in Accessible Attics](https://up.codes/s/cables-in-accessible-attics)
+
+
+# National Electrical Code (NEC)
+
+## Proper Cable Support
+
+Cables should be supported and secured to prevent sagging or damage. Here's how to do it:
+    
+### Along Joists
+
+Run cables along the top of attic joists, keeping them at least 1.25 inches below the top surface or protected by a running board. This helps prevent damage during future attic work or storage.
+        
+### Across Joists
+
+If you need to cross joists, drill holes through the center of the joists and pass the cable through. Do not staple cables to the sides of joists or run them across the top without protection.
