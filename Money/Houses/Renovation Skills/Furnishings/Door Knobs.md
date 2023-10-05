@@ -2,28 +2,34 @@
 
 # Rekey A Kwikset Doorknob Handle Without Original Key
 
-1. ![How to remove the lock cylinder from a Kwikset SmartKey entry knob](https://www.youtube.com/watch?v=BFgdx5SDdC8)
-
 
 1. **Gather Your Tools**:
-    
     - A Kwikset rekeying kit: You can purchase these kits online or at a hardware store. They typically include a set of new keys, a key gauge, and tools.
     - A plug follower: This is a tool used to remove the lock cylinder from the door handle.
     - A small screwdriver or Allen wrench (hex key).
-2. **Remove the Door Handle**:
     
+2. **Remove the Door Handle**:
     - Unscrew and remove the two screws on the interior side of the door handle.
     - Once the screws are removed, you can separate the two halves of the door handle.
+    
 3. **Remove the Lock Cylinder**:
     
     - Locate the retaining screw on the lock cylinder. It is usually on the edge of the door.
     - Use the small screwdriver or Allen wrench to remove this screw.
     - With the screw removed, the lock cylinder should be free to slide out of the door.
+
+[How to remove the lock cylinder from a Kwikset SmartKey Lever Entry Handle](https://www.youtube.com/watch?v=yMvVtIFEJXo)
+
 4. **Take Apart the Cylinder**:
     
     - Place the lock cylinder on a flat surface.
     - Use the plug follower to push the plug (the part with the keyholes) out of the cylinder.
     - You should now have access to the pins and springs inside the cylinder.
+
+[Kwikset Smartkey Rekey Without a operating key tutorial](https://www.youtube.com/watch?v=GyHUB3QKskU)
+
+For a shorter video, watch [this video](https://www.youtube.com/watch?v=aQjXl78DdUA&t=56s).
+
 5. **Replace the Pins**:
     
     - Use the new pins provided in the rekeying kit.
