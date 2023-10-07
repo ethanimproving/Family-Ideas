@@ -18,6 +18,23 @@
     - Use the small screwdriver or Allen wrench to remove this screw.
     - With the screw removed, the lock cylinder should be free to slide out of the door.
 
+For Instructions, visit [[Lever Cylinder Removal.pdf]].
+
+![](https://i.imgur.com/pSyCKJE.png)
+
+![](https://i.imgur.com/UU8WRMU.png)
+
+![](https://i.imgur.com/ByLYedh.png)
+
+![](https://i.imgur.com/hoIChN9.png)
+
+![](https://i.imgur.com/vLk4cUp.png)
+
+![](https://i.imgur.com/HL68FV3.png)
+
+
+
+
 [How to remove the lock cylinder from a Kwikset SmartKey Lever Entry Handle](https://www.youtube.com/watch?v=yMvVtIFEJXo)
 
 4. **Take Apart the Cylinder**:
@@ -65,14 +82,8 @@ Hello, I bought a Tustin Satin Nickel Exterior Entry Door Handle and Single Cyli
 
 ![](https://images.thdstatic.com/productImages/55c66c93-2937-4347-8408-5cef2f0fdebc/svn/kwikset-door-lock-combo-packs-991tnl-15-smt-cp-64_1000.jpg)
 
-https://www.homedepot.com/p/6-32-x-3-16-in-Stainless-Steel-Socket-Set-Screws-2-Piece-811928/204274335
+# Set Screw
 
-https://www.homedepot.com/p/Everbilt-8-32-tpi-x-5-8-in-Stainless-Socket-Set-Screw-2-Pack-25078/203575620
+The set screw part number is [83254](https://www.kwikset.com/support/productdetail/83254-reversible-leverset-screws). Kwikset parts can be found for sale online, using any major search engine. They can also be found and/or ordered at the major box store chains (such as [build.com](https://www.build.com/kwikset-83255/s968117), [eBay](https://www.ebay.com/itm/285007754956), [DK Hardware](https://www.dkhardware.com/set-screw-for-passage-privacy-and-smart-entry-83254-product-911705.html), [Max Warehouse](https://www.maxwarehouse.com/products/83254-reversible-leverset-screws-pass-priv-interior-entry-smt)), and supply stores (such as [Walmart](https://www.walmart.com/ip/83254-Reversible-Lever-Set-Screw-Pass-Priv-Interior-Entry-SMT/163957361)). We have included a link below to the “[Where to Buy](https://www.kwikset.com/where-to-buy)” page on our website for a list of local retailers and online retailers.  
 
-https://www.homedepot.com/p/Hillman-6-32-x-3-16-in-Internal-Hex-Socket-Head-Set-Screw-20-Pack-3273/204786244
-
-https://www.cabinetparts.com/p/kwikset-door-hardware-door-accessories-KWK81251-p101595
-
-[Laverset Screws](https://www.kwikset.com/products/detail/83255-reversible-leverset-screws)
-
-[Needle Nose Pliers](https://www.amazon.com/Channellock-317-Plier-Cutter-8-Inch/dp/B000RY7PXY/ref=asc_df_B000RY7PXY)
+  
