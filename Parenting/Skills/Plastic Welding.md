@@ -106,3 +106,8 @@ The choice of plastic welding method depends on factors like the type of plastic
 
 ![](https://youtu.be/44lih_dnhuo?list=LL)
 
+# Liquid Plastic Welding
+
+[Bondic UV Liquid Plastic Welder](https://a.co/d/25XDZ8A), Super Glue, Cures Quickly, UV Resin Kit with Light for Home, Plastic, Jewelry (LED Light & Liquid Cartridge in a Tin Case)
+
+![](https://m.media-amazon.com/images/I/81mTJDkaMkL._AC_SL1500_.jpg)
