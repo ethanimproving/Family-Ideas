@@ -9,7 +9,7 @@ When playing Jedi Academy, at the end of every level there is a list of force ab
 
 ![](https://portforward.com/games/walkthroughs/Star-Wars-Jedi-Knight-Jedi-Academy/star-wars-jedi-knight-jedi-academy-6-small.webp)
 
-Knights of the Old Republic had a similar level up screen for Skills, Powers, and Feats.
+[[Knights Of The Old Republic II|Knights of the Old Republic]] had a similar level up screen for Skills, Powers, and Feats.
 
 
 ![](https://i.redd.it/x8a2ohdacgu01.jpg)
