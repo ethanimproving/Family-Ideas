@@ -58,6 +58,9 @@ The choice of plastic welding method depends on factors like the type of plastic
 [Plastic Welding Iron](https://www.amazon.com/JOUNJIP-Plastic-Welding-Kit-Deluxe/dp/B0BFB6HFH7/ref=sxin_17_pa_sp_search_thematic_sspa)
 
 ![](https://m.media-amazon.com/images/I/916Pk5uidjL._AC_SL1500_.jpg)
+
+![](https://m.media-amazon.com/images/I/51o5TI1VsRS._AC_.jpg)
+
 # Extrusion Welding
 
 [Hot Air Torch Plastic Welder Welding](https://www.amazon.com/SKYTOU-Plastic-Welder-Welding-Nozzles/dp/B07TC554HF/ref=sr_1_20_sspa)
@@ -84,6 +87,20 @@ The choice of plastic welding method depends on factors like the type of plastic
 ![](https://youtu.be/0syqyARZDo8?list=LL)
 
 ![](https://youtu.be/dgg4b6e8k5A?list=LL)
+
+# Plastic Patch Welding:
+
+1. **Prepare the Joint:** First, the two plastic components to be joined are typically aligned and secured together.
+    
+2. **Insert Staples:** Metal staples or clips are inserted into the plastic components, providing reinforcement and structural integrity.
+    
+3. **Apply Plastic Patch:** A strip or patch of the same or compatible plastic material is placed over the joint or damaged area.
+    
+4. **Heat with Hot Air Gun:** A hot air gun is used to heat the patch and the surrounding plastic. The heat softens the plastic, including the patch and the parts to be joined.
+    
+5. **Compression:** Once the plastic has reached the appropriate temperature and consistency, pressure is applied to press the patch and the parts together, ensuring a solid bond.
+    
+6. **Cooling:** As the plastic cools, it solidifies, creating a strong and sealed connection between the parts.
 
 ![](https://youtu.be/l-zVPZjz4aM?list=LL)
 
