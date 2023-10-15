@@ -14,10 +14,8 @@
   "obsidian-doubleshift",
   "table-editor-obsidian",
   "dataview",
-  "page-gallery",
   "digitalgarden",
   "obsidian-timelines",
-  "cmdr",
   "obsidian-projects",
   "obsidian-reading-time",
   "obsidian-textgenerator-plugin",
@@ -25,7 +23,5 @@
   "dbfolder",
   "obsidian-tracker",
   "calendar",
-  "obsidian-excalidraw-plugin",
-  "obsidian-tts",
-  "obsidian-paste-as-html"
+  "obsidian-excalidraw-plugin"
 ]
