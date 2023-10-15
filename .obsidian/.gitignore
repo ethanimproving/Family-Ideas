@@ -11,29 +11,54 @@ plugins/digitalgarden/data.json
 # git update-index --skip-worktree .obsidian/plugins/digitalgarden/data.json
 # Remove completely
 # git rm --cached -r .obsidian/plugins/digitalgarden/data.json
-plugins/obsidian-multi-cursor
-plugins/templater-obsidian/main.js
-plugins/obsidian-textgenerator-plugin/main.js
 node_modules
 graph.json
 
 # Keep installed everywhere
 plugins/omnisearch
+
+#----- 2.5MB
 plugins/simple-embeds
+
 plugins/url-into-selection
+
+#----- 2.2MB
 plugins/dataview
+
 plugins/digitalgarden
 plugins/obsidian-git
 
-# Plugins to be installed manually on mobile (if more than 1mb)
+# ===== Plugins to be installed manually on mobile (if more than 1mb)
+
 plugins/calendar
 plugins/cooklang-obsidian
+
+#----- 3.4MB
 plugins/obsidian-excalidraw-plugin
+
+#----- 4.7MB
 plugins/obsidian-timelines
+
+#----- 1.4MB
 plugins/obsidian-tracker
 
 # Specific Plugins that aren't needed on mobile
-plugins/dbfolder
+#----- 90MB
+plugins/obsidian-multi-cursor
+
+#----- 8.4MB
+plugins/obsidian-textgenerator-plugin/main.js
+
+#----- 3.3MB git rm --cached -r .obsidian/plugins/dbfolder/main.js
+plugins/dbfolder/main.js
+
+#----- 2.7MB
+plugins/table-editor-obsidian/main.js
+
+#----- 2MB
+plugins/obsidian-projects/main.js
+
+plugins/highlightr-plugin
 plugins/obsidian-bible-reference
 plugins/obsidian-dictionary-plugin
 plugins/obsidian-doubleshift
@@ -41,20 +66,16 @@ plugins/obsidian-editor-shortcuts
 plugins/obsidian-excel-to-markdown-table
 plugins/obsidian-imgur-plugin
 plugins/obsidian-smarter-md-hotkeys
-plugins/obsidian-textgenerator-plugin
 plugins/obsidian-version-history-diff
-plugins/table-editor-obsidian
-plugins/highlightr-plugin
-plugins/obsidian-projects
 plugins/obsidian-reading-time
 
-# Uninstalled
-   # Commander
+# Uninstalled java -jar .idea/bfg-1.14.0.jar --delete-folders .obsidian\plugins\obsidian-day-planner .git
+    # Commander
 plugins/cmdr
 plugins/obsidian-day-planner
 plugins/cm-editor-syntax-highlight-obsidian
 plugins/obsidian-paste-as-html
-   # Text To Speech
+    # Text To Speech
 plugins/obsidian-tts
 plugins/page-gallery
 plugins/templater-obsidian

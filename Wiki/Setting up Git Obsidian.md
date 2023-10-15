@@ -114,6 +114,11 @@ git reflog expire --expire=now --all && git gc --prune=now --aggressive
 git push
 ```
 
+[Show folder size in Windows 10](https://www.4winkey.com/windows-10/how-to-show-view-folder-size-in-windows-10.html)
+
+![](https://i.imgur.com/RH0b2SV.png)
+
+
 Feb 18
 ```
  Filename                                   Git id
