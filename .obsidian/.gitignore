@@ -34,7 +34,7 @@ plugins/obsidian-tracker
 
 # Specific Plugins that aren't needed on mobile
 plugins/dbfolder
-plugins/obsidian-bible-reference/*
+plugins/obsidian-bible-reference
 plugins/obsidian-dictionary-plugin
 plugins/obsidian-doubleshift
 plugins/obsidian-editor-shortcuts
