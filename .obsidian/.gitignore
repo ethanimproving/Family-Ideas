@@ -16,3 +16,48 @@ plugins/templater-obsidian/main.js
 plugins/obsidian-textgenerator-plugin/main.js
 node_modules
 graph.json
+
+# Keep installed everywhere
+plugins/omnisearch
+plugins/simple-embeds
+plugins/url-into-selection
+plugins/dataview
+plugins/digitalgarden
+plugins/obsidian-git
+
+# Plugins to be installed manually on mobile (if more than 1mb)
+plugins/calendar
+plugins/cooklang-obsidian
+plugins/obsidian-excalidraw-plugin
+plugins/obsidian-timelines
+plugins/obsidian-tracker
+
+
+# Not Sure
+plugins/cm-editor-syntax-highlight-obsidian
+plugins/highlightr-plugin
+plugins/obsidian-projects
+plugins/obsidian-reading-time
+
+# Plugins with config data
+
+# Specific Plugins that aren't needed on mobile
+
+plugins/obsidian-bible-reference/*
+plugins/obsidian-day-planner
+plugins/obsidian-dictionary-plugin
+plugins/obsidian-doubleshift
+plugins/obsidian-editor-shortcuts
+plugins/cmdr
+plugins/dbfolder
+plugins/obsidian-excel-to-markdown-table
+plugins/obsidian-imgur-plugin
+plugins/obsidian-paste-as-html
+plugins/obsidian-smarter-md-hotkeys
+plugins/obsidian-textgenerator-plugin
+# Text To Speech
+plugins/obsidian-tts
+plugins/obsidian-version-history-diff
+plugins/page-gallery
+plugins/table-editor-obsidian
+plugins/templater-obsidian
