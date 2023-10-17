@@ -22,3 +22,6 @@ Then during gameplay, press the tilde key (`~`)  to insert a command. List of co
 9. [KSE 3.33 save editor](http://www.gamefront.com/files/9360661)
 10. Power Boost
 
+# Extra Starport Visas
+
+`giveitem pl_visa_sliced`
