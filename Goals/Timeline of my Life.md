@@ -8,14 +8,26 @@ dg-publish: true
 
 ```timeline-vis
 tags=personal
-startDate=2016,10
-endDate=2019,5
+startDate=2023,1
+endDate=2023,11
 minDate=1990
 maxDate=2030
 ```
 
 View YouTube History in the [Google Activity page](https://myactivity.google.com/product/youtube?hl=en).
 
+## Backlog
+
+I realize there is only enough [[Schedule|free time]] in the day to choose one large project at a time. I will focus on one agenda,
+
+- [ ] [[Buying A House|House]]
+- [ ] [[App Ideas|Unbound  preaching]]
+- [ ] Get married
+- [ ] Be a father
+- [ ] [[Nutrition Curriculum|Nutrition]] and [[Upper Lower Workout Routine|gym]]
+- [ ] Learn to [[He Keeps Me Singing|sing]]
+- [ ] Learn Spanish
+- [ ] Learn to dance
 # Relationship
 
 ```timeline-vis

@@ -75,3 +75,18 @@ https://www.amazon.com/TruSens-Purifier-Allergies-Bacteria-Compatible/dp/B08N6VW
 - [Buy from Apple App Store (free)](https://www.nytimes.com/wirecutter/out/link/47425/175529/4/136776?merchant=Apple%20App%20Store)
 - [Buy from Google Play (free)](https://www.nytimes.com/wirecutter/out/link/47425/175530/4/136776?merchant=Google%20Play)
 - [Buy from AirNow](https://www.nytimes.com/wirecutter/out/link/47425/175531/4/136776?merchant=AirNow)
+
+# Triggers
+
+## PM2.5
+
+### Cooking
+
+Today, I noticed an unusual reading on my uHoo sensor. While diffusing lavender essential oils, I was surprised to see an increase in PM2.5 levels. Initially, I thought this could be related to the essential oil. However, upon reflection, I realized that someone started cooking at the same time.
+
+Cooking activities, especially frying or sautéing, can release **fine cooking aerosols and particles** into the air, leading to elevated PM2.5 levels. It's likely that the spike in PM2.5 was due to cooking, not the essential oil.
+
+I'll continue monitoring the air quality and consider improving ventilation when cooking to maintain a healthier indoor environment.
+
+
+[Aerosols](https://www.cdc.gov/niosh/topics/aerosols/default.html#:~:text=Aerosols-,Aerosols,be%20manufactured%20or%20naturally%20occurring.): An aerosol may be defined as a suspension of particles or **droplets in the air** and includes **airborne dusts, mists, fumes or smoke**. Suspended particle sizes may range from a few nanometers to hundreds of micrometers in diameter and particles can be manufactured or naturally occurring.
