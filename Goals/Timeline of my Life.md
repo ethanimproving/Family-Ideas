@@ -68,6 +68,10 @@ minDate=1996
 maxDate=2030
 ```
 
+
+![[Journal Of Sickness]]
+
+
 ```dataview
 table start-date as Start_Date, end-date as End_Date
 from "Goals/Timeline Events"
