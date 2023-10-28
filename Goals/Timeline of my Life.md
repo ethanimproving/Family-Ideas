@@ -16,6 +16,8 @@ maxDate=2030
 
 View YouTube History in the [Google Activity page](https://myactivity.google.com/product/youtube?hl=en).
 
+[YouTube Transcripts Search Demo](https://www.youtube.com/watch?v=awmyhaFLXsQ)
+
 ## Backlog
 
 I realize there is only enough [[Schedule|free time]] in the day to choose one large project at a time. I will focus on one agenda,

@@ -16,6 +16,8 @@ Tags: #favorwithman
 
 # Retorts
 
+>  Not a snowball's chance in hell.
+
 >  “You do it all the time” “then I guess there should have been someone to tell me not to do it.”
 
 > “Why don't you go fishing, to restore your sense of human values.”

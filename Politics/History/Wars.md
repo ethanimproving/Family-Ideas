@@ -50,3 +50,5 @@
 [Palestinians are "Human Animals" (LIVE)](https://www.youtube.com/watch?v=hCAuRP8ZviM)
 
 [The Face of Absolute Evil](https://www.youtube.com/watch?v=U-b5ZOEcLOM)
+
+[The Israel Project | Crazy Love Ministries](https://www.youtube.com/watch?v=VAh1cKtEc8M)
