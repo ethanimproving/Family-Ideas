@@ -98,6 +98,9 @@ https://www.bcbstx.com/americanairlines
 
 This is the only plan eligible for an HSA, however I was planning to reimburse myself the $3,600 from Lasik anyway, so I may as well keep that money in the HSA, choose a low deductible plan, and include those HSA contributions into my personal account. This would surrender about $720 in taxes, so that plan is only worth it if I will save more than $720 by choosing a low deductible plan. The paycheck contributions only differ by close to $200, leaving another $520 needing to be saved out of pocket by selecting the [[#DFW ConnectedCare]] plan. However, since I only spend $408 on doctors in a year anyway, it isn't likely I would recover that money. Especially since Dr. Chestnut doesn't appear to be in Network.
 
+You are agreeing to close your UMB HSA and transfer your funds to a Fidelity HSA. (000707113)
+
+
 ### Plus Medical BCBS
 
 https://www.bcbstx.com/americanairlines/
