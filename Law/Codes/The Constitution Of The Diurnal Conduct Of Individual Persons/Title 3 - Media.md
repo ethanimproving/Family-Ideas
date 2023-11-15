@@ -6,6 +6,13 @@ author: Ethan Miller
 
 # Article 1: Movies
 
+> [!Bible] [Proverbs 4:24 - KJV](https://bible-api.com/proverbs+4:24?translation=kjv)
+> 24. Put away from thee a froward mouth, and perverse lips put far from thee.
+
+> [!Bible] [Ephesians 4:29 - KJV](https://bible-api.com/ephesians+4:29?translation=kjv)
+> 29. Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.
+
+
 # Article 2: Music
 
 # Article 3: Video Games
