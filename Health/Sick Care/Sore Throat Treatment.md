@@ -21,4 +21,5 @@ dg-publish: true
 
 1. [Zyrtec](https://www.cvs.com/shop/zyrtec-24-hour-allergy-tablets-with-cetirizine-hcl-travel-size-3-ct-prodid-2260176)
 2. Claritin
+3. [CofixRX Nasal Solution Povidone-Iodine](https://cofixrx.com/shopping/cofixrx-antiviral-nasal-solution/)
 
