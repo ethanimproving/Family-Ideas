@@ -6,6 +6,13 @@ author: Ethan Miller
 
 # Article 1: Physical Development
 
+## § 1. Nutrition
+
+**1.1** Recognizing the enduring impact of *early childhood nutrition*, as highlighted by the esteemed economist Bjorn Lomborg, parents are encouraged to prioritize investments in their children's nutritional well-being for a substantial and favorable return on the investment in their long-term development ([Jordan Peterson](https://www.youtube.com/shorts/B2Ab9-kxdWg)).
+
+> You can make people stupider by depriving them of nutrition when they're children. I mean, one of the things we know--and this is from Bjorn Lomborg's work, which I would really recommend--Lomborg has put together a team of economists to rank order problems in the world by return on investment in solving them. So, you imagine, you know, maybe there's a hundred problems that beset the world, from starvation to lack of water to lack of sanitary facilities to lack of education to tyrannical governance. Well, you can continue the list in your own imagination. What Lomborg did was consult very high-level economists who were put in teams to find out where you get the biggest return for your foreign policy dollar over, you know, a reasonable stretch of time. And it's clearly the case that if you invest in early childhood nutrition, that pays off at about 250 to 1. ~ Jordan Peterson
+
+
 ## § 3. Financial Provisioning
 
 **3.1** Parents shall provide financial compensation to their children upon hiring them, not exceeding $12,000 per annum, with the option to allocate $6,500 into a Roth IRA and $5,500 into a high-yield savings account ([Preston Seo](https://twitter.com/thelegacyinvest/status/1681750978020913152)). 
@@ -34,7 +41,7 @@ In the spirit of upholding these venerable principles, the act of immunization s
 
 [[Vaccinations|Vaccines]] work by introducing the disease to the child, so the child can build an immunity to it. However, the controversy surrounding vaccinations make me more weary of the permanent side effects of injections than the acute protection they provide.
 
-My brother developed allergies after taking vaccines mandated by GISD for his job, after 27 years of never having allergies before. This evidence, among other similar testimonies, are more convincing than the publications of scientists who's grants are provided by Big Pharma. 
+My brother developed allergies after taking vaccines mandated by GISD for his job, after 27 years of never having allergies before. This evidence, among other similar testimonies, are more convincing than the obfuscated publications of scientists who's grants are provided by Big Pharma. 
 
 **5.2** External entities, including educational institutions or employers, are prohibited from interfering with the household's mandate to prioritize pathogen avoidance within the family unit.
 
@@ -52,7 +59,30 @@ My brother developed allergies after taking vaccines mandated by GISD for his jo
 
 **2.2** Parents are enjoined to create and maintain Islands of Predictability in the upbringing of their progeny ([Jordan B. Peterson](https://www.youtube.com/shorts/AipEwfLJ5CU)).
 
+## § 3. Presence
+
+**3.1** Be especially present for your kids when they're between 0-5 ([Jordan Peterson](https://www.facebook.com/reel/496858689029641)).
+
+**3.2** Remind your kids that you love them no matter what ([Maria Riza L. Dagpin](https://www.facebook.com/reel/665006001645022)).
+
+**3.3** It has been said that your love language is based off of what you didn’t receive as a child ([Eric Zink](https://www.facebook.com/reel/884438926083431)). Love your kids in all 5 ways:
+
+1. Quality time
+2. Words of Affirmation
+3. Physical touch
+4. Acts of service
+5. Giving gifts
+
+**3.4** Parents recognize being tired is a normal part of parenting ([Perez Hilton](https://www.facebook.com/reel/683740909772581)).
+
+**3.5** Parents will be diligent to introduce children to a range of "similar topics" and experiences to facilitate easy conversations with peers ([Steven Dux](https://fb.watch/hb2mH0Obd9/?mibextid=v7YzmG)).
+
+
 # Article 3: Social Development
+
+## § 5. Innocence
+
+**5.1** Daughters are not allowed to go traveling by themselves. they will be privy to the reality of life, that men will create an opportunity to take advantage of them ([Andrew Tate](https://www.youtube.com/shorts/0zrERSeUBIQ)).
 
 # Article 4: Spiritual Development
 
@@ -72,3 +102,13 @@ See [[Life's Goals]]
 > 4. Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel:
 > 5. And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel.
 > 6. And he said unto me, ==Solomon thy son, he shall build my house and my courts: for I have chosen him== to be my son, and I will be his father.
+
+# Article 5: Skills
+
+## § 3. Online Media
+
+**3.1** Awake to the alternatives of making money in 2020. What happens if everyone is a YouTuber? There is still plenty of stuff being made. The problem is distribution of goods, not production of goods ([Gary Vaynerchuk](https://www.facebook.com/reel/704060011334950)).
+
+## § 4. Sports
+
+**4.1** Father will teach sons how to throw a basketball ([r2bball](https://www.facebook.com/reel/566429665239758)).
