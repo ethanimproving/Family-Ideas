@@ -12,6 +12,32 @@ author: Ethan Miller
 
 **3.2** A weekly allowance will be given by commission of daily chores and tasks completed at Parent's discretion ([Dave Ramsay](https://www.youtube.com/watch?v=eN73ANzGJvU)).
 
+## § 4. Safety
+
+**4.1** Parents shall undertake reasonable measures to mitigate risks associated with the leading causes of death and health-related issues affecting children within their care ([Neil deGrasse Tyson](https://www.youtube.com/shorts/beq7hcmtMzk)).
+
+**4.2** The leading causes of death and health-related issues shall be periodically identified and updated by relevant health authorities or governmental agencies.
+
+**4.3** Parents shall ensure compliance with recommended screenings and health examinations as advised by healthcare professionals and relevant public health authorities.
+
+**4.4** Parents are obliged to implement safety measures, including but not limited to childproofing the home environment, ensuring appropriate use of safety equipment, and promoting awareness of potential hazards.
+
+**4.5** Parents shall actively seek and disseminate information regarding nutrition, physical activity, mental health, and other relevant aspects contributing to overall well-being.
+
+## § 5. Vaccinations
+
+**5.1** In adherence to the enduring principles of familial autonomy and personal liberties, parents are hereby proscribed from compelling the administration of vaccinations upon their children. This inhibition arises from the conviction that purposefully introducing pathogens stands in stark contravention to the hallowed tenets of biblical precedence, specifically those venerating cleanliness and the avoidance of pathogens.
+
+In accordance with the sacred scriptures—Haggai 2:13, Job 14:4, Leviticus 15:13—we are reminded of the divine injunction to refrain from contact with impure entities, including deceased creatures, blood, bodily fluids, diseases, and all that has been tainted by such elements.
+
+In the spirit of upholding these venerable principles, the act of immunization stands in opposition to the holistic concept of health and well-being. This contravention arises from the introduction of fluids laden with viruses, animal constituents, deleterious substances, or those derived from the remains of aborted infants.
+
+[[Vaccinations|Vaccines]] work by introducing the disease to the child, so the child can build an immunity to it. However, the controversy surrounding vaccinations make me more weary of the permanent side effects of injections than the acute protection they provide.
+
+My brother developed allergies after taking vaccines mandated by GISD for his job, after 27 years of never having allergies before. This evidence, among other similar testimonies, are more convincing than the publications of scientists who's grants are provided by Big Pharma. 
+
+**5.2** External entities, including educational institutions or employers, are prohibited from interfering with the household's mandate to prioritize pathogen avoidance within the family unit.
+
 # Article 2: Psychological Development
 
 ## § 1. Education
