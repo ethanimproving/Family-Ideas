@@ -28,4 +28,5 @@ dg-created: Nov 20, 2023, 1:45 PM
 7. New Doors
 8. Attic Stairs
 9. [[Under Desk Treadmill|Treadmill for Standing Desk]]
+10. [Smart Outlet](https://www.amazon.com/Ceiling-Control-Treatlife-Assistant-Schedule/dp/B086PSPP4X/ref=zg_bs_g_5486416011_sccl_10/145-8733802-5374503?psc=1) ($61 for 2)
 
