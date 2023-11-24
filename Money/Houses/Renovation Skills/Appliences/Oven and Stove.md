@@ -3,3 +3,7 @@
 
 ![](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6491/6491829_sd.jpg;maxHeight=2000;maxWidth=2000)
 
+Requirements:
+- Induction
+- Burner temperature control (?)
+- Double Oven to avoid toaster oven (?)
