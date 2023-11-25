@@ -19,16 +19,20 @@ dg-created: Nov 20, 2023, 1:45 PM
 
 ## Things that would be nice
 
-1. [[Soap Dispenser]]
-2. [[Paper Towel Pump]]
+1. ~~[[Soap Dispenser]] (70)~~
+2. ~~[[Paper Towel Pump]] (49)~~
 3. [[Standing Desk]]
-4. [[Vacuum]] / [[Vacuum Robot]]
-5. [[Air Purifier]]
+4. [[Vacuum]] (649.99) / [[Vacuum Robot]]
+5. [[Air Purifier]] (549.99)
 6. Electric Fireplace
 7. New Doors
 8. Attic Stairs
 9. [[Under Desk Treadmill|Treadmill for Standing Desk]]
-10. [Smart Outlet](https://www.amazon.com/Ceiling-Control-Treatlife-Assistant-Schedule/dp/B086PSPP4X/ref=zg_bs_g_5486416011_sccl_10/145-8733802-5374503?psc=1) ($61 for 2)
+10. [Smart Switches](https://www.amazon.com/Ceiling-Control-Treatlife-Assistant-Schedule/dp/B086PSPP4X/ref=zg_bs_g_5486416011_sccl_10/145-8733802-5374503?psc=1) ($61 for 2)
+11. [[Echo Show 5|Echo Show]]
+	- [ ] [Echo Show 10 (3rd Gen)](https://www.amazon.com/echo-show-10/dp/B07VHZ41L8/ref=sr_1_2) (159.99)
+	- [ ] [Echo Show 5 (3rd Gen, 2023 release)](https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK/ref=sr_1_1) (39.99, no SmartHub)
+	- [ ] [Echo Show 8 (2nd Gen, 2021 release)](https://www.amazon.com/Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=sr_1_6) (54.99)
 
 # Bundle Deals / Appliance Packages
 

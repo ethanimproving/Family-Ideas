@@ -6,6 +6,76 @@ cost: $1000
 tags: [oakmore]
 ---
 
+# How Many Cameras Do I Need?
+
+## 4 Outdoor
+1. Front door (Doorbell)
+2. Back door
+3. Garage Door (With light)
+4. Back Yard
+
+## 4 Indoor
+1. Living Room
+2. Master Room (4K)
+3. Sun Room
+4. Garage
+
+
+
+## SD Cards
+[SanDisk MicroSD Cards (128GB)](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7BK27V/ref=sr_1_4) @ $15
+
+$$$15 * 8 = $120$$
+
+# Wyze Bundle
+
+Cost: $285
+
+![](https://i.imgur.com/c4k4FIR.png)
+
+# Blink Bundle
+
+Cost: $265
+
+No 4k cam, but you save about $120 by eliminating SD cards compared to Wyze. I do like the Sync Module. I'm going to say Wyze is the winner on this because of the choppy 10 second clips you get with Blink.
+
+| Model | Price |
+|--------------------------------------------------|----------|
+| [Blink Mini – 3 cameras (White)](https://www.amazon.com/gp/product/B08PBR83NM/ref=ewc_pr_img_3?smid=ATVPDKIKX0DER&psc=1)                   | $39.98   |
+| [Blink Video Doorbell + Sync Module 2 (Black)](https://www.amazon.com/gp/product/B08SGC46M9/ref=ewc_pr_img_2?smid=ATVPDKIKX0DER&psc=1)     | $47.49   |
+| [Blink Wired Floodlight Camera – 1 camera (White)](https://www.amazon.com/gp/product/B0B5VLCL1N/ref=ewc_pr_img_4?smid=ATVPDKIKX0DER&psc=1) | $49.99   |
+| [Blink Outdoor 4 (4th Gen) – 3 camera system](https://www.amazon.com/gp/product/B0B1N5FK48/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&psc=1)      | $107.99  |
+| Estimated tax to be collected:                   | $20.25   |
+| Total                                            | ==$265.70==  |
+
+
+![](https://i.imgur.com/FmvHx2Q.png)
+
+
+
+[Sync Module For Local Storage](https://www.youtube.com/watch?v=fohbNdMY8eg)
+[Amazon Deals](https://www.amazon.com/stores/page/E8294351-B2EE-441B-A95E-4D8683E40267)
+[Blink](https://blinkforhome.com/)
+
+# Arlo Bundle
+
+| Model                                                    | List Price | Sale Price |
+|----------------------------------------------------------|------------|------------|
+| [Arlo Wired Video Doorbell - White](https://www.arlo.com/en-us/doorbell/AVD1001-100NAS.html)                        | $129.99    | 79.99      |
+| [Pro 3 Floodlight Camera, White](https://www.arlo.com/en-us/light/arlo-pro-3-floodlight-camera.html)                           | $249.99    | 169.99     |
+| [Arlo Essential Indoor Security Camera - 3 cameras, white](https://www.arlo.com/en-us/bundles/essential-indoor-3-cam-w.html) | $299.97    | 179.97     |
+| [Arlo Pro 4 Spotlight Camera - 3 Kits, White](https://www.arlo.com/en-us/cameras/VMC4350P-100NAS.html)               | $599.97    | 419.97     |
+| [Arlo Pro Smart Hub](https://www.arlo.com/en-us/accessories/VMB4540-100NAS.html)                                       | $99.99     | 99.99      |
+| Bundle Builder Savings                                   |            | -212.48    |
+| Total                                                    | $1,379.91  | ==$737.43==    |
+
+
+![](https://i.imgur.com/ox1Kv2q.png)
+
+
+[Arlo Camera Plans Explained: Do You Need a Subscription?](https://www.youtube.com/watch?v=KTp8lb2iE6w)
+[Arlo Pro adding external storage and accessing it via laptop](https://www.youtube.com/watch?v=Rs1aTyZnPHE)
+
 # Best Brands
 
 There are several highly regarded security systems available for home protection. The "best" security system will depend on your specific needs, budget, and preferences. Here are some of the top security systems in the market:
