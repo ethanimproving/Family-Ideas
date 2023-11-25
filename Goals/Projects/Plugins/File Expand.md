@@ -1,0 +1,1 @@
+- [ ] Collapse and Expand Files like Slack does.

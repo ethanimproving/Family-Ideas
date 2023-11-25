@@ -34,6 +34,9 @@ dg-created: Nov 20, 2023, 1:45 PM
 	- [ ] ~~[Echo Show 5 (3rd Gen, 2023 release)](https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK/ref=sr_1_1) (39.99, no SmartHub)~~
 	- [x] [Echo Show 8 (2nd Gen, 2021 release)](https://www.amazon.com/Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=sr_1_6) (54.99)
 12. ~~[[Security Cameras]]~~
+13. Air Compressor Gun
+14. Water Filter
+15. Sprinkler System
 
 # Treadmill
 
@@ -229,3 +232,99 @@ The smart fridge's are $9,000, and the Washer/Dryer unit isn't eligable for the 
 
 [Save $700 on this GE combined washer and dryer](https://www.bestbuy.com/site/conditional-offers/ge-profile-allinone-promotion/pcmcat1697665814669.c?id=pcmcat1697665814669)
 [Save Extra $200 At Lowes](https://www.lowes.com/pd/GE-Profile-4-8-cu-ft-Capacity-Carbon-Graphite-Ventless-All-in-One-Washer-Dryer-Steam-Cycle-ENERGY-STAR/5014255941)
+
+
+# Items for New House
+
+1. **Kitchen Appliances:**
+   - [x] Refrigerator
+   - [x] Oven/stove
+   - [x] Dishwasher
+   - [c] ~~Microwave~~
+
+2. **Laundry Appliances:**
+   - [x] Washer/Dryer
+
+3. **Heating and Cooling:**
+   - [b] HVAC system (heating, ventilation, and air conditioning)
+
+4. **Water-related Items:**
+   - [b] Water heater
+   - [?] Water softener (if needed)
+   - [ ] Water filter system (for drinking water)
+
+5. **Lighting:**
+   - [x] Ceiling fans
+   - [ ] Light fixtures
+
+6. **Window Treatments:**
+   - [ ] Curtains or blinds for privacy
+
+7. **Furniture:**
+   - [ ] Consider any furniture you may need for different rooms.
+
+8. **Bedding and Linens:**
+   - [ ] Bedsheets, pillows, comforters, towels, etc.
+
+9. **Storage Solutions:**
+   - [ ] Cabinets, shelves, or storage units
+
+10. **Home Security:**
+    - [ ] Alarm system
+    - [x] Security cameras
+
+11. **Tools:**
+    - [ ] Basic toolkit for home repairs
+
+12. **Landscaping and Outdoor:**
+    - [ ] Lawn mower
+    - [x] Gardening tools
+    - [c] ~~Outdoor furniture~~
+
+13. **Cleaning Supplies:**
+    - [ ] Broom, mop, vacuum cleaner, cleaning agents, etc.
+
+14. **Safety Equipment:**
+    - [ ] Fire extinguishers
+    - [ ] Smoke detectors
+    - [x] Carbon monoxide detectors
+
+15. **Basic Home Essentials:**
+    - [ ] Trash cans
+
+16. **Home Décor:**
+    - [ ] Rugs, wall art, and other decorative items
+
+17. **Appliance Accessories:**
+    - [<] Pots and pans for the stove
+    - [ ] Utensils
+    - [x] Plates, glasses, and silverware
+    - [x] Small kitchen appliances (e.g., toaster, blender)
+
+18. **Home Maintenance Supplies:**
+    - [x] Air filters for HVAC system
+    - [x] Light bulbs
+    - [ ] Batteries
+
+19. **Technology and Entertainment:**
+    - [<] TV and entertainment system
+    - [x] Internet router
+
+20. **Personal Care Items:**
+    - [ ] Shower curtains
+    - [ ] Bathroom essentials (toilet paper, soap, etc.)
+
+21. **Pets:**
+    - [c] ~~If you have pets, consider their needs (pet food, beds, etc.).~~
+
+22. **Home Office Equipment:**
+    - [x] If you work from home, consider office furniture and equipment.
+
+23. **Emergency Preparedness:**
+    - [ ] First aid kit
+    - [ ] Emergency flashlight
+
+24. **Miscellaneous:**
+    - [ ] Door mats
+    - [x] Hangers for clothes
+    - [ ] Trash bags

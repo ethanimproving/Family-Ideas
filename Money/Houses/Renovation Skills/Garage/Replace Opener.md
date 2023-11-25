@@ -1,1 +1,0 @@
-Genie is bad. Get a **lift master** or **chamberlain** at Lowe’s or Home Depot.
