@@ -1,6 +1,6 @@
 # Bed
 
-[Monroe II Upholstered Queen Bed, Created for Macy's](https://www.macys.com/shop/product/monroe-ii-upholstered-queen-bed-created-for-macys?ID=5343213)
+[Monroe II Upholstered Queen Bed, Created for Macy's](https://www.macys.com/shop/product/monroe-ii-upholstered-queen-bed-created-for-macys?ID=5343213) ($300)
 [Lacey Gray Uph Platform Bed](https://www.cityfurniture.com/product/9716527/lacey-gray-uph-platform-bed)
 
 ![](https://slimages.macysassets.com/is/image/MCY/products/8/optimized/9098078_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp)

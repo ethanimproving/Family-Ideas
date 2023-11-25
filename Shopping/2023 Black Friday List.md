@@ -71,6 +71,42 @@ dg-created: Nov 20, 2023, 1:45 PM
 | 10 mph (6 min mile)                    | 944    | 1126   | 1308   | 1489   |
 | 10.9 mph (5.5 min mile)                | 1062   | 1267   | 1471   | 1675   |
 
+# King Size Bed
+
+[Monroe II Upholstered California King Bed, Created for Macy's](https://www.macys.com/shop/product/monroe-ii-upholstered-california-king-bed-created-for-macys) ($320)
+
+![](https://slimages.macysassets.com/is/image/MCY/products/0/optimized/25651540_fpx.tif?op_sharpen=1&wid=1200&fit=fit,1&$filtersm$&fmt=webp)
+
+# Dresser
+
+[Mcinerney 6 - Drawer Dresser](https://www.wayfair.com/furniture/pdp/wade-logan-mcinerney-6-drawer-55-w-dresser-with-mirror-w004143959.html?piid=2035537607)
+List Price: $1,882.50
+Sale: $999.99
+
+![Mcinerney+6+-+Drawer+Dresser](https://secure.img1-cg.wfcdn.com/im/11891008/resize-h1600-w1600%5Ecompr-r85/1811/181178074/Mcinerney+6+-+Drawer+Dresser.jpg)
+
+
+# Nightstand
+
+[Mcinerney Solid + Manufactured Wood Nightstand](https://www.wayfair.com/furniture/pdp/wade-logan-mcinerney-2-drawer-nightstand-w004143357.html)
+List Price: $527.50
+Sale: $309.99
+
+ ![Mcinerney+Solid+++Manufactured+Wood+Nightstand](https://secure.img1-cg.wfcdn.com/im/14691370/resize-h600-w600%5Ecompr-r85/1842/184250122/Mcinerney+Solid+%2B+Manufactured+Wood+Nightstand.jpg)
+
+[Manningtree Manufactured Wood Nightstand](https://www.wayfair.com/furniture/pdp/wade-logan-manningtree-2-drawer-nightstand-w000404703.html)
+List Price: $113.19
+Sale: $91.99
+
+ ![Manningtree+Manufactured+Wood+Nightstand](https://secure.img1-cg.wfcdn.com/im/67546131/resize-h600-w600%5Ecompr-r85/2161/216138218/Manningtree+Manufactured+Wood+Nightstand.jpg)
+
+# Gym Shoes
+
+| Shoe                                                                                                                              | Price   |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Nike Metcon 7](https://www.dickssportinggoods.com/p/nike-mens-metcon-7-training-shoes-21nikmmtcn7blkwhtprf/21nikmmtcn7blkwhtprf) | $120    |
+| [On Cloudswift](https://www.on-running.com/en-us/products/cloudswift/mens/all-white)                                              | $119.99 |
+
 # Bundle Deals / Appliance Packages
 
 ## Samsung
@@ -128,8 +164,6 @@ on purchases of $1,999 or more with your Lowe’s Advantage Card made now throug
 
 - [Compression Inlet](https://www.lowes.com/pd/EASTMAN-6-ft-L-3-8-in-Compression-Inlet-x-3-4-in-Outlet-Braided-Stainless-Steel-Dishwasher-Connector/1001315232)
 - [Appliance Power Cord](https://www.lowes.com/pd/Utilitech-6-ft-3-Prong-Gray-Range-Appliance-Power-Cord/1018183)
-
-
 
 ## Best Buy
 
