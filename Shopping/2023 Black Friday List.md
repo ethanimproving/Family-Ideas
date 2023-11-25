@@ -27,12 +27,49 @@ dg-created: Nov 20, 2023, 1:45 PM
 6. Electric Fireplace
 7. New Doors
 8. Attic Stairs
-9. [[Under Desk Treadmill|Treadmill for Standing Desk]]
+9. ~~[[Under Desk Treadmill|Treadmill for Standing Desk]]~~
 10. [Smart Switches](https://www.amazon.com/Ceiling-Control-Treatlife-Assistant-Schedule/dp/B086PSPP4X/ref=zg_bs_g_5486416011_sccl_10/145-8733802-5374503?psc=1) ($61 for 2)
-11. [[Echo Show 5|Echo Show]]
-	- [ ] [Echo Show 10 (3rd Gen)](https://www.amazon.com/echo-show-10/dp/B07VHZ41L8/ref=sr_1_2) (159.99)
-	- [ ] [Echo Show 5 (3rd Gen, 2023 release)](https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK/ref=sr_1_1) (39.99, no SmartHub)
-	- [ ] [Echo Show 8 (2nd Gen, 2021 release)](https://www.amazon.com/Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=sr_1_6) (54.99)
+11. ~~[[Echo Show 5|Echo Show]]~~
+	- [ ] ~~[Echo Show 10 (3rd Gen)](https://www.amazon.com/echo-show-10/dp/B07VHZ41L8/ref=sr_1_2) (159.99)~~
+	- [ ] ~~[Echo Show 5 (3rd Gen, 2023 release)](https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK/ref=sr_1_1) (39.99, no SmartHub)~~
+	- [x] [Echo Show 8 (2nd Gen, 2021 release)](https://www.amazon.com/Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=sr_1_6) (54.99)
+12. ~~[[Security Cameras]]~~
+
+# Treadmill
+
+| Model                                                                                                                                                      | List Price | Average Price | Sale Price | Discount | Rating      | Max Speed |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------- | ---------- | -------- | ----------- | --------- |
+| [UREVO](https://www.amazon.com/UREVO-Treadmill-Walking-Portable-Capacity/dp/B0BVQMSVM1/ref=zg_bs_g_3407831_sccl_4/134-3562437-0686944?th=1&psc=1)          | ~~$330~~   | $258          | ==$200==   | 22%      | 4.6 (2,046) | 4MPH          |
+| [Elseluck](https://www.amazon.com/Elseluck-Walking-Treadmill-Portable-Control/dp/B0CB35LVMG/ref=zg_bs_g_3407831_sccl_2/134-3562437-0686944?psc=1)          | ~~$250~~   | $187          | $165       | 12%      | 4.4 (290)   | 3.8MPH    |
+| [REDLIRO](https://www.amazon.com/REDLIRO-Walking-Treadmill-Motorized-Portable/dp/B0BPYGWK62?ref_=ast_sto_dp&th=1)                                          | ~~$390~~   | $268          | $224       | 16%      | 4.5 (108)   | 3.8MPH    |
+| [REDLIRO](https://www.amazon.com/REDLIRO-Treadmill-Portable-Motorized-Electric/dp/B091YJJ384/ref=sxin_17_pa_sp_search_thematic_sspa?th=1)                  | ~~$470~~   | $363          | $270       | 26%      | 4.4 (2,633  | ==7.5MPH==    |
+| [Sperax](https://www.amazon.com/Sperax-Walking-Treadmill-Treadmills-Capacity/dp/B0C48GQJNC/ref=zg_bs_g_3407831_sccl_1/134-3562437-0686944?th=1)            | ~~$300~~   | $260          | $200       | 23%      | 4.4 (1,412) | 4MPH      |
+| [Redliro](https://www.amazon.com/Redliro-Treadmill-Portable-Bluetooth-Installation-Free/dp/B0BV2DZJ9V/ref=zg_bs_g_3407831_sccl_7/134-3562437-0686944?th=1) | ~~$360~~   | $254          | $200       | 21%      | 4.5 (635)   | 4MPH      |
+
+## Calories Burned Per Hour
+
+| Speed                                  | 130 lb | 155 lb | 180 lb | 205 lb |
+|----------------------------------------|--------|--------|--------|--------|
+| <2.0 mph, very slow                    | 118    | 141    | 163    | 186    |
+| 2.0 mph, slow                          | 148    | 176    | 204    | 233    |
+| 2.5 mph                                | 177    | 211    | 245    | 279    |
+| 3.0 mph, moderate                      | 195    | 232    | 270    | 307    |
+| 3.5 mph, brisk pace                    | 224    | 267    | 311    | 354    |
+| 3.5 mph, uphill                        | 354    | 422    | 490    | 558    |
+| 4.0 mph, very brisk                    | 295    | ==352==    | 409    | 465    |
+| 4.5 mph                               | 372    | 443    | 515    | 586    |
+| 5.0 mph                               | 472    | 563    | 654    | 745    |
+| 5 mph (12 min mile)                    | 472    | 563    | 654    | 745    |
+| 5.2 mph (11.5 min mile)                | 531    | 633    | 735    | 838    |
+| 6 mph (10 min mile)                    | 590    | 704    | 817    | 931    |
+| 6.7 mph (9 min mile)                   | 649    | 774    | 899    | 1024   |
+| 7 mph (8.5 min mile)                    | 679    | 809    | 940    | 1070   |
+| 7.5 mph (8 min mile)                   | 738    | ==880==    | 1022   | 1163   |
+| 8 mph (7.5 min mile)                    | 797    | 950    | 1103   | 1256   |
+| 8.6 mph (7 min mile)                   | 826    | 985    | 1144   | 1303   |
+| 9 mph (6.5 min mile)                    | 885    | 1056   | 1226   | 1396   |
+| 10 mph (6 min mile)                    | 944    | 1126   | 1308   | 1489   |
+| 10.9 mph (5.5 min mile)                | 1062   | 1267   | 1471   | 1675   |
 
 # Bundle Deals / Appliance Packages
 

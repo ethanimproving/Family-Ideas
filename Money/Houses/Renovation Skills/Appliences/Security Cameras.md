@@ -20,8 +20,6 @@ tags: [oakmore]
 3. Sun Room
 4. Garage
 
-
-
 ## SD Cards
 [SanDisk MicroSD Cards (128GB)](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7BK27V/ref=sr_1_4) @ $15
 
@@ -31,13 +29,15 @@ $$$15 * 8 = $120$$
 
 Cost: $285
 
+Wyze cameras are attractive because they seam to be the more popular compared to blink, cheaper compared to Arlo. The downside is that with an SD card, the only recording option available is a continuous stream, so you have to find out where the events are. The upside is that if you want to record a time-lapse, or work on the yard, you don't wave to piece the videos together.
+
 ![](https://i.imgur.com/c4k4FIR.png)
 
 # Blink Bundle
 
 Cost: $265
 
-No 4k cam, but you save about $120 by eliminating SD cards compared to Wyze. I do like the Sync Module. I'm going to say Wyze is the winner on this because of the choppy 10 second clips you get with Blink.
+No 4k cam, but you save about $120 by eliminating SD cards compared to Wyze. ==I do like the Sync Module.== I'm going to say Wyze is the winner on this because of the choppy 10 second clips you get with Blink.
 
 | Model | Price |
 |--------------------------------------------------|----------|
@@ -75,7 +75,62 @@ No 4k cam, but you save about $120 by eliminating SD cards compared to Wyze. I d
 
 [Arlo Camera Plans Explained: Do You Need a Subscription?](https://www.youtube.com/watch?v=KTp8lb2iE6w)
 [Arlo Pro adding external storage and accessing it via laptop](https://www.youtube.com/watch?v=Rs1aTyZnPHE)
+# ~~Eufy~~
 
+Too expensive.
+
+| Product                                        | Sale Price | Original Price |
+|------------------------------------------------|----------------|------------|
+| [eufyCam S330 (eufyCam 3) 4-Cam Kit](https://us.eufy.com/products/t88731w1)             | $529.99        | $989.99    |
+| eufyCam S330 (eufyCam 3) + 1 TB Hard Drive     | $409.99        | $629.99    |
+| [Floodlight Camera E340](https://us.eufy.com/products/t8425121)                         | $169.99        | $219.99    |
+| Indoor Cam S350                                | $99.99         | $129.99    |
+| [Video Doorbell E340 (Battery Powered)](https://us.eufy.com/products/t8214111)          | $125.99        | $179.99    |
+| Solar Wall Light Cam S120                      | $69.99         | $99.99     |
+| eufyCam E330 (Professional) 4-Cam Kit          | $469.99        | $599.99    |
+| Video Smart Lock S330 + Rechargeable Battery   | $304.99        | $409.99    |
+| SoloCam S220                                   | $69.99         | $129.99    |
+| Floodlight Cam S330                            | $189.99        | $299.99    |
+| Wired Wall Light Cam S100 (2-Cam Pack)         | $179.98        | $299.98    |
+| eufyCam S300 (eufyCam 3C) + 1 TB Hard Drive    | $299.99        | $549.99    |
+| eufy Permanent Outdoor Light E120              | $199.99        | $299.99    |
+| SoloCam S230 (S40)                             | $99.99         | $199.99    |
+| Dual Camera Bundle + HomeBase S380             | $655.99        | $879.99    |
+| eufyCam S300 (eufyCam 3C) 3-Cam Kit+1 TB Drive | $449.99        | $729.99    |
+
+# ~~Ring~~
+
+Ring is too dang expensive too.
+
+| Product                                                                      | Original Price | Sale Price |
+|-----------------------------------------------------------------------------|----------------|------------|
+| [Stick Up Cam Battery](https://ring.com/products/stick-up-security-camera-battery)                                                        | $59.99         | $99.99     |
+| Stick Up Cam Plug-In                                                        | $59.99         | $99.99     |
+| [Stick Up Cam Plug-In with Pan-Tilt](https://ring.com/products/stick-up-cam-plug-in-with-pan-tilt-mount)                                          | $79.99         | $129.99    |
+| [Indoor Cam, 2nd Gen Plug-In](https://ring.com/products/mini-indoor-security-camera-plug-in)                                                 | $29.99         | $59.99     |
+| Spotlight Cam Plus Battery                                                  | $119.99        | $169.99    |
+| Spotlight Cam Plus Plug-In                                                  | $119.99        | $169.99    |
+| Spotlight Cam Pro Battery                                                   | $179.99        | $229.99    |
+| Spotlight Cam Pro Plug-In                                                   | $179.99        | $229.99    |
+| Floodlight Cam Wired Plus                                                   | $119.99        | $199.99    |
+| Floodlight Cam Wired Pro                                                    | $199.99        | $249.99    |
+| Video Doorbell 2nd Generation                                               | $54.99         | $99.99     |
+| Video Doorbell Pro                                                          | $99.99         | $169.99    |
+| Battery Doorbell Plus Video Doorbell                                        | $119.99        | $179.99    |
+| Video Doorbell Pro 2                                                        | $149.99        | $249.99    |
+| Security Essentials Bundle                                                  | $79.99         | $139.99    |
+| Connected Basic Kit (Video Doorbell + Stick Up Cam Battery)                 | $99.99         | $179.99    |
+| Connected Enhanced Kit (Battery Doorbell Plus + Spotlight Cam Plus Battery) | $219.99        | $299.99    |
+| [Video Doorbell Pro 2 + Floodlight Cam Wired Plus](https://ring.com/products/video-doorbell-pro-2-floodlight-cam-wired-plus-bundle)                            | $249.99        | $399.99    |
+| 2-Pack Alarm Window and Door Contact Sensor (Certified Refurbished)         | $16.99         | $33.99     |
+| Video Doorbell Pro (Certified Refurbished)                                  | $79.99         | $139.99    |
+| [Video Doorbell 3 Plus](https://ring.com/products/video-doorbell-3-plus-certified-refurbished) (Certified Refurbished)                               | $99.99         | $179.99    |
+| Video Doorbell Pro 2 (Certified Refurbished)                                | $109.99        | $219.99    |
+| Alarm Security Kit, 5-Piece (Certified Refurbished)                         | $89.99         | $174.99    |
+| Alarm Security Kit, 7-Piece (Certified Refurbished)                         | $104.99        | $199.99    |
+| Alarm Security Kit, 9-Piece (Certified Refurbished)                         | $119.99        | $224.99    |
+
+$$(3 x 30) + (3 x 60) + 250 = 520$$
 # Best Brands
 
 There are several highly regarded security systems available for home protection. The "best" security system will depend on your specific needs, budget, and preferences. Here are some of the top security systems in the market:
