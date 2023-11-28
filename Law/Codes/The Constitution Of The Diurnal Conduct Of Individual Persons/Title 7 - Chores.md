@@ -71,7 +71,6 @@ Tasks will be assigned every week in a Kanban task board. Team members will move
 **4.3** Deep clean carpets or rugs.
 
 **4.4** Perform washing machine maintenance, including cleaning and descaling.
-
 ## § 5. Seasonal Tasks
 
 **5.1** Rake leaves and clear debris in the fall.
@@ -80,6 +79,9 @@ Tasks will be assigned every week in a Kanban task board. Team members will move
 
 **5.3** Mow the lawn from Spring to Fall.
 
+**5.4** Turn off the hose water supply and apply [hard outdoor faucet covers](https://www.homedepot.com/p/Hard-Outdoor-Faucet-Cover-1981/204759083) to any wall-mounted faucets annually before the first frost or when temperatures are expected to drop below freezing. (Not needed if all the plumbing is below the frost line.)
+
+**5.5** Apply a [Sock Faucet Cover](https://www.homedepot.com/p/Frost-King-2-1-4-in-Sock-Faucet-Cover-FC3/203221860) to any ground-level faucets.
 ## § 6. Bi-monthly
 
 **6.1** Perform vehicle interior cleaning, including vacuuming, at least bi-monthly or more frequently for heavily used vehicles.
