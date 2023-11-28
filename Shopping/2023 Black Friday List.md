@@ -34,7 +34,7 @@ dg-created: Nov 20, 2023, 1:45 PM
 	- [ ] ~~[Echo Show 5 (3rd Gen, 2023 release)](https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK/ref=sr_1_1) (39.99, no SmartHub)~~
 	- [x] [Echo Show 8 (2nd Gen, 2021 release)](https://www.amazon.com/Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=sr_1_6) (54.99)
 12. ~~[[Security Cameras]]~~
-13. Air Compressor Gun
+13. ~~[[Compressed Air Dusters|Compressed Air Duster Gun]]~~
 14. Water Filter
 15. Sprinkler System
 

@@ -1,0 +1,3 @@
+> The site and its legal problems have been widely seen as a prime example of the "[Streisand effect](https://www.britannica.com/topic/Streisand-effect)," a phenomenon in which an attempt to censor, hide, or otherwise draw attention away from something only serves to attract more attention to it.
+
+Pastor Anderson was attacked by the media for along time until they realized they were only increasing his viewership.
