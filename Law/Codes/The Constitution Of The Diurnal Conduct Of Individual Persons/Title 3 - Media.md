@@ -98,9 +98,9 @@ There's an anthem affect, where if something is said to a catchy tune, our minds
 
 ## § 2.  Musical Content
 
-### §§ 2(a) Brainwave Entrainment
+### §§ (a) Brainwave Entrainment
 
-### §§ 2(b) Subliminal Influence
+### §§ (b) Subliminal Influence
 
 # Article 3: Video Games
 

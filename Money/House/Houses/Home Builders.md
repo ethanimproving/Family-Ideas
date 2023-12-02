@@ -29,9 +29,6 @@ A list of home builders currently building new construction homes in the DFW are
 
 ![](https://i.imgur.com/hEbMUIk.png)
 
-
-
-
 # Real Estate Agent
 
 you do not necessarily need a realtor to see a house. In many cases, you can schedule a viewing or attend an open house without the assistance of a real estate agent. However, there are certain benefits to having a realtor represent you during the home buying process.

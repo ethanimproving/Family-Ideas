@@ -100,6 +100,18 @@ In summary, while FHA loans can be a viable option for some buyers, they come wi
 
 https://www.cardinalfinancial.com/mortgage-rate-quote
 
+# SoFi Mortages
+
+![](https://i.imgur.com/SQJgNd2.png)
+
+https://applymortgage.sofi.com/#/accept-terms
+
+# nbkc Bank
+
+This is the number 1 bank posted in [Nerd Wallet](https://www.nerdwallet.com/m/mortgages/compare-top-mortgage-lenders-2?bucket_id=Best+Money+2&gad_source=1&gclid=Cj0KCQiAyKurBhD5ARIsALamXaE0pPL6hlq6skBlS89BDkM_4vCej1LENqc_JB9XBKnTvDMX9WUEhz0aAiIjEALw_wcB&gclsrc=aw.ds&mktg_body=656717844847&mktg_hline=148151861963&mktg_link=&mktg_place=aud-2273241481672%3Akwd-313067967099&model_execution_id=018DD92B-39D1-4E83-A1DD-15C16CE3BD32&nw_campaign_id=1190295&utm_campaign=mr_mktg_paid_032823_brand%3Ae%3Ahi&utm_content=c&utm_medium=cpc&utm_source=goog&utm_term=nerdwallet+mortgage+rates).
+
+https://apply.nbkc.com/application/e43876eb-b591-4ae2-ac07-95e101ebbe6f/status
+
 # Lennar Mortgage
 
 Congratulations! Your information has been submitted, and a loan officer will reach out to you for your next steps.
