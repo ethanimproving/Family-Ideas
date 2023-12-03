@@ -1,4 +1,8 @@
 
+[How to quickly insert legal symbols into your Word documents](https://www.donna.legal/blog/insert-legal-symbols-into-your-word-documents)
+
+[Use ChatGPT to Create Legal Documents or Legal Research? follow along as an attorney critiques AI](https://www.youtube.com/watch?v=AXlsKZ3pyIs)
+
 
 1. **Codes:** In certain legal systems, codes are the highest level of organization. A legal code is a systematic collection or compilation of laws. Titles, parts, and other subdivisions are then used within the code to organize specific legal topics.
 	
