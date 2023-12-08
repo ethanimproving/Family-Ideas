@@ -211,6 +211,19 @@ It would take only ==7 and a half years== instead of 30 years to save for the ho
 | 240,246 | 252,258 | 264,271 | 276,283 | 288,295 | 300,308 | 312,320 | 324,332 | 336,344 | 348,357 | 360,369 | 372,381 | 384,394 | 396,406 | 408,418 | 420,431 |
 | 400,246 | 420,258 | 440,271 | 460,283 | 480,295 | 500,308 | 520,320 | 540,332 | 560,344 | 580,357 | 600,369 | 620,381 | 640,394 | 660,406 | 680,418 | 700,431 |
 
+| Category                               | Amounts            |
+|----------------------------------------|--------------------|
+| Processing Fee                         | $ 695.00           |
+| Underwriting Fee                       | $ 1,195.00         |
+| Loan Discount Points 0.750%             | $ 1,260.00         |
+| ** Appraisal Fee                       | $ 650.00           |
+| Attorney Doc Review Fee                 | $ 185.00           |
+| Title- Escrow Fee                      | $ 47.00            |
+| Title - Standard Title Endorsement Fee  | $ 650.00           |
+| Title - Settlement Or Closing Fee       | $ 395.00           |
+| Title - Lender's Title Insurance Fee    | $ 1,190.00         |
+| Recording Fee                          | $ 226.00           |
+|                                       | $ 321.70           |
 
 # Wise Investments
 
