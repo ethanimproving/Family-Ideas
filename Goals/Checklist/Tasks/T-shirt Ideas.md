@@ -8,7 +8,7 @@ KJV Soulwinners || [Facebook](https://www.facebook.com/kjvsoulwinners/photos/rpp
 
 If you want to go to heaven come talk to me || [Doug Trowbridge](https://www.facebook.com/photo.php?fbid=10203312311405099&set=picfp.1729756122&type=3&theater)
 
-Hell has no exit, heaven has no door || [teeherivar](https://teeherivar.com/product/hell-has-no-exit-heaven-has-one-door-jesus/)
+Hell has no exit, heaven has one door || [teeherivar](https://teeherivar.com/product/hell-has-no-exit-heaven-has-one-door-jesus/)
 
 My Life belongs to Jesus || [Lifestyle Christianity](https://lifestylechristianitystore.com/collections/frontpage/products/my-life-belongs-to-jesus-v-neck-t-shirt-pos)
 

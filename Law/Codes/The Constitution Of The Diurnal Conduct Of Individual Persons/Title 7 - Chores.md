@@ -60,7 +60,10 @@ Tasks will be assigned every week in a Kanban task board. Team members will move
 
 **3.10** Scrub grout and tiles.
 
-**3.11** Wash car exteriors to maintain cleanliness and preserve aesthetic appeal. Wash more frequently based on environmental factors.
+**3.11** [[Car Wash Procedure|Wash car exteriors]] to maintain cleanliness and preserve aesthetic appeal. Wash more frequently based on environmental factors.
+
+**3.12** Update YNAB Budget
+
 
 ## § 4. Quarterly Tasks
 
@@ -81,10 +84,19 @@ Tasks will be assigned every week in a Kanban task board. Team members will move
 
 **5.4** Turn off the hose water supply and apply [hard outdoor faucet covers](https://www.homedepot.com/p/Hard-Outdoor-Faucet-Cover-1981/204759083) to any wall-mounted faucets annually before the first frost or when temperatures are expected to drop below freezing. (Not needed if all the plumbing is below the frost line.)
 
+![](https://images.thdstatic.com/productImages/1906d1d3-31ad-4ab0-b74a-7f5199f5f8c9/svn/pipe-insulation-1981-64_1000.jpg)
+
 **5.5** Apply a [Sock Faucet Cover](https://www.homedepot.com/p/Frost-King-2-1-4-in-Sock-Faucet-Cover-FC3/203221860) to any ground-level faucets.
+
+![](https://images.thdstatic.com/productImages/da87ea40-47ad-45d9-ac32-af61da818e8f/svn/frost-king-pipe-insulation-fc3-64_1000.jpg)
+
 ## § 6. Bi-monthly
 
 **6.1** Perform vehicle interior cleaning, including vacuuming, at least bi-monthly or more frequently for heavily used vehicles.
+
+## § 7. Yearly
+
+**7.1** [[Deep Clean Mattress|Deep clean each mattress]] yearly (or as needed) to remove sweat stains and orders. 
 
 # Article 2: Mechanical Maintenance
 
