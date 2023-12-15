@@ -65,6 +65,9 @@
               }
             ]
           },
+          "sort": {
+            "criteria": []
+          },
           "id": "1f40cc6e-a8bb-4d04-ba09-2d826619c6e4",
           "name": "Table",
           "type": "table"
@@ -76,6 +79,9 @@
           },
           "colors": {
             "conditions": []
+          },
+          "sort": {
+            "criteria": []
           },
           "id": "15a7c87f-6f9f-4e34-8706-e301707a758e",
           "name": "Gallery",
@@ -89,6 +95,9 @@
           "colors": {
             "conditions": []
           },
+          "sort": {
+            "criteria": []
+          },
           "id": "b82e6ec2-7994-4c35-a528-be040eba2de5",
           "name": "Board",
           "type": "board"
@@ -101,6 +110,9 @@
           "colors": {
             "conditions": []
           },
+          "sort": {
+            "criteria": []
+          },
           "id": "224567a3-29c5-43e0-80ff-1a977815c569",
           "name": "Calendar",
           "type": "calendar"
@@ -110,11 +122,13 @@
       "name": "Amplify Ministries"
     }
   ],
+  "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
     "frontmatter": {
       "quoteStrings": "PLAIN"
     },
-    "commands": []
+    "commands": [],
+    "linkBehavior": "open-editor"
   }
 }

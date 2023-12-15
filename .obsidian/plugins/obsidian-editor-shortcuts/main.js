@@ -112,6 +112,44 @@ var SettingsState = {
 
 // src/utils.ts
 var defaultMultipleSelectionOptions = { repeatSameLineActions: true };
+var withMultipleSelectionsNew = (editor, callback, options = defaultMultipleSelectionOptions) => {
+  const selections = editor.listSelections();
+  let selectionIndexesToProcess;
+  const newSelections = [];
+  const changes = [];
+  if (!options.repeatSameLineActions) {
+    const seenLines = [];
+    selectionIndexesToProcess = selections.reduce((indexes, currSelection, currIndex) => {
+      const currentLine = currSelection.head.line;
+      if (!seenLines.includes(currentLine)) {
+        seenLines.push(currentLine);
+        indexes.push(currIndex);
+      }
+      return indexes;
+    }, []);
+  }
+  for (let i = 0; i < selections.length; i++) {
+    if (selectionIndexesToProcess && !selectionIndexesToProcess.includes(i)) {
+      continue;
+    }
+    const { changes: newChanges, newSelection } = callback(editor, selections[i], __spreadProps(__spreadValues({}, options.args), {
+      iteration: i
+    }));
+    changes.push(...newChanges);
+    if (options.combineSameLineSelections) {
+      const existingSameLineSelection = newSelections.find((selection) => selection.from.line === newSelection.from.line);
+      if (existingSameLineSelection) {
+        existingSameLineSelection.from.ch = 0;
+        continue;
+      }
+    }
+    newSelections.push(newSelection);
+  }
+  editor.transaction({
+    changes,
+    selections: newSelections
+  });
+};
 var withMultipleSelections = (editor, callback, options = defaultMultipleSelectionOptions) => {
   const { cm } = editor;
   const selections = editor.listSelections();
@@ -175,20 +213,22 @@ var getSelectionBoundaries = (selection) => {
   if (from.line === to.line && from.ch > to.ch) {
     [from, to] = [to, from];
   }
-  return { from, to };
+  return { from, to, hasTrailingNewline: to.line > from.line && to.ch === 0 };
 };
 var getLeadingWhitespace = (lineContent) => {
   const indentation = lineContent.match(/^\s+/);
   return indentation ? indentation[0] : "";
 };
 var isLetterCharacter = (char) => /\p{L}\p{M}*/u.test(char);
+var isDigit = (char) => /\d/.test(char);
+var isLetterOrDigit = (char) => isLetterCharacter(char) || isDigit(char);
 var wordRangeAtPos = (pos, lineContent) => {
   let start = pos.ch;
   let end = pos.ch;
-  while (start > 0 && isLetterCharacter(lineContent.charAt(start - 1))) {
+  while (start > 0 && isLetterOrDigit(lineContent.charAt(start - 1))) {
     start--;
   }
-  while (end < lineContent.length && isLetterCharacter(lineContent.charAt(end))) {
+  while (end < lineContent.length && isLetterOrDigit(lineContent.charAt(end))) {
     end++;
   }
   return {
@@ -375,10 +415,13 @@ var getNextCase = (selectedText) => {
 };
 var isNumeric = (input) => input.length > 0 && !isNaN(+input);
 var getNextListPrefix = (text, direction) => {
-  var _a;
-  const listChars = (_a = text.match(LIST_CHARACTER_REGEX)) != null ? _a : [];
-  if (listChars.length > 0) {
+  const listChars = text.match(LIST_CHARACTER_REGEX);
+  if (listChars && listChars.length > 0) {
     let prefix = listChars[0].trimStart();
+    const isEmptyListItem = prefix === listChars.input.trimStart();
+    if (isEmptyListItem) {
+      return null;
+    }
     if (isNumeric(prefix) && direction === "after") {
       prefix = +prefix + 1 + ". ";
     }
@@ -391,7 +434,7 @@ var getNextListPrefix = (text, direction) => {
 };
 var formatRemainingListPrefixes = (editor, fromLine, indentation) => {
   const changes = [];
-  for (let i = fromLine; i < editor.lastLine(); i++) {
+  for (let i = fromLine; i < editor.lineCount(); i++) {
     const contentsOfCurrentLine = editor.getLine(i);
     const listPrefixRegex = new RegExp(`^${indentation}\\d+\\.`);
     const lineStartsWithNumberPrefix = listPrefixRegex.test(contentsOfCurrentLine);
@@ -405,7 +448,9 @@ var formatRemainingListPrefixes = (editor, fromLine, indentation) => {
       text: replacementContent
     });
   }
-  editor.transaction({ changes });
+  if (changes.length > 0) {
+    editor.transaction({ changes });
+  }
 };
 var toggleVaultConfig = (app, setting) => {
   const value = app.vault.getConfig(setting);
@@ -416,7 +461,7 @@ var setVaultConfig = (app, setting, value) => {
 };
 
 // src/actions.ts
-var insertLineAbove = (editor, selection) => {
+var insertLineAbove = (editor, selection, args) => {
   const { line } = selection.head;
   const startOfCurrentLine = getLineStartPos(line);
   const contentsOfCurrentLine = editor.getLine(line);
@@ -428,28 +473,109 @@ var insertLineAbove = (editor, selection) => {
       formatRemainingListPrefixes(editor, line, indentation);
     }
   }
-  editor.replaceRange(indentation + listPrefix + "\n", startOfCurrentLine);
-  return { anchor: { line, ch: indentation.length + listPrefix.length } };
+  const changes = [
+    { from: startOfCurrentLine, text: indentation + listPrefix + "\n" }
+  ];
+  const newSelection = {
+    from: __spreadProps(__spreadValues({}, startOfCurrentLine), {
+      line: startOfCurrentLine.line + args.iteration,
+      ch: indentation.length + listPrefix.length
+    })
+  };
+  return {
+    changes,
+    newSelection
+  };
 };
-var insertLineBelow = (editor, selection) => {
+var insertLineBelow = (editor, selection, args) => {
   const { line } = selection.head;
+  const startOfCurrentLine = getLineStartPos(line);
   const endOfCurrentLine = getLineEndPos(line, editor);
   const contentsOfCurrentLine = editor.getLine(line);
   const indentation = getLeadingWhitespace(contentsOfCurrentLine);
   let listPrefix = "";
   if (SettingsState.autoInsertListPrefix) {
     listPrefix = getNextListPrefix(contentsOfCurrentLine, "after");
+    if (listPrefix === null) {
+      const changes2 = [
+        { from: startOfCurrentLine, to: endOfCurrentLine, text: "" }
+      ];
+      const newSelection2 = {
+        from: {
+          line,
+          ch: 0
+        }
+      };
+      return {
+        changes: changes2,
+        newSelection: newSelection2
+      };
+    }
     if (isNumeric(listPrefix)) {
       formatRemainingListPrefixes(editor, line + 1, indentation);
     }
   }
-  editor.replaceRange("\n" + indentation + listPrefix, endOfCurrentLine);
+  const changes = [
+    { from: endOfCurrentLine, text: "\n" + indentation + listPrefix }
+  ];
+  const newSelection = {
+    from: {
+      line: line + 1 + args.iteration,
+      ch: indentation.length + listPrefix.length
+    }
+  };
   return {
-    anchor: { line: line + 1, ch: indentation.length + listPrefix.length }
+    changes,
+    newSelection
   };
 };
-var deleteLine = (editor) => {
-  editor.exec("deleteLine");
+var numLinesDeleted = 0;
+var deleteLine = (editor, selection, args) => {
+  const { from, to, hasTrailingNewline } = getSelectionBoundaries(selection);
+  if (to.line === editor.lastLine()) {
+    const previousLine = Math.max(0, from.line - 1);
+    const endOfPreviousLine = getLineEndPos(previousLine, editor);
+    const changes2 = [
+      {
+        from: from.line === 0 ? getLineStartPos(0) : endOfPreviousLine,
+        to: to.ch === 0 ? getLineStartPos(to.line) : getLineEndPos(to.line, editor),
+        text: ""
+      }
+    ];
+    const newSelection2 = {
+      from: {
+        line: previousLine,
+        ch: Math.min(from.ch, endOfPreviousLine.ch)
+      }
+    };
+    return {
+      changes: changes2,
+      newSelection: newSelection2
+    };
+  }
+  if (args.iteration === 0) {
+    numLinesDeleted = 0;
+  }
+  const toLine = hasTrailingNewline ? to.line - 1 : to.line;
+  const endOfNextLine = getLineEndPos(toLine + 1, editor);
+  const changes = [
+    {
+      from: getLineStartPos(from.line),
+      to: getLineStartPos(toLine + 1),
+      text: ""
+    }
+  ];
+  const newSelection = {
+    from: {
+      line: from.line - numLinesDeleted,
+      ch: Math.min(to.ch, endOfNextLine.ch)
+    }
+  };
+  numLinesDeleted += toLine - from.line + 1;
+  return {
+    changes,
+    newSelection
+  };
 };
 var deleteToStartOfLine = (editor, selection) => {
   const pos = selection.head;
@@ -515,9 +641,10 @@ var joinLines = (editor, selection) => {
   };
 };
 var copyLine = (editor, selection, direction) => {
-  const { from, to } = getSelectionBoundaries(selection);
+  const { from, to, hasTrailingNewline } = getSelectionBoundaries(selection);
   const fromLineStart = getLineStartPos(from.line);
-  const toLineEnd = getLineEndPos(to.line, editor);
+  const toLine = hasTrailingNewline ? to.line - 1 : to.line;
+  const toLineEnd = getLineEndPos(toLine, editor);
   const contentsOfSelectedLines = editor.getRange(fromLineStart, toLineEnd);
   if (direction === "up") {
     editor.replaceRange("\n" + contentsOfSelectedLines, toLineEnd);
@@ -526,8 +653,8 @@ var copyLine = (editor, selection, direction) => {
     editor.replaceRange(contentsOfSelectedLines + "\n", fromLineStart);
     const linesSelected = to.line - from.line + 1;
     return {
-      anchor: { line: to.line + 1, ch: from.ch },
-      head: { line: to.line + linesSelected, ch: to.ch }
+      anchor: { line: toLine + 1, ch: from.ch },
+      head: { line: toLine + linesSelected, ch: to.ch }
     };
   }
 };
@@ -603,9 +730,10 @@ var addCursorsToSelectionEnds = (editor, emulate = CODE_EDITOR.VSCODE) => {
     return;
   }
   const selection = editor.listSelections()[0];
-  const { from, to } = getSelectionBoundaries(selection);
+  const { from, to, hasTrailingNewline } = getSelectionBoundaries(selection);
   const newSelections = [];
-  for (let line = from.line; line <= to.line; line++) {
+  const toLine = hasTrailingNewline ? to.line - 1 : to.line;
+  for (let line = from.line; line <= toLine; line++) {
     const head = line === to.line ? to : getLineEndPos(line, editor);
     let anchor;
     if (emulate === CODE_EDITOR.VSCODE) {
@@ -806,31 +934,6 @@ var goToHeading = (app, editor, boundary) => {
   editor.setSelection(boundary === "prev" ? getLineEndPos(prevHeadingLine, editor) : getLineEndPos(nextHeadingLine, editor));
 };
 
-// src/custom-selection-handlers.ts
-var insertLineBelowHandler = (selections) => {
-  const seenLines = [];
-  let lineIncrement = 0;
-  let processedPos;
-  return selections.reduce((processed, currentPos) => {
-    const currentLine = currentPos.anchor.line;
-    if (!seenLines.includes(currentLine)) {
-      seenLines.push(currentLine);
-      lineIncrement = 0;
-      processedPos = currentPos;
-    } else {
-      lineIncrement++;
-      processedPos = {
-        anchor: {
-          line: currentLine + lineIncrement,
-          ch: currentPos.anchor.ch
-        }
-      };
-    }
-    processed.push(processedPos);
-    return processed;
-  }, []);
-};
-
 // src/settings.ts
 var import_obsidian = __toModule(require("obsidian"));
 var DEFAULT_SETTINGS = {
@@ -900,7 +1003,7 @@ var CodeEditorShortcuts = class extends import_obsidian3.Plugin {
             key: "Enter"
           }
         ],
-        editorCallback: (editor) => withMultipleSelections(editor, insertLineAbove)
+        editorCallback: (editor) => withMultipleSelectionsNew(editor, insertLineAbove)
       });
       this.addCommand({
         id: "insertLineBelow",
@@ -911,9 +1014,7 @@ var CodeEditorShortcuts = class extends import_obsidian3.Plugin {
             key: "Enter"
           }
         ],
-        editorCallback: (editor) => withMultipleSelections(editor, insertLineBelow, __spreadProps(__spreadValues({}, defaultMultipleSelectionOptions), {
-          customSelectionHandler: insertLineBelowHandler
-        }))
+        editorCallback: (editor) => withMultipleSelectionsNew(editor, insertLineBelow)
       });
       this.addCommand({
         id: "deleteLine",
@@ -924,7 +1025,9 @@ var CodeEditorShortcuts = class extends import_obsidian3.Plugin {
             key: "K"
           }
         ],
-        editorCallback: (editor) => deleteLine(editor)
+        editorCallback: (editor) => withMultipleSelectionsNew(editor, deleteLine, __spreadProps(__spreadValues({}, defaultMultipleSelectionOptions), {
+          combineSameLineSelections: true
+        }))
       });
       this.addCommand({
         id: "deleteToStartOfLine",
@@ -1190,6 +1293,16 @@ var CodeEditorShortcuts = class extends import_obsidian3.Plugin {
         id: "indent-using-spaces",
         name: "Indent using spaces",
         callback: () => setVaultConfig(this.app, "useTab", false)
+      });
+      this.addCommand({
+        id: "undo",
+        name: "Undo",
+        editorCallback: (editor) => editor.undo()
+      });
+      this.addCommand({
+        id: "redo",
+        name: "Redo",
+        editorCallback: (editor) => editor.redo()
       });
       this.registerSelectionChangeListeners();
       this.addSettingTab(new SettingTab(this.app, this));
