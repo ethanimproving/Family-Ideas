@@ -1,19 +1,19 @@
 ---
-Bible: 0
-Pray: 0
-Scripture_Typer: 0
-Sing_Hymns: 0
-Make_Bed: 0
-iRestore_Treatment: 0
-Flexbelt: 0
-Gym: 0
-Run: 0
-Clean_Room: 0
-Headway: 0
-Spanish: 0
-Yousicion: 0
-NoFap: 0
-Tiege_Hanley: 0
-Pushups: 0
+Bible: 
+Pray: 
+Scripture_Typer: false
+Sing_Hymns: false
+Make_Bed: false
+iRestore_Treatment: false
+Flexbelt: false
+Gym: false
+Run: 
+Clean_Room: false
+Headway: false
+Spanish: false
+Yousicion: false
+NoFap: false
+Tiege_Hanley: false
+Pushups:
 ---
 
