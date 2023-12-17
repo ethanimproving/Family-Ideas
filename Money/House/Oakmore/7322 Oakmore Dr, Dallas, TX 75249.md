@@ -68,7 +68,7 @@ I only have 48,000 for a down payment. I don't want to take a high interest-rate
 Will the cost of renovating the house increase the sale price by the same amount or a higher amount?
 ```dataview
 table cost as Cost, priority as Priority
-from "Money/Houses/Renovation Skills"
+from "Money/House/Renovation Skills"
 sort priority desc
 ```
 

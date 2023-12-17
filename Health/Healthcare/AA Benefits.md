@@ -1,5 +1,5 @@
 ---
-dg-puplish: true
+dg-publish: true
 dg-created: Nov 04, 2023, 10:43 AM
 ---
 
