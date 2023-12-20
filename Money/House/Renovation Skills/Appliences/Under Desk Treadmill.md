@@ -1,4 +1,10 @@
-
+---
+dg-publish: true
+cost: $250
+priority: 1
+tags: [oakmore]
+bought: true
+---
 
 | Rank | Brand                 | Description                                               |
 |------|-----------------------|-----------------------------------------------------------|

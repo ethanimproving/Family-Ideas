@@ -3,7 +3,9 @@ dg-publish: true
 dg-created: Jul 06, 2023, 9:57 PM
 priority: 3
 cost: $1000
-tags: [oakmore]
+tags:
+  - oakmore
+bought: true
 ---
 
 # How Many Cameras Do I Need?

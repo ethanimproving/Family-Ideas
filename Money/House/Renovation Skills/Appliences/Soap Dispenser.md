@@ -3,7 +3,9 @@ dg-publish: true
 dg-created: Jul 08, 2023, 3:46 PM
 cost: $120
 priority: 1
-tags: [oakmore]
+tags:
+  - oakmore
+bought: true
 ---
 
 [Simple Human sensor pump 14 oz.](https://www.simplehuman.com/products/rechargeable-liquid-sensor-pump-14-fl-oz-with-caddy)

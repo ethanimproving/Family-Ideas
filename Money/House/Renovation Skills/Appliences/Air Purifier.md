@@ -3,7 +3,9 @@ dg-publish: true
 dg-created: Jul 08, 2023, 3:48 PM
 cost: $749.99
 priority: 1
-tags: [oakmore]
+tags:
+  - oakmore
+bought: true
 ---
 
 [Dyson Purifier Hot+Cool purifying fan heater](https://www.dyson.com/air-treatment/air-purifier-heaters/purifier-hot-cool-hp07/white-silver)

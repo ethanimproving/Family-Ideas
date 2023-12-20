@@ -50,3 +50,5 @@ author: Ethan Miller
 
 
 **Signature:**
+![[Signature.svg]]
+

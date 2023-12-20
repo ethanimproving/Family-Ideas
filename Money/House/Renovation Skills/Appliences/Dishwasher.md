@@ -1,4 +1,10 @@
-
+---
+dg-publish: true
+cost: $600
+priority: 5
+tags: [oakmore]
+bought: true
+---
 # 2023 Pick
 
 [Samsung - Smart 42dBA Dishwasher with StormWash+ and Smart Dry - Stainless Steel](https://www.bestbuy.com/site/samsung-smart-42dba-dishwasher-with-stormwash-and-smart-dry-stainless-steel/6491913.p?skuId=6491913)

@@ -1,3 +1,11 @@
+---
+dg-publish: true
+dg-created: Nov 25, 2023, 11:33 PM
+cost: $30
+priority: 1
+tags: [oakmore]
+bought: true
+---
 
 [Amazon Best Sellers](https://www.amazon.com/Best-Sellers-Compressed-Air-Dusters/zgbs/pc/3012916011)
 

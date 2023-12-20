@@ -3,7 +3,9 @@ dg-publish: true
 dg-created: Jul 06, 2023, 10:26 PM
 priority: 5
 cost: $2,000
-tags: [oakmore]
+tags:
+  - oakmore
+bought: true
 ---
 
 I want to use a Smart Refrigerator to ==lookup recipes, play music, manage meal planning==, and more.

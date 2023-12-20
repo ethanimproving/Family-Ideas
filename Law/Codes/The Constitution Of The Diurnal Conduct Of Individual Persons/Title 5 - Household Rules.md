@@ -6,6 +6,15 @@ author: Ethan Miller
 
 
 
+## § 2. Homecare
+
+Fannie Mae offers a [HomeView certificate course](https://www.fanniemae.com/education) for homeownership education.  
+
+**2.1** [Don't flush tissues down the drain](https://www.dcwater.com/whats-going-on/news/do-not-flush-paper-towels-wipes-or-facial-tissues%E2%80%94they-clog-your-pipes-and-our). They can cause clogs in the pipes. This is especially pertinent for teenage boys. See ![visual example](https://youtu.be/jM557IJGNU4?si=hDgevV584tjgyAiZ&t=23).
+
+**2.2** Don't wash muddy shoes in any sinks or bathtubs. The mud can clog the drains.
+
+**2.3** Don't rinse hair trimmings longer than 2 millimeters down the drain.
 ## § 6. Personal Development
 
 Derived from [[12 Rules For Life]] by Jordan Peterson

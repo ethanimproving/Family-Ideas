@@ -66,13 +66,22 @@ I only have 48,000 for a down payment. I don't want to take a high interest-rate
 | Renovation Total | ==28,132== |
 
 Will the cost of renovating the house increase the sale price by the same amount or a higher amount?
+
+[Project Timeline.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/EQeNqxk1nAZEl_KnXAcRf8gBM1KbNua8-TXHSMP81jstkA?e=myM5C8)
+
 ```dataview
-table cost as Cost, priority as Priority
-from "Money/House/Renovation Skills"
+table cost as Cost, priority as Priority, completed as Completed
+from #oakmore and "Money/House/Renovation Skills"
 sort priority desc
 ```
 
+## Appliances
 
+```dataview
+table cost as Cost, priority as Priority, bought as Bought
+from "Money/House/Renovation Skills/Appliences" or "Money/House/Renovation Skills/Furnishings"
+sort bought, priority desc
+```
 
 # Gyms Close By
 
