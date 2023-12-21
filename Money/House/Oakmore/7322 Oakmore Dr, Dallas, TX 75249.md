@@ -71,7 +71,7 @@ Will the cost of renovating the house increase the sale price by the same amount
 
 ```dataview
 table cost as Cost, priority as Priority, completed as Completed
-from #oakmore and "Money/House/Renovation Skills"
+from #oakmore and "Money/House/Renovation Skills" 
 sort priority desc
 ```
 

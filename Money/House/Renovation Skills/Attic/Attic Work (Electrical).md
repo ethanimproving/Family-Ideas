@@ -3,7 +3,8 @@ dg-publish: true
 dg-created: Aug 01, 2023, 5:17 PM
 cost: $0$
 priority: 5
-tags: [oakmore]
+tags: [oakmore, skill]
+completed: true
 ---
 
 # Electricity
