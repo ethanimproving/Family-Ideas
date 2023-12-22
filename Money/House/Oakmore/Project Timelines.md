@@ -93,7 +93,7 @@ sort priority desc
 | Install recess lights                  | 8     |
 | Total                                  | 24    |
 
-## Garage Rennovation (Not Required)
+## Garage Renovation
 
 | Task                        | Hours |
 |-----------------------------|-------|
