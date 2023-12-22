@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-created: Dec 21, 2023, 11:52 PM
+---
 
 # Replacing Bowing Drywall
 
