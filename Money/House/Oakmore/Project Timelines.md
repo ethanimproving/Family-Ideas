@@ -55,7 +55,13 @@ dg-created: Dec 20, 2023, 11:00 PM
 | Redo plumbing to get two sink faucets | 8    |
 | Total                                 | 26   |
 
-## Guest Bathroom Rennovation (Not Required)
+```dataview
+table cost as Cost, priority as Priority, masterbath as Completed
+from #masterbath and "Money/House/Renovation Skills/Bathroom" 
+sort priority desc
+```
+
+## Guest Bathroom Renovation (Not Required)
 
 | Task                          | Hours |
 |-------------------------------|-------|

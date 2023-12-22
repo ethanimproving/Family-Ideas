@@ -1220,18 +1220,6 @@ Crooked outlets
 
 [https://youtube.com/shorts/mv55nnJHXc4?feature=share](https://youtube.com/shorts/mv55nnJHXc4?feature=share)
 
-[https://youtube.com/shorts/iOd-HwfhwHI?feature=share](https://youtube.com/shorts/iOd-HwfhwHI?feature=share)
-
-[https://youtube.com/shorts/TaU_TwCIXiM?feature=share](https://youtube.com/shorts/TaU_TwCIXiM?feature=share)
-
-Which mid to use
-
-[https://youtube.com/shorts/7l_mNTmfp3k?feature=share](https://youtube.com/shorts/7l_mNTmfp3k?feature=share)
-
-How to sand walls
-
-[https://youtube.com/shorts/Op0rlKfTbig?feature=share](https://youtube.com/shorts/Op0rlKfTbig?feature=share)
-
 # Gimbal
 
 Gobble tripod selfie stick
@@ -1316,21 +1304,11 @@ Tile leveling systems
 
 [https://youtube.com/shorts/IUCCkR1q6m4?feature=share](https://youtube.com/shorts/IUCCkR1q6m4?feature=share)
 
-Loading mud on drywall
 
-[https://youtube.com/shorts/TkewsZ3gM14?feature=share](https://youtube.com/shorts/TkewsZ3gM14?feature=share)
 
 Pressure washing
 
 [https://youtube.com/shorts/KTmEs83_Wuc?feature=share](https://youtube.com/shorts/KTmEs83_Wuc?feature=share)
-
-Drywall repair, quick and easy
-
-[https://youtube.com/shorts/aONPS65pJlU?feature=share](https://youtube.com/shorts/aONPS65pJlU?feature=share)
-
-Replace drywall, the simple, mud and tape
-
-[https://youtube.com/shorts/2ls8WSR2quE?feature=share](https://youtube.com/shorts/2ls8WSR2quE?feature=share)
 
 Clean your bricks
 
@@ -1343,10 +1321,6 @@ Pressure washing job can cost $1600. I might be a good business.
 Circular, sanding, hack
 
 [https://youtube.com/shorts/yd6nOtLrxwU?feature=share](https://youtube.com/shorts/yd6nOtLrxwU?feature=share)
-
-Shine light across the wall to see where my needs to be feathered
-
-[https://youtube.com/shorts/hfMJTcvzW3Y?feature=share](https://youtube.com/shorts/hfMJTcvzW3Y?feature=share)
 
 Pink chemicals
 

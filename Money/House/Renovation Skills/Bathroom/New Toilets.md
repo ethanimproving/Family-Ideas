@@ -3,7 +3,7 @@ dg-publish: true
 dg-date: Jul 06, 2023, 8:29 PM
 cost: $200 / toilet
 priority: 2
-tags: [oakmore]
+tags: [oakmore, masterbath, guestbath]
 ---
 
 # Stores
