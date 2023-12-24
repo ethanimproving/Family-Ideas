@@ -1,0 +1,58 @@
+---
+dg-publish: true
+dg-created: Dec 22, 2023, 2:40 PM
+---
+
+*Tasks are numbered by priority.*
+
+# 1. Garage
+- [ ] Run wire from Garage Door Opener to Wall Button
+- [ ] Migrate garage light switch from Kitchen to below Wall Button
+- [ ] [[Clean 14 Gallon Rigid Shop Vacuum]]
+- [ ] Remove Garage Shelves and pressure wash them.
+- [ ] Clean Garage shelves with rags. Paint(?) where necessary.
+- [ ] [[Fix Cracks In Sidewalk]]
+- [ ] Install 4 flat panel lights
+
+![[Project Timelines#Garage Renovation]]
+
+[[Finishing Drywall]]:
+- [ ] Replace Bowing Drywall
+- [ ] Tape drywall
+- [ ] Apply mud
+- [ ] Prime
+- [ ] Paint
+
+# 2. Guest Bathroom
+- [ ] Replace [Toilet](https://www.homedepot.com/p/American-Standard-Champion-Two-Piece-1-28-GPF-Single-Flush-Round-Chair-Height-Toilet-with-Slow-Close-Seat-in-White-747BA107SC-020/312442226)
+- [ ] Install [NuTone Exhaust Fan](https://www.homedepot.com/p/Broan-NuTone-QT-Series-130-CFM-Ceiling-Bathroom-Exhaust-Fan-with-LED-Light-and-Night-Light-ENERGY-STAR-QTN130LE1/205369502) 
+
+# Security Cameras
+- [ ] **3.** Install New Doorbell
+- [ ] **3.** Wire and mount 4 outdoor security cameras
+- [ ] **4.** Wire and mount 4 indoor security cameras
+
+# Sunroom
+- [ ] Grind Sunroom Floor
+
+# Master Room
+- [ ] [[Deep Clean Mattress#Remove Wax From Fabric#Supplies|Iron wax off fabric]] with brown paper bag and paper towels
+
+# Living Room
+- [ ] **5.** Inspect vents for living room electrical access
+- [ ] **3.** Assemble and hang gray fan where the old fan was
+- [ ] Rest uHoo Air Quality Monitor with paperclip
+
+# Bedrooms
+- [ ] **5.** Mop floors
+
+# Household
+- [ ] Paint or stain doors white
+
+# Daily Ethan Tasks
+- [x] [[Project Timelines]]
+- [x] [[2023-09-09|Refer to previous task list]]
+- [ ] Wash white comforter
+- [ ] Migrate Journey Notes
+- [ ] Buy Listerine
+- [ ] Count how many corners are in Oakmore house
