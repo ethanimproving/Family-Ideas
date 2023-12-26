@@ -3,25 +3,43 @@ dg-publish: true
 dg-created: Dec 22, 2023, 2:40 PM
 ---
 
-*Tasks are numbered by priority.*
+*Tasks are numbered by priority in the critical path.*
 
 # 1. Garage
+
+## *
+- [ ] [[Clean 14 Gallon Rigid Shop Vacuum]]
+- [ ] [[Fix Cracks In Sidewalk]]
+- [ ] R&R (Remove and Replace) Door from Garage to Kitchen Hallway
+- [ ] Remove old attic TV cables
+- [ ] Remove old attic Cat5E cables
+- [x] Remove old attic telephone cables
+
+## 1.1
+- [x] Remove/clean Garage Shelves
+- [x] Remove old drywall
+
+## 1.2
+- [x] Lay attic boards
+- [ ] Install attic stairs
+- [ ] Install 2 additional breakers for kitchen and garage
 - [ ] Run wire from Garage Door Opener to Wall Button
 - [ ] Migrate garage light switch from Kitchen to below Wall Button
-- [ ] [[Clean 14 Gallon Rigid Shop Vacuum]]
-- [ ] Remove Garage Shelves and pressure wash them.
-- [ ] Clean Garage shelves with rags. Paint(?) where necessary.
-- [ ] [[Fix Cracks In Sidewalk]]
-- [ ] Install 4 flat panel lights
+
+## 1.3 Finishing Drywall
 
 ![[Project Timelines#Garage Renovation]]
 
+
 [[Finishing Drywall]]:
-- [ ] Replace Bowing Drywall
+- [ ] Hang new drywall
 - [ ] Tape drywall
 - [ ] Apply mud
 - [ ] Prime
 - [ ] Paint
+
+## 1.4 Lighting
+- [ ] Install 4 flat panel lights
 
 # 2. Guest Bathroom
 - [ ] Replace [Toilet](https://www.homedepot.com/p/American-Standard-Champion-Two-Piece-1-28-GPF-Single-Flush-Round-Chair-Height-Toilet-with-Slow-Close-Seat-in-White-747BA107SC-020/312442226)
@@ -49,10 +67,10 @@ dg-created: Dec 22, 2023, 2:40 PM
 # Household
 - [ ] Paint or stain doors white
 
-# Daily Ethan Tasks
+# Flooring
+
+![[Project Timelines#Vinyl Installation]]
+
+# Linked Mentions
 - [x] [[Project Timelines]]
 - [x] [[2023-09-09|Refer to previous task list]]
-- [ ] Wash white comforter
-- [ ] Migrate Journey Notes
-- [ ] Buy Listerine
-- [ ] Count how many corners are in Oakmore house
