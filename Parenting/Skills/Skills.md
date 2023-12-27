@@ -60,6 +60,7 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 	- [ ] Painting
 	- [ ] Landscaping
 	- [ ] Demolition
+	- [ ] [[Finishing Drywall|Drywall]]
 
 ## Life Skills
 

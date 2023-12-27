@@ -7,26 +7,27 @@ dg-created: Dec 22, 2023, 2:40 PM
 
 # 1. Garage
 
-## *
+## * Concurrent Tasks
 - [ ] [[Clean 14 Gallon Rigid Shop Vacuum]]
 - [ ] [[Fix Cracks In Sidewalk]]
 - [ ] R&R (Remove and Replace) Door from Garage to Kitchen Hallway
 - [ ] Remove old attic TV cables
 - [ ] Remove old attic Cat5E cables
 - [x] Remove old attic telephone cables
+- [x] Add [lightbulbs](https://www.homedepot.com/p/Genie-Universal-Garage-Door-Opener-LED-Light-Bulb-GLEDB2-R/310186985) to garage door opener
 
-## 1.1
-- [x] Remove/clean Garage Shelves
-- [x] Remove old drywall
+## 1.1 Garage Preparation 
+- [x] Remove/clean Garage Shelves #finish-to-start
+- [x] Remove old drywall #finish-to-start
 
-## 1.2
+## 1.2 Attic and Electrical Setup (FS)
 - [x] Lay attic boards
-- [ ] Install attic stairs
+- [ ] Install attic stairs #next
 - [ ] Install 2 additional breakers for kitchen and garage
 - [ ] Run wire from Garage Door Opener to Wall Button
 - [ ] Migrate garage light switch from Kitchen to below Wall Button
 
-## 1.3 Finishing Drywall
+## 1.3 Finishing Drywall (FS)
 
 ![[Project Timelines#Garage Renovation]]
 
@@ -59,15 +60,24 @@ dg-created: Dec 22, 2023, 2:40 PM
 # Living Room
 - [ ] **5.** Inspect vents for living room electrical access
 - [ ] **3.** Assemble and hang gray fan where the old fan was
-- [ ] Rest uHoo Air Quality Monitor with paperclip
+- [x] * Rest uHoo Air Quality Monitor with paperclip
 
 # Bedrooms
 - [ ] **5.** Mop floors
 
 # Household
 - [ ] Paint or stain doors white
+- [ ] Mop all floors
 
-# Flooring
+# 1.1 Closing
+
+## 1.1 Close on the house
+- [x] Sign offer
+- [x] Do inspection
+- [x] Secure loan
+- [ ] Convert title at Title Office
+
+## 1.2 Flooring
 
 ![[Project Timelines#Vinyl Installation]]
 
