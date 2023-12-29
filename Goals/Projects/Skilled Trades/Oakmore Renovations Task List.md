@@ -86,3 +86,14 @@ dg-created: Dec 22, 2023, 2:40 PM
 # Linked Mentions
 - [x] [[Project Timelines]]
 - [x] [[2023-09-09|Refer to previous task list]]
+
+> [!failure]- Failure 
+>   Error: net::ERR_INTERNET_DISCONNECTED
+>   
+>   - browser_init:2 SimpleURLLoaderWrapper.
+>     node:electron/js2c/browser_init:2:49935
+>   
+>   - node:events:513 SimpleURLLoaderWrapper.emit
+>     node:events:513:28
+>   
+>  
