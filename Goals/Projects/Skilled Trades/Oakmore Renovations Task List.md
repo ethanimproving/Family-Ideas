@@ -26,8 +26,11 @@ dg-created: Dec 22, 2023, 2:40 PM
 - [x] Install 2 additional breakers for kitchen and garage
 - [ ] Zip tie the Romex in the electrical panel 
 - [ ] Run wire for garage light panels
-- [ ] Run wire from Garage Door Opener to Wall Button
-- [ ] Migrate garage light switch from Kitchen to below Wall Button
+- [ ] [[Install Attic Stairs#Cutting the feet to fit|Trim attic stairs]] to fit
+- [ ] Install 3-way light switch for garage lights
+- [ ] Install 2-gang switch plate in kitchen hallway switch (currently 3)
+- [x] Run wire from Garage Door Opener to Wall Button
+- [x] Migrate garage light switch from Kitchen to below Wall Button
 
 ## 1.3 Finishing Drywall (FS)
 
@@ -47,11 +50,18 @@ dg-created: Dec 22, 2023, 2:40 PM
 # 2. Guest Bathroom
 - [ ] Replace [Toilet](https://www.homedepot.com/p/American-Standard-Champion-Two-Piece-1-28-GPF-Single-Flush-Round-Chair-Height-Toilet-with-Slow-Close-Seat-in-White-747BA107SC-020/312442226)
 - [ ] Install [NuTone Exhaust Fan](https://www.homedepot.com/p/Broan-NuTone-QT-Series-130-CFM-Ceiling-Bathroom-Exhaust-Fan-with-LED-Light-and-Night-Light-ENERGY-STAR-QTN130LE1/205369502) 
+- [ ] Replace Vanity
+- [ ] Redo lighting
+- [ ] Setup new mirror
+- [ ] Install new shower head
 
 # Security Cameras
 - [ ] **3.** Install New Doorbell
 - [ ] **3.** Wire and mount 4 outdoor security cameras
 - [ ] **4.** Wire and mount 4 indoor security cameras
+
+# Retexture Walls
+- [ ] [[Retexturing An Existing Wall]]
 
 # Sunroom
 - [ ] Grind Sunroom Floor
@@ -86,14 +96,3 @@ dg-created: Dec 22, 2023, 2:40 PM
 # Linked Mentions
 - [x] [[Project Timelines]]
 - [x] [[2023-09-09|Refer to previous task list]]
-
-> [!failure]- Failure 
->   Error: net::ERR_INTERNET_DISCONNECTED
->   
->   - browser_init:2 SimpleURLLoaderWrapper.
->     node:electron/js2c/browser_init:2:49935
->   
->   - node:events:513 SimpleURLLoaderWrapper.emit
->     node:events:513:28
->   
->  
