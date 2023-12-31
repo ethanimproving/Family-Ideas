@@ -5,6 +5,13 @@ dg-created: Dec 22, 2023, 2:40 PM
 
 *Tasks are numbered by priority in the critical path.*
 
+# Backlog
+
+```dataview
+TABLE status, assigned-to, minutes, parent
+FROM #oakmore-renovation-task AND !"Attachments/Templates"
+```
+
 # 1. Garage
 
 ## * Concurrent Tasks

@@ -8,7 +8,7 @@
         "Attachments/Templates/new-video-template.md"
       ],
       "excludedNotes": [],
-      "isDefault": true,
+      "isDefault": false,
       "dataSource": {
         "kind": "folder",
         "config": {
@@ -94,6 +94,7 @@
                 "weight": 0
               }
             },
+            "includeFields": [],
             "groupByField": "status"
           },
           "filter": {
@@ -127,6 +128,47 @@
       ],
       "id": "f3b71673-030d-4f11-8add-7e79a248b5a6",
       "name": "Amplify Ministries"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Attachments/Templates/oakmore-renovation-task-template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "dataview",
+        "config": {
+          "query": "TABLE status, assigned-to, minutes, parent\nFROM #oakmore-renovation-task AND !\"Attachments/Templates\""
+        }
+      },
+      "newNotesFolder": "Goals/Projects/Oakmore Renovation",
+      "views": [
+        {
+          "config": {
+            "groupByField": "status",
+            "includeFields": [
+              "parent",
+              "assigned-to"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0f5c0254-7859-4e22-a2e9-b9f940c72ed3",
+          "name": "Backlog",
+          "type": "board"
+        }
+      ],
+      "id": "73430f08-0f7f-45c0-aeae-361174857cc4",
+      "name": "Oakmore Renovation"
     }
   ],
   "archives": [],
@@ -135,7 +177,12 @@
     "frontmatter": {
       "quoteStrings": "PLAIN"
     },
-    "commands": [],
+    "commands": [
+      {
+        "project": "73430f08-0f7f-45c0-aeae-361174857cc4",
+        "view": "0f5c0254-7859-4e22-a2e9-b9f940c72ed3"
+      }
+    ],
     "linkBehavior": "open-editor"
   }
 }

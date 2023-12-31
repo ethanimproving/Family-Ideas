@@ -3,7 +3,14 @@ dg-publish: true
 dg-created: Aug 28, 2023, 9:58 PM
 cost: $50
 priority: 5
-tags: [oakmore]
+parent: Garage
+status: Defined
+minutes: 15
+assigned-to: Anybody
+parent-task:
+tags:
+  - oakmore
+  - oakmore-renovation-task
 ---
 
 # Get Mud Out Of Cracks
