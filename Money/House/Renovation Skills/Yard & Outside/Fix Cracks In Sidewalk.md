@@ -5,8 +5,8 @@ cost: $50
 priority: 5
 parent: Garage
 status: Defined
-minutes: 15
-assigned-to: Anybody
+minutes: 60
+assigned-to:
 parent-task:
 tags:
   - oakmore
@@ -27,4 +27,8 @@ tags:
 - [1/2" Backer Rod](https://www.amazon.com/dp/B000BQWOC0) ![](https://m.media-amazon.com/images/I/91wrje04EpL._SL1500_.jpg)
 - [Sikaflex Self Leveling Sealant](https://www.amazon.com/dp/B000RUKZSA) ![](https://m.media-amazon.com/images/I/71dtTX2au2L._AC_SL1500_.jpg)
 - [Tremco Vulkem 45 SSL One-Part Semi-Self Leveling Polyurethane Sealant](https://www.amazon.com/dp/B00W80TGCS) (For non-level surfaces) ![](https://m.media-amazon.com/images/I/61-yhSv20xL._SL1200_.jpg)
-- 
+
+# Crack Filler
+
+- [Magic Crack Filler](https://www.homedepot.com/p/Trim-A-Slab-11-oz-Magic-Crack-Bottle-3417/317209478?g_store=&source=shoppingads&locale=en-US&pla&mtc=SHOPPING-BF-CDP-GGL-D22-022_009_CONCRETE-NA-NA-NA-PMAX-NA-NA-NA-NA-NBR-NA-NA-NEW-NA&cm_mmc=SHOPPING-BF-CDP-GGL-D22-022_009_CONCRETE-NA-NA-NA-PMAX-NA-NA-NA-NA-NBR-NA-NA-NEW-NA-71700000112622853--&gad_source=1&gclid=CjwKCAiA4smsBhAEEiwAO6DEjRd66J9qgsFj8iBciNekseo40DCEZZZqaZ6u16ScR899Pvuba8wZUBoCgHIQAvD_BwE&gclsrc=aw.ds)
+[Concrete crack filler](https://youtube.com/shorts/sLfXCb-kX9w?si=ShaoJpUzWSO29JNi)

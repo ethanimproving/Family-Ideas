@@ -1,12 +1,12 @@
 ---
 dg-publish: true
-dg-created: {{date:YYYY-MM-DD}}
+dg-created: {{date:MMM DD, yyyy, h:mm A}}
 date-completed:
-parent: 
+parent: Garage
 status: Defined
 minutes: 15
-assigned-to: 
-parent-task:
+assigned-to:
+depends-on:
 tags: [oakmore-renovation-task]
 ---
 

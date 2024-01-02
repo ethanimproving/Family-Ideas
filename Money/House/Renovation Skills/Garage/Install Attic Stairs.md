@@ -165,13 +165,13 @@ Tighten the previously loosened screws as shown by arrow 3 (Figure 28).
 
 **WARNING:** Upon completion of these tasks, the distance between the steps and the lid should remain constant. Otherwise, this can cause damage to the attic ladder and cause severe injuries.
 
-## STEP 4
+## STEP 4: Measuring
 
-Using a straight edge, measure the distance "A" and "B" as shown on Figure 26. This measurement should be very precise to ensure proper trimming of the legs.
+Using a [straight edge](https://www.homedepot.com/p/POWERTEC-50-in-Anodized-Aluminum-Straight-Edge-Ruler-Metal-Machined-Flat-to-Within-0-003-in-Over-Full-50-in-71503/313566829), measure the distance "A" and "B" as shown on Figure 26. This measurement should be very precise to ensure proper trimming of the legs.
 
 **ATTENTION:** Measure the distance "A" and "B" on both sides of the attic ladder. The distance may not be the same on both sides of the attic ladder.
 
-## STEP 5
+## STEP 5: Marking
 
 Measure the "A" and "B" distance from the top edge of the bottom section of the attic ladder and mark it on both legs (Figure 29). Trim lines must be accurate to avoid trimming the legs too short.
 ![](https://i.imgur.com/02kT3sw.png)
@@ -179,7 +179,7 @@ Measure the "A" and "B" distance from the top edge of the bottom section of the 
 **WARNING:** If the trimming line is marked along the rung, reposition the full run of steps where it is attached to the lid. The trimming line must not be in line with the rung (Figure 30). Next, repeat measurements "A" and "B" starting from step 4.
 ![](https://i.imgur.com/koRja2s.png)
 
-## STEP 6
+## STEP 6: Sawing
 
 Trim the legs along the trimming lines. Trim the corners of the legs perpendicular to side "B" but no more than 1/2" from the corner (Figure 29). Using an attic ladder with too short legs will damage the ladder and can cause severe injuries.
 

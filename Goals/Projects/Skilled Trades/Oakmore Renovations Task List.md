@@ -3,21 +3,26 @@ dg-publish: true
 dg-created: Dec 22, 2023, 2:40 PM
 ---
 
-*Tasks are numbered by priority in the critical path.*
-
 # Backlog
 
+*Below are the items that have been groomed for completion.*
+
 ```dataview
-TABLE status, assigned-to, minutes, parent
+TABLE status, assigned-to, minutes, depends-on
 FROM #oakmore-renovation-task AND !"Attachments/Templates"
+WHERE status != "Complete"
+SORT status desc
 ```
+
+
+*Tasks are numbered by priority in the critical path.*
 
 # 1. Garage
 
 ## * Concurrent Tasks
 - [ ] [[Clean 14 Gallon Rigid Shop Vacuum]]
 - [ ] [[Fix Cracks In Sidewalk]]
-- [ ] R&R (Remove and Replace) Door from Garage to Kitchen Hallway
+- [ ] [[R&R (Remove and Replace) Door from Garage to Kitchen Hallway]]
 - [ ] Remove old attic TV cables
 - [ ] Remove old attic Cat5E cables
 - [x] Remove old attic telephone cables
@@ -28,7 +33,7 @@ FROM #oakmore-renovation-task AND !"Attachments/Templates"
 - [x] Remove old drywall #finish-to-start
 
 ## 1.2 Attic and Electrical Setup (FS)
-- [x] Lay attic boards
+- [ ] [[Lay Attic Board]]
 - [x] Install attic stairs
 - [x] Install 2 additional breakers for kitchen and garage
 - [ ] Zip tie the Romex in the electrical panel 
@@ -88,6 +93,15 @@ FROM #oakmore-renovation-task AND !"Attachments/Templates"
 - [ ] Paint or stain doors white
 - [ ] Mop all floors
 
+# Master Bathroom
+- [ ] [[Remove Shower Soffit (Furr Down)]]
+- [ ] Replace exhaust fan/light
+- [ ] Replace vanity
+- [ ] Replace mirror
+- [ ] Remove wall texture
+- [ ] Replace vanity lights
+
+
 # 1.1 Closing
 
 ## 1.1 Close on the house
@@ -103,3 +117,5 @@ FROM #oakmore-renovation-task AND !"Attachments/Templates"
 # Linked Mentions
 - [x] [[Project Timelines]]
 - [x] [[2023-09-09|Refer to previous task list]]
+
+[Oakmore Task Photos](https://photos.app.goo.gl/cnf2ZnQCEMHvmSfG8)

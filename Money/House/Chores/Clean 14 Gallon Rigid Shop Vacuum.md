@@ -1,6 +1,14 @@
 ---
 dg-publish: true
 dg-created: Dec 19, 2023, 5:47 PM
+date-completed: Dec 31, 2023, 4:47 PM
+parent: Garage
+status: Complete
+minutes: 15
+assigned-to: Ethan
+parent-task:
+tags:
+  - oakmore-renovation-task
 ---
 # Cleaning The Vac
 

@@ -66,6 +66,7 @@ City Transformers take huge amounts of volts and convert them to amps to make it
 - [Respirator](https://www.amazon.com/3M-Comfort-Facepiece-Reusable-Respirator/dp/B00IF7RCU6) with a [P100 filter](https://www.amazon.com/3M-2091-Particulate-Filter-Pairs/dp/B00KYX8JBU) or N95 dust masks
 - [[Safety Goggles]]
 - Gloves
+- [Kneeseat](https://www.youtube.com/watch?v=VNrWVbOCI6M) | [Dealers](https://www.probst-handling.com/us/products/details/kneeseat)
 # Panel Template
 
 [Oakmore Outlet Mapping.xlsx](https://docs.google.com/spreadsheets/d/1BQSn69_lGLNvviKAZ4ghFFkCKHRBOusG/edit?usp=sharing&ouid=101037969843715996109&rtpof=true&sd=true)

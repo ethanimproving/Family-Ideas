@@ -135,12 +135,15 @@
       "templates": [
         "Attachments/Templates/oakmore-renovation-task-template.md"
       ],
-      "excludedNotes": [],
+      "excludedNotes": [
+        "Attachments/Templates/oakmore-renovation-task-template.md"
+      ],
       "isDefault": true,
       "dataSource": {
-        "kind": "dataview",
+        "kind": "tag",
         "config": {
-          "query": "TABLE status, assigned-to, minutes, parent\nFROM #oakmore-renovation-task AND !\"Attachments/Templates\""
+          "tag": "#oakmore-renovation-task",
+          "hierarchy": false
         }
       },
       "newNotesFolder": "Goals/Projects/Oakmore Renovation",
@@ -150,8 +153,21 @@
             "groupByField": "status",
             "includeFields": [
               "parent",
-              "assigned-to"
-            ]
+              "assigned-to",
+              "minutes",
+              "depends-on"
+            ],
+            "columns": {
+              "Defined": {
+                "weight": 0
+              },
+              "In-Prorgess": {
+                "weight": 1
+              },
+              "Complete": {
+                "weight": 2
+              }
+            }
           },
           "filter": {
             "conditions": []
