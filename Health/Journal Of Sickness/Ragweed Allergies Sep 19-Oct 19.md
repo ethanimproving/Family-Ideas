@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 start-date: 2023-09-19
-end-date: 2023-10-03
+end-date: 2023-10-19
 type: range
 color: gray
 tags: [timeline, sick]
