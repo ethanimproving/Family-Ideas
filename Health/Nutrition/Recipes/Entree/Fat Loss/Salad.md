@@ -39,3 +39,7 @@ tags: [cookmate]
 14. Raisins
 15. Nuts
 16. Lime juice
+
+# Use Olive Oil
+
+Use a mixture of Olive Oil and Balsamic vinegar. Olive Oil is a great source of Vitamin C [[Title 8 - Nutrition#Article 5 Skincare|which is good for your skin]] ([Doctor Mike](https://youtu.be/lUwUVVqJt1c?si=nTYmTRz3dMenC6FA&t=277)).

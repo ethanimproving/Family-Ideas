@@ -40,3 +40,5 @@ Milk
 ![](https://d3u8pti8i6gm88.cloudfront.net/medias/img/recipes/44450_Breakfast_Bowl_GkNTFSJ.png)
 
 ![](https://d3u8pti8i6gm88.cloudfront.net/medias/img/recipes/44450_Breakfast_Bowl_yuK5mpZ.png)
+
+Oats are a great source of fiber and protein ([Doctor Mike](https://youtu.be/lUwUVVqJt1c?si=gxtoMA4lD1u2497-&t=336)).
