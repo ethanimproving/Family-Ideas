@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 start-date: 2024-01-01
-end-date: 2024-01-07
+end-date: 2024-01-09
 type: range
 color: gray
 tags:
@@ -33,8 +33,14 @@ My left ear feels exactly like it did after I got off the plane from that one pl
 
 Up until today I've also been farting a lot. It started with burping, and my stomach felt empty every time I burped.
 
-# Jan 6
+# Jan 6: Ears Hurting A Lot, Medication Started
 
 Today I still woke up with a strained throat, but after taking my antibiotics it feels much better. My ears are almost unbearable to the point where I could not lean my head in the direction of my TV, so I laid on my left with a pillow against it firmly. After a few hours there was a slight cracking, and immediately it felt amazing, but quickly returned to the state of pain. I've had this before when I came home sick from the Bahamas with Faith. My ears had pressure for days. It was awful.
 
 Yawning is getting closer to cracking it than anything else. It still feels like there's 7 marshmallows stuffed up my ears. I'll miss church tomorrow. 
+
+# Jan 7: Sore Throat Gone
+
+# Jan 8: Coughing
+
+Today I am having more sinus congestion and coughing has started.

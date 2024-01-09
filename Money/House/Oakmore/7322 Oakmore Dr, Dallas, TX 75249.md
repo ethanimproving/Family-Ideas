@@ -5,6 +5,10 @@ sq-ft: 1,780
 tags: [homes2023]
 ---
 
+> [!bible] [Psalms 73:22 - KJV](https://bible-api.com/Psalm+73:22?translation=kjv)
+> 22. So foolish was I, and ignorant: I was as a beast before thee.
+
+
 ![](https://i.imgur.com/8wB3w0S.png)
 
 See videos of the house at the end of [this album](https://photos.google.com/u/1/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB). Another house in the neighborhood was renovated very nicely at [[7015 Cloverglen Dr, Dallas, TX 75249]].
