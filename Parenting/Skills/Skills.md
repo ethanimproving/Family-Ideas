@@ -121,7 +121,7 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 - [ ] [[Juggling]]
 - [ ] [[Singing]]
 - [ ] [[Drawing]]
-- [ ] [[Chess]]
+- [ ] [[Parenting/Skills/Chess]]
 - [ ] [[Spanish]]
 - [ ] Piano (Chester See)
 

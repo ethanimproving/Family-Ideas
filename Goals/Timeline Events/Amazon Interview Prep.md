@@ -1,11 +1,9 @@
 ---
 dg-publish: true
-start-date: 2022-08-30
+start-date: 2022-06-22
 end-date: 2022-10-27
 type: range
 color: green
-date-limit: year
-importance: 50
 tags:
   - timeline
   - personal
