@@ -44,15 +44,3 @@ I had 4 really good interviews at the end of Bootcamp. I wanted to stay at Impro
 
 ![](https://i.imgur.com/5EuGd7A.png)
 
-
-# Misc
-
-![](https://i.imgur.com/RZpOnEx.png)
-
-![](https://i.imgur.com/fCs4gPT.png)
-
-![](https://i.imgur.com/NGfjgPY.png)
-
-![](https://i.imgur.com/SoHPBIm.png)
-
-![](https://i.imgur.com/BHlm1D3.png)
