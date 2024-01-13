@@ -8,7 +8,7 @@ dg-publish: true
 
 ```timeline-vis
 tags=personal
-startDate=2022,11
+startDate=2022,05
 endDate=2023,11
 minDate=1990
 maxDate=2030

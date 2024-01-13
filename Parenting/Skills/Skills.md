@@ -114,7 +114,7 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 - [x] Air Hockey
 - [x] Ping Pong
 - [x] Biking
-- [ ] [[Guns]]
+- [ ] [[Shopping/Guns]]
 - [ ] Martial Arts
 - [ ] Dancing
 - [ ] Surfing

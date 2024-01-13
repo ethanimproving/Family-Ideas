@@ -1,3 +1,18 @@
+# 2024
+
+- [ ] Answer texts immediately. (Make [[Speed In Decision Making|quick decisions]] despite [[Ethan Miller#Emergenetics|deep analysis]] tendencies.)
+- [ ] Move into Oakmore
+- [ ] Complete Renovations on Oakmore House
+- [ ] Propose to Mariana
+	- [ ] Buy a ring.
+	- [ ] Prepare what to say.
+	- [ ] Choose a place and a time.
+
+## Spiritual Goals
+
+- [ ] Get a grip over my [[Stop Being Angry|anger]].
+- [ ] Reverse my anxiety/impatience with [[The Battle For Peace|peace from God]].
+
 # 2023
 
 

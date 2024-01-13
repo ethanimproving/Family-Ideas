@@ -3,7 +3,7 @@ dg-publish: true
 start-date: 2022-12-26
 end-date: 2023-03-03
 type: range
-color: green
+color: gray
 date-limit: year
 importance: 50
 tags:
