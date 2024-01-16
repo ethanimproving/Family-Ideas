@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-dg-creted: Jan 12, 2024, 6:30 PM
+dg-created: Jan 12, 2024, 6:30 PM
 ---
 
 # Seek God's Presence 

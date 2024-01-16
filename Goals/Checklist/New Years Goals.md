@@ -12,6 +12,7 @@
 
 - [ ] Get a grip over my [[Stop Being Angry|anger]].
 - [ ] Reverse my anxiety/impatience with [[The Battle For Peace|peace from God]].
+- [ ] [[Gain Discipline]]
 
 # 2023
 
