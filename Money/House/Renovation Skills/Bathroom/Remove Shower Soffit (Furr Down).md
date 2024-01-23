@@ -8,7 +8,10 @@ status: Defined
 minutes: 240
 assigned-to:
 depends-on:
-tags: [oakmore, masterbath, oakmore-renovation-task]
+tags:
+  - oakmore
+  - masterbath
+  - oakmore-renovation-task
 ---
 
 ![](https://lh3.googleusercontent.com/pw/ABLVV84byQURSvphFgp6UAEwL_F-unQPYxV2jO6x9_7YIFW_GwPkY4Ivn2EJY52Bgy1-pATrX4uq9ZyZu7L_d8mFSg3rPg9mz7mntTcA3lwVPRE8BMuqT36eJRE6Z7Dn0m0C5lzaCYNNbwz_62ekix3oDm5OiQ=w1254-h705-s-no-gm?authuser=0)

@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 dg-created: Jan 16, 2024, 9:56 PM
-date-completed: 
+date-completed:
 parent: Household
 status: Defined
 minutes: 720
-assigned-to: 
-depends-on: 
+assigned-to:
+depends-on:
 tags:
   - oakmore-renovation-task
 ---

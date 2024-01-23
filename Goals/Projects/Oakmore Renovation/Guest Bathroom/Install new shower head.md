@@ -6,7 +6,7 @@ parent: Guest Bathroom
 status: Defined
 minutes: 120
 assigned-to:
-depends-on: "Buying New Shower Head"
+depends-on: Buying New Shower Head
 tags:
   - oakmore-renovation-task
 ---
