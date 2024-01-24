@@ -31,7 +31,7 @@ This morning at 9:25 on my way to work, my [[Journal/Car Crash|car hydroplaned]]
 | [2015 Toyota Corolla S](https://www.facebook.com/marketplace/item/1656674621499914/)                                                                               | 133,000 | 7,500     | Black | Rebuilt     | ~~07/23/2023~~ | Dallas, TX             |
 | [2018 Toyota Corolla LE](https://www.facebook.com/marketplace/item/907493074002209/)                                                                               | 200,000 | 7,500     | Black | ~~Salvage~~ | 1/23/2024      | Dallas, TX             |
 | [2017 Nissan Altima](https://www.facebook.com/marketplace/item/393590883079614/)                                                                                   | 102,000 | 6,300     | Black | Clean       | 1/23/2024      | Sachse, TX             |
-| [2017 Toyota Camry](https://www.facebook.com/marketplace/item/1750553338752398/)                                                                                                                                                                   | 124,793        | 9,950          | Red      |             | 12/20/2023               | Fort Worth, TX                       |
+| [2017 Toyota Camry](https://www.facebook.com/marketplace/item/1750553338752398/)                                                                                                                                                                   | 124,793        | 9,950          | Red      | Rebuilt            | 12/20/2023               | Fort Worth, TX                       |
 
 I'm only willing to buy a salvage title if the amount that I save in buying it is greater than the amount insurance covers my current car.
 
