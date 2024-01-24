@@ -47,6 +47,19 @@ Open Sync settings for the folder that is being synced and uncheck `Selective Ph
 
 # Transfer Existing Backed-Up Photos to Unlimited Storage
 
+1. Select an entire month and add to an album
+2. Select all photos in Album and Select `Share` in the upper right corner. Then `Add to Sync`, and add to a folder within DCIM (I created a folder called "Sync" to keep it organized). The folder should now download and sync the files to your Pixel.
+3. Ensure the Google Pixel has **backup turned on** until Google photos has cached the newly synced photos to the existing photos in the cloud.
+4. Temporarily turn off backup on your Pixel device.
+5. Delete entire contents of the album on primary device.
+6. Re-enable backup on Pixel Device.
+7. Validate the number of photos in the album now match the previous number in the album.
+
+This method works with videos but gives the wrong timestamp for photos.
+
+
+# Transfer Existing Backed-Up Photos to Unlimited Storage
+
 ## 1. Save Photos on Pixel
 
 ## 2. Temporarily turn off backup on Pixel Device

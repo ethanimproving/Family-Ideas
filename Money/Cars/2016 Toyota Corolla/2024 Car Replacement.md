@@ -1,0 +1,82 @@
+---
+dg-publish: true
+dg-created: Jan 23, 2024, 6:12 PM
+start-date: 2024-01-23
+end-date: 2024-01-23
+type: range
+color: blue
+tags:
+  - timeline
+  - personal
+---
+This morning at 9:25 on my way to work, my [[Journal/Car Crash|car hydroplaned]] a couple of miles before my exit near Gateway church and spun out of control. It hit a wall and activated the airbags. The IntelliDrive app automatically called 911 and an officer arrived several minutes later.
+
+
+# Searches
+
+- [2015+ Carola Facebook Marketplace](https://www.facebook.com/marketplace/category/vehicles?minPrice=6000&maxPrice=14000&maxMileage=150000&minYear=2015&sortBy=vehicle_year_descend&make=2318041991806363&model=647700429016304&exact=false)
+- [2015+ Camry Facebook Marketplace](https://www.facebook.com/marketplace/category/vehicles?minPrice=6000&maxPrice=14000&maxMileage=150000&minYear=2015&sortBy=vehicle_year_descend&make=2318041991806363&model=582109948940125&exact=false)
+
+# Options without ACC
+
+| Year/Make/Model                                                                                                                                                    | Miles   | Price     | Color | Title       | Posted         | Location               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ----- | ----------- | -------------- | ---------------------- |
+| [2012 Toyota Corolla S](https://www.facebook.com/marketplace/107925612568471/?hoisted_items=2078799045790203)                                                      | 128,225 | 6,999     | Gray  | Clean       | ~~11/25/2023~~ |                        |
+| [2015 Toyota Corolla](https://www.facebook.com/marketplace/item/327230413446793/?ref=browse_tab&referral_code=marketplace_top_picks&referral_story_type=top_picks) | 214,000 | 6,000     | White |             | ~~12/20/2023~~ |                        |
+| 2015 Toyota Corolla                                                                                                                                                | 123,000 | 8,850     | White | Clean       |                | Carrollton, TX         |
+| [2017 Toyota Camry SE](https://www.facebook.com/marketplace/item/1400325894202347/)<br>                                                                            | 107,125 | ==8,900== | Gray  | Clean       | 1/20/2024      | Grand Prairie, TX      |
+| [2015 Toyota camry LE](https://www.facebook.com/marketplace/item/2293259074206841/)                                                                                | 131,938 | ==7,800== | Gray  |             | 01/09/2024     | 3822 N Westmoreland Rd |
+| [2017 Toyota Camry](https://www.facebook.com/marketplace/item/352823484053894/)                                                                                    | 113,000 | 10,900    | Black | Clean       | 12/20/2023     | Farmersville, TX       |
+| [2015 Toyota Camry](https://www.facebook.com/marketplace/item/786908429931041/)                                                                                    | 150,000 | 9,750     | Black | Clean       | 01/09/2024     | Irving, TX             |
+| [2015 Toyota Corolla S](https://www.facebook.com/marketplace/item/1656674621499914/)                                                                               | 133,000 | 7,500     | Black | Rebuilt     | ~~07/23/2023~~ | Dallas, TX             |
+| [2018 Toyota Corolla LE](https://www.facebook.com/marketplace/item/907493074002209/)                                                                               | 200,000 | 7,500     | Black | ~~Salvage~~ | 1/23/2024      | Dallas, TX             |
+| [2017 Nissan Altima](https://www.facebook.com/marketplace/item/393590883079614/)                                                                                   | 102,000 | 6,300     | Black | Clean       | 1/23/2024      | Sachse, TX             |
+| [2017 Toyota Camry](https://www.facebook.com/marketplace/item/1750553338752398/)                                                                                                                                                                   | 124,793        | 9,950          | Red      |             | 12/20/2023               | Fort Worth, TX                       |
+
+I'm only willing to buy a salvage title if the amount that I save in buying it is greater than the amount insurance covers my current car.
+
+# Options With ACC
+
+
+| Year/Make/Model                                                                       | Miles   | Price  | Color        | Title       | Posted    | Location          |
+| ------------------------------------------------------------------------------------- | ------- | ------ | ------------ | ----------- | --------- | ----------------- |
+| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/2022221214828176/) | 102,000 | 10,800 | Black        | Salvage     | 1/16/2024 | Dallas, TX        |
+| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/282049144523087/)  | 102,000 | 10,899 | Black        |             | 1/16/2024 | 10724 CF Hawn Fwy |
+| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/336627085876664/)  | 70,000  | 12,300 | Heather Blue | Clean       | 1/20/2024 | Balch Springs, TX |
+| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/1113522073394507/) | 110,000 | 12,000 | ==Red==      | ~~Salvage~~ | 1/16/2024 | Dallas, TX        |
+| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/1106384710696455/) | 100,000 | 11,200 | ==Red==      | ~~Salvage~~ | 1/16/2024 | Flower Mound, TX  |
+| [2020 Toyota Corolla L](https://www.facebook.com/marketplace/item/1048853593007615/)                                                                                      | 123,272        | 12,500       | Black             | Clean            | 1/16/2024          | Arlington, TX                  |
+
+
+# Features I Want
+
+- Media Control from Steering Wheel
+- Adaptive Cruise Control
+- Lane Assist
+- Black Interior
+
+# 2013 Car Value
+
+First of all I'd like to do an analysis on how much my 2013 car was worth. I paid $7,200 and drove 45,000 miles on it. Subtract the insurance amount I will receive, assuming $4,000 and that's $3,200.
+
+$$$3,200 /42,000 miles = 7 cents / mile $$
+
+I could adjust the volume and skip tracks from the steering wheel, which is now a must have for me.
+
+# Features
+
+| Model Year | Trim Level | Media Control from Steering Wheel | Adaptive Cruise Control | Lane Assist |
+| ---- | ---- | ---- | ---- | ---- |
+| 2015-2017 | L, LE | Optional (Audio only) | No | No |
+| 2015-2017 | S, XLE | Standard | Optional | No |
+| 2015-2017 | SE | Standard | Optional | No |
+| 2018-2019 | L, LE | Standard | Optional (TSS-P package) | No |
+| 2018-2019 | ==S, XLE== | Standard | Standard (TSS-P package) | No |
+| ==2018==-2019 | ==SE== | Standard | ==Standard== (TSS-P package) | Optional (SE Premium package) |
+| 2020-2023 | L | Standard | Optional (Toyota Safety Sense 2.0) | No |
+| ==2020==-2023 | LE, XLE | Standard | Standard (Toyota Safety Sense 2.0) | Optional |
+| 2020-2023 | SE, XSE | Standard | Standard (Toyota Safety Sense 2.0) | Standard |
+| 2024 | L | Standard | Optional | No |
+| 2024 | LE, XLE | Standard | Standard | Optional |
+| 2024 | SE, XSE | Standard | Standard | Standard |
+
