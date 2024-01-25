@@ -14,8 +14,11 @@ This morning at 9:25 on my way to work, my [[Journal/Car Crash|car hydroplaned]]
 
 # Searches
 
-- [2015+ Carola Facebook Marketplace](https://www.facebook.com/marketplace/category/vehicles?minPrice=6000&maxPrice=14000&maxMileage=150000&minYear=2015&sortBy=vehicle_year_descend&make=2318041991806363&model=647700429016304&exact=false)
+- [2015+ Corolla Facebook Marketplace](https://www.facebook.com/marketplace/category/vehicles?minPrice=6000&maxPrice=14000&maxMileage=150000&minYear=2015&sortBy=vehicle_year_descend&make=2318041991806363&model=647700429016304&exact=false)
 - [2015+ Camry Facebook Marketplace](https://www.facebook.com/marketplace/category/vehicles?minPrice=6000&maxPrice=14000&maxMileage=150000&minYear=2015&sortBy=vehicle_year_descend&make=2318041991806363&model=582109948940125&exact=false)
+- [2015+ Corolla Craigslist](https://dallas.craigslist.org/search/sachse-tx/sss?auto_make_model=Toyota%20Corolla&auto_title_status=1&hasPic=1&lat=32.9819&lon=-96.5390&max_auto_miles=125000&max_price=14000&min_auto_year=2015&min_price=3000&query=toyota%20Corolla&search_distance=68&sort=date#search=1~gallery~0~0)
+- [2015+ Camry Craigslist](https://dallas.craigslist.org/search/sachse-tx/sss?auto_make_model=Toyota%20Corolla&auto_title_status=1&hasPic=1&lat=32.9819&lon=-96.5390&max_auto_miles=125000&max_price=14000&min_auto_year=2015&min_price=3000&query=toyota%20camry&search_distance=68&sort=date#search=1~gallery~0~0)
+- [2015+ Corolla + Camry Offer Up](https://offerup.com/explore/k/5/1?VEH_YEAR_MIN=2015&VEH_MILEAGE=150000&VEH_STYLE=c&PRICE_MAX=14000&VEH_MAKE=td%2Chb)
 
 # Options without ACC
 
@@ -38,14 +41,19 @@ I'm only willing to buy a salvage title if the amount that I save in buying it i
 # Options With ACC
 
 
-| Year/Make/Model                                                                       | Miles   | Price  | Color        | Title       | Posted    | Location          |
-| ------------------------------------------------------------------------------------- | ------- | ------ | ------------ | ----------- | --------- | ----------------- |
-| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/2022221214828176/) | 102,000 | 10,800 | Black        | Salvage     | 1/16/2024 | Dallas, TX        |
-| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/282049144523087/)  | 102,000 | 10,899 | Black        |             | 1/16/2024 | 10724 CF Hawn Fwy |
-| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/336627085876664/)  | 70,000  | 12,300 | Heather Blue | Clean       | 1/20/2024 | Balch Springs, TX |
-| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/1113522073394507/) | 110,000 | 12,000 | ==Red==      | ~~Salvage~~ | 1/16/2024 | Dallas, TX        |
-| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/1106384710696455/) | 100,000 | 11,200 | ==Red==      | ~~Salvage~~ | 1/16/2024 | Flower Mound, TX  |
-| [2020 Toyota Corolla L](https://www.facebook.com/marketplace/item/1048853593007615/)                                                                                      | 123,272        | 12,500       | Black             | Clean            | 1/16/2024          | Arlington, TX                  |
+| Year/Make/Model                                                                       | Miles   | Price      | Color        | Title       | Posted     | Location          |
+| ------------------------------------------------------------------------------------- | ------- | ---------- | ------------ | ----------- | ---------- | ----------------- |
+| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/2022221214828176/) | 102,000 | 10,800     | Black        | ~~Salvage~~ | 1/16/2024  | Dallas, TX        |
+| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/282049144523087/)  | 102,000 | 10,899     | Black        | ~~Salvage~~ | 1/16/2024  | 10724 CF Hawn Fwy |
+| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/336627085876664/)  | 70,000  | 12,300     | Heather Blue | Rebuilt     | 1/20/2024  | Balch Springs, TX |
+| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/1113522073394507/) | 110,000 | 12,000     | ==Red==      | ~~Salvage~~ | 1/16/2024  | Dallas, TX        |
+| [2020 Toyota Corolla LE](https://www.facebook.com/marketplace/item/1106384710696455/) | 100,000 | 11,200     | ==Red==      | ~~Salvage~~ | 1/16/2024  | Flower Mound, TX  |
+| [2020 Toyota Corolla L](https://www.facebook.com/marketplace/item/1048853593007615/)  | 123,272 | 12,500     | Black        | Clean       | 1/16/2024  | Arlington, TX     |
+| [2019 Toyota Corolla LE](https://www.facebook.com/marketplace/item/1134761560867989/) | 63,000  | 10,500     | White        | ~~Rebuilt~~ | 1/21/2024  |                   |
+| [2019 Toyota Corolla LE](https://www.facebook.com/marketplace/item/770397021618758/)  | 103,850 | ==11,000== | Dark Gray    | Clean       | 1/24/2024  | Arlington, TX     |
+| [2019 Toyota Corolla SE](https://www.facebook.com/marketplace/item/260687167013100/)  | 68,500  | 11,900     | Gray         | ~~Rebuilt~~ | 12/09/2023 |                   |
+| [2019 Toyota Corolla LE](https://www.facebook.com/marketplace/item/684761427145286/)  | 69,185  | 12,800     | Red          |             | 1/10/2024  | Irving, TX        |
+| [2019 Toyota Corolla LE](https://www.facebook.com/marketplace/item/1354407755463236/)                                                                                       | 76,000        | 12,900           | Red             |             | 11/04/2023           | Dallas, TX                  |
 
 
 # Features I Want
@@ -80,3 +88,14 @@ I could adjust the volume and skip tracks from the steering wheel, which is now 
 | 2024 | LE, XLE | Standard | Standard | Optional |
 | 2024 | SE, XSE | Standard | Standard | Standard |
 
+
+> [!failure]- Failure 
+>   Error: net::ERR_NAME_NOT_RESOLVED
+>   
+>   - browser_init:2 SimpleURLLoaderWrapper.
+>     node:electron/js2c/browser_init:2:49935
+>   
+>   - node:events:513 SimpleURLLoaderWrapper.emit
+>     node:events:513:28
+>   
+>  
