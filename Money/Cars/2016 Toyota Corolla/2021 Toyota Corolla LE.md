@@ -18,6 +18,38 @@ Bought from NTX Power Sports and Cars 11261 Harry Hines Blvd, Dallas, tx, 75229 
 
 ![](https://i.imgur.com/6dmzLaq.png)
 
+# Carfax
+
+[Carfax](https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=ACW_0&vin=5YFEPMAE5MP154170&fbclid=IwAR0hM0tXSCqTfR4bR2FBlnJaVi7pfaBDJDUgAIYtaQjyU5hmRHtJP8S2JdE)
+
+Hail damage reported on 1/3/2024.
+## Owner 1:
+
+| Service Center | Number of Visits |
+| ---- | ---- |
+| Round Rock Toyota | 5 |
+| Toyota of Cedar Park | 1 |
+| Tires To You | 1 |
+| Walmart Auto Care | 2 |
+| Sun Auto Service | 0 |
+| Total Oil Changes | 9 |
+| Average Oil Change Interval | 8,349 miles |
+| Ownership period | Aug 3, 2020 - May 13, 2022 |
+| Total miles driven | 82,705 |
+
+## Owner 2:
+
+| Service Center | Number of Visits |
+| ---- | ---- |
+| Round Rock Toyota | 2 |
+| Toyota of Cedar Park | 7 |
+| Sun Auto Service | 1 |
+| Walmart Auto Care | 2 |
+| Total Oil Changes | 12 |
+| Average Oil Change Interval | 5,659 miles |
+| Ownership period | May 27, 2022 - Jan 21, 2024 |
+| Total miles driven | 70,455 |
+
 # Photos
 
 ![](https://i.imgur.com/LBwjFHT.png)
