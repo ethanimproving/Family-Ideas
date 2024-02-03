@@ -35,7 +35,7 @@ According to NADA, my car is worth **$7,175-11,600**.
 
 - [ ] Replace [[Handle]]
 - [ ] Replace [[Tail Light Assembly|Tail Light]]
-- [ ] [[Pointless Dent Repair (PDR)|Fix hail damage]]
+- [ ] [[Paintless Dent Repair (PDR)|Fix hail damage]]
 - [ ] Paint job
 - [ ] Buff scratches
 - [ ] Clean 2013 Floor Matts and Check for Compatibility
