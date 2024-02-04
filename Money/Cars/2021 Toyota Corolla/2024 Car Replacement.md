@@ -2,7 +2,7 @@
 dg-publish: true
 dg-created: Jan 23, 2024, 6:12 PM
 start-date: 2024-01-23
-end-date: 2024-01-23
+end-date: 2024-01-27
 type: range
 color: blue
 tags:
@@ -41,3 +41,6 @@ According to NADA, my car is worth **$7,175-11,600**.
 - [ ] Clean 2013 Floor Matts and Check for Compatibility
 - [ ] Buy [[Car Floor Mats]]
 - [ ] [[Rust Spot Repair]]
+- [ ] Replace Bad Fuse
+- [ ] Remove Sound Deadener / Vibration Damper
+- [ ] Vacuum Scratches 
