@@ -9,7 +9,7 @@ tags:
   - personal
 ---
 
-I finally got serious about persisting the information I learn about nutrition into one centralized collection of knowledge written in the form of lessons, or rules (applied knowledge). Losers brag about their IQ. What matters is applied intelligence. Everything else is fluff. 
+I finally got serious about persisting the information I learn about nutrition into one centralized collection of knowledge written in the form of lessons, or rules ([[Applied Intelligence|applied knowledge]]). Losers brag about their IQ. What matters is applied intelligence. Everything else is fluff. 
 
 - [[Nutrition Curriculum]]
 - [[Title 8 - Nutrition]]

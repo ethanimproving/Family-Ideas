@@ -12,7 +12,7 @@
 12. Banks and Banking
 13. Census
 14. Coast Guard
-15. Commerce and Trade
+15. [Commerce and Trade](https://uscode.house.gov/browse/prelim@title15&edition=prelim)
 16. Conservation
 17. Copyrights
 18. Crimes and Criminal Procedure
@@ -26,7 +26,7 @@
 26. Internal Revenue Code
 27. Intoxicating Liquors
 28. Judiciary and Judicial Procedure
-29. Labor
+29. [Labor](https://www.dol.gov/general/cfr/title_29)
 30. Mineral Lands and Mining
 31. Money and Finance
 32. National Guard
