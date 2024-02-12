@@ -2,7 +2,7 @@
 dg-publish: true
 dg-created: Jan 01, 2024, 7:36 PM
 date-completed: Jan 01, 2024, 4:03 PM
-parent: "Ethan's Room"
+parent: Ethan's Room
 status: Complete
 minutes: 120
 assigned-to: Ethan

@@ -3,7 +3,7 @@ dg-publish: true
 dg-created: Jan 01, 2024, 10:20 AM
 date-completed:
 parent: Garage
-status: In-Prorgess
+status: Complete
 minutes: 30
 assigned-to: Ethan
 depends-on: Buying a Straight Edge

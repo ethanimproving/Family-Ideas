@@ -3,7 +3,7 @@ dg-publish: true
 dg-created: Jan 22, 2024, 9:58 PM
 date-completed:
 parent: Utility Room
-status: In-Prorgess
+status: Complete
 minutes: 60
 assigned-to: Ethan Miller
 depends-on: Buying Google Nest

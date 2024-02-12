@@ -3,7 +3,7 @@ dg-publish: true
 dg-created: Jan 01, 2024, 3:05 PM
 date-completed:
 parent: Household
-status: In-Prorgess
+status: Complete
 minutes: 30
 assigned-to: Ethan
 depends-on:
