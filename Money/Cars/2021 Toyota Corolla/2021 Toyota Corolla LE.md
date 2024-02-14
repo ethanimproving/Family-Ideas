@@ -11,6 +11,10 @@
 | Odometer             | 153,165                  |
 
 
+Normally the warranty transitions to the new owner.
+
+Round Rock Toyota: (512) 244-6900
+
 Bought from NTX Power Sports and Cars 11261 Harry Hines Blvd, Dallas, tx, 75229 Monday-Saturday 10am-6pm Cell: 214-444-4493 Website: ntxcar.com from a nice girl named Amy from Nepal who is taking college courses for computer science. I asked for 12.5k including TTL and she accepted my first offer.
 
 
