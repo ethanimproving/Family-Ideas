@@ -6,5 +6,6 @@
   "strictLineBreaks": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachments",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "readableLineLength": false
 }

@@ -59,3 +59,27 @@ Brad nailers are used to hold in place while glue sets.
 
 Brad Nailers: 5/8 - 2.5 inches long
 Finish Nailers: 14-16 gauge nails, 1-1.25 inches long
+
+# Air Compressor
+
+| Feature          | Dewalt 2.5 Gal. Heavy Duty (DWFP55130) | Dewalt 1 Gal. Trim Compressor | 2.5 Gal. 140 psi Cordless (DCC2520B) |
+|------------------|----------------------------------------|-------------------------------|--------------------------------------|
+| CFM (SCFM)       | 4.7 (3.1)                              | 2.3 (1.5)                     | 2.0 (1.3)                            |
+| Noise (dB)       | 76                                     | 60                            | 82                                   |
+| Pressure (PSI)   | 200                                    | 135                           | 140                                  |
+| Price (USD)      | ~$220                                  | ~$100                         | ~$200                                |
+| Weight (lbs)     | 41                                     | 32                            | 27                                   |
+| Size (L x W x H) | 20.9" x 11.4" x 16.2"                  | 16.5" x 10" x 14.2"           | 19.3" x 11.4" x 15.4"                |
+| Gallon Capacity  | 2.5                                    | 1                             | 2.5                                  |
+| Power Source     | Electric                               | Electric                      | Battery (20V Max)                    |
+| Oil-Free Pump    | Yes                                    | Yes                           | Yes                                  |
+| Best For         | Heavy-duty tasks, framing, roofing     | Trim carpentry, light nailing | Light-duty tasks, portability        |
+
+## CFM Requirements for Tools
+
+| Job Description                              | CFM Requirement |
+|----------------------------------------------|-----------------|
+| Installing trim with a brad nailer           | 1-2 CFM         |
+| Installing fence with a framing nailer       | 2-4 CFM         |
+| Cleaning car interior with a tornador blower | 3-5 CFM         |
+| Clearing AC discharge pipe                   | 4-6 CFM         |
