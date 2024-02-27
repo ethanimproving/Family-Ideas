@@ -2,13 +2,15 @@
 
 # Car Info
 
-| Car Details  |                   |
-| ------------ | ----------------- |
-| VIN          | 5YFEPMAE5MP154170 |
-| Year         | 2021              |
-| Trim         | LE                |
-| Title Status | Clean             |
-| Odometer             | 153,165                  |
+| Car Details  |                                                                                                                    |
+| ------------ | ------------------------------------------------------------------------------------------------------------------ |
+| VIN          | 5YFEPMAE5MP154170                                                                                                  |
+| Year         | 2021                                                                                                               |
+| Trim         | LE                                                                                                                 |
+| Title Status | Clean                                                                                                              |
+| Odometer     | 153,165                                                                                                            |
+| Dealer Name  | AARON CARS LLC                                                                                                     |
+| TagNo        | [4794C41](https://tags.txdmv.gov/tagLookup/tagdetails?tagno=4794C41&authcode=23aea4ad-ecea-45d0-8bd1-dbeb1283f55d) |
 
 
 Normally the warranty transitions to the new owner.

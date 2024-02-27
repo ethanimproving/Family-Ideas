@@ -5,6 +5,8 @@
   "enabledCssSnippets": [
     "slack",
     "timeline",
-    "evernote"
-  ]
+    "evernote",
+    "cookmate"
+  ],
+  "translucency": false
 }

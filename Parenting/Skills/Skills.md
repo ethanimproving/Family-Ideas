@@ -43,17 +43,17 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 - [x] Trading Options
 - [x] Firework Technician
 - [ ] [[Typing]]
-- [ ] Mechanic
+- [ ] [Mechanic](https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-service-technicians-and-mechanics.htm)
 	- [ ] Oil Change
 	- [ ] Break Rotors
 	- [ ] Battery
 	- [ ] Transmission
 - [x] [[Pressure Washer|Pressure Washing]]
-- [ ] Contractor
-	- [ ] Plumbing
+- [ ] [Contractor](https://www.bls.gov/ooh/construction-and-extraction/home.htm)
+	- [ ] [Plumbing](https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm)
 	- [ ] Construction
-	- [ ] Carpentry
-	- [ ] Masonry
+	- [ ] [Carpentry](https://www.bls.gov/ooh/construction-and-extraction/carpenters.htm)
+	- [ ] [Masonry](https://www.bls.gov/ooh/construction-and-extraction/brickmasons-blockmasons-and-stonemasons.htm)
 	- [ ] HVAC Systems
 	- [ ] Roofing
 	- [ ] Tiling
@@ -69,7 +69,7 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 - [x] Laundry
 - [x] [[Car Wash Procedure|Car Wash]]
 - [x] Lawn Mowing
-- [ ] Lawn Care
+- [ ] [[Lawn Care]]
 - [ ] Gardening
 - [ ] [[Map Reading]]
 - [ ] [[Speed Reading]]
