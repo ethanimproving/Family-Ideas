@@ -76,6 +76,7 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 - [ ] [[Storytelling]]
 - [ ] Nutrition
 - [x] Working Out
+- [ ] Tailoring
 
 ## Spiritual
 

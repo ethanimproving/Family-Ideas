@@ -67,11 +67,11 @@ My backyard grass stays alive in the winter. It is a cool-season grass, possibly
 
 ### Pre-Emergent Application Rates and Timing
 
-| Step   | Timing                 | Soil Temperature Range (°F)                    | Pre-Emergent Type                                                                                                                                          |
-| ------ | ---------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Step 1 | Early/Mid Spring       | When soil temps cross 50°F<br>heading to 55°F  | [Prodiamine](https://thelawncarenut.com/collections/pre-emergents/products/prodiamine)                                                                     |
-| Step 2 | About 35-45 days later | When soil temps cross 65°F<br>heading to 70° F | [Prodiamine](https://thelawncarenut.com/collections/pre-emergents/products/prodiamine)                                                                     |
-| Step 3 | Early Fall             | When soil temps approach/fall to 70°F          | [Dithiopyr](https://thelawncarenut.com/collections/pre-emergents-1/products/yard-mastery-172-dithiopyr-pre-emergent-herbicide-with-fertilizer-0-0-7-45lb#) |
+| Step   | Timing                 | [Soil Temperature](https://www.greencastonline.com/tools/soil-temperature) Range (°F) | Pre-Emergent Type                                                                                                                                          |
+| ------ | ---------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Step 1 | Early/Mid Spring       | When soil temps cross 50°F<br>heading to 55°F                                         | [Prodiamine](https://thelawncarenut.com/collections/pre-emergents/products/prodiamine)                                                                     |
+| Step 2 | About 35-45 days later | When soil temps cross 65°F<br>heading to 70° F                                        | [Prodiamine](https://thelawncarenut.com/collections/pre-emergents/products/prodiamine)                                                                     |
+| Step 3 | Early Fall             | When soil temps approach/fall to 70°F                                                 | [Dithiopyr](https://thelawncarenut.com/collections/pre-emergents-1/products/yard-mastery-172-dithiopyr-pre-emergent-herbicide-with-fertilizer-0-0-7-45lb#) |
 
 If you want the application rates for the WG for liquid, [here is a full page](https://yardmastery.com/pages/how-to-apply-prodiamine-65-wdg-liquid-pre-emergent-mix-and-application-instructions) showing you how much to apply.
 
@@ -90,11 +90,11 @@ My front yard is a warm season grass. It dies during the winter.
 
 When soil temps cross the range, apply the step
 
-| Step   | Soil Temperature Range (°F)                | Pre-Emergent Type                                                                                                                                         |
-| ------ | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Step 1 | When soil temps cross 50°F heading to 55°F | [Prodiamine](https://thelawncarenut.com/collections/granular-fertilizer/products/prodiamine)                                                              |
-| Step 2 | When soil temps cross 65°F heading to 70°F | [Prodiamine](https://thelawncarenut.com/collections/granular-fertilizer/products/prodiamine)                                                              |
-| Step 3 | When soil temps begin to fall below 70°F   | [Prodiamine](https://thelawncarenut.com/collections/granular-fertilizer/products/prodiamine)                                                              |
-| Step 4 | If soil temps stay over 55°F during winter | [Dithiopyr](https://thelawncarenut.com/collections/pre-emergents-1/products/yard-mastery-172-dithiopyr-pre-emergent-herbicide-with-fertilizer-0-0-7-45lb) |
+| Step   | [Soil Temperature](https://www.greencastonline.com/tools/soil-temperature) Range (°F) | Pre-Emergent Type                                                                                                                                         |
+| ------ | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Step 1 | When soil temps cross 50°F heading to 55°F                                            | [Prodiamine](https://thelawncarenut.com/collections/granular-fertilizer/products/prodiamine)                                                              |
+| Step 2 | When soil temps cross 65°F heading to 70°F                                            | [Prodiamine](https://thelawncarenut.com/collections/granular-fertilizer/products/prodiamine)                                                              |
+| Step 3 | When soil temps begin to fall below 70°F                                              | [Prodiamine](https://thelawncarenut.com/collections/granular-fertilizer/products/prodiamine)                                                              |
+| Step 4 | If soil temps stay over 55°F during winter                                            | [Dithiopyr](https://thelawncarenut.com/collections/pre-emergents-1/products/yard-mastery-172-dithiopyr-pre-emergent-herbicide-with-fertilizer-0-0-7-45lb) |
 
 **IMPORTANT**: All pre-emergent applications need to be watered into work. Get them watered in within 48 hours of application if you can. The sun can degrade the chemical so get it watered in ASAP.
