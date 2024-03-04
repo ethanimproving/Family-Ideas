@@ -37,8 +37,22 @@ dg-created: Feb 26, 2024, 9:32 PM
 2. Mix the fluff with [Fuse-it Powder](https://www.amazon.com/Bo-Nash-2-Ounce-Fusible-Bonding-Agent/dp/B000W5JQKI/ref=sr_1_2?dib=eyJ2IjoiMSJ9.HGwZe5gOwK4vEosT15uBnAWHLsTsgyG_5iBZhapR6A931trBNwNpUV8nDGGDEmj6o64-sgyO7pCEk_o6QV2jgZiVn6s0R0tHP5klRWKVt7c.b3-ShHkuzFLjQInldBbdeqzlGvuMy8dt-aMkosM7NwM&dib_tag=se&keywords=Bo-Nash%2BFuse%2BIt%2BPowder&s=arts-crafts&sr=1-2&th=1).
 3. Apply fluff into the whole and add more fuse-it powder.
 4. Add a small patch to the wrong side to support the new threads.
-5. Apply the patch with an iron on the maximum cotton-linin and a fiberglass sheet to protect the fabric.
+5. Apply the patch with an iron on the maximum cotton-linin and a [fiberglass sheet](https://www.amazon.com/ZENFUN-Fiberglass-Inches-Glass-Surfboard/dp/B0CQY5KX84/ref=sr_1_1) to protect the fabric.
 
 [How to fix holes in a suit jacket with Fuse It Powder](https://www.youtube.com/watch?v=ZAg-mvQ_8Q4)
 
 Put clothes away cleaned and you have fewer issues. The grubs like to eat the human oils we leave on clothing. A hanging garment bag is also a good solution for this. Cedar cubes in drawers also repel them.
+
+# Needles
+
+## Thread A Needle
+
+[Learn to tie a knot in your thread - the easy way!](https://www.youtube.com/shorts/R-IbkK9Gpo8)
+
+[How to tie a knot easily while hand sewing.](https://www.youtube.com/shorts/7_ESoQ5h6so)
+
+## Tying Off
+
+[How to End a Stitch](https://www.youtube.com/shorts/84jriiTv3Es)
+
+[Beginning & Ending Embroidery Knots](https://www.youtube.com/shorts/uNtQ1TKW7tY)

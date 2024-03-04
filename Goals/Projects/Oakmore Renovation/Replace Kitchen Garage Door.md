@@ -3,7 +3,7 @@ dg-publish: true
 dg-created: Feb 11, 2024, 10:20 PM
 date-completed:
 parent: Garage
-status: In-Prorgess
+status: Complete
 minutes: 600
 assigned-to: John Ball
 depends-on: Nail Gun
@@ -11,6 +11,8 @@ tags:
   - oakmore-renovation-task
 cost: "500"
 ---
+[[R&R (Remove and Replace) Door from Garage to Kitchen Hallway]]
+
 - [x] Swanson Speed Square
 - [x] Power Hand Saw ($80)
 - [ ] [Reciprocating saw](https://www.homedepot.com/p/DEWALT-20V-MAX-Cordless-Reciprocating-Saw-Tool-Only-DCS380B/203164237) 

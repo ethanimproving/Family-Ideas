@@ -3,7 +3,7 @@ dg-publish: true
 dg-created: Jan 01, 2024, 8:35 PM
 date-completed:
 parent: Guest Bathroom
-status: Defined
+status: Complete
 minutes: 180
 assigned-to:
 depends-on:

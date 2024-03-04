@@ -150,7 +150,6 @@
       "views": [
         {
           "config": {
-            "groupByField": "status",
             "includeFields": [
               "parent",
               "assigned-to",
@@ -167,7 +166,8 @@
               "Complete": {
                 "weight": 2
               }
-            }
+            },
+            "groupByField": "status"
           },
           "filter": {
             "conditions": []
