@@ -21,6 +21,9 @@ dg-created: Oct 15, 2023, 2:54 PM
 | [Advanced Nutrition and Human Metabolism](https://www.amazon.com/Advanced-Nutrition-Metabolism-MindTap-Course/dp/0357449819/ref=zg_bs_g_5676197011_sccl_6/134-3562437-0686944?psc=1) | Kindle       | 3 weeks  | 4 hours        |               |               |
 | [Understanding Nutrition](https://www.amazon.com/Understanding-Nutrition-Ellie-Whitney-ebook/dp/B08QRF8BJQ/ref=sr_1_1)                                                               | Kindle       | 4 weeks  | 4 hours               |               |               |
 
+[How to Fix Your Diet For Health & LONGEVITY; The Man Who Can Predict When You'll Die | Gary Brecka](https://www.youtube.com/watch?v=K4eRDUaHj-w)
+
+
 
 **TODO**: there are many free online resources and structured courses that can help you acquire in-depth knowledge about nutrition for personal health and wellness goals. While these may not replace professional training, they can provide valuable insights and guidance. Here are some recommendations:
 

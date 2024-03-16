@@ -89,9 +89,6 @@ Please note that your shirt should be laid flat on a table or smooth surface for
 ## Suit Pants - Measure your best fitting pants
 Please note that pants should be laid flat on a table or smooth surface for proper measurement. 
 
-![Uploading file...bovny]()
-
-
 ![](https://i.imgur.com/bP80PFQ.png)
 ![](https://i.imgur.com/CksVST0.png)
 ![](https://i.imgur.com/6bZdUZt.png)
