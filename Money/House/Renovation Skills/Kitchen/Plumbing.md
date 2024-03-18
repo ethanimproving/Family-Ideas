@@ -37,6 +37,9 @@ Older houses often soldered stop valves onto the pipe. In order to get it off, y
 
 ## Steps to Replace Soldered Faucet with Quarter Turn:
 
+[How to remove old bathroom faucet | quick and easy](https://www.youtube.com/watch?v=LDSKSanNhQA)
+
+
 1. **Shut off Water**: Turn off the water supply to the faucet you're replacing. You may need to shut off the main water supply to your house.
     
 2. **Drain Water**: Turn on the faucet to drain any remaining water from the pipes.
@@ -60,4 +63,22 @@ Older houses often soldered stop valves onto the pipe. In order to get it off, y
 11. **Turn on Water**: Turn on the water supply and check for leaks. If any leaks are found, tighten connections as needed.
     
 12. **Test Faucet**: Turn on the faucet and test for proper operation. Ensure hot and cold water flow smoothly and there are no leaks.
+	
+### Remove Stick Basin Nuts
+
+[Replacing faucet with stuck basin nuts](https://www.youtube.com/watch?v=ZpQWJaNo0sY)
+
+If the mounting hardware or retaining nut is stuck and you're having trouble unscrewing it, here are a few suggestions you can try:
+
+1. **Apply penetrating oil**: Spray or apply a penetrating oil like WD-40 or PB Blaster to the stuck nut. Let it sit for a while to penetrate the threads and loosen the nut.
     
+2. **Use heat**: If the nut is still stuck after applying penetrating oil, you can try heating it with a hairdryer or heat gun. Heat can sometimes expand the metal slightly, making it easier to loosen.
+    
+3. **Use a wrench or pliers**: Use an adjustable wrench or a pair of locking pliers to grip the nut securely. Make sure you're turning it in the correct direction to loosen it (usually counterclockwise).
+    
+4. **Tap with a hammer**: Gently tap the stuck nut with a hammer to help break up any corrosion or rust that may be causing it to stick. Be careful not to damage the surrounding area.
+    
+5. **Use a [nut splitter](https://www.youtube.com/shorts/ZAnSRY3rvO4)**: If the above methods don't work, you can try using a nut splitter tool specifically designed to cut through stuck or stubborn nuts. Follow the manufacturer's instructions carefully.
+    
+
+Be patient and take your time to avoid damaging the faucet or surrounding area while trying to loosen the stuck nut.
