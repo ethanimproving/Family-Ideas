@@ -16,6 +16,7 @@ Fannie Mae offers a [HomeView certificate course](https://www.fanniemae.com/educ
 
 **2.3** Don't rinse hair trimmings longer than 2 millimeters down the drain.
 
+**2.4** If you have a stain on your clothes, mark it with a clothing clip to indicate to whoever is doing laundry to pretreat it. Once the stain is pretreated, throw the clip into a basket.
 
 ## § 3. [[500 Pushups|Psychological Development]]
 
@@ -75,4 +76,3 @@ Derived from [[12 Rules For Life]] by Jordan Peterson
 **6.12** Pet a Cat When You Encounter One on the Street:
 
 - _Appreciation:_ Find joy in simple pleasures and appreciate the beauty in everyday moments.
-

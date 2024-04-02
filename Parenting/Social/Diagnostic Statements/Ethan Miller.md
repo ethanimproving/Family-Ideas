@@ -28,6 +28,8 @@ Driven by your talents, **you have a gift for raising a person’s self-esteem**
 
 # Emergenetics
 
+At my second company, we took Emergenetics. My Emergenetics profile is as follows:
+
 ![[Profile_Narrative_Ethan_Miller_20019067-0a8f-4e0b-a3d4-a1128b67f8c8_EN-US_638199514839885818-1.svg]]
 # DiSC Assessment
 
@@ -87,7 +89,7 @@ Finally, here are some cool Campaigner insights from our research. According to 
 
 # Astrology
 
-While astrology is nonsense, there are some positive psychological implications of reading somebody tell you who you are. People often act out the behavior others recognize in them, whether true or false. This is known as a self-fulfilling prophesy, a term most people have heard. So to have some blind fun, [here we go](https://www.costarastrology.com/zodiac-signs/aries-sign):
+While astrology is nonsense, there are some positive psychological implications of reading somebody tell you who you are. People often act out the behavior others recognize in them, whether true or false. This is known as a self-fulfilling prophesy, a term most people are familiar with from academic studies. So to have some blind fun, [here we go](https://www.costarastrology.com/zodiac-signs/aries-sign):
 
 ## Ares
 
@@ -123,10 +125,22 @@ All Aries want to feel things intensely. This is one of their most commendable q
 - Will do anything on a dare
 - Easily bored
 
+# Selective Attention and Cognitive Filtering
+
+**Sensory Processing Sensitivity**: the threshold at which sensory information is deemed salient enough to be elevated to working memory.
+
+People have individual differences in sensory processing sensitivity, and I would call this your **Brain Sensory Processing Footprint** or **Neuro-Sensory Modulation Profile**.
+
+My [[Working Memory|Neuro-Sensory Modulation Profile]] indicates that my brain has a low threshold of moving sensory input into working memory for further analysis, which can cause me to be quickly overwhelmed when sensory input in an environment is high enough. When noise is above 90db for longer than an hour my brain begins to shut down and I become a vegetable.
+
+If I'm at Six Flags engaging in the noise, riding Roller Coasters, talking to my friends, my brain is in a relaxed enough state of mind that my threshold becomes higher and I don't have a problem. But if I'm observing the noise without engaging in it, my brain kicks into overdrive and begins processing everything in working memory, making me fatigued.
+
 # Anthropometric Data
 
-| Parameter                    | Calories/Day |
-|------------------------------|--------------|
-| **Basal Metabolic Rate** (BMR)   | 1645         |
-| Exercise                     | 500          |
-| 20% Negative Calorie Balance | 1716         |
+| Parameter                             | Calories/Day |
+| ------------------------------------- | ------------ |
+| **Basal Metabolic Rate** (BMR)        | 1645         |
+| Exercise                              | 500          |
+| Total Daily Energy Expenditure (TDEE) | 2145         |
+| 20% Negative Calorie Balance          | 1716         |
+
