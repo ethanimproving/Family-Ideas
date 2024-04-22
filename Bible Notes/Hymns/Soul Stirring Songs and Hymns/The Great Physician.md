@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: The Great Physician
 author: William Hunter
 audio: http://www.kjvprophecy.com/114.mp3

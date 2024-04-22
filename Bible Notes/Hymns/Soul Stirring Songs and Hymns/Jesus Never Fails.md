@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Jesus Never Fails
 author: Arthur A. Luther
 audio: http://www.kjvprophecy.com/101.mp3

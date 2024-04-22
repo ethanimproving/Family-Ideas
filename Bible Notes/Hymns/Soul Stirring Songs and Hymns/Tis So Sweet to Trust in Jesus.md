@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Tis So Sweet to Trust in Jesus
 author: Louisa M. R. Stead (1882)
 audio: http://www.kjvprophecy.com/127.mp3

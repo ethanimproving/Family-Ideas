@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: I Love to Tell the Story
 author: Kate Hankey (1866)
 audio: http://www.kjvprophecy.com/228.mp3

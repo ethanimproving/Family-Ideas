@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Wonderful Peace
 author: W. D. Cornell
 audio: http://www.kjvprophecy.com/113.mp3

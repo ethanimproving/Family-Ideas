@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: My Saviour First of All
 author: Fanny Crosby (1894)
 audio: http://www.kjvprophecy.com/046.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: When He Cometh
 author: William Cushing (1856)
 audio: http://www.kjvprophecy.com/082.mp3

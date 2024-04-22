@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Shall We Gather at the River?
 author: Robert Lowry (1864)
 audio: http://www.kjvprophecy.com/064.mp3

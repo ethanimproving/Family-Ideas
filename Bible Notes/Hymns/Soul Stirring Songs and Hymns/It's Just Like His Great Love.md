@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: It's Just Like His Great Love
 author: Edna Randolph Worrell (1903)
 audio: http://www.kjvprophecy.com/175.mp3

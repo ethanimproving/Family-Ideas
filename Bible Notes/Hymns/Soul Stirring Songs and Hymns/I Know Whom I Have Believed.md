@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: I Know Whom I Have Believed
 author: D. W. Whittle (1883)
 audio: http://www.kjvprophecy.com/139.mp3

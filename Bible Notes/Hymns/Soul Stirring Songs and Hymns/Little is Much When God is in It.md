@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Little is Much When God is in It
 author: Kittie L. Suffield (1924)
 audio: http://www.kjvprophecy.com/397.mp3

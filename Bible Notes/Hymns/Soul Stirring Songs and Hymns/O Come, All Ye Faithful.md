@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: O Come, All Ye Faithful
 author: Unknown
 audio: http://www.kjvprophecy.com/424.mp3

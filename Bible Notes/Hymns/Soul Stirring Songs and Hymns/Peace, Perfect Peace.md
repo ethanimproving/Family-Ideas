@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Peace, Perfect Peace
 author: Edward Henry Bickersteth
 audio: http://www.kjvprophecy.com/050.mp3

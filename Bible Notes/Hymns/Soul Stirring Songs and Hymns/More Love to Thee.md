@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: More Love to Thee
 author: E. Prentiss (1856)
 audio: http://www.kjvprophecy.com/314.mp3

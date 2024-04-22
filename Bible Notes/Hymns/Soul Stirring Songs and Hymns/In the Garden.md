@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: In the Garden
 author: C. Austin Miles (1913)
 audio: http://www.kjvprophecy.com/086.mp3

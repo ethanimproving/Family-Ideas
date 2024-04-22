@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: O Come, O Come Emmanuel
 author: Unknown
 audio: http://www.kjvprophecy.com/o_come_emmanuel.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Blessed Redeemer
 author: Avis B. Christiansen (1920)
 audio: http://www.kjvprophecy.com/012.mp3

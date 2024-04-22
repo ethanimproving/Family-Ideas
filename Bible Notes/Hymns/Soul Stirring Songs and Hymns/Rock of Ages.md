@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Rock of Ages
 author: Augustus Toplady (1776)
 audio: http://www.kjvprophecy.com/129.mp3

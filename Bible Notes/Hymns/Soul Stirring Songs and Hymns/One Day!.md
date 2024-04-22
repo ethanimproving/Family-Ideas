@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: One Day!
 author: J. Wilbur Chapman (1910)
 audio: http://www.kjvprophecy.com/017.mp3

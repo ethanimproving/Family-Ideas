@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Count Your Blessings
 author: Johnson Oatman (1897)
 audio: http://www.kjvprophecy.com/439.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: He Keeps Me Singing
 author: Luther B. Bridgers (1910)
 audio: http://www.kjvprophecy.com/205.mp3

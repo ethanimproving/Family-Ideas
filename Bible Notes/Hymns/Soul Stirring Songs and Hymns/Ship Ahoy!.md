@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Ship Ahoy!
 author: E. E. Hewitt
 audio: http://www.kjvprophecy.com/473.mp3

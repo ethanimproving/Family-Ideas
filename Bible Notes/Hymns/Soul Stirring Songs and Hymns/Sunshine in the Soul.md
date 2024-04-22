@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Sunshine in the Soul
 author: E. E. Hewitt
 audio: http://www.kjvprophecy.com/209.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: I Know That My Redeemer Liveth
 author: Jessie Brown Pounds
 audio: http://www.kjvprophecy.com/034.mp3

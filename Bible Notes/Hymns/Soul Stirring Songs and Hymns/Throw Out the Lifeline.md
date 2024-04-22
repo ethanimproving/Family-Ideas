@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Throw Out the Lifeline
 author: Edward S. Ufford (1888)
 audio: http://www.kjvprophecy.com/370.mp3

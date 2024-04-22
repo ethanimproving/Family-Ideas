@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Face to Face
 author: Carrie Ellis Breck (1898)
 audio: http://www.kjvprophecy.com/060.mp3

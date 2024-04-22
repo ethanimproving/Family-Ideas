@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Praise Him! Praise Him!
 author: Fanny Crosby (1869)
 audio: http://www.kjvprophecy.com/164.mp3

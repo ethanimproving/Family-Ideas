@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: God Will Take Care of You
 author: Civilla D. Martin (1904)
 audio: http://www.kjvprophecy.com/124.mp3

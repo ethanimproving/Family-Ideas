@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Nothing but the Blood
 author: Robert Lowry (1876)
 audio: http://www.kjvprophecy.com/030.mp3

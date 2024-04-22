@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Did You Think to Pray?
 author: M. A. Kidder (1876)
 audio: http://www.kjvprophecy.com/361.mp3

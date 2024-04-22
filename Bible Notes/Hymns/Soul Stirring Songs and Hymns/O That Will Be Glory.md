@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: O That Will Be Glory
 author: Chas. H. Gabriel (1900)
 audio: http://www.kjvprophecy.com/054.mp3

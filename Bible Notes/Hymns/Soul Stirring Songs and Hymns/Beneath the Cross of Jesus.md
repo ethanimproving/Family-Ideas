@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Beneath the Cross of Jesus
 author: Elizabeth Cecilia Clephane (1868)
 audio: http://www.kjvprophecy.com/006.mp3

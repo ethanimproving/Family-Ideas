@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: We Three Kings
 author: John H. Hopkins (1857)
 audio: http://www.kjvprophecy.com/427.mp3

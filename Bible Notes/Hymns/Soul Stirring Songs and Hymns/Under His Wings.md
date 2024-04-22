@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Under His Wings
 author: William Cushing
 audio: http://www.kjvprophecy.com/103.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: My Latest Sun is Sinking Fast
 author: Jefferson Hascall (1860)
 audio: http://www.kjvprophecy.com/042.mp3

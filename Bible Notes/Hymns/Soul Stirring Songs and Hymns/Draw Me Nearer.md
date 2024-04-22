@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Draw Me Nearer
 author: Fanny Crosby (1875)
 audio: http://www.kjvprophecy.com/324.mp3

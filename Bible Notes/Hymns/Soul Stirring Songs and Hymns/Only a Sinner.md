@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Only a Sinner
 author: James M. Gray
 audio: http://www.kjvprophecy.com/207.mp3

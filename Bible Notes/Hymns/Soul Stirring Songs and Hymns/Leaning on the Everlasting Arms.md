@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Leaning on the Everlasting Arms
 author: E. A. Hoffman (1887)
 audio: http://www.kjvprophecy.com/147.mp3

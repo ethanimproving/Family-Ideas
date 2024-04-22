@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Christ Returneth
 author: H. L. Turner
 audio: http://www.kjvprophecy.com/074.mp3

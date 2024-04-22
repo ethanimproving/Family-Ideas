@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: He Died for Me
 author: John Newton
 audio: http://www.kjvprophecy.com/011.mp3

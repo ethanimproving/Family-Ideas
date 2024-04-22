@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Redeemed (Verity)
 author: William Allen
 audio: http://www.kjvprophecy.com/246v.mp3

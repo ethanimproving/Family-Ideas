@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: A Shelter in the Time of Storm
 author: Vernon J. Charlesworth (ca. 1880)
 audio: http://www.kjvprophecy.com/146.mp3

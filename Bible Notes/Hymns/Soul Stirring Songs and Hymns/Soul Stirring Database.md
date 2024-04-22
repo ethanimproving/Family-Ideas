@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 index: 0
 database-plugin: basic
 ---

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: The Pearly White City
 author: Arthur F. Ingler
 audio: http://www.kjvprophecy.com/067.mp3

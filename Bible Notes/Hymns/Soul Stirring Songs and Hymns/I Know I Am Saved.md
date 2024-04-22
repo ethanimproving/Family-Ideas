@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: I Know I Am Saved
 author: C. Austin Miles
 audio: http://www.kjvprophecy.com/135.mp3
