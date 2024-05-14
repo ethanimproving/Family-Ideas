@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f05b061-dd25-4c10-ab80-e96cd996e343" name="Changes" comment="Remove hymns from website">
+      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/digitalgarden/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/digitalgarden/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/A Priceless Woman.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/A Priceless Woman.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Authority - Shiny Happy People (Part II).md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Authority - Shiny Happy People (Part II).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Churches/Church Websites.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Churches/Church Websites.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Did The Holy Ghost Indwell Old Testament Saints.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Did The Holy Ghost Indwell Old Testament Saints.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Do Justice, Love Mercy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Do Justice, Love Mercy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Chapter And Verse.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Chapter And Verse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Christian Rap Fights Against Soft Music That Sacrifice Strength.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Christian Rap Fights Against Soft Music That Sacrifice Strength.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Don't bring sappy music into church.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Don't bring sappy music into church.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Full and Hungry.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Full and Hungry.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Hated towards fundamentalism.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Hated towards fundamentalism.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Mercy Me concert.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/Mercy Me concert.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/The music of devils will stir surface-level Christians.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/The music of devils will stir surface-level Christians.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/dc Talk first album.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Christian Contemporary/dc Talk first album.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Hymns/Hymns have an impact where rap doesn't.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Hymns/Hymns have an impact where rap doesn't.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Hymns/Other music.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Hymns/Other music.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Jakwob on music.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Jakwob on music.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Music affects behavior.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Music affects behavior.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Secular/'Promise me no promises'.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Secular/'Promise me no promises'.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Secular/Judging people who do what you used to do.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Secular/Judging people who do what you used to do.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Secular/Lack of preaching against worldly music.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Secular/Lack of preaching against worldly music.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Secular/Worldly Music Appeals To Pride.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Secular/Worldly Music Appeals To Pride.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Universal perception of evil in music accross cultures.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Universal perception of evil in music accross cultures.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.6.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.7.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.8.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Untitled Note.8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Watch your music, for it will shape you.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Watch your music, for it will shape you.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/What are spiritual songs_.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/What are spiritual songs_.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Whiney sounding music.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Doctrine/Music/Whiney sounding music.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Don't Be a Lazy Jerk! - Bro. Dillon Awes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Don't Be a Lazy Jerk! - Bro. Dillon Awes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Let The Dead Bury Their Dead - Pastor Shelley.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Let The Dead Bury Their Dead - Pastor Shelley.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/One World Government.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/One World Government.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Sincere Milk.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Sincere Milk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/Skills To Pay The Bills.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/Skills To Pay The Bills.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/The Accusor Has No Accusation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/The Accusor Has No Accusation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bible Notes/The Mother Of Zebedee's Children.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bible Notes/The Mother Of Zebedee's Children.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Checklist/2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Checklist/2018.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Checklist/2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Checklist/2019.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Checklist/2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Checklist/2020.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Checklist/2021.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Checklist/2021.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Checklist/2022.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Checklist/2022.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Checklist/2023.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Checklist/2023.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Checklist/Habit Tracker.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Checklist/Habit Tracker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Checklist/Habits/2023-05-12.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Checklist/Habits/2023-05-12.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Ethan's Commitments.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Ethan's Commitments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Amplify Ministries/The Accuser Has No Accusation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Amplify Ministries/The Accuser Has No Accusation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/FL Studio/AI Raps/TV Hypocrisy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/FL Studio/AI Raps/TV Hypocrisy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Medium Plugin/Medium API.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Medium Plugin/Medium API.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Backyard/Fix Backyard Ground Cable.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Backyard/Fix Backyard Ground Cable.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Backyard/Identify Grass Type.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Backyard/Identify Grass Type.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Backyard/Install Retractable Garden Hose.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Backyard/Install Retractable Garden Hose.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Ethan's Room/Fix Halogen Lamp.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Ethan's Room/Fix Halogen Lamp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Garage/Lay Attic Board.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Garage/Lay Attic Board.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Garage/R&amp;R (Remove and Replace) Door from Garage to Kitchen Hallway.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Garage/R&amp;R (Remove and Replace) Door from Garage to Kitchen Hallway.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Garage/Trim attic stairs to fit.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Garage/Trim attic stairs to fit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Guest Bathroom/Install NuTone Exhaust Fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Guest Bathroom/Install NuTone Exhaust Fan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Guest Bathroom/Install new shower head.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Guest Bathroom/Install new shower head.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Toilet.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Toilet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Vanity.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Vanity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Guest Bathroom/Setup new mirror.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Guest Bathroom/Setup new mirror.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Household/Remove old attic Cat5E cables.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Household/Remove old attic Cat5E cables.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Household/Replace Switches.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Household/Replace Switches.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Increase Water Heater Max Tempurature.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Increase Water Heater Max Tempurature.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Inspect Heating Unit.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Inspect Heating Unit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Install Google Nest Thermostat.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Install Google Nest Thermostat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Install Pocket Door In Sunroom.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Install Pocket Door In Sunroom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Install Security Cameras.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Install Security Cameras.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Replace Baseboard Trim (Moulding, Casing).md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Replace Baseboard Trim (Moulding, Casing).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Replace Kitchen Garage Door.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Replace Kitchen Garage Door.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Replace Or Paint Doors.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Replace Or Paint Doors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Replace exhaust fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Replace exhaust fan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Unclog AC Discharge Pipe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Unclog AC Discharge Pipe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Utility Room/Replace Light Bulb.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Oakmore Renovation/Utility Room/Replace Light Bulb.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Photoshop/T-Shirt Ideas/House Of The Lord.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Photoshop/T-Shirt Ideas/House Of The Lord.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Plugins/Cookmate.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Plugins/Cookmate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Plugins/Customizable Lists Plugin.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Plugins/Customizable Lists Plugin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Plugins/Daily Principle Focus.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Plugins/Daily Principle Focus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Plugins/Kanban Chores.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Plugins/Kanban Chores.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Plugins/Timeline Plugin.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Plugins/Timeline Plugin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Skilled Trades/Oakmore Renovations Task List.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Skilled Trades/Oakmore Renovations Task List.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/App Ideas.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/App Ideas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Features/Home Page.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Features/Home Page.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Activity malls.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Activity malls.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Amen button on website.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Amen button on website.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Audio Bible text scroll.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Audio Bible text scroll.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Audio visualizer slider.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Audio visualizer slider.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Audio waveform behind time rails.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Audio waveform behind time rails.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Calendar of events inside timeline trains.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Calendar of events inside timeline trains.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Clipping audio files.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Clipping audio files.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Creating a Customizable Ebook App Incorporating Personalized Notes and Books.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Creating a Customizable Ebook App Incorporating Personalized Notes and Books.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Daily Listening Plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Daily Listening Plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Dependency Tree Of Doctrines.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Dependency Tree Of Doctrines.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Doctrinal Libraries.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Doctrinal Libraries.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Domain Names_.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Domain Names_.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Efficient Note-Taking and Resource Organization Techniques for Enhanced Productivity.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Efficient Note-Taking and Resource Organization Techniques for Enhanced Productivity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Embracing the Spirit A Guide to Engaging with Spirit-Filled Preaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Embracing the Spirit A Guide to Engaging with Spirit-Filled Preaching.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Enabling Word Definitions on Hover.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Enabling Word Definitions on Hover.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Estimated reading time_ X minutes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Estimated reading time_ X minutes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Example of doctrinal hierarchy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Example of doctrinal hierarchy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Fast and slow speakers.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Fast and slow speakers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Goal Tracking Template for Regular Check-Ins.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Goal Tracking Template for Regular Check-Ins.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Graduation Method for Adopting User-Created Doctrines into Church Practice.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Graduation Method for Adopting User-Created Doctrines into Church Practice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Hymnary API app.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Hymnary API app.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Hyperhidrosis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Hyperhidrosis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Keyboard and mouse shortcuts.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Keyboard and mouse shortcuts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Menu bar overflow menu.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Menu bar overflow menu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Mirror YouTube uploads.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Mirror YouTube uploads.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Ranking Sermons by Amens from Denominational Members.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Ranking Sermons by Amens from Denominational Members.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Resolving Course Conflicts by Setting as Official Course.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Resolving Course Conflicts by Setting as Official Course.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Resource Tags.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Resource Tags.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Scrolling through Scriveners Textus Receptus A Program to Print Surrounding Chapters.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Scrolling through Scriveners Textus Receptus A Program to Print Surrounding Chapters.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Serving local files to website.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Serving local files to website.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Sidebar Contents and Activity Bar Tabs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Sidebar Contents and Activity Bar Tabs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Structured arguments.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Structured arguments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Take a deep breath circle.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Take a deep breath circle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/The Flawed Logic of Defunding the Police Addressing Racism and Bias through Training.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/The Flawed Logic of Defunding the Police Addressing Racism and Bias through Training.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/The Power of Filters How External Factors Can Change You.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/The Power of Filters How External Factors Can Change You.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Timeline content box.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Timeline content box.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Timeline of my life.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Timeline of my life.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Toggle background music in sermon jams.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Toggle background music in sermon jams.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Topic _ Doctrine _ proposition(s) _ argument(s) -- category tags.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Topic _ Doctrine _ proposition(s) _ argument(s) -- category tags.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Unbound.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Unbound.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Unchained The Symbolism Behind a Logo of Freedom and Faith.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Unchained The Symbolism Behind a Logo of Freedom and Faith.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Use MongoDB.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Use MongoDB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Visualization canvas to substitute video.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Visualization canvas to substitute video.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Website Ideas From Journal Entries.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Website Ideas From Journal Entries.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Website names.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Website names.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Why make Bible Academy oriented towards fundamentalist doctrines_.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Ideas/Why make Bible Academy oriented towards fundamentalist doctrines_.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Rocket RMS.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Projects/Unbound Preaching/Rocket RMS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/3 Months Waiting For Mariana.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/3 Months Waiting For Mariana.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/AI Craze.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/AI Craze.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Accidentally hugged Amy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Accidentally hugged Amy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Age of innocence.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Age of innocence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Amazon Interview Prep.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Amazon Interview Prep.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/American Airlines.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/American Airlines.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Anderson rebuking Lordship Salvation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Anderson rebuking Lordship Salvation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Asking Mariana To Be My Girlfriend.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Asking Mariana To Be My Girlfriend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Attend Stedfast Baptist Church.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Attend Stedfast Baptist Church.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Back to school.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Back to school.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Broken laptop.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Broken laptop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Buying A House.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Buying A House.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/CADD Training.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/CADD Training.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Car Crash.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Car Crash.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Carnal Christians.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Carnal Christians.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Chess.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Chess.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/College.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/College.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Crush on Amy Peavey.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Crush on Amy Peavey.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Crush on Bethany White.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Crush on Bethany White.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Crush on Kayleigh Forbes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Crush on Kayleigh Forbes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Crush on Savannah Calvert.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Crush on Savannah Calvert.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Date Amy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Date Amy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Dated Jennifer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Dated Jennifer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Dating Mariana.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Dating Mariana.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Disney World.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Disney World.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Ethan Master Trading Journal.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Ethan Master Trading Journal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Ethan asks Jesus to come into his heart.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Ethan asks Jesus to come into his heart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Ethan is born.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Ethan is born.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/FL Studio.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/FL Studio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Feeling fresh at 14.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Feeling fresh at 14.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/First Soul-Winning Event at Northlake!.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/First Soul-Winning Event at Northlake!.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/First impression of Steven Anderson.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/First impression of Steven Anderson.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/First job.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/First job.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/First soul saved!.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/First soul saved!.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Fun With Friends.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Fun With Friends.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Grandma Died.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Grandma Died.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Greatest passion is sleep.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Greatest passion is sleep.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Gym.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Gym.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/I'm saved!.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/I'm saved!.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Improving Bootcamp.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Improving Bootcamp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Internship.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Internship.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Kinetic Typography.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Kinetic Typography.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Labor Hours Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Labor Hours Project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Lasik.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Lasik.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Learning Code.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Learning Code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Left to my own devices (uTorrent).md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Left to my own devices (uTorrent).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Marry Amy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Marry Amy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Met Mariana at Company Party.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Met Mariana at Company Party.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/My first time rebuking Pastor Anderson.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/My first time rebuking Pastor Anderson.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/New IFB Database work.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/New IFB Database work.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Nexus and Tim Got Married!.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Nexus and Tim Got Married!.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Nutrition.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Nutrition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Obsidian Plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Obsidian Plugins.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Phone Stolen.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Phone Stolen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Photoshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Photoshop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Propose To Mariana.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Propose To Mariana.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Room Makeover.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Room Makeover.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Spiritual deadness.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Spiritual deadness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Starting to like Ashlynn.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Starting to like Ashlynn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Starting to like Nexus.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Starting to like Nexus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Style, Monitors, Legos, Dancing, YouTube.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Style, Monitors, Legos, Dancing, YouTube.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Talking to Mariana.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Talking to Mariana.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/The Great Falling Away.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/The Great Falling Away.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/True Meaning Of James 2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/True Meaning Of James 2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/Turning Romans 7 on its Head.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/Turning Romans 7 on its Head.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/iBullyBear.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/iBullyBear.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goals/Timeline Events/node.js - SQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goals/Timeline Events/node.js - SQL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Applied Kinesiology (Muscle Testing)/Applied Kinesiology.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Applied Kinesiology (Muscle Testing)/Applied Kinesiology.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Applied Kinesiology (Muscle Testing)/The Bodytalk System.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Applied Kinesiology (Muscle Testing)/The Bodytalk System.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Aromatherapy/Air Purification System.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Aromatherapy/Air Purification System.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Aromatherapy/Air Quality Monitor.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Aromatherapy/Air Quality Monitor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Aromatherapy/Candles.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Aromatherapy/Candles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Aromatherapy/Essential Oils.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Aromatherapy/Essential Oils.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Aromatherapy/N02 From Central Heating.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Aromatherapy/N02 From Central Heating.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Aromatherapy/Smoking.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Aromatherapy/Smoking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Chiropractic/Back Health.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Chiropractic/Back Health.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Exercise/Caleb's Gym.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Exercise/Caleb's Gym.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Exercise/Cardio Before Breakfast.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Exercise/Cardio Before Breakfast.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Exercise/Creatine.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Exercise/Creatine.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Exercise/Excersize GIFs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Exercise/Excersize GIFs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Exercise/Hypertrophy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Exercise/Hypertrophy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Exercise/Upper Lower Workout Routine.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Exercise/Upper Lower Workout Routine.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Extractions/Fordyce Spots.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Extractions/Fordyce Spots.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Face/Derma Roller.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Face/Derma Roller.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Face/Face Analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Face/Face Analysis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Face/Skin Care.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Face/Skin Care.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Green Juice.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Green Juice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Grooming/Hairstyles.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Grooming/Hairstyles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Hair Loss.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Hair Loss.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Healthcare/AA Benefits.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Healthcare/AA Benefits.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Homeopathic/Oscillococcinum.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Homeopathic/Oscillococcinum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Homeopathic/Pellets.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Homeopathic/Pellets.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Homeopathic/Thesis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Homeopathic/Thesis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Honey-Onion-Garlic Syrup.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Honey-Onion-Garlic Syrup.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Journal Of Sickness.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Journal Of Sickness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Journal Of Sickness/Allergies Dec 8-9.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Journal Of Sickness/Allergies Dec 8-9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Journal Of Sickness/Ragweed Allergies Sep 19-Oct 19.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Journal Of Sickness/Ragweed Allergies Sep 19-Oct 19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Journal Of Sickness/Sore Throat Dec 16-21.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Journal Of Sickness/Sore Throat Dec 16-21.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Journal Of Sickness/Sore Throat Jan 1-9.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Journal Of Sickness/Sore Throat Jan 1-9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Massage Therapy/Cracking Backs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Massage Therapy/Cracking Backs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Massage Therapy/Electric Neck Massager.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Massage Therapy/Electric Neck Massager.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Maximized Living/ML Recipe Book.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Maximized Living/ML Recipe Book.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Nutrition/Cooklang Recipes/Texas Roadhouse Seasoning for Steak.cook" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Nutrition/Cooklang Recipes/Texas Roadhouse Seasoning for Steak.cook" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Protein.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Protein.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Raw Onions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Raw Onions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Snacks.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Snacks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Health/Vaccinations.md" beforeDir="false" afterPath="$PROJECT_DIR$/Health/Vaccinations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal/Doctrine To Ponder/Doctrine To Ponder.md" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/Doctrine To Ponder/Doctrine To Ponder.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal/Stop Being Angry.md" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/Stop Being Angry.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parenting/Social/Diagnostic Statements/Ethan Miller.md" beforeDir="false" afterPath="$PROJECT_DIR$/Parenting/Social/Diagnostic Statements/Ethan Miller.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travel/2023-07-26 SNA.md" beforeDir="false" afterPath="$PROJECT_DIR$/Travel/2023-07-26 SNA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wiki/Home Page.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wiki/Home Page.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fOYHyIyWcOe8LQdRCWfg2vdvNg" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ethan/Documents/Obsidian/Family-Ideas&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Family-Ideas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Family-Ideas" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f05b061-dd25-4c10-ab80-e96cd996e343" name="Changes" comment="" />
+      <created>1713673507564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713673507564</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Remove hymns from website">
+      <created>1713801114116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713801114116</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Remove hymns from website">
+      <created>1713802170161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713802170161</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Remove hymns from website">
+      <created>1713802336489</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713802336489</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Remove hymns from website">
+      <created>1713802362332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713802362332</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Remove hymns from website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove hymns from website" />
+  </component>
+</project>

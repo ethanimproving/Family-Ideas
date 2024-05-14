@@ -1,6 +1,9 @@
-Temporary - 
+Term - 
 * Price effective
 * Does not last forever
+
+![](https://i.imgur.com/r6xhK4A.png)
+
 
 Permanent - 
 * More expensive when you start off
@@ -10,6 +13,22 @@ Permanent -
 * Invest in Real Estate or other businesses
 * Average 4% growth per year
 * Take out loan with interest that equals `growth rate / 2`.
+
+Return of Premium - Term but money back after it expires
+30 Year Policy -
+- 10 years accumulating children
+- Next 20 years they grow up
+- It's not taxed
+Twice the price but you get money back.
+![](https://i.imgur.com/zuPw6IR.png)
+
+
+122 * 12 * 3 =
+
+273 * 12 * 3
+
+![](https://i.imgur.com/yLOuWdR.png)
+
 
  ![Pasted image 20221229132535](https://i.imgur.com/qbMQRr8.png)
 

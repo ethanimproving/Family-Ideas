@@ -2,6 +2,16 @@
 dg-publish: true
 dg-created: Sep 22, 2023, 7:10 PM
 ---
+
+
+![](https://lh3.googleusercontent.com/pw/AP1GczN13ftYHdShtOoOKrsr0ZPsdoc2A0pF_2RF0tpJi3eFOZ7f40_eAKDQ7juKFUBLYBhszZzP3DoFesUXRj-fBON-FMrlT4FREtZflLulY36AseknPfXLoy92XTCBKU7GIZBkqX13rirqds3tA2a2wyKcDg=w894-h423-s-no-gm?authuser=0)
+
+**I am a trail runner, world traveler, and Java developer located in Dallas, TX.** I work with some of the best  Software Engineers I know at American Airlines, using Java, Spring, and Kubernetes. Please check my [Resume](https://professional-journal-client.vercel.app/img/ethan-miller-resume-2022.pdf) and contact me if you're interested in working together.
+
+What is this site? It's my [Digital Garden](https://ethans-digital-garden.vercel.app/). In short, it's an evolving and expanding set of notes I try to keep about everything I do work-related. I keep a separate garden for my personal notes at [Ethan's Digital Garden](https://ethans-digital-garden.vercel.app/).
+
+Some of my notes are written as fairly refined blog posts, while others are simply "notes to self" containing information that I've been working on lately.
+
 # Strength Finders
 
 At my first consulting company they had me take Gallup's Strength Finders, and my number two strength was "Activator."
@@ -134,6 +144,10 @@ People have individual differences in sensory processing sensitivity, and I woul
 My [[Working Memory|Neuro-Sensory Modulation Profile]] indicates that my brain has a low threshold of moving sensory input into working memory for further analysis, which can cause me to be quickly overwhelmed when sensory input in an environment is high enough. When noise is above 90db for longer than an hour my brain begins to shut down and I become a vegetable.
 
 If I'm at Six Flags engaging in the noise, riding Roller Coasters, talking to my friends, my brain is in a relaxed enough state of mind that my threshold becomes higher and I don't have a problem. But if I'm observing the noise without engaging in it, my brain kicks into overdrive and begins processing everything in working memory, making me fatigued.
+
+# Ethnicity
+
+I am German, English, [[Kingdom of Gwynedd|Welsh]], Scottish, Irish, and 100% American. 
 
 # Anthropometric Data
 
