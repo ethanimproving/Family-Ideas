@@ -149,6 +149,19 @@ If I'm at Six Flags engaging in the noise, riding Roller Coasters, talking to my
 
 I am German, English, [[Kingdom of Gwynedd|Welsh]], Scottish, Irish, and 100% American. 
 
+| Ethnicity  | Percentage | Source                                                                                  |
+|------------|------------|-----------------------------------------------------------------------------------------|
+| German     | 50.9375%   | Maternal Grandmother (100%), Paternal Grandmother (3/8), Paternal Grandfather (1/2)     |
+| Danish     | 12.5%      | Maternal Grandfather (Mother's side - 50%)                                              |
+| Swedish    | 12.5%      | Maternal Grandfather (Father's side - 50%)                                              |
+| Austrian   | 6.25%      | Paternal Grandmother (1/2)                                                              |
+| Irish      | 6.25%      | Paternal Grandfather (1/4)                                                              |
+| Scottish   | 6.25%      | Paternal Grandfather (1/4)                                                              |
+| French     | 1.5625%    | Paternal Grandmother (1/8)                                                              |
+| Welsh      | <1%        | Paternal Grandfather (minor contribution)                                               |
+| English    | <1%        | Paternal Grandfather (minor contribution)                                               |
+
+
 # Anthropometric Data
 
 | Parameter                             | Calories/Day |
