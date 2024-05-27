@@ -53,16 +53,13 @@ The acronym DISC stands for the four main personality profiles described in the 
 People with D personalities tend to be confident and place an emphasis on accomplishing bottom-line results.
 
 ## Influence
-
 People with i personalities tend to be more open and place an emphasis on relationships and influencing or persuading others.
 
 ## Steadiness
-
 People with S personalities tend to be dependable and place the emphasis on cooperation and sincerity.
 
 ## Conscientiousness
-
-People with C personalities tend to place the emphasis on quality, accuracy, expertise, and competency..
+People with C personalities tend to place the emphasis on quality, accuracy, expertise, and competency.
 
 ## Sep 11, 2022
 

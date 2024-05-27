@@ -16,7 +16,7 @@ tags: [timeline, millerline]
 
 | Name                        | Birth Year | Birth Location                      | Lifespan     | Death        | Generation                |
 | --------------------------- | ---------- | ----------------------------------- | ------------ | ------------ | ------------------------- |
-| Joseph Miller               | 1726       | Ireland                             | 83           | 1809         | Liberty Generation        |
+| Joseph Miller               | 1726       | Ireland                             | 83           | 1809         | Enlightenment Generation  |
 | David Anderson Miller       | 1765       | Aberdeenshire, Scotland             | 82           | 1847         | Liberty Generation        |
 | David Anderson Miller Jr.   | 1801       | Ohio, Kentucky, United States       | 85           | 1886         | Transcendental Generation |
 | John S. Miller              | 1825       | Ohio, Kentucky, United States       | ==59==       | 1884         | Gilded Generation         |
