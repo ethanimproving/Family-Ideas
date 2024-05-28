@@ -156,7 +156,7 @@ Alternatively you can useL
 - [Zodiac Design Generator](https://deepai.org/machine-learning-model/zodiac-design-generator)
 - [3D Objects Generator](https://deepai.org/machine-learning-model/3d-objects-generator)
 
-## Electrical
+
 ![Boy Scout embroidered merit badge of electricity](https://i.imgur.com/7uakIJh.jpeg)
 
 ![Boy Scout embroidered merit badge of YNAB budgeting app](https://i.imgur.com/xHvc7eB.jpeg)
