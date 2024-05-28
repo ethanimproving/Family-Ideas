@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: When the Battle's Over
 author: Isaac Watts (1724)
 audio: http://www.kjvprophecy.com/404.mp3

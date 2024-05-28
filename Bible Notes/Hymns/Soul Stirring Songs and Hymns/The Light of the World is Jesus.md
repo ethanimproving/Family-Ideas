@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: The Light of the World is Jesus
 author: P. P. Bliss (1875)
 audio: http://www.kjvprophecy.com/262.mp3

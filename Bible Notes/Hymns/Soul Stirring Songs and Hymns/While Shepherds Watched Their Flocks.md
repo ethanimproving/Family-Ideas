@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: While Shepherds Watched Their Flocks
 author: Nahum Tate (1700)
 audio: http://www.kjvprophecy.com/430.mp3

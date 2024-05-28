@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Redeemed
 author: Fanny Crosby (1882)
 audio: http://www.kjvprophecy.com/246.mp3

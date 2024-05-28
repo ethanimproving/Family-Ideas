@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: I Love Him
 author: Unknown
 audio: http://www.kjvprophecy.com/181.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: What Child is This?
 author: W. Chatterton Dix
 audio: http://www.kjvprophecy.com/484.mp3

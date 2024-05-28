@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: When I Survey the Wondrous Cross
 author: Isaac Watts (1707)
 audio: http://www.kjvprophecy.com/005.mp3

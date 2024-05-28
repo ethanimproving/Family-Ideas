@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: O God, Our Help
 author: Isaac Watts (1719)
 audio: http://www.kjvprophecy.com/122.mp3

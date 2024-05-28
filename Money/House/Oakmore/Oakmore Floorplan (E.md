@@ -26,7 +26,7 @@ Kitchen ^aAtLIOxH
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.10",
 	"elements": [
 		{
 			"type": "line",
@@ -48,11 +48,14 @@ Kitchen ^aAtLIOxH
 			"height": 407.8210144042969,
 			"seed": 184271719,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -331,11 +334,14 @@ Kitchen ^aAtLIOxH
 			"height": 8.049000024795532,
 			"seed": 1033682567,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -486,11 +492,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.38249969482421875,
 			"seed": 1689343399,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -545,11 +554,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.1858749389648438,
 			"seed": 1734740167,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -612,11 +624,14 @@ Kitchen ^aAtLIOxH
 			"height": 2.0809993743896484,
 			"seed": 324491239,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -675,11 +690,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.2130002975463867,
 			"seed": 1318175495,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -732,8 +750,8 @@ Kitchen ^aAtLIOxH
 		},
 		{
 			"type": "line",
-			"version": 57,
-			"versionNonce": 2113781961,
+			"version": 130,
+			"versionNonce": 1434872848,
 			"isDeleted": false,
 			"id": "YM589BHwFDEhhFKaRzpcs",
 			"fillStyle": "solid",
@@ -742,19 +760,22 @@ Kitchen ^aAtLIOxH
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 164.1524782180786,
-			"y": -84.95187377929688,
+			"x": 168.3630045338681,
+			"y": -87.05713693719156,
 			"strokeColor": "#000000",
 			"backgroundColor": "#000000",
 			"width": 335.6109848022461,
 			"height": 476.34900665283203,
 			"seed": 160549415,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689386714777,
+			"updated": 1706923236520,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -5161,11 +5182,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.2446880340576172,
 			"seed": 1900277063,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -5236,11 +5260,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.11449050903320312,
 			"seed": 1627696231,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -5451,11 +5478,14 @@ Kitchen ^aAtLIOxH
 			"height": 68.36139297485352,
 			"seed": 346064775,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -6126,11 +6156,14 @@ Kitchen ^aAtLIOxH
 			"height": 6.947734832763672,
 			"seed": 441712295,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -6237,11 +6270,14 @@ Kitchen ^aAtLIOxH
 			"height": 6.876001358032227,
 			"seed": 80449991,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -6340,11 +6376,14 @@ Kitchen ^aAtLIOxH
 			"height": 6.934001922607422,
 			"seed": 1562624231,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -6459,11 +6498,14 @@ Kitchen ^aAtLIOxH
 			"height": 6.895000457763672,
 			"seed": 1424559111,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -6574,11 +6616,14 @@ Kitchen ^aAtLIOxH
 			"height": 6.935001373291016,
 			"seed": 941093671,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -6693,11 +6738,14 @@ Kitchen ^aAtLIOxH
 			"height": 6.895000457763672,
 			"seed": 521991751,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -6808,11 +6856,14 @@ Kitchen ^aAtLIOxH
 			"height": 6.971000671386719,
 			"seed": 1624544615,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -6919,11 +6970,14 @@ Kitchen ^aAtLIOxH
 			"height": 6.976047515869141,
 			"seed": 1149980807,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -7038,11 +7092,14 @@ Kitchen ^aAtLIOxH
 			"height": 6.902996063232422,
 			"seed": 1946003367,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -7145,11 +7202,14 @@ Kitchen ^aAtLIOxH
 			"height": 6.894996643066406,
 			"seed": 760748743,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -7260,11 +7320,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3710784912109375,
 			"seed": 892807655,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -7363,11 +7426,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3353729248046875,
 			"seed": 145184007,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -7482,11 +7548,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3366546630859375,
 			"seed": 1327832103,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -7601,11 +7670,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.33666229248046875,
 			"seed": 211615559,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -7720,11 +7792,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3366546630859375,
 			"seed": 325811815,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -7839,11 +7914,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3366546630859375,
 			"seed": 912071047,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -7958,11 +8036,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.33733367919921875,
 			"seed": 984502439,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -8077,11 +8158,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3366546630859375,
 			"seed": 168534983,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -8196,11 +8280,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3366546630859375,
 			"seed": 613520103,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -8315,11 +8402,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3366546630859375,
 			"seed": 1389141511,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -8434,11 +8524,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3366546630859375,
 			"seed": 398017831,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -8553,11 +8646,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3366546630859375,
 			"seed": 1657014343,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -8672,11 +8768,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3353729248046875,
 			"seed": 29976423,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -8791,11 +8890,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3366546630859375,
 			"seed": 1393943175,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -8910,11 +9012,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.26934051513671875,
 			"seed": 929429927,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -8993,11 +9098,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.23999786376953125,
 			"seed": 1139158215,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -9064,11 +9172,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.285003662109375,
 			"seed": 875756519,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -9139,11 +9250,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.2904052734375,
 			"seed": 475588359,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -9214,11 +9328,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.2830047607421875,
 			"seed": 1523871271,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -9289,11 +9406,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.26507568359375,
 			"seed": 1251086663,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -9364,11 +9484,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.28800201416015625,
 			"seed": 888033383,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -9443,11 +9566,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.28281402587890625,
 			"seed": 62237575,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -9514,11 +9640,14 @@ Kitchen ^aAtLIOxH
 			"height": 47.89635467529297,
 			"seed": 858038951,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -10029,11 +10158,14 @@ Kitchen ^aAtLIOxH
 			"height": 18.68670654296875,
 			"seed": 65516999,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -10260,11 +10392,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.2050018310546875,
 			"seed": 1830511847,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -10335,11 +10470,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.202850341796875,
 			"seed": 1313615879,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -10438,11 +10576,14 @@ Kitchen ^aAtLIOxH
 			"height": 39.938995361328125,
 			"seed": 1635161895,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -10537,11 +10678,14 @@ Kitchen ^aAtLIOxH
 			"height": 19.090988159179688,
 			"seed": 1829182023,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -10836,11 +10980,14 @@ Kitchen ^aAtLIOxH
 			"height": 2.1181182861328125,
 			"seed": 903493991,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -10935,11 +11082,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.2599945068359375,
 			"seed": 826045575,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -11182,11 +11332,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.262420654296875,
 			"seed": 1995066279,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -11329,11 +11482,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.2222442626953125,
 			"seed": 1930444487,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -11484,11 +11640,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.19500732421875,
 			"seed": 1481297383,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -11555,11 +11714,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.1843719482421875,
 			"seed": 1369864455,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -11630,11 +11792,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.165374755859375,
 			"seed": 1956626471,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -11705,11 +11870,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.1330108642578125,
 			"seed": 1931682631,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -11760,11 +11928,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.18499755859375,
 			"seed": 227353191,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714777,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -11839,11 +12010,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.1826324462890625,
 			"seed": 1152007559,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -11914,11 +12088,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.032989501953125,
 			"seed": 1270281383,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -11973,11 +12150,14 @@ Kitchen ^aAtLIOxH
 			"height": 23.187530517578125,
 			"seed": 979355591,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -12548,11 +12728,14 @@ Kitchen ^aAtLIOxH
 			"height": 17.5947265625,
 			"seed": 2126591719,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -12895,11 +13078,14 @@ Kitchen ^aAtLIOxH
 			"height": 17.880996704101562,
 			"seed": 258458119,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -13250,11 +13436,14 @@ Kitchen ^aAtLIOxH
 			"height": 17.874252319335938,
 			"seed": 1565518119,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -13597,11 +13786,14 @@ Kitchen ^aAtLIOxH
 			"height": 3.4350128173828125,
 			"seed": 98970695,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -13780,11 +13972,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3458709716796875,
 			"seed": 1158089575,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -13839,11 +14034,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.2999267578125,
 			"seed": 654247559,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -13918,11 +14116,14 @@ Kitchen ^aAtLIOxH
 			"height": 7.7727508544921875,
 			"seed": 47599815,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -14073,11 +14274,14 @@ Kitchen ^aAtLIOxH
 			"height": 19.64849853515625,
 			"seed": 1769906151,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -14516,11 +14720,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.8688812255859375,
 			"seed": 1888488199,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -14587,11 +14794,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.186004638671875,
 			"seed": 1686573607,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -14650,11 +14860,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.4677581787109375,
 			"seed": 1313879367,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -14709,11 +14922,14 @@ Kitchen ^aAtLIOxH
 			"height": 4.4167633056640625,
 			"seed": 1699214439,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -14800,11 +15016,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.2138671875,
 			"seed": 1094373255,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -14871,11 +15090,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.13525390625,
 			"seed": 1281705639,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -14942,11 +15164,14 @@ Kitchen ^aAtLIOxH
 			"height": 3.4780120849609375,
 			"seed": 1970526663,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -15033,11 +15258,14 @@ Kitchen ^aAtLIOxH
 			"height": 3.391998291015625,
 			"seed": 562235623,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -15128,11 +15356,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.1801300048828125,
 			"seed": 1579111431,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -15203,11 +15434,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.0647430419921875,
 			"seed": 1397046055,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -15274,11 +15508,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.22698974609375,
 			"seed": 1969307207,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -15341,11 +15578,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.157989501953125,
 			"seed": 2001722727,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -15412,11 +15652,14 @@ Kitchen ^aAtLIOxH
 			"height": 292.58897399902344,
 			"seed": 2086508679,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -16227,11 +16470,14 @@ Kitchen ^aAtLIOxH
 			"height": 14.302627563476562,
 			"seed": 172421031,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -16586,11 +16832,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.0830078125,
 			"seed": 993551047,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -16657,11 +16906,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.4251251220703125,
 			"seed": 802058727,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -16716,11 +16968,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.14324951171875,
 			"seed": 1091935495,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -16783,11 +17038,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.2659912109375,
 			"seed": 1921672231,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -16834,11 +17092,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.13800048828125,
 			"seed": 605636423,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -16909,11 +17170,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.38250732421875,
 			"seed": 69125735,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -16968,11 +17232,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.217010498046875,
 			"seed": 1097294215,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17039,11 +17306,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.1569976806640625,
 			"seed": 2100271271,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17110,11 +17380,14 @@ Kitchen ^aAtLIOxH
 			"height": 15.113555908203125,
 			"seed": 2099506119,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17449,11 +17722,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.1828765869140625,
 			"seed": 492886759,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17524,11 +17800,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3402557373046875,
 			"seed": 41084423,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17583,11 +17862,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.141998291015625,
 			"seed": 190221607,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17654,11 +17936,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.4677581787109375,
 			"seed": 58216519,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17713,11 +17998,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.1620025634765625,
 			"seed": 347385703,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17784,11 +18072,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.3824920654296875,
 			"seed": 2035821191,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17843,11 +18134,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.2147979736328125,
 			"seed": 1847542183,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17910,11 +18204,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.11700439453125,
 			"seed": 1681290439,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -17981,11 +18278,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.291961669921875,
 			"seed": 1933198311,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -18052,11 +18352,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.232879638671875,
 			"seed": 188165895,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -18123,11 +18426,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.2550048828125,
 			"seed": 1722398247,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -18202,11 +18508,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.233978271484375,
 			"seed": 1014913351,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -18277,11 +18586,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.256011962890625,
 			"seed": 840013927,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -18356,11 +18668,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.233978271484375,
 			"seed": 221246343,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -18431,11 +18746,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.2550048828125,
 			"seed": 638970535,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -18510,11 +18828,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.248992919921875,
 			"seed": 426769863,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -18581,11 +18902,14 @@ Kitchen ^aAtLIOxH
 			"height": 22.36163330078125,
 			"seed": 979021031,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -18948,11 +19272,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.21875,
 			"seed": 1147303943,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19027,11 +19354,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.035003662109375,
 			"seed": 1300487975,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19086,11 +19416,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.218109130859375,
 			"seed": 2016109127,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19157,11 +19490,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.21875,
 			"seed": 1698005351,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19236,11 +19572,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.032989501953125,
 			"seed": 1710144647,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19295,11 +19634,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.212738037109375,
 			"seed": 1846776743,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19398,11 +19740,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.032989501953125,
 			"seed": 1171293895,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19457,11 +19802,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.21099853515625,
 			"seed": 2076317159,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19528,11 +19876,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.22674560546875,
 			"seed": 385138951,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19599,11 +19950,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.201385498046875,
 			"seed": 149227559,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19666,11 +20020,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.169036865234375,
 			"seed": 1602186055,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19737,11 +20094,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.132232666015625,
 			"seed": 924871271,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19812,11 +20172,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.12249755859375,
 			"seed": 1821672839,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19891,11 +20254,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.12176513671875,
 			"seed": 253246631,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -19970,11 +20336,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.147003173828125,
 			"seed": 307761095,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -20045,11 +20414,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.2025146484375,
 			"seed": 1081114343,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -20112,11 +20484,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.12249755859375,
 			"seed": 1810762247,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -20191,11 +20566,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.12176513671875,
 			"seed": 1640837415,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -20266,11 +20644,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.12176513671875,
 			"seed": 461009991,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -20345,11 +20726,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.132781982421875,
 			"seed": 819090279,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -20436,11 +20820,14 @@ Kitchen ^aAtLIOxH
 			"height": 19.367706298828125,
 			"seed": 169954951,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -20895,11 +21282,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.208984375,
 			"seed": 1378084263,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -20966,11 +21356,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.141998291015625,
 			"seed": 671520967,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -21037,11 +21430,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.154998779296875,
 			"seed": 291891175,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -21108,11 +21504,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.1409912109375,
 			"seed": 743330567,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -21179,11 +21578,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.214996337890625,
 			"seed": 557603367,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -21250,11 +21652,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.1409912109375,
 			"seed": 1427930439,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -21321,11 +21726,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.81597900390625,
 			"seed": 1531657319,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -21396,11 +21804,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.16986083984375,
 			"seed": 664082311,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -21467,11 +21878,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.201263427734375,
 			"seed": 3575463,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714778,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -21830,11 +22244,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.177886962890625,
 			"seed": 802955719,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -21901,11 +22318,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.2222900390625,
 			"seed": 2007126247,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -21980,11 +22400,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.251007080078125,
 			"seed": 1091935239,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22051,11 +22474,14 @@ Kitchen ^aAtLIOxH
 			"height": 0.210479736328125,
 			"seed": 271745831,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22122,11 +22548,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.104248046875,
 			"seed": 1066083687,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22225,11 +22654,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.3900146484375,
 			"seed": 770695303,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22304,11 +22736,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.23199462890625,
 			"seed": 1649424295,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22375,11 +22810,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.15399169921875,
 			"seed": 1389931207,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22446,11 +22884,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.17401123046875,
 			"seed": 2082847207,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22517,11 +22958,14 @@ Kitchen ^aAtLIOxH
 			"height": 2.024993896484375,
 			"seed": 323216647,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22592,11 +23036,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.13299560546875,
 			"seed": 2008001575,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22663,11 +23110,14 @@ Kitchen ^aAtLIOxH
 			"height": 5.3900146484375,
 			"seed": 1700106055,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22750,11 +23200,14 @@ Kitchen ^aAtLIOxH
 			"height": 3.454010009765625,
 			"seed": 1720847975,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22841,11 +23294,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.201995849609375,
 			"seed": 103917959,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22912,11 +23368,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.080352783203125,
 			"seed": 1097916583,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -22983,11 +23442,14 @@ Kitchen ^aAtLIOxH
 			"height": 1.125,
 			"seed": 972829639,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
@@ -23035,27 +23497,28 @@ Kitchen ^aAtLIOxH
 			]
 		},
 		{
-			"id": "-4IpxKL6kvo8vtK8iWWPU",
 			"type": "freedraw",
-			"x": 255.18943396659625,
-			"y": -45.77999354466438,
-			"width": 25.20392609435345,
-			"height": 1.568244983793008,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 37,
+			"versionNonce": 1444430279,
+			"isDeleted": false,
+			"id": "-4IpxKL6kvo8vtK8iWWPU",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 255.18943396659625,
+			"y": -45.77999354466438,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 25.20392609435345,
+			"height": 1.568244983793008,
 			"seed": 1490155879,
-			"version": 37,
-			"versionNonce": 1444430279,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -23145,35 +23608,33 @@ Kitchen ^aAtLIOxH
 					0.8961382075105462
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				25.20392609435345,
-				0.8961382075105462
-			]
+			"pressures": []
 		},
 		{
-			"id": "AkpKnPEJT0CtrSusWmk9D",
 			"type": "freedraw",
-			"x": 278.37704597340144,
-			"y": -49.02850234851398,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 576889639,
+			"isDeleted": false,
+			"id": "AkpKnPEJT0CtrSusWmk9D",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 278.37704597340144,
+			"y": -49.02850234851398,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
 			"seed": 424293991,
-			"version": 13,
-			"versionNonce": 576889639,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -23187,35 +23648,33 @@ Kitchen ^aAtLIOxH
 					0.0001
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"pressures": []
 		},
 		{
-			"id": "15BCIxLSNZeJ-z5QG_G6j",
 			"type": "freedraw",
-			"x": 284.9860699347661,
-			"y": -48.46841440849512,
-			"width": 52.08809728486628,
-			"height": 23.411643438033273,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 76,
+			"versionNonce": 619300553,
+			"isDeleted": false,
+			"id": "15BCIxLSNZeJ-z5QG_G6j",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 284.9860699347661,
+			"y": -48.46841440849512,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 52.08809728486628,
+			"height": 23.411643438033273,
 			"seed": 1458581097,
-			"version": 76,
-			"versionNonce": 619300553,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -23481,35 +23940,33 @@ Kitchen ^aAtLIOxH
 					22.73953666175082
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-51.64003442241011,
-				22.73953666175082
-			]
+			"pressures": []
 		},
 		{
-			"id": "cfM0uhalRUZJgj712_UF2",
 			"type": "freedraw",
-			"x": 232.6739349773726,
-			"y": -23.71256365919602,
-			"width": 84.68517919442945,
-			"height": 2.2403517600754697,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 99,
+			"versionNonce": 1284613703,
+			"isDeleted": false,
+			"id": "cfM0uhalRUZJgj712_UF2",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 232.6739349773726,
+			"y": -23.71256365919602,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 84.68517919442945,
+			"height": 2.2403517600754697,
 			"seed": 1119098185,
-			"version": 99,
-			"versionNonce": 1284613703,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -23867,35 +24324,33 @@ Kitchen ^aAtLIOxH
 					-1.232194716301322
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				84.68517919442945,
-				-1.232194716301322
-			]
+			"pressures": []
 		},
 		{
-			"id": "zOe9tHovoYz1yI_vCwv1k",
 			"type": "freedraw",
-			"x": 309.6298893652033,
-			"y": -24.608701866706568,
-			"width": 4.704716227481697,
-			"height": 0.5600879400188603,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 27,
+			"versionNonce": 664496265,
+			"isDeleted": false,
+			"id": "zOe9tHovoYz1yI_vCwv1k",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 309.6298893652033,
+			"y": -24.608701866706568,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 4.704716227481697,
+			"height": 0.5600879400188603,
 			"seed": 426985097,
-			"version": 27,
-			"versionNonce": 664496265,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -23973,35 +24428,33 @@ Kitchen ^aAtLIOxH
 					0.5600879400188603
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-4.704716227481697,
-				0.5600879400188603
-			]
+			"pressures": []
 		},
 		{
-			"id": "J2gRWldKl3cNNxcO5_jHU",
 			"type": "freedraw",
-			"x": 310.3020023827849,
-			"y": -24.048613926687707,
-			"width": 6.609036443962793,
-			"height": 0.8961382075105462,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 38,
+			"versionNonce": 1083441287,
+			"isDeleted": false,
+			"id": "J2gRWldKl3cNNxcO5_jHU",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 310.3020023827849,
+			"y": -24.048613926687707,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 6.609036443962793,
+			"height": 0.8961382075105462,
 			"seed": 1304150695,
-			"version": 38,
-			"versionNonce": 1083441287,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -24123,35 +24576,33 @@ Kitchen ^aAtLIOxH
 					0.8961382075105462
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-6.609036443962793,
-				0.8961382075105462
-			]
+			"pressures": []
 		},
 		{
-			"id": "ppU_91ZkImkrqEAYHZXp3",
 			"type": "freedraw",
-			"x": 303.6929659388221,
-			"y": -23.26449455544075,
-			"width": 7.505187134071548,
-			"height": 0.22403767252718865,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 1125085033,
+			"isDeleted": false,
+			"id": "ppU_91ZkImkrqEAYHZXp3",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 303.6929659388221,
+			"y": -23.26449455544075,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 7.505187134071548,
+			"height": 0.22403767252718865,
 			"seed": 1097162119,
-			"version": 26,
-			"versionNonce": 1125085033,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -24225,35 +24676,33 @@ Kitchen ^aAtLIOxH
 					-0.22403767252718865
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				7.393168297807961,
-				-0.22403767252718865
-			]
+			"pressures": []
 		},
 		{
-			"id": "XG7GtzqphDY4bunLDZ7R8",
 			"type": "freedraw",
-			"x": 270.42380845947196,
-			"y": -23.15247571917716,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1265653671,
+			"isDeleted": false,
+			"id": "XG7GtzqphDY4bunLDZ7R8",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 270.42380845947196,
+			"y": -23.15247571917716,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
 			"seed": 1371651495,
-			"version": 11,
-			"versionNonce": 1265653671,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -24267,35 +24716,33 @@ Kitchen ^aAtLIOxH
 					0.0001
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"pressures": []
 		},
 		{
-			"id": "liDmrFCiRhqFqV__1vOrU",
 			"type": "freedraw",
-			"x": 271.09590899445527,
-			"y": -23.15247571917716,
-			"width": 32.036987728245265,
-			"height": 1.4562261475294065,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 52,
+			"versionNonce": 606050889,
+			"isDeleted": false,
+			"id": "liDmrFCiRhqFqV__1vOrU",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 271.09590899445527,
+			"y": -23.15247571917716,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 32.036987728245265,
+			"height": 1.4562261475294065,
 			"seed": 1073226537,
-			"version": 52,
-			"versionNonce": 606050889,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -24473,35 +24920,33 @@ Kitchen ^aAtLIOxH
 					-1.4562261475294065
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				32.036987728245265,
-				-1.4562261475294065
-			]
+			"pressures": []
 		},
 		{
-			"id": "1ncxsbyo7yIA76YsonHWi",
 			"type": "freedraw",
-			"x": 316.7990199904841,
-			"y": -28.081242101784255,
-			"width": 0.6721130175815233,
-			"height": 0.4480691037552731,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 1660209863,
+			"isDeleted": false,
+			"id": "1ncxsbyo7yIA76YsonHWi",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 316.7990199904841,
+			"y": -28.081242101784255,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 0.6721130175815233,
+			"height": 0.4480691037552731,
 			"seed": 1491435113,
-			"version": 17,
-			"versionNonce": 1660209863,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -24535,35 +24980,33 @@ Kitchen ^aAtLIOxH
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.6721130175815233,
-				-0.4480691037552731
-			]
+			"pressures": []
 		},
 		{
-			"id": "X9QgruJVvHEIKCYxddCUk",
 			"type": "freedraw",
-			"x": 318.7033152417688,
-			"y": -27.633172998028982,
-			"width": 0.11201883626358722,
-			"height": 1.7922826563201966,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 195520809,
+			"isDeleted": false,
+			"id": "X9QgruJVvHEIKCYxddCUk",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 318.7033152417688,
+			"y": -27.633172998028982,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 0.11201883626358722,
+			"height": 1.7922826563201966,
 			"seed": 178105639,
-			"version": 16,
-			"versionNonce": 195520809,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -24597,35 +25040,33 @@ Kitchen ^aAtLIOxH
 					-1.7922826563201966
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-0.11201883626358722,
-				-1.7922826563201966
-			]
+			"pressures": []
 		},
 		{
-			"id": "Lk3Bba3--duae-muCWWHQ",
 			"type": "freedraw",
-			"x": 302.34876486885537,
-			"y": -40.40315805830201,
-			"width": 34.501352195651464,
-			"height": 10.865689808988336,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 54,
+			"versionNonce": 319970313,
+			"isDeleted": false,
+			"id": "Lk3Bba3--duae-muCWWHQ",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 302.34876486885537,
+			"y": -40.40315805830201,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 34.501352195651464,
+			"height": 10.865689808988336,
 			"seed": 31749735,
-			"version": 54,
-			"versionNonce": 319970313,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -24815,35 +25256,33 @@ Kitchen ^aAtLIOxH
 					7.729199841402334
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				13.778142104047163,
-				7.729199841402334
-			]
+			"pressures": []
 		},
 		{
-			"id": "Cu3_tEw0h9trCdQbZFqYY",
 			"type": "freedraw",
-			"x": 317.58312687913286,
-			"y": -57.989896906217645,
-			"width": 33.82923917806994,
-			"height": 3.248502562550506,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 94,
+			"versionNonce": 584582407,
+			"isDeleted": false,
+			"id": "Cu3_tEw0h9trCdQbZFqYY",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 317.58312687913286,
+			"y": -57.989896906217645,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 33.82923917806994,
+			"height": 3.248502562550506,
 			"seed": 1636784553,
-			"version": 94,
-			"versionNonce": 584582407,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -25193,35 +25632,33 @@ Kitchen ^aAtLIOxH
 					3.0244711313224215
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-33.82923917806994,
-				3.0244711313224215
-			]
+			"pressures": []
 		},
 		{
-			"id": "nzOdCLJWLYnHmJQG7hS7y",
 			"type": "freedraw",
-			"x": 283.7538877010629,
-			"y": -54.96542577489522,
-			"width": 50.85591505116312,
-			"height": 1.3442073112658193,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 76,
+			"versionNonce": 442233577,
+			"isDeleted": false,
+			"id": "nzOdCLJWLYnHmJQG7hS7y",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 283.7538877010629,
+			"y": -54.96542577489522,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 50.85591505116312,
+			"height": 1.3442073112658193,
 			"seed": 1105191879,
-			"version": 76,
-			"versionNonce": 442233577,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -25499,35 +25936,33 @@ Kitchen ^aAtLIOxH
 					-1.1201758800377348
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-50.85591505116312,
-				-1.1201758800377348
-			]
+			"pressures": []
 		},
 		{
-			"id": "IF_3R1JlLR797p_5dpk_W",
 			"type": "freedraw",
-			"x": 232.8979726498998,
-			"y": -56.08560165493296,
-			"width": 0.4480753450543773,
-			"height": 26.436114569355695,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 58,
+			"versionNonce": 1069534247,
+			"isDeleted": false,
+			"id": "IF_3R1JlLR797p_5dpk_W",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 232.8979726498998,
+			"y": -56.08560165493296,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 0.4480753450543773,
+			"height": 26.436114569355695,
 			"seed": 470959593,
-			"version": 58,
-			"versionNonce": 1069534247,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -25733,35 +26168,33 @@ Kitchen ^aAtLIOxH
 					26.436114569355695
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-0.22403767252720286,
-				26.436114569355695
-			]
+			"pressures": []
 		},
 		{
-			"id": "2AG8lGkTgqrTYmGtYjavD",
 			"type": "freedraw",
-			"x": 232.6739349773726,
-			"y": -29.649487085577263,
-			"width": 85.91736142813261,
-			"height": 28.340403579341277,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 242,
+			"versionNonce": 1980739017,
+			"isDeleted": false,
+			"id": "2AG8lGkTgqrTYmGtYjavD",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 232.6739349773726,
+			"y": -29.649487085577263,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 85.91736142813261,
+			"height": 28.340403579341277,
 			"seed": 1443727175,
-			"version": 242,
-			"versionNonce": 1980739017,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -26703,35 +27136,33 @@ Kitchen ^aAtLIOxH
 					-4.592716115115422
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				85.24524841055103,
-				-4.592716115115422
-			]
+			"pressures": []
 		},
 		{
-			"id": "cTUKWCYR0HIvV3EXy8Net",
 			"type": "freedraw",
-			"x": 317.58312687913286,
-			"y": -56.53367075868823,
-			"width": 0.5600692161215761,
-			"height": 19.37901526293672,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 66,
+			"versionNonce": 1092234855,
+			"isDeleted": false,
+			"id": "cTUKWCYR0HIvV3EXy8Net",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 317.58312687913286,
+			"y": -56.53367075868823,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 0.5600692161215761,
+			"height": 19.37901526293672,
 			"seed": 1958880233,
-			"version": 66,
-			"versionNonce": 1092234855,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -26977,35 +27408,33 @@ Kitchen ^aAtLIOxH
 					19.37901526293672
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-0.5600692161215761,
-				19.37901526293672
-			]
+			"pressures": []
 		},
 		{
-			"id": "epQIznk0fJEzG5vv5Lmc8",
 			"type": "freedraw",
-			"x": 315.90286930037536,
-			"y": -36.59456755573264,
-			"width": 30.580742856818517,
-			"height": 19.49103409920032,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 81,
+			"versionNonce": 397643657,
+			"isDeleted": false,
+			"id": "epQIznk0fJEzG5vv5Lmc8",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 315.90286930037536,
+			"y": -36.59456755573264,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 30.580742856818517,
+			"height": 19.49103409920032,
 			"seed": 1667407079,
-			"version": 81,
-			"versionNonce": 397643657,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -27311,35 +27740,33 @@ Kitchen ^aAtLIOxH
 					-19.49103409920032
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-30.580742856818517,
-				-19.49103409920032
-			]
+			"pressures": []
 		},
 		{
-			"id": "UqU9zFoZdDa_6470413ff",
 			"type": "freedraw",
-			"x": 285.21010760729325,
-			"y": -56.86972102617991,
-			"width": 60.82546665264093,
-			"height": 22.515498989223637,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 211,
+			"versionNonce": 448121223,
+			"isDeleted": false,
+			"id": "UqU9zFoZdDa_6470413ff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 285.21010760729325,
+			"y": -56.86972102617991,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 60.82546665264093,
+			"height": 22.515498989223637,
 			"seed": 82061223,
-			"version": 211,
-			"versionNonce": 448121223,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -28165,35 +28592,33 @@ Kitchen ^aAtLIOxH
 					18.81892732291785
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-33.2691824445466,
-				18.81892732291785
-			]
+			"pressures": []
 		},
 		{
-			"id": "jghhA9MDpIVxhB8M5L2AR",
 			"type": "freedraw",
-			"x": 287.2264216948415,
-			"y": -42.867541249605566,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 1804252777,
+			"isDeleted": false,
+			"id": "jghhA9MDpIVxhB8M5L2AR",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 287.2264216948415,
+			"y": -42.867541249605566,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
 			"seed": 1271596423,
-			"version": 8,
-			"versionNonce": 1804252777,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -28207,35 +28632,33 @@ Kitchen ^aAtLIOxH
 					0.0001
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"pressures": []
 		},
 		{
-			"id": "WWna2h56SFTLMgNvPQLR8",
 			"type": "freedraw",
-			"x": 304.81315430145804,
-			"y": -173.84914805649612,
-			"width": 0.3360565087908185,
-			"height": 2.46438319130354,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1886453927,
+			"isDeleted": false,
+			"id": "WWna2h56SFTLMgNvPQLR8",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 304.81315430145804,
+			"y": -173.84914805649612,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 0.3360565087908185,
+			"height": 2.46438319130354,
 			"seed": 1978568647,
-			"version": 10,
-			"versionNonce": 1886453927,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -28257,35 +28680,33 @@ Kitchen ^aAtLIOxH
 					2.46438319130354
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-0.3360565087908185,
-				2.46438319130354
-			]
+			"pressures": []
 		},
 		{
-			"id": "gae_pVemV3aiG9Bz-fOBH",
 			"type": "freedraw",
-			"x": 304.25306012014005,
-			"y": -169.03239738950307,
-			"width": 0.11201883626358722,
-			"height": 3.920609338832975,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1408783303,
+			"isDeleted": false,
+			"id": "gae_pVemV3aiG9Bz-fOBH",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 304.25306012014005,
+			"y": -169.03239738950307,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 0.11201883626358722,
+			"height": 3.920609338832975,
 			"seed": 577480775,
-			"version": 15,
-			"versionNonce": 1408783303,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -28331,35 +28752,33 @@ Kitchen ^aAtLIOxH
 					3.920609338832975
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.11201883626358722,
-				3.920609338832975
-			]
+			"pressures": []
 		},
 		{
-			"id": "rSdUpRZfJi46QT-btdUdl",
 			"type": "freedraw",
-			"x": 342.114952438503,
-			"y": -174.63327054839263,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 7,
+			"versionNonce": 1161621545,
+			"isDeleted": false,
+			"id": "rSdUpRZfJi46QT-btdUdl",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 342.114952438503,
+			"y": -174.63327054839263,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
 			"seed": 2013705,
-			"version": 7,
-			"versionNonce": 1161621545,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -28373,35 +28792,33 @@ Kitchen ^aAtLIOxH
 					0.0001
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"pressures": []
 		},
 		{
-			"id": "tHa9L2n5E_uc55mG5hlKJ",
 			"type": "freedraw",
-			"x": 342.114952438503,
-			"y": -174.63327054839263,
-			"width": 37.86189231836295,
-			"height": 4.3686815632378,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 65,
+			"versionNonce": 1835549415,
+			"isDeleted": false,
+			"id": "tHa9L2n5E_uc55mG5hlKJ",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 342.114952438503,
+			"y": -174.63327054839263,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 37.86189231836295,
+			"height": 4.3686815632378,
 			"seed": 1364200999,
-			"version": 65,
-			"versionNonce": 1835549415,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -28647,35 +29064,33 @@ Kitchen ^aAtLIOxH
 					4.3686815632378
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-37.86189231836295,
-				4.3686815632378
-			]
+			"pressures": []
 		},
 		{
-			"id": "NN5TXoELMh7Ua__as_5Ix",
 			"type": "freedraw",
-			"x": 304.81315430145804,
-			"y": -163.43152735126307,
-			"width": 1.6802575787575051,
-			"height": 49.28766382607101,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 77,
+			"versionNonce": 777978633,
+			"isDeleted": false,
+			"id": "NN5TXoELMh7Ua__as_5Ix",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 304.81315430145804,
+			"y": -163.43152735126307,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 1.6802575787575051,
+			"height": 49.28766382607101,
 			"seed": 1078941193,
-			"version": 77,
-			"versionNonce": 777978633,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -28969,35 +29384,33 @@ Kitchen ^aAtLIOxH
 					49.28766382607101
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-0.22403767252723128,
-				49.28766382607101
-			]
+			"pressures": []
 		},
 		{
-			"id": "0que9ns0gqEf42Sf7X6Ez",
 			"type": "freedraw",
-			"x": 304.5891166289308,
-			"y": -114.14386352519206,
-			"width": 41.67048282093231,
-			"height": 1.7922764150210924,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 48,
+			"versionNonce": 760040967,
+			"isDeleted": false,
+			"id": "0que9ns0gqEf42Sf7X6Ez",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 304.5891166289308,
+			"y": -114.14386352519206,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 41.67048282093231,
+			"height": 1.7922764150210924,
 			"seed": 13603719,
-			"version": 48,
-			"versionNonce": 760040967,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -29175,35 +29588,33 @@ Kitchen ^aAtLIOxH
 					0.5600879400188745
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				41.67048282093231,
-				0.5600879400188745
-			]
+			"pressures": []
 		},
 		{
-			"id": "hSa6xdSZip4ATTB1fqQ6r",
 			"type": "freedraw",
-			"x": 346.2595994498631,
-			"y": -113.58377558517319,
-			"width": 4.032628175096534,
-			"height": 59.929319083181696,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 71,
+			"versionNonce": 326875625,
+			"isDeleted": false,
+			"id": "hSa6xdSZip4ATTB1fqQ6r",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 346.2595994498631,
+			"y": -113.58377558517319,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 4.032628175096534,
+			"height": 59.929319083181696,
 			"seed": 1738675271,
-			"version": 71,
-			"versionNonce": 326875625,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -29473,35 +29884,33 @@ Kitchen ^aAtLIOxH
 					-59.929319083181696
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-4.032628175096534,
-				-59.929319083181696
-			]
+			"pressures": []
 		},
 		{
-			"id": "KJTYs2Y7xLvrN-QBXT8Ov",
 			"type": "freedraw",
-			"x": 342.2269712747666,
-			"y": -173.73712922023253,
-			"width": 34.94942754070587,
-			"height": 55.22458725245224,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 438,
+			"versionNonce": 1050932519,
+			"isDeleted": false,
+			"id": "KJTYs2Y7xLvrN-QBXT8Ov",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 342.2269712747666,
+			"y": -173.73712922023253,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 34.94942754070587,
+			"height": 55.22458725245224,
 			"seed": 1428240009,
-			"version": 438,
-			"versionNonce": 1050932519,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -31239,35 +31648,33 @@ Kitchen ^aAtLIOxH
 					29.012510355623732
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-28.228397225675906,
-				29.012510355623732
-			]
+			"pressures": []
 		},
 		{
-			"id": "hABjga5f_pMWE9yE6ecUr",
 			"type": "freedraw",
-			"x": 302.0127083600646,
-			"y": -104.06229308745067,
-			"width": 30.35673014948776,
-			"height": 1.4562261475294065,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 62,
+			"versionNonce": 1704891593,
+			"isDeleted": false,
+			"id": "hABjga5f_pMWE9yE6ecUr",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 302.0127083600646,
+			"y": -104.06229308745067,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 30.35673014948776,
+			"height": 1.4562261475294065,
 			"seed": 627636841,
-			"version": 62,
-			"versionNonce": 1704891593,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -31501,35 +31908,33 @@ Kitchen ^aAtLIOxH
 					-0.8961382075105462
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-3.4725339937785975,
-				-0.8961382075105462
-			]
+			"pressures": []
 		},
 		{
-			"id": "DCQLZsVHuiZ1RMGrMXT7t",
 			"type": "freedraw",
-			"x": 298.540174366286,
-			"y": -104.95843129496122,
-			"width": 1.2321822337031563,
-			"height": 30.356717666889566,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 43,
+			"versionNonce": 953727047,
+			"isDeleted": false,
+			"id": "DCQLZsVHuiZ1RMGrMXT7t",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 298.540174366286,
+			"y": -104.95843129496122,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 1.2321822337031563,
+			"height": 30.356717666889566,
 			"seed": 640224713,
-			"version": 43,
-			"versionNonce": 953727047,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -31687,35 +32092,33 @@ Kitchen ^aAtLIOxH
 					30.356717666889566
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.2321822337031563,
-				30.356717666889566
-			]
+			"pressures": []
 		},
 		{
-			"id": "2AqJpZ4W1dAgAa6bdkEwW",
 			"type": "freedraw",
-			"x": 297.8680613487045,
-			"y": -74.37767595554448,
-			"width": 1.008169526372285,
-			"height": 8.401300376385706,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 36,
+			"versionNonce": 1751323561,
+			"isDeleted": false,
+			"id": "2AqJpZ4W1dAgAa6bdkEwW",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 297.8680613487045,
+			"y": -74.37767595554448,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 1.008169526372285,
+			"height": 8.401300376385706,
 			"seed": 2092429991,
-			"version": 36,
-			"versionNonce": 1751323561,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -31845,35 +32248,33 @@ Kitchen ^aAtLIOxH
 					8.401300376385706
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.8961506901086977,
-				8.401300376385706
-			]
+			"pressures": []
 		},
 		{
-			"id": "zfYEP5oXpfjmRDy7Moaz4",
 			"type": "freedraw",
-			"x": 298.7642120388132,
-			"y": -65.97637557915877,
-			"width": 47.60740624731352,
-			"height": 1.4562199062303165,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 81,
+			"versionNonce": 298325863,
+			"isDeleted": false,
+			"id": "zfYEP5oXpfjmRDy7Moaz4",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 298.7642120388132,
+			"y": -65.97637557915877,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 47.60740624731352,
+			"height": 1.4562199062303165,
 			"seed": 1554662567,
-			"version": 81,
-			"versionNonce": 298325863,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -32183,35 +32584,33 @@ Kitchen ^aAtLIOxH
 					-1.4562199062303165
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				47.60740624731352,
-				-1.4562199062303165
-			]
+			"pressures": []
 		},
 		{
-			"id": "Qu-iDhBHWmfY2zSlSpyQV",
 			"type": "freedraw",
-			"x": 346.3716182861267,
-			"y": -67.43259548538909,
-			"width": 48.39153810115863,
-			"height": 37.9739049133274,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
+			"version": 351,
+			"versionNonce": 1609873033,
+			"isDeleted": false,
+			"id": "Qu-iDhBHWmfY2zSlSpyQV",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 346.3716182861267,
+			"y": -67.43259548538909,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 48.39153810115863,
+			"height": 37.9739049133274,
 			"seed": 916672137,
-			"version": 351,
-			"versionNonce": 1609873033,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -33601,35 +34000,33 @@ Kitchen ^aAtLIOxH
 					-21.059279082993328
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-27.668303044357913,
-				-21.059279082993328
-			]
+			"pressures": []
 		},
 		{
-			"id": "bV-ralVjiEW8d30VWAdGx",
 			"type": "freedraw",
-			"x": 348.6183706210245,
-			"y": -174.0837565982145,
-			"width": 0.5549175997073235,
-			"height": 30.520081507971696,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 52,
+			"versionNonce": 1337889415,
+			"isDeleted": false,
+			"id": "bV-ralVjiEW8d30VWAdGx",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
+			"angle": 0,
+			"x": 348.6183706210245,
+			"y": -174.0837565982145,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.5549175997073235,
+			"height": 30.520081507971696,
 			"seed": 1945658151,
-			"version": 52,
-			"versionNonce": 1337889415,
-			"isDeleted": false,
-			"boundElements": null,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386714779,
 			"link": null,
 			"locked": false,
@@ -33823,12 +34220,9 @@ Kitchen ^aAtLIOxH
 					30.520081507971696
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0,
-				30.520081507971696
-			]
+			"pressures": []
 		},
 		{
 			"type": "line",
@@ -33852,6 +34246,7 @@ Kitchen ^aAtLIOxH
 			"groupIds": [
 				"XEY-aYRZyV3qU0Ec2Fo4z"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -33897,6 +34292,7 @@ Kitchen ^aAtLIOxH
 			"groupIds": [
 				"XEY-aYRZyV3qU0Ec2Fo4z"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -33942,6 +34338,7 @@ Kitchen ^aAtLIOxH
 			"groupIds": [
 				"XEY-aYRZyV3qU0Ec2Fo4z"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -33987,6 +34384,7 @@ Kitchen ^aAtLIOxH
 			"groupIds": [
 				"XEY-aYRZyV3qU0Ec2Fo4z"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -34044,6 +34442,7 @@ Kitchen ^aAtLIOxH
 			"groupIds": [
 				"BVqU8uqpIll77QDuVvJ9W"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -34089,6 +34488,7 @@ Kitchen ^aAtLIOxH
 			"groupIds": [
 				"BVqU8uqpIll77QDuVvJ9W"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -34134,6 +34534,7 @@ Kitchen ^aAtLIOxH
 			"groupIds": [
 				"BVqU8uqpIll77QDuVvJ9W"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -34179,6 +34580,7 @@ Kitchen ^aAtLIOxH
 			"groupIds": [
 				"BVqU8uqpIll77QDuVvJ9W"
 			],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -34215,3742 +34617,226 @@ Kitchen ^aAtLIOxH
 			]
 		},
 		{
-			"id": "KjbfjXEP",
 			"type": "text",
-			"x": 388.2975386151593,
-			"y": 42.771503348741646,
-			"width": 104.51991271972656,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1292986633,
 			"version": 23,
 			"versionNonce": 421115657,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "KjbfjXEP",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 388.2975386151593,
+			"y": 42.771503348741646,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 104.5199966430664,
+			"height": 25,
+			"seed": 1292986633,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386798458,
 			"link": null,
 			"locked": false,
-			"text": "Bedroom 2",
-			"rawText": "Bedroom 2",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "Bedroom 2",
+			"rawText": "Bedroom 2",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 16,
 			"containerId": null,
 			"originalText": "Bedroom 2",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
-			"id": "XXXAJg8b",
 			"type": "text",
-			"x": 371.8185214566661,
-			"y": -56.8188061110377,
-			"width": 72.01995849609375,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 394543273,
 			"version": 7,
 			"versionNonce": 967947593,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "XXXAJg8b",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 371.8185214566661,
+			"y": -56.8188061110377,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 72.02000427246094,
+			"height": 25,
+			"seed": 394543273,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386794430,
 			"link": null,
 			"locked": false,
-			"text": "Garage",
-			"rawText": "Garage",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "Garage",
+			"rawText": "Garage",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 16,
 			"containerId": null,
 			"originalText": "Garage",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
-			"id": "9V989PB5",
 			"type": "text",
-			"x": 421.9718992012645,
-			"y": 169.58791960927158,
-			"width": 69.19041956336241,
-			"height": 18.074837233487248,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1741150727,
 			"version": 64,
 			"versionNonce": 1925309641,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "9V989PB5",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 421.9718992012645,
+			"y": 169.58791960927158,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 69.19047546386719,
+			"height": 18.07483723348725,
+			"seed": 1741150727,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386827296,
 			"link": null,
 			"locked": false,
-			"text": "Bedroom 1",
-			"rawText": "Bedroom 1",
 			"fontSize": 14.4598697867898,
 			"fontFamily": 1,
+			"text": "Bedroom 1",
+			"rawText": "Bedroom 1",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 11.999999999999996,
 			"containerId": null,
 			"originalText": "Bedroom 1",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 12
 		},
 		{
-			"id": "04CqO2tg",
 			"type": "text",
-			"x": 202.73007289622524,
-			"y": 249.83330803258912,
-			"width": 108.93991088867188,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 2119329863,
 			"version": 32,
 			"versionNonce": 1040937385,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "04CqO2tg",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 202.73007289622524,
+			"y": 249.83330803258912,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 108.94000244140625,
+			"height": 25,
+			"seed": 2119329863,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386838548,
 			"link": null,
 			"locked": false,
-			"text": "Living Room",
-			"rawText": "Living Room",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "Living Room",
+			"rawText": "Living Room",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 16,
 			"containerId": null,
 			"originalText": "Living Room",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
-			"id": "DwIFJkmt",
 			"type": "text",
-			"x": 358.92375749278006,
-			"y": 159.5764191757066,
-			"width": 55.2242237505534,
-			"height": 21.41138862696777,
-			"angle": 1.5781763188814644,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 266115431,
 			"version": 63,
 			"versionNonce": 2016081769,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "DwIFJkmt",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 1.5781763188814644,
+			"x": 358.92375749278006,
+			"y": 159.5764191757066,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 55.22425079345703,
+			"height": 21.41138862696777,
+			"seed": 266115431,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386859428,
 			"link": null,
 			"locked": false,
-			"text": "Bath 1",
-			"rawText": "Bath 1",
 			"fontSize": 17.129110901574215,
 			"fontFamily": 1,
+			"text": "Bath 1",
+			"rawText": "Bath 1",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 14,
 			"containerId": null,
 			"originalText": "Bath 1",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 15
 		},
 		{
-			"id": "aAtLIOxH",
 			"type": "text",
-			"x": 253.59977690994174,
-			"y": 64.26584231365496,
-			"width": 68.13993835449219,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1015685705,
 			"version": 28,
 			"versionNonce": 97599113,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "aAtLIOxH",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 253.59977690994174,
+			"y": 64.26584231365496,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 68.13999938964844,
+			"height": 25,
+			"seed": 1015685705,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1689386870006,
 			"link": null,
 			"locked": false,
-			"text": "Kitchen",
-			"rawText": "Kitchen",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "Kitchen",
+			"rawText": "Kitchen",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 16,
 			"containerId": null,
 			"originalText": "Kitchen",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "line",
-			"version": 58,
-			"versionNonce": 1075695047,
-			"isDeleted": true,
-			"id": "C3F80YondXjqENQmI_NFb",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 238.26947498321533,
-			"y": 11.560127258300781,
-			"strokeColor": "#000000",
-			"backgroundColor": "#000000",
-			"width": 9.852752685546875,
-			"height": 9.93798828125,
-			"seed": 2055904679,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1689386750963,
-			"link": null,
-			"locked": false,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0
-				],
-				[
-					0.2700347900390625,
-					0.060577392578125
-				],
-				[
-					0.7592544555664062,
-					0.13812255859375
-				],
-				[
-					2.11700439453125,
-					0.3040008544921875
-				],
-				[
-					7.6060028076171875,
-					0.9069976806640625
-				],
-				[
-					7.6060028076171875,
-					0.9069976806640625
-				],
-				[
-					8.272506713867188,
-					0.9876251220703125
-				],
-				[
-					8.725997924804688,
-					1.02099609375
-				],
-				[
-					9.005508422851562,
-					1.0588836669921875
-				],
-				[
-					8.91900634765625,
-					1.3119964599609375
-				],
-				[
-					8.84967041015625,
-					1.5013275146484375
-				],
-				[
-					8.740127563476562,
-					1.8636322021484375
-				],
-				[
-					8.460006713867188,
-					2.8990020751953125
-				],
-				[
-					7.9548797607421875,
-					4.6837158203125
-				],
-				[
-					7.4535064697265625,
-					6.0467529296875
-				],
-				[
-					6.9468841552734375,
-					7.0089111328125
-				],
-				[
-					6.4260101318359375,
-					7.59100341796875
-				],
-				[
-					5.559844970703125,
-					8.1337890625
-				],
-				[
-					4.496246337890625,
-					8.621994018554688
-				],
-				[
-					2.003997802734375,
-					9.343994140625
-				],
-				[
-					0.36100006103515625,
-					9.6820068359375
-				],
-				[
-					0.36100006103515625,
-					9.6820068359375
-				],
-				[
-					-0.12261962890625,
-					9.785873413085938
-				],
-				[
-					-0.36699676513671875,
-					9.828994750976562
-				],
-				[
-					-0.39965057373046875,
-					9.662582397460938
-				],
-				[
-					-0.43399810791015625,
-					9.190628051757812
-				],
-				[
-					-0.4668426513671875,
-					8.454116821289062
-				],
-				[
-					-0.4949951171875,
-					7.4940032958984375
-				],
-				[
-					-0.5521240234375,
-					5.7445068359375
-				],
-				[
-					-0.584014892578125,
-					5.134033203125
-				],
-				[
-					-0.6129989624023438,
-					4.8170013427734375
-				],
-				[
-					-0.7649993896484375,
-					4.035003662109375
-				],
-				[
-					-0.7649993896484375,
-					4.035003662109375
-				],
-				[
-					-0.8472442626953125,
-					2.0944976806640625
-				],
-				[
-					-0.4239959716796875,
-					-0.0229949951171875
-				],
-				[
-					-0.34737396240234375,
-					-0.1089935302734375
-				],
-				[
-					0,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 61,
-			"versionNonce": 73578695,
-			"isDeleted": true,
-			"id": "e2fkOcQzfpUW7tkg_ifRU",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 196.4234743118286,
-			"y": 211.51811981201172,
-			"strokeColor": "#000000",
-			"backgroundColor": "#000000",
-			"width": 143.90400314331055,
-			"height": 108.98400878906247,
-			"seed": 895845959,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.759002685546875
-				],
-				[
-					16.513999938964844,
-					0.7590026855468635
-				],
-				[
-					33.02900695800781,
-					0.7590026855468768
-				],
-				[
-					33.02900695800781,
-					0
-				],
-				[
-					33.02900695800781,
-					-0.759979248046875
-				],
-				[
-					73.83800506591797,
-					-0.759979248046875
-				],
-				[
-					114.64701080322266,
-					-0.7599792480468679
-				],
-				[
-					114.67000579833984,
-					53.38601684570314
-				],
-				[
-					114.66400909423827,
-					107.87802124023438
-				],
-				[
-					114.63700103759768,
-					108.2240295410156
-				],
-				[
-					111.96900177001955,
-					108.17501831054686
-				],
-				[
-					111.96900177001955,
-					108.17501831054686
-				],
-				[
-					111.33792877197266,
-					108.16983032226562
-				],
-				[
-					110.0194320678711,
-					108.16476440429689
-				],
-				[
-					108.05037689208986,
-					108.1598815917969
-				],
-				[
-					105.46765899658202,
-					108.15524291992188
-				],
-				[
-					102.30815887451168,
-					108.15078735351564
-				],
-				[
-					98.608757019043,
-					108.14657592773439
-				],
-				[
-					94.40631866455078,
-					108.14260864257812
-				],
-				[
-					89.73775482177734,
-					108.13900756835935
-				],
-				[
-					84.63993072509767,
-					108.13571166992189
-				],
-				[
-					79.14972686767578,
-					108.13278198242188
-				],
-				[
-					73.30402374267578,
-					108.13021850585938
-				],
-				[
-					67.1397171020508,
-					108.1280212402344
-				],
-				[
-					60.69368743896486,
-					108.12631225585938
-				],
-				[
-					54.00279998779296,
-					108.12503051757812
-				],
-				[
-					40.03400421142578,
-					108.12399291992188
-				],
-				[
-					-29.233997344970668,
-					108.12399291992188
-				],
-				[
-					-29.233997344970703,
-					54.4420166015625
-				],
-				[
-					-29.233997344970703,
-					0.759002685546875
-				],
-				[
-					-25.246997833251953,
-					0.759002685546875
-				],
-				[
-					-21.26099395751953,
-					0.7590026855468732
-				],
-				[
-					-21.26099395751953,
-					-1.7763568394002505e-15
-				],
-				[
-					-21.26099395751953,
-					-0.759979248046875
-				],
-				[
-					-10.630996704101562,
-					-0.759979248046875
-				],
-				[
-					-5.551115123125783e-17,
-					-0.759979248046875
-				],
-				[
-					0,
-					0
-				]
-			]
-		},
-		{
-			"type": "image",
-			"version": 393,
-			"versionNonce": 1587357801,
-			"isDeleted": true,
-			"id": "32o6Kj_k1kabnRXxdH6-m",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 260.928507848486,
-			"y": -337.7196179288377,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 660.946358255105,
-			"height": 872.4491928967386,
-			"seed": 1129829321,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "6eaf3095595a1237c8ed98180cd163417a0e8c0d",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 424,
-			"versionNonce": 1131851431,
-			"isDeleted": true,
-			"id": "kRIJcBe6iPpfQuwxU3pDq",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 179.08241946938426,
-			"y": -498.16393403707673,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 660.946358255105,
-			"height": 872.4491928967386,
-			"seed": 1582973543,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "6eaf3095595a1237c8ed98180cd163417a0e8c0d",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"id": "3x76-qubDRuRB7pP-7Nvi",
-			"type": "freedraw",
-			"x": 229.5374450097866,
-			"y": -59.30194592386588,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1204567817,
-			"version": 19,
-			"versionNonce": 1468937033,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
-		},
-		{
-			"id": "bDI1sSXJ4k6v-lP6gKcnK",
-			"type": "freedraw",
-			"x": 230.76963972608792,
-			"y": -57.54182780246237,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 531597255,
-			"version": 16,
-			"versionNonce": 1742397993,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
-		},
-		{
-			"id": "eSNIRqM5E_Ba0Tans9njE",
-			"type": "freedraw",
-			"x": 231.66577793359846,
-			"y": -57.54182780246237,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1878350855,
-			"version": 16,
-			"versionNonce": 1096446183,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
-		},
-		{
-			"id": "fBYwTiFx-NM9LAletqKrM",
-			"type": "freedraw",
-			"x": 232.11384079605466,
-			"y": -57.54182780246237,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1526474441,
-			"version": 15,
-			"versionNonce": 1819194633,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
-		},
-		{
-			"id": "NA2sWyoGLrcwC7VhRbL_l",
-			"type": "freedraw",
-			"x": 232.44989730484542,
-			"y": -56.981739862443504,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 2115447719,
-			"version": 15,
-			"versionNonce": 1590279175,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
-		},
-		{
-			"id": "laTasSPb0uyiowCgafOJi",
-			"type": "freedraw",
-			"x": 231.77779676986208,
-			"y": -57.765859233690456,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 2073711913,
-			"version": 14,
-			"versionNonce": 415575017,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
-		},
-		{
-			"id": "RTITPO0DxIGPobgT48z75",
-			"type": "freedraw",
-			"x": 317.35911417180205,
-			"y": -24.944758375497344,
-			"width": 38.085929990890065,
-			"height": 1.2321884750022178,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 228856135,
-			"version": 78,
-			"versionNonce": 997721513,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.22403767252717444,
-					0
-				],
-				[
-					-1.9042952512846796,
-					-0.11201259496449723
-				],
-				[
-					-4.368684683887295,
-					-0.3360502674916859
-				],
-				[
-					-7.057111789017142,
-					-0.4480691037552731
-				],
-				[
-					-8.961407040301822,
-					-0.5600816987197703
-				],
-				[
-					-9.74553889414699,
-					-0.5600816987197703
-				],
-				[
-					-9.85753276521416,
-					-0.5600816987197703
-				],
-				[
-					-9.969551601477747,
-					-0.5600816987197703
-				],
-				[
-					-10.081570437741334,
-					-0.5600816987197703
-				],
-				[
-					-10.641664619059327,
-					-0.5600816987197703
-				],
-				[
-					-11.089739964113733,
-					-0.4480691037552731
-				],
-				[
-					-11.425796472904494,
-					-0.4480691037552731
-				],
-				[
-					-11.873846852762426,
-					-0.4480691037552731
-				],
-				[
-					-12.209903361553245,
-					-0.4480691037552731
-				],
-				[
-					-12.43394103408042,
-					-0.3360502674916859
-				],
-				[
-					-12.882016379134825,
-					-0.3360502674916859
-				],
-				[
-					-13.218072887925587,
-					-0.22403143122808444
-				],
-				[
-					-13.554129396716348,
-					-0.11201259496449723
-				],
-				[
-					-13.778142104047106,
-					-0.11201259496449723
-				],
-				[
-					-14.114198612837924,
-					0
-				],
-				[
-					-14.450255121628686,
-					0
-				],
-				[
-					-14.56227395789233,
-					0
-				],
-				[
-					-14.898330466683092,
-					0.11201883626358722
-				],
-				[
-					-15.010349302946679,
-					0.11201883626358722
-				],
-				[
-					-15.122368139210266,
-					0.11201883626358722
-				],
-				[
-					-15.234386975473853,
-					0.11201883626358722
-				],
-				[
-					-15.34640581173744,
-					0.11201883626358722
-				],
-				[
-					-15.682462320528202,
-					0.11201883626358722
-				],
-				[
-					-16.354550372913423,
-					0.22403767252717444
-				],
-				[
-					-16.91464455423136,
-					0.22403767252717444
-				],
-				[
-					-17.474738735549295,
-					0.22403767252717444
-				],
-				[
-					-18.03480795167087,
-					0.22403767252717444
-				],
-				[
-					-18.70692096925245,
-					0.22403767252717444
-				],
-				[
-					-19.49105282309756,
-					0.22403767252717444
-				],
-				[
-					-20.16314087548278,
-					0.22403767252717444
-				],
-				[
-					-20.835253893064305,
-					0.22403767252717444
-				],
-				[
-					-21.39534807438224,
-					0.22403767252717444
-				],
-				[
-					-22.06743612676746,
-					0.22403767252717444
-				],
-				[
-					-22.51551147182181,
-					0.22403767252717444
-				],
-				[
-					-22.85156798061257,
-					0.22403767252717444
-				],
-				[
-					-23.63567486926138,
-					0.33605650879077587
-				],
-				[
-					-25.203938576951657,
-					0.4480691037552731
-				],
-				[
-					-26.548139646918344,
-					0.5600879400188603
-				],
-				[
-					-27.108233828236337,
-					0.6721067762824475
-				],
-				[
-					-27.4442903370271,
-					0.6721067762824475
-				],
-				[
-					-28.11637838941226,
-					0.6721067762824475
-				],
-				[
-					-28.22839722567585,
-					0.6721067762824475
-				],
-				[
-					-28.56445373446661,
-					0.6721067762824475
-				],
-				[
-					-28.90051024325743,
-					0.6721067762824475
-				],
-				[
-					-29.012529079521016,
-					0.6721067762824475
-				],
-				[
-					-29.460604424575422,
-					0.6721067762824475
-				],
-				[
-					-29.796635968169767,
-					0.6721067762824475
-				],
-				[
-					-30.13269247696053,
-					0.6721067762824475
-				],
-				[
-					-30.244711313224116,
-					0.6721067762824475
-				],
-				[
-					-30.69278665827852,
-					0.6721067762824475
-				],
-				[
-					-31.252880839596514,
-					0.6721067762824475
-				],
-				[
-					-32.149006564508795,
-					0.6721067762824475
-				],
-				[
-					-32.821119582090375,
-					0.6721067762824475
-				],
-				[
-					-33.38121376340837,
-					0.6721067762824475
-				],
-				[
-					-33.94128297952989,
-					0.6721067762824475
-				],
-				[
-					-34.725414833375055,
-					0.6721067762824475
-				],
-				[
-					-35.509521722023806,
-					0.6721067762824475
-				],
-				[
-					-36.181634739605386,
-					0.6721067762824475
-				],
-				[
-					-37.07777294711593,
-					0.6721067762824475
-				],
-				[
-					-38.085929990890065,
-					0.6721067762824475
-				],
-				[
-					-38.085929990890065,
-					0.6721067762824475
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-38.085929990890065,
-				0.6721067762824475
-			]
-		},
-		{
-			"id": "C_GTDG-HTT79oYHy2gToc",
-			"type": "freedraw",
-			"x": 301.900689523801,
-			"y": -24.944758375497344,
-			"width": 49.17564498980744,
-			"height": 0.8961444488096362,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 533516167,
-			"version": 101,
-			"versionNonce": 1546863975,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.11201883626358722
-				],
-				[
-					0.33605650879076165,
-					0.22403767252717444
-				],
-				[
-					0.4480753450543489,
-					0.22403767252717444
-				],
-				[
-					0.4480753450543489,
-					0.33605650879077587
-				],
-				[
-					0.6721130175815233,
-					0.33605650879077587
-				],
-				[
-					0.7841318538451105,
-					0.33605650879077587
-				],
-				[
-					0.8961506901086977,
-					0.33605650879077587
-				],
-				[
-					1.0081695263723418,
-					0.33605650879077587
-				],
-				[
-					1.120188362635929,
-					0.33605650879077587
-				],
-				[
-					1.2322071988995162,
-					0.33605650879077587
-				],
-				[
-					1.3442260351631035,
-					0.33605650879077587
-				],
-				[
-					1.4562448714266907,
-					0.33605650879077587
-				],
-				[
-					1.9042952512846796,
-					0.33605650879077587
-				],
-				[
-					3.4725589589750143,
-					0.33605650879077587
-				],
-				[
-					4.4807035201508825,
-					0.4480691037552731
-				],
-				[
-					6.0489422626448,
-					0.5600879400188603
-				],
-				[
-					6.384998771435562,
-					0.6721067762824475
-				],
-				[
-					6.497017607699206,
-					0.6721067762824475
-				],
-				[
-					6.609036443962793,
-					0.6721067762824475
-				],
-				[
-					6.7210552802263805,
-					0.6721067762824475
-				],
-				[
-					7.057111789017199,
-					0.6721067762824475
-				],
-				[
-					7.505187134071548,
-					0.6721067762824475
-				],
-				[
-					7.617205970335135,
-					0.6721067762824475
-				],
-				[
-					7.7291998414023055,
-					0.6721067762824475
-				],
-				[
-					7.841218677665893,
-					0.6721067762824475
-				],
-				[
-					7.95323751392948,
-					0.6721067762824475
-				],
-				[
-					8.065256350193067,
-					0.6721067762824475
-				],
-				[
-					8.289294022720298,
-					0.6721067762824475
-				],
-				[
-					7.2811494615443735,
-					0.6721067762824475
-				],
-				[
-					6.7210552802263805,
-					0.784125612546049
-				],
-				[
-					4.256665847623708,
-					0.8961444488096362
-				],
-				[
-					2.016314087548267,
-					0.8961444488096362
-				],
-				[
-					-0.5600692161215761,
-					0.8961444488096362
-				],
-				[
-					-1.6802575787575051,
-					0.8961444488096362
-				],
-				[
-					-2.128332923811854,
-					0.8961444488096362
-				],
-				[
-					-2.4643644674062557,
-					0.8961444488096362
-				],
-				[
-					-3.3605151575150103,
-					0.8961444488096362
-				],
-				[
-					-4.256640882427348,
-					0.8961444488096362
-				],
-				[
-					-5.040772736272515,
-					0.8961444488096362
-				],
-				[
-					-6.1609610989084445,
-					0.8961444488096362
-				],
-				[
-					-7.505162168875131,
-					0.784125612546049
-				],
-				[
-					-8.513306730051113,
-					0.784125612546049
-				],
-				[
-					-9.073400911369049,
-					0.784125612546049
-				],
-				[
-					-9.74551392895063,
-					0.784125612546049
-				],
-				[
-					-10.641639653862967,
-					0.6721067762824475
-				],
-				[
-					-11.425771507708077,
-					0.5600879400188603
-				],
-				[
-					-12.545934905147647,
-					0.4480691037552731
-				],
-				[
-					-14.002179776574394,
-					0.4480691037552731
-				],
-				[
-					-15.458399682804668,
-					0.33605650879077587
-				],
-				[
-					-16.354525407717006,
-					0.22403767252717444
-				],
-				[
-					-16.914619589034942,
-					0.22403767252717444
-				],
-				[
-					-17.25067609782576,
-					0.11201883626358722
-				],
-				[
-					-17.58673260661658,
-					0.11201883626358722
-				],
-				[
-					-17.810770279143753,
-					0.11201883626358722
-				],
-				[
-					-18.146801822738098,
-					0.11201883626358722
-				],
-				[
-					-18.48285833152886,
-					0.11201883626358722
-				],
-				[
-					-18.706896004056034,
-					0.22403767252717444
-				],
-				[
-					-18.930933676583265,
-					0.22403767252717444
-				],
-				[
-					-19.15497134911044,
-					0.22403767252717444
-				],
-				[
-					-19.603046694164846,
-					0.33605650879077587
-				],
-				[
-					-20.051097074022778,
-					0.33605650879077587
-				],
-				[
-					-20.723210091604358,
-					0.5600879400188603
-				],
-				[
-					-21.171285436658764,
-					0.5600879400188603
-				],
-				[
-					-21.507329462851317,
-					0.5600879400188603
-				],
-				[
-					-21.955404807905666,
-					0.6721067762824475
-				],
-				[
-					-22.17944248043284,
-					0.6721067762824475
-				],
-				[
-					-22.51548650662545,
-					0.6721067762824475
-				],
-				[
-					-22.739524179152625,
-					0.6721067762824475
-				],
-				[
-					-22.851543015416212,
-					0.6721067762824475
-				],
-				[
-					-23.411637196734205,
-					0.6721067762824475
-				],
-				[
-					-23.747681222926758,
-					0.6721067762824475
-				],
-				[
-					-24.531800594173717,
-					0.6721067762824475
-				],
-				[
-					-24.979875939228123,
-					0.6721067762824475
-				],
-				[
-					-25.763995310475025,
-					0.6721067762824475
-				],
-				[
-					-26.21207065552943,
-					0.6721067762824475
-				],
-				[
-					-26.772152354249215,
-					0.6721067762824475
-				],
-				[
-					-28.004347070550466,
-					0.6721067762824475
-				],
-				[
-					-28.788466441797482,
-					0.6721067762824475
-				],
-				[
-					-29.79662348557156,
-					0.6721067762824475
-				],
-				[
-					-31.58889990059265,
-					0.6721067762824475
-				],
-				[
-					-32.70907578063043,
-					0.6721067762824475
-				],
-				[
-					-33.82925166066815,
-					0.6721067762824475
-				],
-				[
-					-34.61337103191511,
-					0.6721067762824475
-				],
-				[
-					-35.509509239425654,
-					0.6721067762824475
-				],
-				[
-					-36.965741628254136,
-					0.6721067762824475
-				],
-				[
-					-38.533980370748054,
-					0.6721067762824475
-				],
-				[
-					-39.878193923313006,
-					0.6721067762824475
-				],
-				[
-					-40.774332130823495,
-					0.6721067762824475
-				],
-				[
-					-40.88635096708714,
-					0.6721067762824475
-				],
-				[
-					-40.88635096708714,
-					0.6721067762824475
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-40.88635096708714,
-				0.6721067762824475
-			]
-		},
-		{
-			"id": "VxKKJfoMbs3n4OujfIMhj",
-			"type": "rectangle",
-			"x": 229.76148268231378,
-			"y": -59.558141890010646,
-			"width": 89.38990790450936,
-			"height": 36.2936473345699,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 14049703,
-			"version": 59,
-			"versionNonce": 1941821927,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "Ev9Fpja8jJOxaQFywnm1g",
-			"type": "freedraw",
-			"x": 317.9191833879236,
-			"y": -34.35422203695627,
-			"width": 1.0081695263723418,
-			"height": 21.843392212941176,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1506135305,
-			"version": 66,
-			"versionNonce": 1986113351,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-0.4480691037552731
-				],
-				[
-					0,
-					-1.1201696387386306
-				],
-				[
-					-0.11201883626358722,
-					-1.7922764150210924
-				],
-				[
-					-0.22403767252717444,
-					-2.1283266825127782
-				],
-				[
-					-0.22403767252717444,
-					-2.6884146225316385
-				],
-				[
-					-0.22403767252717444,
-					-3.1364837262869116
-				],
-				[
-					-0.33605650879076165,
-					-3.5845528300421847
-				],
-				[
-					-0.33605650879076165,
-					-3.8085905025693734
-				],
-				[
-					-0.33605650879076165,
-					-4.368678442588234
-				],
-				[
-					-0.33605650879076165,
-					-4.816747546343507
-				],
-				[
-					-0.33605650879076165,
-					-5.26481665009878
-				],
-				[
-					-0.33605650879076165,
-					-5.488848081326864
-				],
-				[
-					-0.33605650879076165,
-					-5.824904590117654
-				],
-				[
-					-0.22403767252717444,
-					-6.2729736938729275
-				],
-				[
-					-0.11201883626358722,
-					-6.609023961364599
-				],
-				[
-					0,
-					-7.057093065119872
-				],
-				[
-					0.22403767252723128,
-					-7.617181005138747
-				],
-				[
-					0.3360565087908185,
-					-8.289287781421194
-				],
-				[
-					0.4480753450544057,
-					-8.62533804891288
-				],
-				[
-					0.4480753450544057,
-					-8.849375721440069
-				],
-				[
-					0.5600941813179929,
-					-9.073407152668153
-				],
-				[
-					0.5600941813179929,
-					-9.297444825195342
-				],
-				[
-					0.5600941813179929,
-					-9.633495092687014
-				],
-				[
-					0.6721130175815802,
-					-9.9695453601787
-				],
-				[
-					0.6721130175815802,
-					-10.417620705233077
-				],
-				[
-					0.6721130175815802,
-					-10.977702403952833
-				],
-				[
-					0.6721130175815802,
-					-11.873846852762483
-				],
-				[
-					0.6721130175815802,
-					-12.657966224009442
-				],
-				[
-					0.6721130175815802,
-					-13.106035327764701
-				],
-				[
-					0.6721130175815802,
-					-13.442085595256387
-				],
-				[
-					0.4480753450544057,
-					-14.114192371538849
-				],
-				[
-					0.4480753450544057,
-					-14.45024263903052
-				],
-				[
-					0.4480753450544057,
-					-14.8983117427858
-				],
-				[
-					0.4480753450544057,
-					-15.570418519068255
-				],
-				[
-					0.4480753450544057,
-					-16.130506459087123
-				],
-				[
-					0.4480753450544057,
-					-16.578575562842396
-				],
-				[
-					0.4480753450544057,
-					-17.02664466659767
-				],
-				[
-					0.4480753450544057,
-					-17.250682339124857
-				],
-				[
-					0.4480753450544057,
-					-17.474713770352942
-				],
-				[
-					0.4480753450544057,
-					-17.810770279143725
-				],
-				[
-					0.4480753450544057,
-					-18.03480171037181
-				],
-				[
-					0.4480753450544057,
-					-18.370851977863488
-				],
-				[
-					0.4480753450544057,
-					-18.818927322917858
-				],
-				[
-					0.4480753450544057,
-					-19.154977590409544
-				],
-				[
-					0.4480753450544057,
-					-19.491027857901223
-				],
-				[
-					0.4480753450544057,
-					-19.8270781253929
-				],
-				[
-					0.5600941813179929,
-					-19.939096961656496
-				],
-				[
-					0.5600941813179929,
-					-20.163134634183677
-				],
-				[
-					0.5600941813179929,
-					-20.387166065411762
-				],
-				[
-					0.5600941813179929,
-					-20.835235169167035
-				],
-				[
-					0.5600941813179929,
-					-20.94725400543063
-				],
-				[
-					0.6721130175815802,
-					-21.171291677957818
-				],
-				[
-					0.6721130175815802,
-					-21.283310514221412
-				],
-				[
-					0.6721130175815802,
-					-21.395323109185902
-				],
-				[
-					0.6721130175815802,
-					-21.731379617976685
-				],
-				[
-					0.6721130175815802,
-					-21.843392212941176
-				],
-				[
-					0.6721130175815802,
-					-21.843392212941176
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.6721130175815802,
-				-21.843392212941176
-			]
-		},
-		{
-			"id": "C2NHd_JZRxM9aDTbwo2EG",
-			"type": "freedraw",
-			"x": 318.5912964055052,
-			"y": -56.30963308616104,
-			"width": 35.509521722023806,
-			"height": 20.387172306710866,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1477753511,
-			"version": 92,
-			"versionNonce": 1565068457,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.11201883626358722,
-					0
-				],
-				[
-					-0.4480753450543489,
-					0
-				],
-				[
-					-0.5600941813179361,
-					0
-				],
-				[
-					-1.0081695263723418,
-					0.11201883626359432
-				],
-				[
-					-1.568238742493918,
-					0.33605026749167877
-				],
-				[
-					-2.016314087548267,
-					0.5600879400188674
-				],
-				[
-					-2.3523705963390285,
-					0.7841193712469519
-				],
-				[
-					-2.688427105129847,
-					0.8961382075105462
-				],
-				[
-					-3.248496321251423,
-					1.0081570437741405
-				],
-				[
-					-4.480703520150939,
-					1.232188475002225
-				],
-				[
-					-5.6008669175904515,
-					1.4562261475294136
-				],
-				[
-					-6.272979935172032,
-					1.568244983793008
-				],
-				[
-					-7.505162168875131,
-					1.7922764150210924
-				],
-				[
-					-8.961407040301879,
-					2.1283329238118682
-				],
-				[
-					-9.969551601477804,
-					2.3523643550399598
-				],
-				[
-					-10.193589274004978,
-					2.5764020275671413
-				],
-				[
-					-11.089714998917316,
-					2.6884146225316385
-				],
-				[
-					-11.873846852762483,
-					2.91245229505882
-				],
-				[
-					-12.994010250201995,
-					3.248502562550499
-				],
-				[
-					-14.56227395789233,
-					3.4725402350776875
-				],
-				[
-					-16.354550372913423,
-					3.8085905025693663
-				],
-				[
-					-17.698751442880166,
-					4.032628175096555
-				],
-				[
-					-18.818939805516038,
-					4.256659606324639
-				],
-				[
-					-19.37900902163767,
-					4.368678442588234
-				],
-				[
-					-19.939103202955607,
-					4.7047287100799124
-				],
-				[
-					-20.27515971174637,
-					4.928766382607101
-				],
-				[
-					-20.16314087548278,
-					5.712885753854053
-				],
-				[
-					-19.042952512846853,
-					6.160954857609326
-				],
-				[
-					-15.682437355331842,
-					6.27297369387292
-				],
-				[
-					-13.666123267783576,
-					6.160954857609326
-				],
-				[
-					-10.753683455322971,
-					6.048942262644829
-				],
-				[
-					-10.529645782795797,
-					6.160954857609326
-				],
-				[
-					-9.185419747632636,
-					6.609023961364599
-				],
-				[
-					-8.401312858983886,
-					6.7210427976281935
-				],
-				[
-					-7.841218677665893,
-					6.7210427976281935
-				],
-				[
-					-7.505162168875131,
-					6.7210427976281935
-				],
-				[
-					-7.057086823820782,
-					6.609023961364599
-				],
-				[
-					-6.384998771435619,
-					6.497011366400102
-				],
-				[
-					-6.384998771435619,
-					6.384992530136515
-				],
-				[
-					-5.824904590117626,
-					6.384992530136515
-				],
-				[
-					-5.712885753854039,
-					6.384992530136515
-				],
-				[
-					-5.376829245063277,
-					6.833061633891788
-				],
-				[
-					-4.5927223564145265,
-					8.177268945157607
-				],
-				[
-					-3.248496321251423,
-					10.977708645251937
-				],
-				[
-					-2.9124647776570214,
-					12.321915956517756
-				],
-				[
-					-2.800445941393434,
-					14.114192371538849
-				],
-				[
-					-2.688427105129847,
-					15.122349415312982
-				],
-				[
-					-2.688427105129847,
-					16.01848762282353
-				],
-				[
-					-2.688427105129847,
-					16.802613235369577
-				],
-				[
-					-2.800445941393434,
-					17.81077027914371
-				],
-				[
-					-3.136477484987836,
-					18.706908486654257
-				],
-				[
-					-3.4725339937785975,
-					19.37901526293672
-				],
-				[
-					-3.696571666305772,
-					19.715065530428404
-				],
-				[
-					-4.144647011360121,
-					20.051115797920076
-				],
-				[
-					-5.26481040879969,
-					20.387172306710866
-				],
-				[
-					-6.384998771435619,
-					20.387172306710866
-				],
-				[
-					-8.177275186456711,
-					19.93909696165649
-				],
-				[
-					-12.433941034080476,
-					18.370858219162585
-				],
-				[
-					-12.769997542871238,
-					18.370858219162585
-				],
-				[
-					-14.450255121628743,
-					18.03480171037181
-				],
-				[
-					-16.80262571796777,
-					17.698751442880123
-				],
-				[
-					-19.042952512846853,
-					17.586732606616536
-				],
-				[
-					-21.171285436658707,
-					17.586732606616536
-				],
-				[
-					-23.63567486926138,
-					17.922789115407312
-				],
-				[
-					-26.660158483181988,
-					18.258839382898984
-				],
-				[
-					-28.676472570730255,
-					18.258839382898984
-				],
-				[
-					-29.348560623115418,
-					18.258839382898984
-				],
-				[
-					-29.124522950588243,
-					18.258839382898984
-				],
-				[
-					-22.17945496303105,
-					17.138663502861263
-				],
-				[
-					-11.425771507708077,
-					15.682437355331842
-				],
-				[
-					2.576408268866203,
-					14.674280311557709
-				],
-				[
-					6.0489422626448,
-					14.450248880329625
-				],
-				[
-					6.160961098908388,
-					14.450248880329625
-				],
-				[
-					5.712885753854039,
-					14.450248880329625
-				],
-				[
-					4.032628175096534,
-					14.450248880329625
-				],
-				[
-					-7.505162168875131,
-					14.450248880329625
-				],
-				[
-					-8.51333169524753,
-					14.338230044066023
-				],
-				[
-					-10.753683455322971,
-					13.89016094031075
-				],
-				[
-					-11.089714998917316,
-					13.778142104047163
-				],
-				[
-					-10.977721127850145,
-					13.778142104047163
-				],
-				[
-					-7.617181005138718,
-					12.882003896536617
-				],
-				[
-					-4.816760028941758,
-					12.433934792781344
-				],
-				[
-					-3.0244836139206654,
-					12.433934792781344
-				],
-				[
-					-3.0244836139206654,
-					12.433934792781344
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-3.0244836139206654,
-				12.433934792781344
-			]
-		},
-		{
-			"id": "CdgJ-H8_3u800Mj42sbtk",
-			"type": "freedraw",
-			"x": 304.5891166289308,
-			"y": -170.9366957614373,
-			"width": 43.46275923595334,
-			"height": 55.33660608871584,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1241923049,
-			"version": 137,
-			"versionNonce": 1268384073,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.11201883626358722
-				],
-				[
-					-0.22403767252717444,
-					0.5600879400188603
-				],
-				[
-					-0.4480753450543489,
-					1.0081570437741334
-				],
-				[
-					-1.0081445611758681,
-					2.1283329238118824
-				],
-				[
-					-1.2321822337030994,
-					2.800436579444778
-				],
-				[
-					-1.4562199062302739,
-					3.696574786955324
-				],
-				[
-					-1.4562199062302739,
-					4.144647011360149
-				],
-				[
-					-1.4562199062302739,
-					4.816750666993073
-				],
-				[
-					-1.4562199062302739,
-					5.040785218870695
-				],
-				[
-					-1.4562199062302739,
-					5.712888874503619
-				],
-				[
-					-1.4562199062302739,
-					5.936923426381242
-				],
-				[
-					-1.4562199062302739,
-					6.384995650786067
-				],
-				[
-					-1.3442010699666866,
-					6.609030202663689
-				],
-				[
-					-1.3442010699666866,
-					7.281133858296613
-				],
-				[
-					-1.2321822337030994,
-					7.729202962051886
-				],
-				[
-					-1.2321822337030994,
-					8.289290902070746
-				],
-				[
-					-1.2321822337030994,
-					8.849378842089607
-				],
-				[
-					-1.2321822337030994,
-					9.29744794584488
-				],
-				[
-					-1.2321822337030994,
-					9.85753588586374
-				],
-				[
-					-1.2321822337030994,
-					10.529639541496664
-				],
-				[
-					-1.2321822337030994,
-					11.313762033393175
-				],
-				[
-					-1.2321822337030994,
-					12.54595362904493
-				],
-				[
-					-1.0081445611758681,
-					13.554110672819093
-				],
-				[
-					-1.0081445611758681,
-					15.234371372226121
-				],
-				[
-					-0.8961506901086977,
-					17.026650907896766
-				],
-				[
-					-0.8961506901086977,
-					20.723222574202538
-				],
-				[
-					-0.8961506901086977,
-					21.7313796179767
-				],
-				[
-					-0.8961506901086977,
-					22.739536661750833
-				],
-				[
-					-0.8961506901086977,
-					23.747693705524966
-				],
-				[
-					-0.8961506901086977,
-					24.867869585562687
-				],
-				[
-					-0.8961506901086977,
-					26.10005806056492
-				],
-				[
-					-0.8961506901086977,
-					27.108215104339052
-				],
-				[
-					-0.8961506901086977,
-					27.444271613129843
-				],
-				[
-					-0.8961506901086977,
-					29.012516596922836
-				],
-				[
-					-0.5600941813179361,
-					30.69277417568034
-				],
-				[
-					-0.4480753450543489,
-					31.924968891981678
-				],
-				[
-					-0.4480753450543489,
-					32.37303799573692
-				],
-				[
-					-0.4480753450543489,
-					32.821107099492224
-				],
-				[
-					-0.4480753450543489,
-					33.381195039511084
-				],
-				[
-					-0.22403767252717444,
-					35.17347145453218
-				],
-				[
-					-0.22403767252717444,
-					36.069609662042694
-				],
-				[
-					-0.11201883626358722,
-					36.85373527458876
-				],
-				[
-					-0.11201883626358722,
-					37.52583580957213
-				],
-				[
-					-0.11201883626358722,
-					38.53399285334626
-				],
-				[
-					-0.11201883626358722,
-					39.43013106085681
-				],
-				[
-					-0.22403767252717444,
-					40.55030694089453
-				],
-				[
-					-0.22403767252717444,
-					42.342589597214726
-				],
-				[
-					-0.22403767252717444,
-					43.686796908480545
-				],
-				[
-					-0.22403767252717444,
-					45.031004219746364
-				],
-				[
-					-0.22403767252717444,
-					45.59109215976524
-				],
-				[
-					-0.22403767252717444,
-					46.59924920353937
-				],
-				[
-					-0.22403767252717444,
-					46.82328063476746
-				],
-				[
-					-0.11201883626358722,
-					47.94345651480519
-				],
-				[
-					0,
-					49.06363239484293
-				],
-				[
-					0.11201883626364406,
-					49.95977060235347
-				],
-				[
-					0.11201883626364406,
-					51.07994648239119
-				],
-				[
-					0.11201883626364406,
-					51.97608468990174
-				],
-				[
-					0.11201883626364406,
-					52.6481914661842
-				],
-				[
-					0,
-					53.096260569939474
-				],
-				[
-					0,
-					53.54432967369475
-				],
-				[
-					0,
-					53.76836110492283
-				],
-				[
-					0,
-					53.88037994118643
-				],
-				[
-					0,
-					54.10441761371362
-				],
-				[
-					0,
-					54.552486717468895
-				],
-				[
-					0,
-					55.00055582122417
-				],
-				[
-					-0.11201883626358722,
-					55.33660608871584
-				],
-				[
-					0.11201883626364406,
-					55.33660608871584
-				],
-				[
-					1.6802575787575051,
-					55.112574657487755
-				],
-				[
-					3.248496321251423,
-					55.00055582122417
-				],
-				[
-					4.256665847623822,
-					54.88853698496057
-				],
-				[
-					5.040772736272515,
-					54.77651814869698
-				],
-				[
-					6.497017607699263,
-					54.77651814869698
-				],
-				[
-					8.06525635019318,
-					54.77651814869698
-				],
-				[
-					8.737369367774704,
-					54.66450555373248
-				],
-				[
-					9.29743858389628,
-					54.66450555373248
-				],
-				[
-					10.753683455322971,
-					54.66450555373248
-				],
-				[
-					13.10602908646564,
-					54.66450555373248
-				],
-				[
-					14.114198612837981,
-					54.66450555373248
-				],
-				[
-					14.674292794155917,
-					54.66450555373248
-				],
-				[
-					16.354550372913423,
-					54.552486717468895
-				],
-				[
-					16.46656920917701,
-					54.552486717468895
-				],
-				[
-					17.13865726156223,
-					54.552486717468895
-				],
-				[
-					18.706920969252508,
-					54.552486717468895
-				],
-				[
-					19.939103202955607,
-					54.440467881205294
-				],
-				[
-					21.395323109185938,
-					54.440467881205294
-				],
-				[
-					23.747693705524966,
-					54.440467881205294
-				],
-				[
-					24.643844395633778,
-					54.440467881205294
-				],
-				[
-					25.764007793073233,
-					54.440467881205294
-				],
-				[
-					26.660158483182045,
-					54.440467881205294
-				],
-				[
-					27.556284208094326,
-					54.440467881205294
-				],
-				[
-					28.228397225675963,
-					54.440467881205294
-				],
-				[
-					29.012504114324656,
-					54.440467881205294
-				],
-				[
-					31.36487471066374,
-					54.440467881205294
-				],
-				[
-					33.94128297953,
-					54.552486717468895
-				],
-				[
-					34.83740870444228,
-					54.552486717468895
-				],
-				[
-					36.29365357586903,
-					54.66450555373248
-				],
-				[
-					38.87003687953887,
-					54.77651814869698
-				],
-				[
-					39.65416873338404,
-					54.77651814869698
-				],
-				[
-					41.11038863961437,
-					55.00055582122417
-				],
-				[
-					41.55846398466872,
-					55.00055582122417
-				],
-				[
-					41.55846398466872,
-					54.88853698496057
-				],
-				[
-					41.55846398466872,
-					54.552486717468895
-				],
-				[
-					41.55846398466872,
-					53.88037994118643
-				],
-				[
-					41.55846398466872,
-					53.54432967369475
-				],
-				[
-					41.55846398466872,
-					52.98424173367589
-				],
-				[
-					41.55846398466872,
-					52.312134957393425
-				],
-				[
-					41.89452049345948,
-					49.73573917112539
-				],
-				[
-					42.00653932972307,
-					48.391525618560465
-				],
-				[
-					42.00653932972307,
-					46.71126803980296
-				],
-				[
-					42.00653932972307,
-					46.03916126352051
-				],
-				[
-					42.00653932972307,
-					44.91898538348278
-				],
-				[
-					41.89452049345948,
-					43.686796908480545
-				],
-				[
-					41.67048282093231,
-					42.342589597214726
-				],
-				[
-					41.44644514840513,
-					41.11039488091342
-				],
-				[
-					41.334426312141545,
-					39.542149897120396
-				],
-				[
-					41.22240747587796,
-					38.421974017082675
-				],
-				[
-					40.99836980335078,
-					35.17347145453218
-				],
-				[
-					41.22240747587796,
-					32.59706942696502
-				],
-				[
-					41.55846398466872,
-					31.140843279435614
-				],
-				[
-					41.67048282093231,
-					29.684617131906208
-				],
-				[
-					41.782501657195894,
-					28.2283909843768
-				],
-				[
-					41.782501657195894,
-					27.556284208094326
-				],
-				[
-					41.782501657195894,
-					27.108215104339052
-				],
-				[
-					41.89452049345948,
-					25.988045465600408
-				],
-				[
-					41.89452049345948,
-					24.979888421826274
-				],
-				[
-					41.89452049345948,
-					22.06743612676746
-				],
-				[
-					41.89452049345948,
-					21.283310514221398
-				],
-				[
-					41.89452049345948,
-					20.723222574202538
-				],
-				[
-					41.89452049345948,
-					20.611209979238055
-				],
-				[
-					41.89452049345948,
-					20.611209979238055
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				41.89452049345948,
-				20.611209979238055
-			]
-		},
-		{
-			"id": "8tz_SsDuJSHYziioxi95C",
-			"type": "freedraw",
-			"x": 347.7859942214635,
-			"y": -143.28623174942638,
-			"width": 1.6647527991219704,
-			"height": 32.46227764791007,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 879025703,
-			"version": 71,
-			"versionNonce": 1286364871,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386701455,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.554917599707295
-				],
-				[
-					0,
-					1.664737340084713
-				],
-				[
-					-0.27745879985366173,
-					2.774557080462131
-				],
-				[
-					-0.5549175997073235,
-					3.329474680169426
-				],
-				[
-					-0.5549175997073235,
-					3.8843768208395204
-				],
-				[
-					-0.5549175997073235,
-					4.439294420546844
-				],
-				[
-					-0.5549175997073235,
-					4.716753220400477
-				],
-				[
-					-0.8323763995609852,
-					5.2716553610706
-				],
-				[
-					-0.8323763995609852,
-					5.826572960777895
-				],
-				[
-					-0.8323763995609852,
-					6.104031760631557
-				],
-				[
-					-1.109835199414647,
-					6.936392701155313
-				],
-				[
-					-1.3872939992683087,
-					7.4912948418254075
-				],
-				[
-					-1.3872939992683087,
-					8.046212441532703
-				],
-				[
-					-1.3872939992683087,
-					8.601114582202797
-				],
-				[
-					-1.3872939992683087,
-					8.878573382056459
-				],
-				[
-					-1.3872939992683087,
-					9.15603218191012
-				],
-				[
-					-1.3872939992683087,
-					9.710949781617416
-				],
-				[
-					-1.3872939992683087,
-					10.26585192228751
-				],
-				[
-					-1.3872939992683087,
-					10.820769521994833
-				],
-				[
-					-1.3872939992683087,
-					11.375671662664928
-				],
-				[
-					-1.3872939992683087,
-					11.930589262372223
-				],
-				[
-					-1.3872939992683087,
-					12.485491403042346
-				],
-				[
-					-1.3872939992683087,
-					13.04040900274964
-				],
-				[
-					-1.3872939992683087,
-					13.595311143419735
-				],
-				[
-					-1.3872939992683087,
-					14.150228743127059
-				],
-				[
-					-1.3872939992683087,
-					14.982589683650787
-				],
-				[
-					-1.3872939992683087,
-					15.53750728335811
-				],
-				[
-					-1.3872939992683087,
-					16.369868223881866
-				],
-				[
-					-1.6647527991219704,
-					16.647327023735528
-				],
-				[
-					-1.6647527991219704,
-					16.92478582358916
-				],
-				[
-					-1.6647527991219704,
-					17.479687964259256
-				],
-				[
-					-1.6647527991219704,
-					17.757146764112917
-				],
-				[
-					-1.6647527991219704,
-					18.589507704636674
-				],
-				[
-					-1.6647527991219704,
-					19.42188410419763
-				],
-				[
-					-1.6647527991219704,
-					19.69932744501409
-				],
-				[
-					-1.6647527991219704,
-					19.976786244867725
-				],
-				[
-					-1.6647527991219704,
-					20.254245044721387
-				],
-				[
-					-1.6647527991219704,
-					20.80914718539148
-				],
-				[
-					-1.6647527991219704,
-					21.364064785098805
-				],
-				[
-					-1.6647527991219704,
-					22.196425725622532
-				],
-				[
-					-1.6647527991219704,
-					22.751343325329856
-				],
-				[
-					-1.6647527991219704,
-					23.30624546599995
-				],
-				[
-					-1.6647527991219704,
-					23.583704265853612
-				],
-				[
-					-1.6647527991219704,
-					23.861163065707274
-				],
-				[
-					-1.6647527991219704,
-					24.41608066541457
-				],
-				[
-					-1.6647527991219704,
-					24.970982806084663
-				],
-				[
-					-1.6647527991219704,
-					25.248441605938325
-				],
-				[
-					-1.3872939992683087,
-					25.80334374660842
-				],
-				[
-					-1.3872939992683087,
-					26.358261346315714
-				],
-				[
-					-1.3872939992683087,
-					26.913178946023038
-				],
-				[
-					-1.3872939992683087,
-					27.19062228683947
-				],
-				[
-					-1.109835199414647,
-					27.19062228683947
-				],
-				[
-					-1.109835199414647,
-					27.745539886546794
-				],
-				[
-					-1.109835199414647,
-					28.30044202721689
-				],
-				[
-					-1.109835199414647,
-					28.57790082707055
-				],
-				[
-					-1.109835199414647,
-					28.855359626924184
-				],
-				[
-					-1.109835199414647,
-					29.132818426777845
-				],
-				[
-					-1.109835199414647,
-					29.410261767594278
-				],
-				[
-					-1.109835199414647,
-					29.68772056744794
-				],
-				[
-					-1.109835199414647,
-					30.520096967008897
-				],
-				[
-					-0.8323763995609852,
-					31.07499910767899
-				],
-				[
-					-0.8323763995609852,
-					31.352457907532653
-				],
-				[
-					-0.8323763995609852,
-					31.629916707386315
-				],
-				[
-					-0.8323763995609852,
-					31.907360048202747
-				],
-				[
-					-0.8323763995609852,
-					32.46227764791007
-				],
-				[
-					-0.8323763995609852,
-					32.46227764791007
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-0.8323763995609852,
-				32.46227764791007
-			]
-		},
-		{
-			"id": "yTWslz-du9v6WMeCHZrgy",
-			"type": "freedraw",
-			"x": 346.9536178219025,
-			"y": -110.8239541015163,
-			"width": 47.72229521334009,
-			"height": 1.1098197403773895,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1807508583,
-			"version": 55,
-			"versionNonce": 1797459209,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386701050,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.27745879985366173,
-					0
-				],
-				[
-					-0.5549175997073235,
-					0.27745879985366173
-				],
-				[
-					-1.1098351994145332,
-					0.27745879985366173
-				],
-				[
-					-1.9421497628267161,
-					0.554917599707295
-				],
-				[
-					-3.329443762095025,
-					0.554917599707295
-				],
-				[
-					-4.9941965612168815,
-					0.8323609405237562
-				],
-				[
-					-6.104031760631528,
-					0.8323609405237562
-				],
-				[
-					-7.768722723604583,
-					0.8323609405237562
-				],
-				[
-					-8.87855792301923,
-					0.8323609405237562
-				],
-				[
-					-9.710934322580215,
-					0.8323609405237562
-				],
-				[
-					-10.265851922287538,
-					0.8323609405237562
-				],
-				[
-					-11.37562528555327,
-					0.8323609405237562
-				],
-				[
-					-12.208001685114255,
-					0.8323609405237562
-				],
-				[
-					-12.762919284821578,
-					0.8323609405237562
-				],
-				[
-					-13.872754484236111,
-					0.8323609405237562
-				],
-				[
-					-14.705130883797096,
-					0.8323609405237562
-				],
-				[
-					-15.814966083211743,
-					0.8323609405237562
-				],
-				[
-					-17.202198246331136,
-					0.8323609405237562
-				],
-				[
-					-17.75711584603846,
-					0.8323609405237562
-				],
-				[
-					-19.699327445014035,
-					1.1098197403773895
-				],
-				[
-					-21.086559608133484,
-					1.1098197403773895
-				],
-				[
-					-22.196394807548074,
-					1.1098197403773895
-				],
-				[
-					-23.02877120710906,
-					1.1098197403773895
-				],
-				[
-					-23.583688806816383,
-					1.1098197403773895
-				],
-				[
-					-24.693524006230973,
-					1.1098197403773895
-				],
-				[
-					-25.80335920564562,
-					1.1098197403773895
-				],
-				[
-					-27.468050168618674,
-					1.1098197403773895
-				],
-				[
-					-28.855344167886926,
-					1.1098197403773895
-				],
-				[
-					-29.965179367301573,
-					1.1098197403773895
-				],
-				[
-					-31.90732913012829,
-					1.1098197403773895
-				],
-				[
-					-33.5720819292502,
-					0.8323609405237562
-				],
-				[
-					-35.514293528225835,
-					0.8323609405237562
-				],
-				[
-					-36.0691492917843,
-					0.8323609405237562
-				],
-				[
-					-37.17898449119889,
-					0.8323609405237562
-				],
-				[
-					-38.56627849046714,
-					0.554917599707295
-				],
-				[
-					-39.95357248973545,
-					0.554917599707295
-				],
-				[
-					-41.34080465285484,
-					0.554917599707295
-				],
-				[
-					-41.895722252562166,
-					0.554917599707295
-				],
-				[
-					-42.72809865212315,
-					0.554917599707295
-				],
-				[
-					-43.83793385153774,
-					0.554917599707295
-				],
-				[
-					-44.392851451245065,
-					0.554917599707295
-				],
-				[
-					-44.94776905095239,
-					0.554917599707295
-				],
-				[
-					-45.22522785080605,
-					0.554917599707295
-				],
-				[
-					-45.50262481451085,
-					0.554917599707295
-				],
-				[
-					-46.05754241421812,
-					0.554917599707295
-				],
-				[
-					-46.61246001392544,
-					0.554917599707295
-				],
-				[
-					-46.889918813779104,
-					0.554917599707295
-				],
-				[
-					-47.167377613632766,
-					0.554917599707295
-				],
-				[
-					-47.44483641348643,
-					0.554917599707295
-				],
-				[
-					-47.72229521334009,
-					0.554917599707295
-				],
-				[
-					-47.72229521334009,
-					0.554917599707295
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-47.72229521334009,
-				0.554917599707295
-			]
-		},
-		{
-			"id": "yvBqugQtVfxfR1brwncPH",
-			"type": "freedraw",
-			"x": 299.23132260856244,
-			"y": -110.26903650180901,
-			"width": 2.4971291986828987,
-			"height": 68.25401451695234,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 216195145,
-			"version": 57,
-			"versionNonce": 1513187561,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1689386700600,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.2774587998536049,
-					0
-				],
-				[
-					-0.2774587998536049,
-					-1.1098351994146185
-				],
-				[
-					-1.10983519941459,
-					-3.6069334800230877
-				],
-				[
-					-1.6647527991219135,
-					-5.826572960777895
-				],
-				[
-					-1.6647527991219135,
-					-7.768753641679041
-				],
-				[
-					-1.6647527991219135,
-					-8.878573382056459
-				],
-				[
-					-1.6647527991219135,
-					-9.988393122433848
-				],
-				[
-					-1.6647527991219135,
-					-10.26585192228751
-				],
-				[
-					-1.9422115989755753,
-					-10.820769521994833
-				],
-				[
-					-1.9422115989755753,
-					-11.375671662664928
-				],
-				[
-					-1.9422115989755753,
-					-11.653130462518561
-				],
-				[
-					-1.9422115989755753,
-					-13.04040900274964
-				],
-				[
-					-1.6647527991219135,
-					-14.427687542980692
-				],
-				[
-					-1.3872939992682518,
-					-16.092409424028205
-				],
-				[
-					-1.3872939992682518,
-					-17.757146764112917
-				],
-				[
-					-1.10983519941459,
-					-19.14442530434397
-				],
-				[
-					-1.10983519941459,
-					-20.53170384457502
-				],
-				[
-					-1.10983519941459,
-					-21.641523584952438
-				],
-				[
-					-1.10983519941459,
-					-22.751343325329856
-				],
-				[
-					-1.10983519941459,
-					-23.02880212518349
-				],
-				[
-					-1.10983519941459,
-					-24.693524006231
-				],
-				[
-					-1.10983519941459,
-					-25.80334374660842
-				],
-				[
-					-1.10983519941459,
-					-26.358261346315714
-				],
-				[
-					-1.10983519941459,
-					-27.468081086693132
-				],
-				[
-					-1.10983519941459,
-					-28.577900827070522
-				],
-				[
-					-1.10983519941459,
-					-32.739736447763704
-				],
-				[
-					-0.5549175997072666,
-					-34.95937592851851
-				],
-				[
-					-0.2774587998536049,
-					-36.901556609419686
-				],
-				[
-					-0.2774587998536049,
-					-37.17901540927335
-				],
-				[
-					0,
-					-40.508474630405544
-				],
-				[
-					0.27745879985366173,
-					-43.283031710867675
-				],
-				[
-					0.27745879985366173,
-					-44.11539265139143
-				],
-				[
-					0.27745879985366173,
-					-45.22522785080605
-				],
-				[
-					0.5549175997073235,
-					-46.057588791329806
-				],
-				[
-					0.5549175997073235,
-					-46.6124909319999
-				],
-				[
-					0.5549175997073235,
-					-47.72232613141452
-				],
-				[
-					0.5549175997073235,
-					-49.10958921260837
-				],
-				[
-					0.5549175997073235,
-					-50.21940895298576
-				],
-				[
-					0.5549175997073235,
-					-51.32924415240038
-				],
-				[
-					0.5549175997073235,
-					-52.439063892777796
-				],
-				[
-					0.5549175997073235,
-					-53.82634243300885
-				],
-				[
-					0.5549175997073235,
-					-55.49106431405636
-				],
-				[
-					0.5549175997073235,
-					-56.60088405443375
-				],
-				[
-					0.5549175997073235,
-					-57.98816259466483
-				],
-				[
-					0.5549175997073235,
-					-59.09798233504222
-				],
-				[
-					0.5549175997073235,
-					-60.207802075419636
-				],
-				[
-					0.5549175997073235,
-					-61.317621815797025
-				],
-				[
-					0.5549175997073235,
-					-63.2598179557354
-				],
-				[
-					0.5549175997073235,
-					-64.36963769611282
-				],
-				[
-					0.5549175997073235,
-					-65.47945743649021
-				],
-				[
-					0.5549175997073235,
-					-66.86673597672129
-				],
-				[
-					0.5549175997073235,
-					-67.97655571709868
-				],
-				[
-					0.5549175997073235,
-					-68.25401451695234
-				],
-				[
-					0.5549175997073235,
-					-68.25401451695234
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.5549175997073235,
-				-68.25401451695234
-			]
-		},
-		{
-			"type": "rectangle",
-			"version": 34,
-			"versionNonce": 2131688809,
-			"isDeleted": true,
-			"id": "w3cE748yJqFxpD09RoIiD",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 80,
-			"angle": 0,
-			"x": 188.15824131723727,
-			"y": -65.6812815416202,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
-			"width": 40,
-			"height": 40,
-			"seed": 1100300903,
-			"groupIds": [
-				"bIet1VaZJwiay67mhSmPn"
-			],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "line",
-			"version": 22,
-			"versionNonce": 2071505319,
-			"isDeleted": true,
-			"id": "tbuJ-DGZkVQISEPV0HfsE",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 80,
-			"angle": 0,
-			"x": 208.15824131723727,
-			"y": -65.6812815416202,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
-			"width": 20,
-			"height": 20,
-			"seed": 44981639,
-			"groupIds": [
-				"bIet1VaZJwiay67mhSmPn"
-			],
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-20,
-					20
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 23,
-			"versionNonce": 352151625,
-			"isDeleted": true,
-			"id": "rK0bKwgWYowwIGtgvXKJb",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 80,
-			"angle": 0,
-			"x": 228.15824131723727,
-			"y": -45.6812815416202,
-			"strokeColor": "#495057",
-			"backgroundColor": "transparent",
-			"width": 20,
-			"height": 20,
-			"seed": 1949766823,
-			"groupIds": [
-				"bIet1VaZJwiay67mhSmPn"
-			],
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1689386714779,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-20,
-					20
-				]
-			]
+			"lineHeight": 1.25,
+			"baseline": 17
 		}
 	],
 	"appState": {
@@ -37968,15 +34854,25 @@ Kitchen ^aAtLIOxH
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1058.3141602861224,
-		"scrollY": 424.8304438380727,
+		"scrollX": -102.55886519582648,
+		"scrollY": 328.4185144524825,
 		"zoom": {
-			"value": 1.528932961090717
+			"value": 0.9500000000000001
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
 		"currentStrokeOptions": null,
-		"previousGridSize": null
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
 	},
 	"files": {}
 }

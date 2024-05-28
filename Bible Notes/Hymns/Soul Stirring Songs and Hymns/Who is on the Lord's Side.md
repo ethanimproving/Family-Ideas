@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Who is on the Lord's Side?
 author: Frances R. Havergal (1877)
 audio: http://www.kjvprophecy.com/406.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: I Will Sing the Wondrous Story
 author: Francis H. Rowley (1886)
 audio: http://www.kjvprophecy.com/196.mp3

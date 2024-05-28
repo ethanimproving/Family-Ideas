@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Kneel at the Cross
 author: Charles E. Moody
 audio: http://www.kjvprophecy.com/014.mp3

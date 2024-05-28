@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Just When I Need Him Most
 author: William C. Poole (1907)
 audio: http://www.kjvprophecy.com/087.mp3

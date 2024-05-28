@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Wonderful, Wonderful Jesus
 author: Anna B. Russell
 audio: http://www.kjvprophecy.com/190.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Jesus Loves the Little Children
 author: C. H. Woolston
 audio: http://www.kjvprophecy.com/176.mp3

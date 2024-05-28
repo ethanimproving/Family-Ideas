@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: O Say, But I'm Glad
 author: James P. Sullivan
 audio: http://www.kjvprophecy.com/206.mp3

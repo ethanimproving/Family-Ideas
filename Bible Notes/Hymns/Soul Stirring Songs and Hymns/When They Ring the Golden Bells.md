@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: When They Ring the Golden Bells
 author: Unknown
 audio: http://www.kjvprophecy.com/057.mp3

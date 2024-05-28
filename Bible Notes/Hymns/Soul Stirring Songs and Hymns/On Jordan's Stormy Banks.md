@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: On Jordan's Stormy Banks
 author: Samuel Stennett (1787)
 audio: http://www.kjvprophecy.com/075.mp3

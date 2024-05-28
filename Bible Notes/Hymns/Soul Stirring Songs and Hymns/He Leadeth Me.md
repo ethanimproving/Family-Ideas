@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: He Leadeth Me
 author: J. H. Gilmore (1862)
 audio: http://www.kjvprophecy.com/116.mp3

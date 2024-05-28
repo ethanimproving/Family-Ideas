@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Where We'll Never Grow Old
 author: James C. Moore (1914)
 audio: http://www.kjvprophecy.com/051.mp3

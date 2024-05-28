@@ -1,1 +1,0 @@
-https://www.findagrave.com/memorial/37964095/elijah-mansfield-miller

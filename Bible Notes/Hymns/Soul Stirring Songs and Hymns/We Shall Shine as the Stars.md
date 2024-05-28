@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: We Shall Shine as the Stars
 author: Francis Scott Key (1814)
 audio: http://www.kjvprophecy.com/069.mp3

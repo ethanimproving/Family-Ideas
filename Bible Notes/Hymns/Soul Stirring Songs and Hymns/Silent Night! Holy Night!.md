@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Silent Night! Holy Night!
 author: Joseph Mohr
 audio: http://www.kjvprophecy.com/431.mp3

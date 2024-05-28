@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Angels From the Realms of Glory
 author: James Montgomery (1816)
 audio: http://www.kjvprophecy.com/432.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Come, Ye Disconsolate
 author: Unknown
 audio: http://www.kjvprophecy.com/099.mp3

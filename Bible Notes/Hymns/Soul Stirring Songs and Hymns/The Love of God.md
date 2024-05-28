@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: The Love of God
 author: Horatius Bonar (1861)
 audio: http://www.kjvprophecy.com/188.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Great is Thy Faithfulness
 author: Thomas O. Chisholm (1923)
 audio: http://www.kjvprophecy.com/441.mp3

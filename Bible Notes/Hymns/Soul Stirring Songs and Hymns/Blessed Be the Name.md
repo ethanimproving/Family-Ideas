@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Blessed Be the Name
 author: Charles Wesley (1739)
 audio: http://www.kjvprophecy.com/159.mp3

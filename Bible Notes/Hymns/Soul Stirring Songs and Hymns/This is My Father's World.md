@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: This is My Father's World
 author: Maltbie D. Babcock (1901)
 audio: http://www.kjvprophecy.com/472.mp3

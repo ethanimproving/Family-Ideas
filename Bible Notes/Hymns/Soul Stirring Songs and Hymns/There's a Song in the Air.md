@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: There's a Song in the Air
 author: Josiah G. Holland (1872)
 audio: http://www.kjvprophecy.com/420.mp3

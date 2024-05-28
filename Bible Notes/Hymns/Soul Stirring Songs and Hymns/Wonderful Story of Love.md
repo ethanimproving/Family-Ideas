@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Wonderful Story of Love
 author: J. M. Driver (1885)
 audio: http://www.kjvprophecy.com/182.mp3

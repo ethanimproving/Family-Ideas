@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: He Lives on High
 author: Baylus Benjamin McKinney
 audio: http://www.kjvprophecy.com/032.mp3

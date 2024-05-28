@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 known: 1
 title: Go Tell It on the Mountain
 author: Unknown

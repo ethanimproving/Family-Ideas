@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Psalm 15
 author: Steven L. Anderson
 audio: http://www.kjvprophecy.com/psalm15.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Lean on His Arms
 author: Lewis E. Jones (1903)
 audio: http://www.kjvprophecy.com/104.mp3

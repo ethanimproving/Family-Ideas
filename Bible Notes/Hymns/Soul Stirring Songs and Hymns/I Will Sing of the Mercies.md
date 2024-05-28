@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: I Will Sing of the Mercies
 author: James H. Fillmore
 audio: http://www.kjvprophecy.com/195.mp3

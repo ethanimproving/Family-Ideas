@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Have Thine Own Way, Lord!
 author: Adelaide A. Pollard (1906)
 audio: http://www.kjvprophecy.com/306.mp3

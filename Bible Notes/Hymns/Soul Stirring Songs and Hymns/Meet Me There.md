@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Meet Me There
 author: Fanny J. Crosby
 audio: http://www.kjvprophecy.com/049.mp3

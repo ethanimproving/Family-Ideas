@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: I'll Be So Glad
 author: Unknown
 audio: http://www.kjvprophecy.com/048.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: When I Can Read My Title Clear
 author: Isaac Watts (1707)
 audio: http://www.kjvprophecy.com/045.mp3

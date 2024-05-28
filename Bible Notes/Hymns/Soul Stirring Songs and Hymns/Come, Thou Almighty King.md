@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Come, Thou Almighty King
 author: Anonymous
 audio: http://www.kjvprophecy.com/157.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Grace Greater Than Our Sin
 author: Julia H. Johnston (1910)
 audio: http://www.kjvprophecy.com/208.mp3

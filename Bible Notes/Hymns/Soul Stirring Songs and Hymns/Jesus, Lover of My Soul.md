@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Jesus, Lover of My Soul
 author: Charles Wesley (1740)
 audio: http://www.kjvprophecy.com/090.mp3

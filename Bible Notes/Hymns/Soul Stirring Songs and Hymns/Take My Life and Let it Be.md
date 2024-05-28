@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Take My Life and Let it Be
 author: Frances R. Havergal (1874)
 audio: http://www.kjvprophecy.com/315.mp3

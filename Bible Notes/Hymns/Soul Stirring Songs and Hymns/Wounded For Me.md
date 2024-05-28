@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Wounded For Me
 author: Unknown
 audio: http://www.kjvprophecy.com/025.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: When the Roll is Called Up Yonder
 author: James M. Black (1893)
 audio: http://www.kjvprophecy.com/055.mp3

@@ -1,9 +1,3 @@
----
-dg-publish: true
-dg-created: Apr 22, 2024, 11:48 AM
----
-
-
 To track habits, see [[Habit Database]]. For documentation, visit [obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker/blob/master/examples/TestDateFormats.md#relative-date-input-for-startdate-and-enddate).
 
 ```tracker

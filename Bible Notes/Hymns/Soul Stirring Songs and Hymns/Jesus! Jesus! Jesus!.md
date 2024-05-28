@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Jesus! Jesus! Jesus!
 author: Luther B. Bridgers (1910)
 audio: http://www.kjvprophecy.com/085.mp3

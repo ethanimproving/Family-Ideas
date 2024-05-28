@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: We'll Work Till Jesus Comes
 author: Elizabeth Mills
 audio: http://www.kjvprophecy.com/044.mp3

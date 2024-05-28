@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Must Jesus Bear the Cross Alone
 author: Thomas Shepherd (1693)
 audio: http://www.kjvprophecy.com/013.mp3

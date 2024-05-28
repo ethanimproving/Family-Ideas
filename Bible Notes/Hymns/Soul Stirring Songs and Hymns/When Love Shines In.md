@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: When Love Shines In
 author: Carrie Ellis Breck (1874)
 audio: http://www.kjvprophecy.com/177.mp3

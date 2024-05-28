@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Sound the Battle Cry
 author: William F. Sherwin (1869)
 audio: http://www.kjvprophecy.com/419.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: I Will Praise Him
 author: Margaret J. Harris
 audio: http://www.kjvprophecy.com/166.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Hallelujah! What a Saviour!
 author: P. P. Bliss (1875)
 audio: http://www.kjvprophecy.com/170.mp3

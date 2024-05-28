@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Hallelujah, We Shall Rise
 author: J. E. Thomas
 audio: http://www.kjvprophecy.com/038.mp3

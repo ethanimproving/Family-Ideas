@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: O Little Town of Bethlehem
 author: Phillips Brooks (1868)
 audio: http://www.kjvprophecy.com/434.mp3

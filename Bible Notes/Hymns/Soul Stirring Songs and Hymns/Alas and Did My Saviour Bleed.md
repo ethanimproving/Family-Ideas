@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Alas and Did My Saviour Bleed?
 author: Isaac Watts (1707)
 audio: http://www.kjvprophecy.com/028.mp3

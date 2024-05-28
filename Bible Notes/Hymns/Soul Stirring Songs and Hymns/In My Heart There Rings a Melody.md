@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: In My Heart There Rings a Melody
 author: Elton Menno Roth
 audio: http://www.kjvprophecy.com/191.mp3

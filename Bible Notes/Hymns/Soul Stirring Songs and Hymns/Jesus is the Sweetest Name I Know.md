@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Jesus is the Sweetest Name I Know
 author: Lela B. Long
 audio: http://www.kjvprophecy.com/156.mp3

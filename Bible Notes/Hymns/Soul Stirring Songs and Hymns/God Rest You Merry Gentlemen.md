@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: God Rest You Merry Gentlemen
 author: Unknown
 audio: http://www.kjvprophecy.com/482.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Standing on the Promises
 author: Russell Kelso Carter (1886)
 audio: http://www.kjvprophecy.com/364.mp3

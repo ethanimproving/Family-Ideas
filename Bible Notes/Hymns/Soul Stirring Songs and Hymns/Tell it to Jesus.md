@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Tell it to Jesus
 author: Jeremiah Eames Rankin
 audio: http://www.kjvprophecy.com/351.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Psalm 126
 author: Steven L. Anderson
 audio: http://www.kjvprophecy.com/psalm126.mp3

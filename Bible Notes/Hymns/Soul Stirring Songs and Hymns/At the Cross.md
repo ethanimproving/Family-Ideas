@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: At the Cross
 author: Isaac Watts (1707)
 audio: http://www.kjvprophecy.com/029.mp3

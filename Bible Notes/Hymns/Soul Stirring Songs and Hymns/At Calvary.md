@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: At Calvary
 author: William R. Newell (1895)
 audio: http://www.kjvprophecy.com/066.mp3

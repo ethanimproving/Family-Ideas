@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Sweet By and By
 author: Sanford Fillmore Bennett (1868)
 audio: http://www.kjvprophecy.com/041.mp3

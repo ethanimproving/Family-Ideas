@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Just Over in the Glory Land
 author: James W. Acuff (1906)
 audio: http://www.kjvprophecy.com/065.mp3

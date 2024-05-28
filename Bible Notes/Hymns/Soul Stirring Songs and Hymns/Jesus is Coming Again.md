@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Jesus is Coming Again
 author: Jessie E. Strout
 audio: http://www.kjvprophecy.com/084.mp3

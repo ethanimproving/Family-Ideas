@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Psalm 117
 author: Steven L. Anderson
 audio: http://www.kjvprophecy.com/psalm117.mp3

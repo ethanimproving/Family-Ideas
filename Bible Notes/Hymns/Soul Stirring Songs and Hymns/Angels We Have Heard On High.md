@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Angels We Have Heard On High
 author: Unknown
 audio: http://www.kjvprophecy.com/483.mp3

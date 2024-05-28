@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Art Thou Weary, Art Thou Languid?
 author: St. Stephen of Mar Sabas
 audio: http://www.kjvprophecy.com/093.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Joy Unspeakable
 author: Barney Elliott Warren (1900)
 audio: http://www.kjvprophecy.com/198.mp3

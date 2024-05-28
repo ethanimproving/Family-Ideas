@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: I Know I Love Thee Better, Lord
 author: Frances R. Havergal (1878)
 audio: http://www.kjvprophecy.com/235.mp3

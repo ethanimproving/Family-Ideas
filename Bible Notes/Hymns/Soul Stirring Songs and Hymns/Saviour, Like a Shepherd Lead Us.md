@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Saviour, Like a Shepherd Lead Us
 author: Unknown
 audio: http://www.kjvprophecy.com/109.mp3

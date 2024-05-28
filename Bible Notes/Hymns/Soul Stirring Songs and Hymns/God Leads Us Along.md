@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: God Leads Us Along
 author: G. A. Young
 audio: http://www.kjvprophecy.com/096.mp3

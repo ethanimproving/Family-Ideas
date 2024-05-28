@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Beulah Land
 author: Edgar Page Stites (1876)
 audio: http://www.kjvprophecy.com/053.mp3

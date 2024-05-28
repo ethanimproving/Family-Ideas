@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: There is Power in the Blood
 author: Lewis E. Jones (1899)
 audio: http://www.kjvprophecy.com/023.mp3

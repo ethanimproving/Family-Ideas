@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: All that Thrills My Soul
 author: Thoro Harris
 audio: http://www.kjvprophecy.com/105.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Blessed Assurance
 author: Fanny Crosby
 audio: http://www.kjvprophecy.com/143.mp3

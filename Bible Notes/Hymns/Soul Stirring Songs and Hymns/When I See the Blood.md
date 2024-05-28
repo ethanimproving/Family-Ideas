@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: When I See the Blood
 author: John G. Foote
 audio: http://www.kjvprophecy.com/020.mp3

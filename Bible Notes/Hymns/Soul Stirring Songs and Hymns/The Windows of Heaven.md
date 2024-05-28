@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: The Windows of Heaven
 author: Charles Edward Pollock
 audio: http://www.kjvprophecy.com/203.mp3

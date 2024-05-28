@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: When I See My Saviour
 author: Maud Frazer Jackson
 audio: http://www.kjvprophecy.com/035.mp3

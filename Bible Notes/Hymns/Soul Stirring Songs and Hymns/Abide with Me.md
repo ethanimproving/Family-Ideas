@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Abide with Me
 author: Henry Francis Lyte (1847)
 audio: http://www.kjvprophecy.com/106.mp3

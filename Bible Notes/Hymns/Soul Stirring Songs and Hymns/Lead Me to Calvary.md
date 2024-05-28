@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Lead Me to Calvary
 author: Jennie Evelyn Hussey (1921)
 audio: http://www.kjvprophecy.com/015.mp3

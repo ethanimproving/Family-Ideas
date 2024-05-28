@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: I Have Decided to Follow Jesus
 author: Unknown
 audio: http://www.kjvprophecy.com/316.mp3

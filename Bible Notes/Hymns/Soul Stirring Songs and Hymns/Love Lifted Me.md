@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Love Lifted Me
 author: James Rowe (1912)
 audio: http://www.kjvprophecy.com/173.mp3

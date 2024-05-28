@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: No Room in the Inn
 author: A. L. Skilton
 audio: http://www.kjvprophecy.com/425.mp3

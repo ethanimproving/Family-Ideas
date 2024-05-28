@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Christ Receiveth Sinful Men
 author: Erdmann Neumeister (1718)
 audio: http://www.kjvprophecy.com/258.mp3

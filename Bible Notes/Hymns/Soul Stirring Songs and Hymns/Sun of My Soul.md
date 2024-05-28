@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Sun of My Soul
 author: John Keble (1820)
 audio: http://www.kjvprophecy.com/108.mp3

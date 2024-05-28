@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Verily, Verily
 author: James McGranahan
 audio: http://www.kjvprophecy.com/263.mp3

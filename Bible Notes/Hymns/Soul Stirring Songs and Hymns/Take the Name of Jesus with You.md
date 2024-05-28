@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Take the Name of Jesus with You
 author: Lydia Baxter (1870)
 audio: http://www.kjvprophecy.com/018.mp3

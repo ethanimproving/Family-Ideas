@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: All the Way My Saviour Leads Me
 author: Fanny Crosby (1875)
 audio: http://www.kjvprophecy.com/110.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: There is a Fountain Filled with Blood
 author: William Cowper (1772)
 audio: http://www.kjvprophecy.com/019.mp3

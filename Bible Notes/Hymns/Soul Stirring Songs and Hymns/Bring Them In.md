@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Bring Them In
 author: Alexcenah Thomas
 audio: http://www.kjvprophecy.com/389.mp3

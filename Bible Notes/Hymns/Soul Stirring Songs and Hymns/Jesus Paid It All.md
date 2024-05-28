@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Jesus Paid It All
 author: Elvina M. Hall (1865)
 audio: http://www.kjvprophecy.com/003.mp3

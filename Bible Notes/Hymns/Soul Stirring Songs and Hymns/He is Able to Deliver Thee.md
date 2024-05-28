@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: He is Able to Deliver Thee
 author: W. A. Ogden (1887)
 audio: http://www.kjvprophecy.com/260.mp3

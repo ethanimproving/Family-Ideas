@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Hark! The Herald Angels Sing
 author: Charles Wesley (1739)
 audio: http://www.kjvprophecy.com/429.mp3

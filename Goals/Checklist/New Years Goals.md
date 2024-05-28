@@ -14,8 +14,6 @@
 - [ ] Reverse my anxiety/impatience with [[The Battle For Peace|peace from God]].
 - [ ] [[Gain Discipline]]
 
-I get angry quickly, I have no time management skills, I lack discipline, and I'm lazy. My life can only improve. And the way it will improve is to memorize scripture to battle my vices in moments when I need divine guidance.
-
 # 2023
 
 

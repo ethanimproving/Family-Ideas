@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Psalm 24
 author: Steven L. Anderson
 audio: http://www.kjvprophecy.com/psalm24.mp3

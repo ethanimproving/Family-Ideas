@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: A Mighty Fortress is Our God
 author: Martin Luther (1529)
 audio: http://www.kjvprophecy.com/144.mp3

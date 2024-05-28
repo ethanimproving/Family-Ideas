@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Sweet Hour of Prayer
 author: W. W. Walford (1845)
 audio: http://www.kjvprophecy.com/301.mp3

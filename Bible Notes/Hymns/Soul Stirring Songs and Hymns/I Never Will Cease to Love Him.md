@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: I Never Will Cease to Love Him
 author: Charles Hutchinson Gabriel
 audio: http://www.kjvprophecy.com/189.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Master, the Tempest is Raging
 author: Mary Ann Baker
 audio: http://www.kjvprophecy.com/136.mp3

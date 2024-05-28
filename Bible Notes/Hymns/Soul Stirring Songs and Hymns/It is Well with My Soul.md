@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: It is Well with My Soul
 author: Horatio Gates Spafford (1873)
 audio: http://www.kjvprophecy.com/145.mp3

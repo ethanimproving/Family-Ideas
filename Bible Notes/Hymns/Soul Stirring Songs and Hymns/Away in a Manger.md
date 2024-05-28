@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Away in a Manger
 author: Unknown
 audio: http://www.kjvprophecy.com/433.mp3

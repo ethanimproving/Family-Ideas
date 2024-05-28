@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: How Beautiful Heaven Must Be
 author: Mrs. A. S. Bridgewater
 audio: http://www.kjvprophecy.com/039.mp3

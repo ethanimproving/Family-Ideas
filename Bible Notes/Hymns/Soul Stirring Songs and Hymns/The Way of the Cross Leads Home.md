@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: The Way of the Cross Leads Home
 author: Jessie Brown Pounds (1906)
 audio: http://www.kjvprophecy.com/004.mp3

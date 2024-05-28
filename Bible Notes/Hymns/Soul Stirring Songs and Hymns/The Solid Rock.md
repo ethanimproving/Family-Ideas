@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: The Solid Rock
 author: Edward Mote (1834)
 audio: http://www.kjvprophecy.com/125.mp3

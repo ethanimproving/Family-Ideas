@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Look and Live
 author: William A. Ogden (1887)
 audio: http://www.kjvprophecy.com/257.mp3

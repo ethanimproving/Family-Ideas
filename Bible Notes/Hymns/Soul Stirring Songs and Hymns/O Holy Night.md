@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: O Holy Night
 author: Placide Cappeau (1847)
 audio: http://www.kjvprophecy.com/481.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Through Tribulation
 author: Mary Bowley Peters (1847)
 audio: http://www.kjvprophecy.com/480.mp3

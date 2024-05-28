@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Hiding in Thee
 author: W. O. Cushing (1876)
 audio: http://www.kjvprophecy.com/091.mp3

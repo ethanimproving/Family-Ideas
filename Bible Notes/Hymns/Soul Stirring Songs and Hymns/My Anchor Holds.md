@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: My Anchor Holds
 author: W. C. Martin
 audio: http://www.kjvprophecy.com/134.mp3

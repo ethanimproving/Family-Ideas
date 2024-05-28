@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: My Faith Has Found a Resting Place
 author: E. E. Hewitt
 audio: http://www.kjvprophecy.com/150.mp3

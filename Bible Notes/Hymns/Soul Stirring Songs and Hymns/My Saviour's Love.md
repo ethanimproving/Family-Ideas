@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: My Saviour's Love
 author: Chas. H. Gabriel (1905)
 audio: http://www.kjvprophecy.com/185.mp3

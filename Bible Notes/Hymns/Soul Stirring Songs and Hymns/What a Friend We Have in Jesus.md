@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: What a Friend We Have in Jesus
 author: Joseph Medlicott Scriven (1855)
 audio: http://www.kjvprophecy.com/355.mp3

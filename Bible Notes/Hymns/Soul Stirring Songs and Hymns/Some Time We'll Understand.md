@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Some Time We'll Understand
 author: Maxwell N. Cornelius
 audio: http://www.kjvprophecy.com/088.mp3

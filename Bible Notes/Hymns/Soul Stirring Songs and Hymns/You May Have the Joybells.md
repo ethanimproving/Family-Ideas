@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: You May Have the Joybells
 author: J. Edward Ruark
 audio: http://www.kjvprophecy.com/193.mp3

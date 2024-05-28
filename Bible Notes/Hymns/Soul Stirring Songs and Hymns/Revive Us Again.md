@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Revive Us Again
 author: W. P. Mackay (1863, 1867)
 audio: http://www.kjvprophecy.com/343.mp3

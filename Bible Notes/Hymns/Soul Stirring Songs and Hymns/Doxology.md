@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Doxology
 author: Thomas Ken (1674)
 audio: http://www.kjvprophecy.com/155.mp3

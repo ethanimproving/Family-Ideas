@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Jesus Loves Even Me
 author: P. P. Bliss (1871)
 audio: http://www.kjvprophecy.com/178.mp3

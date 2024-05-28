@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Holy, Holy, Holy
 author: Reginald Heber (1826)
 audio: http://www.kjvprophecy.com/holy_holy_holy.mp3

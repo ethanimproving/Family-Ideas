@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: The Christian's Goodnight
 author: Sarah Doudney
 audio: http://www.kjvprophecy.com/123.mp3

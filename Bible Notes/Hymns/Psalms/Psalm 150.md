@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Psalm 150
 author: Steven L. Anderson
 audio: http://www.kjvprophecy.com/psalm150.mp3

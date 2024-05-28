@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: He Lives
 author: Gloria Gaither (1971)
 audio: http://www.kjvprophecy.com/031.mp3

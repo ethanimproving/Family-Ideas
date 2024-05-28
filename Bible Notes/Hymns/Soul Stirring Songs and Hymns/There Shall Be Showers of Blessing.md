@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: There Shall Be Showers of Blessing
 author: D. W. Whittle (1883)
 audio: http://www.kjvprophecy.com/224.mp3

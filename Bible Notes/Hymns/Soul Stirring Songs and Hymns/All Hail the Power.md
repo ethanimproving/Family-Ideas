@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: All Hail the Power
 author: Edward Perronet (1780)
 audio: http://www.kjvprophecy.com/167.mp3

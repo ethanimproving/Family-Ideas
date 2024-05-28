@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Christ is All I Need
 author: Charles Price Jones (1908)
 audio: http://www.kjvprophecy.com/131.mp3

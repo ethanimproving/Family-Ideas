@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: Be Still, My Soul
 author: Kathrina von Schlegel
 audio: http://www.kjvprophecy.com/112.mp3

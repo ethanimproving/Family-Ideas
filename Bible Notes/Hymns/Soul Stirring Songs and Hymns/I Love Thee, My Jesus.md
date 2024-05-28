@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 title: I Love Thee, My Jesus
 author: William R. Featherston (1862)
 audio: http://www.kjvprophecy.com/184.mp3
