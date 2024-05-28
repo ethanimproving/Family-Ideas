@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Wonderful Grace of Jesus
 author: Haldor Lillenas (1918)
 audio: http://www.kjvprophecy.com/210.mp3

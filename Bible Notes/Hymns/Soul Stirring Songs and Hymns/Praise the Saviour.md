@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Praise the Saviour
 author: Benjamin Francis
 audio: http://www.kjvprophecy.com/107.mp3

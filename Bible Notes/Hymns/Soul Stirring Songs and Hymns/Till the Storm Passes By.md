@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Till the Storm Passes By
 author: Mosie Lister
 audio: http://www.kjvprophecy.com/119.mp3

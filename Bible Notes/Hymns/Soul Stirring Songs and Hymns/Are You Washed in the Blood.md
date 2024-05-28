@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Are You Washed in the Blood?
 author: E. A. Hoffman (1878)
 audio: http://www.kjvprophecy.com/022.mp3

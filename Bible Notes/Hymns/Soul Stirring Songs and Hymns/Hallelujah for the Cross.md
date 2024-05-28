@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Hallelujah for the Cross
 author: Horatius Bonar
 audio: http://www.kjvprophecy.com/026.mp3

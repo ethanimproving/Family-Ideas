@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 known: 1
 title: Glory to His Name
 author: E. A. Hoffman (1878)

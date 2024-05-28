@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Let the Joy Overflow
 author: E. E. Hewitt
 audio: http://www.kjvprophecy.com/199.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Christ Arose!
 author: Robert Lowry (1874)
 audio: http://www.kjvprophecy.com/036.mp3

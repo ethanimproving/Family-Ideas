@@ -8,5 +8,6 @@
     "evernote",
     "cookmate"
   ],
-  "translucency": false
+  "translucency": false,
+  "theme": "obsidian"
 }

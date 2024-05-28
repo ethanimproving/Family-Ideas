@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: The Lord is My Shepherd
 author: James Montgomery (1822)
 audio: http://www.kjvprophecy.com/095.mp3

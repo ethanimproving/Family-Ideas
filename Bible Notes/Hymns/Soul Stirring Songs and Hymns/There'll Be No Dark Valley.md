@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: There'll Be No Dark Valley
 author: William Cushing
 audio: http://www.kjvprophecy.com/037.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: I'm Going Higher
 author: Walter E. Isenhour
 audio: http://www.kjvprophecy.com/083.mp3

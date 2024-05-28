@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: He Hideth My Soul
 author: Fanny Crosby (1890)
 audio: http://www.kjvprophecy.com/102.mp3

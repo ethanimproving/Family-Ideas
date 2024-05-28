@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Let the Lower Lights be Burning
 author: P. P. Bliss (1871)
 audio: http://www.kjvprophecy.com/372.mp3

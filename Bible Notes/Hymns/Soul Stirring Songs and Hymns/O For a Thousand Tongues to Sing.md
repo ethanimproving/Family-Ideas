@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: O For a Thousand Tongues to Sing
 author: Charles Wesley (1739)
 audio: http://www.kjvprophecy.com/158.mp3

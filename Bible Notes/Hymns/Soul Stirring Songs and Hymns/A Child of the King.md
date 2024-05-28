@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: A Child of the King
 author: Hattie E. Buell (1877)
 audio: http://www.kjvprophecy.com/221.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: And Can It Be?
 author: Charles Wesley (1738)
 audio: http://www.kjvprophecy.com/024.mp3

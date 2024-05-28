@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Trusting Jesus
 author: Edgar Page (1876)
 audio: http://www.kjvprophecy.com/149.mp3

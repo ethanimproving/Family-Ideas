@@ -1,14 +1,17 @@
 {
   "githubRepo": "Ethan-s-Digital-Garden",
-  "githubToken": "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",
   "githubUserName": "ethanimproving",
   "gardenBaseUrl": "https://ethans-digital-garden.vercel.app/",
-  "prHistory": [],
+  "prHistory": [
+    "https://github.com/ethanimproving/Ethan-s-Digital-Garden/pull/21"
+  ],
   "baseTheme": "dark",
-  "theme": "{\"name\":\"Obsidian Nord Enhanced\",\"author\":\"AidanGlickman\",\"repo\":\"aidanglickman/obsidian-nord-enhanced\",\"screenshot\":\"_media/scrot.png\",\"modes\":[\"dark\"],\"cssUrl\":\"https://raw.githubusercontent.com/aidanglickman/obsidian-nord-enhanced/HEAD/theme.css\"}",
+  "theme": "{\"name\":\"Nordic\",\"author\":\"Nato\",\"repo\":\"natowb/obsidian-nordic\",\"screenshot\":\"obsidian-nordic.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/natowb/obsidian-nordic/HEAD/theme.css\"}",
   "faviconPath": "Attachments/digital-garden-favicon.svg",
+  "useFullResolutionImages": false,
   "noteSettingsIsInitialized": true,
   "siteName": "Ethan's Digital Garden",
+  "mainLanguage": "en",
   "slugifyEnabled": true,
   "noteIconKey": "dg-note-icon",
   "defaultNoteIcon": "",
@@ -16,13 +19,16 @@
   "showNoteIconInFileTree": false,
   "showNoteIconOnInternalLink": false,
   "showNoteIconOnBackLink": false,
-  "showCreatedTimestamp": false,
+  "showCreatedTimestamp": true,
   "createdTimestampKey": "dg-created",
   "showUpdatedTimestamp": false,
   "updatedTimestampKey": "dg-updated",
   "timestampFormat": "MMM dd, yyyy h:mm a",
   "styleSettingsCss": "",
+  "styleSettingsBodyClasses": "",
   "pathRewriteRules": "",
+  "customFilters": [],
+  "contentClassesKey": "dg-content-classes",
   "defaultNoteSettings": {
     "dgHomeLink": true,
     "dgPassFrontmatter": false,
@@ -33,6 +39,6 @@
     "dgEnableSearch": true,
     "dgShowToc": true,
     "dgLinkPreview": true,
-    "dgShowTags": false
+    "dgShowTags": true
   }
 }

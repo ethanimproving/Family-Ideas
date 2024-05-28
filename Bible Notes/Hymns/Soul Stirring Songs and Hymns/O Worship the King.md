@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: O Worship the King
 author: Robert Grant (1833)
 audio: http://www.kjvprophecy.com/165.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Christ the Lord is Risen Today
 author: Charles Wesley (1739)
 audio: http://www.kjvprophecy.com/033.mp3

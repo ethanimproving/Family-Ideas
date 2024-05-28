@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Tell Me the Story of Jesus
 author: William H. Parker (1885)
 audio: http://www.kjvprophecy.com/232.mp3

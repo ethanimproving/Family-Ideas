@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Heavenly Sunlight
 author: Henry J. Zelley (1899)
 audio: http://www.kjvprophecy.com/230.mp3

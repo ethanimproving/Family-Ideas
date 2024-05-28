@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: The Name of Jesus
 author: W. C. Martin (1901)
 audio: http://www.kjvprophecy.com/098.mp3

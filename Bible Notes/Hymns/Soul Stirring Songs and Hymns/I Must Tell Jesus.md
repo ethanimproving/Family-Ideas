@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: I Must Tell Jesus
 author: E. A. Hoffman (1894)
 audio: http://www.kjvprophecy.com/356.mp3

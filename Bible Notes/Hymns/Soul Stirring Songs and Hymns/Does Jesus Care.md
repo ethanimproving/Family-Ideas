@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Does Jesus Care?
 author: Frank E. Graeff (1901)
 audio: http://www.kjvprophecy.com/089.mp3

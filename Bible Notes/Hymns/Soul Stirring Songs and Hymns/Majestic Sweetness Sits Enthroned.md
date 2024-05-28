@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Majestic Sweetness Sits Enthroned
 author: Samuel Stennett (1787)
 audio: http://www.kjvprophecy.com/016.mp3

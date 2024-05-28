@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Jesus, Saviour, Pilot Me
 author: Edward Hopper (1871)
 audio: http://www.kjvprophecy.com/120.mp3

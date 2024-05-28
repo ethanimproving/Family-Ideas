@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Higher Ground
 author: Johnson Oatman, Jr.
 audio: http://www.kjvprophecy.com/327.mp3

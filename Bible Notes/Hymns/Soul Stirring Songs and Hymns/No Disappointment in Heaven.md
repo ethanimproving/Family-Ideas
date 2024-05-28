@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: No Disappointment in Heaven
 author: Frederick M. Lehman
 audio: http://www.kjvprophecy.com/040.mp3

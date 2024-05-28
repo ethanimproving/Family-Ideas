@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: The Banner of the Cross
 author: D. W. Whittle
 audio: http://www.kjvprophecy.com/405.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: He The Pearly Gates Will Open
 author: Frederick A. Blom (1917)
 audio: http://www.kjvprophecy.com/058.mp3

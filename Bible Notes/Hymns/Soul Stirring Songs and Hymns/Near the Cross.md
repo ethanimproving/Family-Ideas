@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Near the Cross
 author: Fanny Crosby (1869)
 audio: http://www.kjvprophecy.com/010.mp3

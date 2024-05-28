@@ -18,6 +18,7 @@ tags: [cookmate]
 
 ![](https://d3u8pti8i6gm88.cloudfront.net/medias/img/recipes/44450_Taco_Soup.jpg)
 
+[Walmart Grocery List](https://www.walmart.com/lists/shared/WL/92d7b7d9-d6f8-4364-97f4-71ade1eba7f6)
 # Ingredients
 
 Chicken Breast (26 oz.)

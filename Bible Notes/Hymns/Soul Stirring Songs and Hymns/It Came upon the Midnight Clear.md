@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: It Came upon the Midnight Clear
 author: Edmund H. Sears (1849)
 audio: http://www.kjvprophecy.com/428.mp3

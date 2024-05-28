@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Yesterday, Today, Forever
 author: Albert B. Simpson
 audio: http://www.kjvprophecy.com/130.mp3

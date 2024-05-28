@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: How Can I Be Lonely?
 author: Haldor Lillenas
 audio: http://www.kjvprophecy.com/092.mp3

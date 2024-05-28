@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: John 3:16 (Scripture Song)
 author: Fanny Crosby (1875)
 audio: http://www.kjvprophecy.com/john3_16.mp3

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Stepping in the Light
 author: E. E. Hewitt (1890)
 audio: http://www.kjvprophecy.com/294.mp3

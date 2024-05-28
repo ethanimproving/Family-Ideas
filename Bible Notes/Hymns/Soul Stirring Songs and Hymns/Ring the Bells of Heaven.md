@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Ring the Bells of Heaven
 author: W. O. Cushing
 audio: http://www.kjvprophecy.com/192.mp3

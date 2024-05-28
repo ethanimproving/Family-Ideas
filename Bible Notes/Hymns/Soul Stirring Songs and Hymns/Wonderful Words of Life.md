@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Wonderful Words of Life
 author: P. P. Bliss (1874)
 audio: http://www.kjvprophecy.com/363.mp3

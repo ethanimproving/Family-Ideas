@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: When We All Get to Heaven
 author: E. E. Hewitt (1898)
 audio: http://www.kjvprophecy.com/056.mp3

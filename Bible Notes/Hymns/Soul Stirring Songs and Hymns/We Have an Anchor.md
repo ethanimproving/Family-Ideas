@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: We Have an Anchor
 author: Priscilla J. Owens
 audio: http://www.kjvprophecy.com/140.mp3

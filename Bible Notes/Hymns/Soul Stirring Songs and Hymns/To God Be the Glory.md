@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: To God Be the Glory
 author: Andraé Crouch (1971)
 audio: http://www.kjvprophecy.com/162.mp3

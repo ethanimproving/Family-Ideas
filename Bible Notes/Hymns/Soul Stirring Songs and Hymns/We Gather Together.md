@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: We Gather Together
 author: Anonymous (1625)
 audio: http://www.kjvprophecy.com/442.mp3

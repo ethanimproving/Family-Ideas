@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Just As I Am
 author: Charlotte Elliott
 audio: http://www.kjvprophecy.com/270.mp3

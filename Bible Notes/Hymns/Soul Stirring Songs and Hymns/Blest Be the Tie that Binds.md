@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 title: Blest Be the Tie that Binds
 author: John Fawcett (1782)
 audio: http://www.kjvprophecy.com/154.mp3
