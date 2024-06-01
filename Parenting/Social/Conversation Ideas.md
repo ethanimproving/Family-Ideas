@@ -72,7 +72,8 @@ Tags: #favorwithman
 * I think we may have missed the boat, but the boat hasn’t left us yet.
 * Guys, um, can we just, thank God together for His goodness tonight? There’s something so crucial, I think, in life, that we could miss anything else but if we miss this one thing, I think we’ve really missed out on what Christ has purchased for all of us. And that’s the Holy Spirit. I look around, and I think we just miss it here in America. And I don’t want to be a family that misses it, so tonight I’m hoping that we can start to change the direction of this house. In Ephesians Paul says "Be filled with the Holy Spirit." and He gives us four pointers on how to do it. One of them is to sing spiritual songs and hymns, so my ambition is that this week we will sing a hymn, and a spiritual song, the same one every night this week so that we can all get used to it and really sing it to the fullest. I want us to learn some praises to God, because it’s so important, and I think it is really one of the things in life that we really ought to give time to.
 * If our house burned down, what would you replace?
-Ice Breakers
+# Ice Breakers
+
 * Hi, I'm Ethan. It's a pleasure. So where are you from? Oh really? What school did you go to? Are you going to college now?
 * You look so familiar, have we ever met?
 * I am going to kill you.

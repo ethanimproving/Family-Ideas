@@ -62,6 +62,23 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 	- [ ] Demolition
 	- [ ] [[Finishing Drywall|Drywall]]
 
+## Social Skills
+
+- [[Conversation Ideas|Conversation Starters]]
+- [[Book of Retorts|Witty Comebacks]] and [[Book of Retorts|Retorts]]
+- [[Influence]]
+- [[Tonal Communication]] and [[Charisma Matrix|Vocal Power]]
+- [[Ethan Miller|Diagnostic Statement (Who Am I?)]]
+- [[Hobbies And Skills To Learn|What Are My Hobbies?]]
+- [[Etiquette]]
+- [[Flirting]]
+- [[Science Of People|Conversation Mastery]]
+- [[Conversational Threads]]
+- ![[Ethan's Commitments#I am socially dexterous]]
+- ![[Ethan's Commitments#I am a great conversationalist]]
+- ![[Ethan's Commitments#I am a servant]]
+- ![[Ethan's Commitments#I am a leader]]
+
 ## Life Skills
 
 - [x] Budgeting

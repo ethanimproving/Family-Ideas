@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-created: May 29, 2024, 8:50 PM
+---
 
 [APeX Water](https://www.apex-water.com/) is an oxygenated water product sold by Apex Water Research Institute.
 
