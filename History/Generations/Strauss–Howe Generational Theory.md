@@ -5,7 +5,7 @@ tags: [generations, fourthturning]
 ---
 
 [We Are In A "FOURTH TURNING," What Does That Mean?](https://www.youtube.com/watch?v=xeVyfiP0cLk)
-![[The Four Turnings]]
+![[The Four Turnings.excalidraw]]
 
 ![](https://i.pinimg.com/736x/49/30/88/493088a56d535d155ef66f48ad8e737d.jpg)
 
