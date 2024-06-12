@@ -1,0 +1,66 @@
+---
+dg-publish: true
+dg-created: Jan 19, 2022, 11:46 PM
+---
+
+# Pastor Anderson Sermons
+
+## Use Regular Expressions
+
+Select all the files you wish to modify, right-click, and choose `Actions (Quick) > Replace with Regular Expression`.
+
+![](https://i.imgur.com/qPOlHzY.png)
+
+![](https://i.imgur.com/xyfhA35.png)
+
+
+Example:
+
+```
+Pattern: (\d\d)(\d\d)(\d\d)(.)
+Replace: $1-$2-20$3 \U$4M -
+```
+
+`010514a - Love One Another` becomes `01-05-2014 AM - Love One Another`.
+
+![](https://i.imgur.com/l4wOJ3I.png)
+
+## Add sequential numbers to the filename
+
+Tag - Filename: `$num(%_counter%,3) - %_filename%`
+
+![](https://i.imgur.com/JbTBqNL.png)
+
+
+| Operation      | Field         | Pattern                                                                                                              |
+| -------------- | ------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Filename - Tag |               | `%track% - %month%-%day%-%year% %time% - %title%`                                                                    |
+| Tag - Tag      | Comment       | `Preached by Pastor Steven Anderson at Faithful Word Baptist Church on %month%/%day%/%year% for the %time% service.` |
+| Tag - Tag      | Media created | `%month%/%day%/%year%`                                                                                               |
+
+![](https://i.imgur.com/HM7474R.png)
+
+Directors: Steven Anderson
+Media Created:
+Author URL: http://www.faithfulwordbaptist.org/page5.html
+
+## [Filename - Filename](https://help.mp3tag.de/main_converter.html#ftf)
+
+```
+Old filename: 001 - 01-05-2014 AM - Love One Another.mp4
+Old filename pattern: %1 - %2 %3 - %4
+ 
+New filename pattern: %1 - %4 (%2)
+New filename: 001 - Love One Another (01-05-2014).mp4
+
+```
+
+## Add Spirit Sheets
+
+Being able to mouseover the timeline is awesome. To do that, generate spirit sheets using [[Everything I Know About FFmpeg#Generate Sprite Sheet (Filmstrip/Montage) From Multiple MP4s|FFmpeg]].
+
+
+
+# Add track numbers
+
+Tag - Tag: `$num(%_counter%,)`
