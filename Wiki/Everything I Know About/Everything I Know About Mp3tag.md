@@ -36,7 +36,7 @@ Tag - Filename: `$num(%_counter%,3) - %_filename%`
 | -------------- | ------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Filename - Tag |               | `%track% - %month%-%day%-%year% %time% - %title%`                                                                    |
 | Tag - Tag      | Comment       | `Preached by Pastor Steven Anderson at Faithful Word Baptist Church on %month%/%day%/%year% for the %time% service.` |
-| Tag - Tag      | Media created | `%month%/%day%/%year%`                                                                                               |
+| Tag - Tag      | Media created | `%month%/%day%/%year%` See [[Everything I Know About exiftool#Add "Media created" Tag\|exiftool]].                   |
 
 ![](https://i.imgur.com/HM7474R.png)
 ![](https://i.imgur.com/KUzuxpf.png)
