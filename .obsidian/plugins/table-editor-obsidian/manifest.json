@@ -4,9 +4,9 @@
   "author": "Tony Grosinger",
   "authorUrl": "https://grosinger.net",
   "description": "Improved table navigation, formatting, manipulation, and formulas",
-  "isDesktopOnly": true,
+  "isDesktopOnly": false,
   "minAppVersion": "1.0.0",
-  "version": "0.19.1",
+  "version": "0.21.0",
   "js": "main.js",
   "fundingUrl": {
     "Github Sponsor": "https://github.com/sponsors/tgrosinger",

@@ -18,7 +18,6 @@
   "obsidian-timelines",
   "obsidian-projects",
   "obsidian-reading-time",
-  "obsidian-textgenerator-plugin",
   "cooklang-obsidian",
   "dbfolder",
   "obsidian-tracker",
@@ -26,5 +25,6 @@
   "obsidian-excalidraw-plugin",
   "email-block-plugin",
   "obsidian-underline",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-textgenerator-plugin"
 ]
