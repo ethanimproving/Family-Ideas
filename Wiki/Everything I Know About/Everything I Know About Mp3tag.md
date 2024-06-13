@@ -32,6 +32,12 @@ Tag - Filename: `$num(%_counter%,3) - %_filename%`
 ![](https://i.imgur.com/JbTBqNL.png)
 
 
+## Add Metadata
+
+Plex will pickup metadata that is written to the properties of MP4 files, such as Title, Date, Comment, etc.
+
+HOWEVER. The process of tagging MP4s can be [very slow if they exist on a NAS](https://community.mp3tag.de/t/an-observation-regarding-tag-values-and-performance-speeds/61562) or external drive. I moved them from the NAS to local drive and voilà, it's as fast as mp3 tagging. So the difference is the NAS vs. local drive.
+
 | Operation      | Field         | Pattern                                                                                                              |
 | -------------- | ------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Filename - Tag |               | `%track% - %month%-%day%-%year% %time% - %title%`                                                                    |
