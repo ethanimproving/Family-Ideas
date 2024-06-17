@@ -37,6 +37,249 @@ It was time for me to progress my career 2 years ago, but I was too lazy to do i
 
 What I'm very excited about is how much I learned about the application process. I setup a Python pot to automatically apply for positions on LinkedIn, downloaded a Chrome extension to auto-fill manual applications, and most importantly, learned how to check my resume against ATS to get it into the hands of hiring managers. I wrote a blog post about it called, "[How To Apply For Jobs In 2024](https://professional-journal-client.vercel.app/professional-journal/how-to-apply-for-jobs-in-2024/)."
 
+## Opal
+
+While I was working for American Airlines, I had a bad habit of doom-scrolling social media after waking up in the morning. After getting fired, I learned ==having more free time amplifies bad habits==. This realization spurred me to take the time and pay the opportunity cost to learn how to manage those habits. I downloaded an app my sister uses called Opal, spent a few days learning the settings, and now it's a major time saver in my life. I used App Blocker 5 years ago, but it has since become a paid app.
+
+After telling Mariana about this app, she showed me that iPhone has the ability to set time limits on apps or groups of apps. Also a very handy feature! Without being fired, I may never have gained this time management skill.
+
+## Replacing TV with Sermons
+
+Another bad habit was watching TV. First Friends, then Gotham. One episode per day during lunch wouldn't have been so bad. The problem is that I would get sucked into the stories so easily, and stay up late watching it after my mind was exhausted from working. That would cause me to wakeup late the next day, and get into a funk of unproductivity.
+
+To fight against this bad habit, I made the decision to stop watching it. The first day is a little difficult, but this is a habit within my control. It doesn't have the addicting nature of doom-scrolling, or drugs, or pornography. Stopping an addiction is hard. But if I won't even control the things I do have power over, what virtue do I have? I decided to start watching sermons if I need a reprieve for my back. Sermons by Pastor Anderson are entertaining, and they don't have the addicting nature that storylines do.
+
+## System Design
+
+After being selected as a Candidate for GM Financial, I finished the Codility exercise, the phone screening, and was on to the actual interview step. Over the phone the recruiter told me the 4th step would be a 2 hour long interview, half of which would be system design questions. To Prepare, I started going through the AlgoExpert System Design course. I made me realize I already know a lot about designing systems. Pieces I hadn't put together during the Rancher Migration.
+
+# Redeem The Time
+
+```itinerary
+initialDate: 2024-04-01
+```
+
+
+## Events
+```itinerary-event
+title: Fired
+start: 
+allDay: true
+start: 2024-04-11
+end: 2024-04-11
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Mariana
+start: 
+allDay: true
+start: 2024-04-15
+end: 2024-04-15
+color: blue
+tag:
+- social
+```
+```itinerary-event
+title: Solar Panels
+allDay: true
+start: 2024-04-16
+end: 2024-04-16
+color: orange
+tag:
+- research
+```
+```itinerary-event
+title: Resume Photos
+allDay: true
+start: 2024-04-17
+end: 2024-04-17
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Adam Contact
+allDay: true
+start: 2024-04-17
+end: 2024-04-17
+color: green
+tag:
+- charity
+```
+```itinerary-event
+title: File recovery
+allDay: true
+start: 2024-04-18
+end: 2024-04-19
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Dad's Laptop
+allDay: true
+start: 2024-04-18
+end: 2024-04-18
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Mattress for Adam
+allDay: true
+start: 2024-04-22
+end: 2024-04-22
+color: green
+tag:
+- charity
+```
+```itinerary-event
+title: Resume
+allDay: true
+start: 2024-04-23
+end: 2024-04-24
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Floor Matt for Adam
+allDay: true
+start: 2024-04-25
+end: 2024-04-25
+color: green
+tag:
+- charity
+```
+```itinerary-event
+title: Blind 75
+allDay: true
+start: 2024-04-26
+end: 2024-04-26
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Break Rotors
+allDay: true
+start: 2024-04-27
+end: 2024-04-27
+color: orange
+tag:
+- work
+```
+```itinerary-event
+title: Router for Adam
+allDay: true
+start: 2024-04-27
+end: 2024-04-27
+color: green
+tag:
+- charity
+```
+```itinerary-event
+title: Indeed Applications
+allDay: true
+start: 2024-04-29
+end: 2024-04-29
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Fascia Board
+allDay: true
+start: 2024-04-30
+end: 2024-04-30
+color: orange
+tag:
+- work
+```
+```itinerary-event
+title: Capital One
+allDay: true
+start: 2024-04-30
+end: 2024-05-02
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Amazon Assesment
+allDay: true
+start: 2024-05-08
+end: 2024-05-08
+color: red
+tag:
+- work
+```
+```itinerary-event
+title: Blind 75
+allDay: true
+start: 2024-05-09
+end: 2024-06-07
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Failed Amazon Assesment
+allDay: true
+start: 2024-06-07
+end: 2024-06-07
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Application Refinement
+allDay: true
+start: 2024-06-07
+end: 2024-06-11
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Failed JPMorgan Assesment
+allDay: true
+start: 2024-06-10
+end: 2024-06-11
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Passed GM Financial Assesment
+allDay: true
+start: 2024-06-11
+end: 2024-06-11
+color: red
+tag:
+- job
+```
+```itinerary-event
+title: Add Sermons To Plex
+allDay: true
+start: 2024-06-12
+end: 2024-06-13
+color: orange
+tag:
+- work
+```
+```itinerary-event
+title: Algorithm Prep
+allDay: true
+start: 2024-06-14
+end: 2024-06-21
+color: red
+tag:
+- job
+```
+
 # Journal Entries
 
 ```dataview

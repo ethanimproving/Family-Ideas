@@ -10,7 +10,7 @@ dg-created: Mar 13, 2021, 4:47 PM
 ```powershell
 youtube-dl --download-archive downloaded.txt --no-post-overwrites -ciwo '%(playlist_index)s" - "%(title)s.%(ext)s' url
 ```
-youtube-dl --download-archive downloaded.txt --no-post-overwrites -ciwo '%(playlist_index)s" - "%(title)s.%(ext)s' https://www.youtube.com/playlist?list=PLv6T8NISzHsx0909FB_5BRYW5P6G2Bv6l
+
 ### Example
 
 ```powershell

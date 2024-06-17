@@ -52,7 +52,7 @@ Media Created:
 Author URL: http://www.faithfulwordbaptist.org/page5.html
 
 ## [Filename - Filename](https://help.mp3tag.de/main_converter.html#ftf)
-
+%1 - %2 (%3) %4
 ```
 Old filename: 001 - 01-05-2014 AM - Love One Another.mp4
 Old filename pattern: %1 - %2 %3 - %4

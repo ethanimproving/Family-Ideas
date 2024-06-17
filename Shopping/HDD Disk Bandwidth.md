@@ -1,11 +1,11 @@
 ---
 dg-publish: true
-dg-created: Jun 16, 2024, 5:05 PM
+dg-created: Jun 16, 2024, 11:35 PM
 ---
 
-Dad just upgraded his desktop for Father's Day, and as a result offered his old components to upgrade Faith's desktop in the hallway. The last time she used it was November 2021. Her Google Chrome History was of a book she made for Aunt Edith, and a book titles, "The Bible Way To Heaven." She illustrated pictured for her book using Gimp, but her computer kept beeping while it was on, indicating a component failure.
+Dad just upgraded his desktop for Father's Day, and as a result offered his old components to upgrade Faith's desktop in the hallway. The last time she used it was November 2021. Her Google Chrome History was of a book she made for Aunt Edith titled, "The Bible Way To Heaven." She illustrated pictured for her book using Gimp, but her computer kept beeping while it was on, indicating a component failure.
 
-Fast forward to 2024, and now she has a new computer. However, things are still a little groggy due to the old Disk Drive.
+Fast forward to 2024, and now she has a new computer thanks to dad's upgrades. However, things are still a little groggy due to the old Disk Drive.
 
 ![](https://i.imgur.com/nZEysMg.png)
 
