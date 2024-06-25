@@ -5,14 +5,11 @@ dg-created: Jun 17, 2024, 7:46 PM
 
 # Software
 
-For dad's migration we visited the [Data Transfer](https://www.crucial.com/support/ssd-support#dataTransfer) section of the Crucial web page to download [Acronis True Image](https://www.acronis.com/en-sg/promotion/crucialhd-download/?cm_re=ssd-support-_-structured-_-acronis-link). However, this requires at least 1 Crucial SSD to be installed in your system, so we will use [Macrium Reflect](https://www.macrium.com/blog/cloning-a-disk-with-macrium-reflect-v8), downloaded on their website, from [Major Geeks](https://www.majorgeeks.com/files/details/macrium_reflect_free_edition.html), or via chocolatey with the below command:
+For dad's migration we visited the [Data Transfer](https://www.crucial.com/support/ssd-support#dataTransfer) section of the Crucial web page to download [Acronis True Image](https://www.acronis.com/en-sg/promotion/crucialhd-download/?cm_re=ssd-support-_-structured-_-acronis-link). However, this requires [at least 1 Crucial SSD](https://i.imgur.com/RW3grcY.png) to be installed in your system, so we will use [Macrium Reflect](https://www.macrium.com/blog/cloning-a-disk-with-macrium-reflect-v8), downloaded on their website, from [Major Geeks](https://www.majorgeeks.com/files/details/macrium_reflect_free_edition.html), or via chocolatey with the below command:
 
 ```
 choco install -y reflect-free
 ```
-
-![](https://i.imgur.com/RW3grcY.png)
-
 
 # Cables
 

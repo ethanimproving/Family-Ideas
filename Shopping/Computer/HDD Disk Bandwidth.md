@@ -62,7 +62,7 @@ HDD fragmentation refers to the scattering of parts of a file all over the hard 
 
 # Recourse
 
-The best course of action is probably to [[Cloning A Disk|clone the drive]] to Dad's old 500GB SSD. That should be a lot faster. Alternatively, you can defragment the current HDD.
+The best course of action is probably to [[Cloning A Disk|clone the drive]] to Dad's old 500GB SSD or [[Buying Hard Drives|buy a new Disk]]. That should be a lot faster. Alternatively, you can defragment the current HDD.
 
 ## Fixing Fragmentation
 

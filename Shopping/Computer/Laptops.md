@@ -32,7 +32,7 @@ Laptops should have the following capabilities:
 | Max Resolution (HDMI)                                                   | 4096 x 2304 @ 60Hz                                                                 |
 | Max Resolution (DP)                                                     | 7680 x 4320 @ 60Hz                                                                 |
 | Max Resolution (eDP - Integrated Flat Panel)                            | 4096 x 2304 @ 120Hz                                                                |
-| 2x Thunderbolt™ 4 with Power Delivery and DisplayPort 1.4 (USB Type-C™) | [Port Specs](https://www.dell.com/support/kbdoc/en-my/000199966/dell-latitude-7430-laptop-system-guide). See [[Shopping/Cable Standards]].                                                                |
+| 2x Thunderbolt™ 4 with Power Delivery and DisplayPort 1.4 (USB Type-C™) | [Port Specs](https://www.dell.com/support/kbdoc/en-my/000199966/dell-latitude-7430-laptop-system-guide). See [[Cable Standards]].                                                                |
 | 1x USB 3.2 Gen 1 with PowerShare                                        |                                                                                    |
 | 1x HDMI 2.0                                                             |                                                                                    |
 | 1x uSIM card slot (optional) (WWAN only)                                |                                                                                    |
@@ -92,7 +92,7 @@ According to [Intel specification](https://ark.intel.com/content/www/us/en/ark/p
 | Max Resolution (HDMI)                        | 4096 x 2304 @ 60Hz                                                                                                                                                              |
 | Max Resolution (DP)                          | 5120 x 3200@60Hz                                                                                                                                                                |
 | Max Resolution (eDP - Integrated Flat Panel) | 5120 x 3200@60Hz                                                                                                                                                                |
-| 1x Thunderbolt™ 3 (USB Type-C™)              | [Port Specs](https://www.lg.com/us/laptops/lg-17z90n-r.aac8u1-ultra-slim-laptop). See [[Shopping/Cable Standards]].                                                             |
+| 1x Thunderbolt™ 3 (USB Type-C™)              | [Port Specs](https://www.lg.com/us/laptops/lg-17z90n-r.aac8u1-ultra-slim-laptop). See [[Cable Standards]].                                                             |
 | 1x USB 3.2 Gen 1 with PowerShare             |                                                                                                                                                                                 |
 | 1x HDMI 2.0                                  |                                                                                                                                                                                 |
 | 1x uSIM card slot (optional) (WWAN only)     |                                                                                                                                                                                 |
