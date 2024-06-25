@@ -1,7 +1,7 @@
 # 2024
 
 - [ ] Answer texts immediately. (Make [[Speed In Decision Making|quick decisions]] despite [[Ethan Miller#Emergenetics|deep analysis]] tendencies.)
-- [ ] Move into Oakmore
+- [x] Move into Oakmore
 - [ ] Complete Renovations on Oakmore House
 - [ ] Propose to Mariana
 	- [ ] Buy a ring.
@@ -13,8 +13,11 @@
 - [ ] Get a grip over my [[Stop Being Angry|anger]].
 - [ ] Reverse my anxiety/impatience with [[The Battle For Peace|peace from God]].
 - [ ] [[Gain Discipline]]
+- [ ] [[Justify Yourself Before Man|Prove my faith]]
 
 I get angry quickly, I have no time management skills, I lack discipline, and I'm lazy. My life can only improve. And the way it will improve is to memorize scripture to battle my vices in moments when I need divine guidance.
+
+Live my life in such a way that my faith justifies me before men, because they can look at my actions and say, "That action makes no sense unless he is banking on the promises of God."
 
 # 2023
 

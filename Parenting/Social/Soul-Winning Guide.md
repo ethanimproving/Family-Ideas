@@ -1,3 +1,8 @@
+---
+dg-publish: true
+dg-created: Aug 22, 2017, 1:28 AM
+---
+
 Ethan Miller
 Engaging The World
 Soul-Winning Guide
@@ -6,7 +11,9 @@ Tags: #favorwithman
 
 Engaging The World
 
-# 5 Premises of Living Faith
+For more resources, checkout [Soul winning presentation and tips](https://www.evernote.com/shard/s661/nl/141079479/8516aaf2-ecd0-4d69-b86f-819c0d31e9c2?title=Soul%20winning%20presentation%20and%20tips).
+
+# 5 Premises of Real Faith
 
 For a lost person to be saved they MUST believe:
 
@@ -14,9 +21,159 @@ For a lost person to be saved they MUST believe:
 2.  That the punishment for their sin is hell (Romans 6:23a & Revelation 21:8)
 3.  That salvation was paid for in full by Jesus Christ (Romans 5:8)
 4.  That eternal life is a free gift (Romans 6:23b, Ephesians 2:8-9, Titus 1:2)
-5.  In eternal security of the believer (1 John 5:10-11)
+5.  The eternal security of the believer (1 John 5:10-11)
 
-# Script
+# Ethan's 2022 Presentation
+
+## Introduction
+
+**Introduction**: Hey how's it going. I'm Ethan with Stedfast Baptist church, we're out here giving invitations. Do you have a church you go to?
+
+**Examine**: Okay great. Well hey, more important than going to church is going to heaven, right? So we're out here asking everybody this question, it's if you died today, are you 100% sure you would go to heaven? ... If you don't mind me asking, because everyone has different opinions, what do you believe it takes to go to heaven? ... Would you say that it's just by faith alone, or faith plus the way you live your life?
+
+(As soon as you figure out they aren't saved, move to the invitation. You want to get a clear statement from them about what they believe so you can reference it later.)
+
+**Invitation**: Okay I gotcha. Kind of following God's commandments, doing your best for him? Those are really important things that the Bible does emphasize, but when it comes to going to heaven, the Bible actually teaches there's something else you must do. Could I take about 10 minutes and show you?
+
+## 1. We're All Sinners
+
+Well the Bible says in Romans 3:23:
+> [!bible] [Romans 3:23 - KJV](https://www.biblegateway.com/passage/?search=Romans+3:23&version=kjv)
+> 23. For all have sinned, and come short of the glory of God;
+
+So according to the Bible, nobody is perfect. If it was up to us to be good enough to go to heaven, we would all let ourselves down.
+
+## 2. The Punishment for Sin is Hell
+Because of our sin, the Bible says there's a punishment. In Romans 6:23 the Bible says:
+
+> [!bible] [Romans 6:23 - KJV](https://www.biblegateway.com/passage/?search=Romans+6:23&version=kjv)
+> 23. For the wages of sin is death;
+
+Now a wage is something that you earn. The Bible is saying that because we've sinned, we deserve to die. Now we're all going to die physically one day, but there's what the Bible talks about, the second death. I'm going to show you that here in Revelation 20:14, the Bible says:
+
+> [!bible] [Revelation 20:14-15 - KJV](https://www.biblegateway.com/passage/?search=Revelation+20:14-15&version=kjv)
+> 14. And death and hell were cast into the lake of fire. This is the [**what?**] *second death*.
+> 15. And whosoever was not found written in the book of life was cast into the lake of fire.
+
+(**what?** = have them read it. It's important to engage them so they don't glaze over.)
+
+Now what would you call that place? Hell right. That's where people go to pay for all of their sins. Now how bad of a person would you have to be to go to hell? A lot of people think it's only really bad people, like murderers or Hitler's, but the Bible gives a list in the next chapter,
+
+> [!bible] [Revelation 21:8 - KJV](https://www.biblegateway.com/passage/?search=Revelation+21:8&version=kjv)
+> 8. But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, ==and all liars==, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
+
+That's a pretty big list. You don't look like a murderer or a sorcerer, but notice at the end there it says "and all liars." Have you ever told a lie before? Yeah, we all have. The Bible says, "Let God be true, and every man a liar." But according to the Bible, where are all liars going? Right. But do you think that God wants us to go to hell? No, because he loves us, right? But do you think he was just kidding when he said that? No way. If it's in the Bible, we know that it's true. But I'm going to show you what God did for us so that we would not have to pay that punishment that we deserve.
+
+(You don't have to spend much time convincing people they deserve hell. People are already acquainted with their sins. They already feel guilty, that's why they're talking to you in the first place. The key here is to move on to the next point as soon as they understand the current point. Once you lose somebody's attention, it's hard to reel them back in, so don't elaborate on something they already understand.)
+
+## 3. The Gospel
+
+### The Gospel Event: Died On The Cross
+
+The Bible says in Romans 5:8,
+
+> [!bible] [Romans 5:8 - KJV](https://www.biblegateway.com/passage/?search=Romans+5:8&version=kjv)
+> 8. But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
+
+Now Jesus Christ is God the son. Have you ever heard that Jesus is God? Do you believe that? Yeah. So Jesus Christ was born of the virgin Marry, he did many wonderful works that showed he's from God. Can you think of 3 miracles Jesus did?
+
+Yeah, he did many things that proved he is from God. He also preached the word of God, and because of his preaching, the Jews wanted to kill him. You might remember, Judas Iscariot, one of Jesus disciples, betrayed Jesus into the hands of the Pharisees. They mocked him, they spat upon him, they put a crown of thorns on his head, and they nailed him to a cross. A lot of people know that Jesus died on the cross, but why did he die? What did he achieve on the cross? 
+
+### The Gospel Achievement: Bore Our Sins
+
+The Bible says when he was on that cross,
+
+> [!bible] [1 Peter 2:24 - KJV](https://www.biblegateway.com/passage/?search=1+Peter+2:24&version=kjv)
+> 24. Who his own self **bare our sins** in his own body on the tree.
+
+What that means when it says he *bear our sins*, that's every sin that you've ever done, and every sin that I've ever done, when Jesus was on that cross, it was as if he had done it. He was being punished for murder, he was being punished for lying-- he never lied one time, he was being punished for our lives. Every sin that you or I, or anyone in the whole world has ever done before, he was punished for it. We did the crime, he did the time.
+
+They took his body, they buried in the tomb his soul spent three days and three nights in hell to pay for our sins, but on the third day, what happened? He rose again. His soul came back into his body, and he appeared to Cephus in over 500 of the brethren.
+
+Do you believe that Jesus died for everybody? Yeah, the Bible says he died not for ours only, but also for the sins of the whole world. But because he died for everybody, do you think that means that everybody is going to heaven? Yeah, probably not. So I wanna show you what is the difference between those who are going to heaven, and those who are going to hell. What does it depend on to make the blood of Jesus count for me?
+
+### The Gospel Offer: Faith Alone
+
+Somebody actually asked this question in the Bible, I think it's the most important question in the entire Bible.
+
+> [!bible] [Acts 16:30 - KJV](https://www.biblegateway.com/passage/?search=Acts+16:30&version=kjv)
+> 30. And brought them out, and said, Sirs, what must I do to be saved?
+
+Pretty good question right? So the answer to how to go to heaven, the key to eternity, is in verse 31. Are you ready for it? Are you sure? Should I come back next week instead?
+
+(These questions are a friendly/joking way to hype it up. You're triggering them to pay attention because this is the climax of everything we've been leading up to.)
+
+> [!bible] [Acts 16:31 - KJV](https://www.biblegateway.com/passage/?search=Acts+16:31&version=kjv)
+> 31. And they said, **Believe** on the Lord Jesus Christ, and thou shalt be saved, and thy house.
+
+So according to this verse, what must you do to be saved? Did this verse say we had to go to a good church? Go through a 12 step program? No. What's the one thing required to go to heaven?
+
+Now I'm going to show you the most famous verse in the whole Bible. it's John 3:16.
+
+(This makes them think it's pretty important because it's the most famous.)
+
+> [!bible] [John 3:16 - KJV](https://www.biblegateway.com/passage/?search=John+3:16&version=kjv)
+> 16. For God so loved the world, that he gave his only begotten Son, that whosoever [**what?**] **believeth** in him should not perish, but have everlasting life.
+
+So again, what does it take to be saved? Did this say we have to be baptized? No. What's the one thing we must do to be saved? Just believe. And notice the word whosoever. What is whosoever mean? Everybody. So, according to the Bible, every single person who believes in Jesus is going to Heaven. If there's one person who believes in Jesus, and let's say later on, they do a bad sin-- what's a bad sin you can think of? Murder. Let's say someone believes in Jesus and later on, they commit murder and go to hell. That would mean that John 3:16 isn't true. Because Jesus did not say whoever believeth in me **and does not commit murder**. He said, whosoever believeth in me hath everlasting life.
+
+Now here's the thing about that. A lot of people think that believing in Jesus just means to acknowledge that he exists. And I'm sure you acknowledge police officers exist, but does that mean that you trust them to save you? Maybe not. So when the Bible says in verse 18,
+
+> [!bible] [John 3:18 - KJV](https://www.biblegateway.com/passage/?search=John+3:18&version=kjv)
+> 18. He that believeth **on** him is not condemned:
+
+That would be like, if this is Jesus, and this is my faith, my faith has to be resting on Jesus to get me saved. So I'm not going to Heaven because I'm a good person, or because I live right, but because Jesus Christ has died, was buried, and rose again to pay for my sins.
+
+So if you came to me, and what was your name by the way? Joshua. If you came to me Joshua, (my name is Ethan), and you said, "Hey Ethan, are you sure that you're going to heaven?" And I said, "Well obviously.  I go to church, I give tithes of all that I possess, I'm respectful my parents. I would go to heaven because I live a pretty clean life." Would that sound to you like my faith is on Jesus or on myself? Right, because who's responsible for me being a good person? So if that's what I'm trusting, would I be saved or unsaved? Because what must I do to be saved?
+
+(This is the part where the lightbulb comes on for people, so don't skip it. Negations are essential for them to discern the difference between believing facts about Jesus and trusting him.)
+
+## 4. Salvation Is A Free Gift
+
+Now I'm gonna show you another place to talk about how salvation is a free gift, it's not something we earn or work for, it's something that we get for free. It says here in Romans 6:23, it's the verse we read earlier:
+
+> [!bible] [Romans 6:23 - KJV](https://www.biblegateway.com/passage/?search=Romans+6:23&version=kjv)
+> 23. For the wages of sin is death; but the **gift of God** is  eternal life through Jesus Christ our Lord.
+
+Now is a gift something that you have to work for, or is it free? And who pays for the gift, the giver or the receiver? And who is giving us the gift of eternal life? So who has to pay for it? Exactly. That's what Jesus was doing on the cross. He was paying for our gift of eternal life.
+
+Now, if I came to you, and I said, "Hey Joshua, I'm gonna give you this Bible for free, but you have to give me $5." Is that a gift? What if I say, "This is a $30 Bible, it's good calf skin leather, good font, just give me $1 and it's yours." Is that a gift? Still not a gift. Even if I pay for most of it, if you have to pay for any of it, it's not a gift. It's a good deal, but it's not a gift. But what if I said, "Here, just take this Bible for free." Then is it a gift? Yeah. Who would it belong to now? Let's say 30 days later, I came back and said, "You know Joshua, I gave you that Bible, but you did not read it." So I came into your house and I took it back, and ran away. What would that make me? A thief. I'm taking what belongs to you. So what I'm trying to show you is that, if God is giving us the gift of eternal life, would he ever take it back? No. Because God is not a thief. The Bible says the thief cometh to steal, kill, and destroy. That's talking about Satan, not God. So people who say, "Well, yeah, God will give me eternal life, but if I sin too much, he'll take it back," they're really serving a god who is more like Satan than the God of the Bible.
+
+## 5. Eternal Security
+
+I want to take you to one last place to tie up this thought of **once saved, always saved**, how once you receive salvation, you can never lose it.
+
+> [!bible] [1 John 5:10-11 - KJV](https://www.biblegateway.com/passage/?search=1+John+5:10-11&version=kjv)
+> 10. He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a [**what?**] liar; because he believeth not the record that God gave of his Son.
+> 11. And this is the record, that God hath given to us **eternal** life, and this life is in his Son.
+
+Now, what does the word eternal mean? Forever. If I said to you, "Hey Joshua, I'm gonna give you this Bible forever." And then I took it away for any reason, was I telling the truth? No. So what would that make me? A liar. So if God comes to me, and he says, "Hey Ethan, I'm going to give you the gift of eternal life." And I say, "Yes, God I believe that, but I think that if I sin too *much*, or if I sin too *bad*, that you'll take it away, what am I really calling God? So would I be saved or unsaved? Because what must you do to be saved?
+
+## Closing
+
+(What we are seeking here is a statement of repentance. We need to know that they have changed their mind.)
+
+So when I first got here, and I asked, "What must you do to be saved?", and you said, "Well, we have to go to church and follow the commandments," it's a super common answer, but what that shows is, was your faith *all* on Jesus, or was it really partially on yourself? So based on what we just read, would you be saved or unsaved? But is it easy, or is it hard to be saved? Yeah. The hard part is humbling yourself enough to admit that you're not going to heaven because you're such a superstar. Or that you need to be saved in the first place. Once you get over that hump of pride, all you have to do is say, "You know what, Lord? I wanna go to heaven because of what you did on the cross. Not because of what I do, but because of what you did." The Bible says whosoever shall call upon the name of the Lord shall be saved. So if you asked God to save you right now, would he do it? And how long would you be saved for? What if you did something bad? Now God will punish us on this earth, just like if you have kids when they disobey, you would punish them. But would you ever kick them out of the family and toss them into a fire? No. In the same way, when we believe we become children of God (quote 1 John 1:12 if you feel like it). He'll never kick us out of the family. So if you've changed your mind, what I'd like to do is word a prayer with you, and you can repeat after me, and ask God to be saved right now. Do you want to do that?
+
+(By this point they're already thinking, "Yeah, I need to get saved." So your invitation to close the deal and get it settled right now is a relief to them.)
+
+Okay. Now remember, it's not the prayer that saves you, but the faith in your heart, so only say this if you mean it. Bow your head and repeat after me:
+
+Dear Jesus,
+I know I'm a sinner.
+I know I deserve to go to hell.
+But I believe that you died on the cross for me.
+And paid for my sins.
+Please save me right now.
+And give me the gift of eternal life.
+I'm only trusting in you.
+Amen.
+
+Did you mean it? Congratulations man. If I come back in a year from now and ask, "Are you 100% sure you're going to heaven," what are you going to say? And how do you know?
+
+Now before I go, what I'd like to do is get your number, so that as you're reading your Bible--and I hope you do--if you have any questions, you can text me those questions and I'll try to help answer them. So what it is?
+
+# Script: Pastor Anderson
 
 **Introduction**: Hi, how you doing? Pastor Steven Anderson, just wanted to invite you to Faithful Word Baptist church. Do you go to church anywhere?
 
@@ -273,6 +430,14 @@ The reason we ask people this question is that if you’re not 100% sure, that u
 Jesus said ye shall be witnesses unto me. I know you as a witness unto Jesus. How do you witness? “I don’t believe that you’re supposed to do witnessing. Jesus said that you’re supposed to be a witness. … the cross isn’t the revelation of my sin. Something underneath of that sin was of great importance to the Father, or great value for him to pay such a high price for me. … Hey I just wanted to tell you how much God loves you. … Hey did you hear the good news? And then they’re expecting some amazing news. And then you say, ‘Well Jesus loves you.’ And they say, ‘Well I already knew that.’ But they don’t know. Because the response to knowing that God loves you isn’t, ‘I already knew that.’ I’m a seed sower. I don’t have to go after the juggler vein to get them to pray my prayer. Especially if I’m going back to that place again. I’m just sowing as many seeds as I can so that God has something to work with. Some sow, some water, God brings the increase. Pay for Starbucks for the person in front of you. Say, ‘Hey, listen, I just want to get this for you.’ ‘Why?’ ‘Because God loves you.’ ‘Oh, really…’ ‘Yeah, he really does.’ And you think that’s not going to make an impact because they’re disgusted. They’re not disgusted with Jesus. They’re disgusted with how we’ve represented him.”
 
 There’s a difference between Salvific Lordship Salvation, and being confused by people who twist scriptures to make you think that God promises sanctification to everyone who believes. In the end, there’s a good chance the latter really believe that they have to do something to get to heaven, when it really comes down to it, however much they deny it, but if they truly are sincere when it’s just a judgement call in determining whether people really believe or not, they might be saved.
+
+## Nobody can know 100%
+
+**Method 1**: Well actually the Bible says in 1 John 5:13, "These things have I written unto the son of God, that ye may know that ye have eternal life." Not that ye may guess, or that ye may cross your fingers and hope, but that ye may know. God wants us to be sure, can I show you how?
+
+## Only God Knows
+
+A lot of people say that, and it's because we're trying to be humble, but you're actually being prideful when you say that. Because God has shown us his judgments in the Bible, and for us to say, "I don't know," we're saying, "I don't care what the Bible says, I know better."
 
 # Eternal Security
 
